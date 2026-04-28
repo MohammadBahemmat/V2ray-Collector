@@ -1,0 +1,8 @@
+.env
+checkpoint.json
+discovered_branches.json
+collector_cache.json
+collector.db
+collector.log
+__pycache__/
+*.pyc
