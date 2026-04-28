@@ -1,0 +1,5 @@
+aiohttp
+aiosqlite
+python-dotenv
+tqdm
+backoff
