@@ -2,7 +2,7 @@ name: Hourly Collector (Fast)
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'   # هر ساعت رأس دقیقه صفر
   workflow_dispatch:
 
 jobs:
@@ -15,9 +15,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-          cleanup: false
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,22 +30,20 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python collector_git.py
 
-      - name: Commit and push compressed results
+      - name: Commit and push updated files
         timeout-minutes: 5
         continue-on-error: true
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add servers_collected.txt.gz
+          git add servers_collected.txt.gz checkpoint.json discovered_branches.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "🔄 Update servers [skip ci]"
+            git commit -m "🔄 Update servers, checkpoint and branches [skip ci]"
             git pull --rebase --strategy-option ours
             git push
           fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Upload full file as artifact
         if: always()
