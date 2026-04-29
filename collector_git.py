@@ -906,13 +906,12 @@ async def main():
 
     if unique_configs:
         output_file = CONFIG_DEFAULTS["OUTPUT_FILE"]
-        # نوشتن فایل اصلی
         with open(output_file, "w", encoding="utf-8") as f:
-            for c in unique_configs:
+            for c in sorted(unique_configs):
                 f.write(c + "\n")
-        logger.info(f"Saved full list to '{output_file}'")
+        logger.info(f"Saved to '{output_file}'")
 
-        # فشرده‌سازی با gzip
+        # فشرده‌سازی
         import gzip
         gz_file = output_file + ".gz"
         with open(output_file, "rb") as f_in, gzip.open(gz_file, "wb", compresslevel=9) as f_out:
