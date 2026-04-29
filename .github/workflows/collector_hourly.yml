@@ -15,6 +15,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          cleanup: false
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -30,7 +33,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python collector_git.py
 
-      - name: Commit compressed output to repo
+      - name: Commit and push compressed results
         timeout-minutes: 5
         continue-on-error: true
         run: |
@@ -47,7 +50,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload full file as artifact (optional backup)
+      - name: Upload full file as artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
