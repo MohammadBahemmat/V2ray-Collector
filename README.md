@@ -211,6 +211,8 @@
 │   ├── requirements.txt           # وابستگی‌های پایتون
 │   ├── .gitignore                 # فایل‌های نادیده گرفته‌شده
 │   └── .env.example               # نمونه فایل متغیرهای محیطی
+├── for Developers/
+│   ├── collector_git_Fullversion  # نسخه کامل برای توسعه دهندگان    
 ├── src/
 │   ├── collector_git.py           # اسکریپت اصلی جمع‌آوری
 │   ├── split_links.py             # شکستن لینک‌های چسبیده
