@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+import os
+import sys
 import asyncio
 import aiohttp
 import aiosqlite
@@ -14,7 +16,6 @@ from tqdm import tqdm
 import backoff
 from typing import Dict, Optional, Set, List, Tuple
 import binascii
-import sys
 
 # ============================
 # ⚙️ بخش ۱: پیکربندی نهایی (ساعتی، توقف خودکار و ذخیره‌ی شاخه‌ها)
@@ -931,6 +932,7 @@ async def main():
     #     os.remove(CONFIG_DEFAULTS["CHECKPOINT_FILE"])
     logger.info(f"--- Finished in {int(time.time() - start_time)}s ---")
     logger.info(f"Estimated Core used: {TOTAL_CORE_USED}")
+    os._exit(0)
 
 if __name__ == "__main__":
     if os.name == 'nt':
