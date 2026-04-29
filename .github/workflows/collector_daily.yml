@@ -30,7 +30,7 @@ jobs:
       - name: Run collector (full scan)
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python collector11.py
+        run: python collector_git.py
 
       - name: Commit and push updated results
         uses: stefanzweifel/git-auto-commit-action@v5
