@@ -156,7 +156,7 @@
 
 <h3>۵. لینک خام خروجی</h3>
 <p>پس از اولین اجرای موفق، فایل خروجی از طریق این آدرس در دسترس خواهد بود:</p>
-<pre class="ltr-block">https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/servers_collected.txt</pre>
+<pre class="ltr-block">https://github.com/MohammadBahemmat/V2ray-Collector/blob/main/servers_collected.txt</pre>
 
 <hr>
 
