@@ -70,7 +70,7 @@ EXTRA_UPDATED_REPO_QUERIES = [
 ]
 
 MANUAL_REPOS_TO_SCAN = sorted(list(set([
-    ("V2RAYCONFIGSPOOL", "V2RAY_SUB")
+    ("iboxz", "free-v2ray-collector")
 ])))
 
 # ============================
