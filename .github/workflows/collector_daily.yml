@@ -33,6 +33,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python collector_git.py
 
+      - name: Split joined proxy links
+        run: python split_links.py servers_collected.txt
+
+      - name: Advanced dedup configs
+        run: python dedup_configs.py servers_collected.txt
+
       - name: Commit and push updated files
         timeout-minutes: 5
         continue-on-error: true
