@@ -29,10 +29,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python collector_git.py
 
-      - name: Commit and push updated results
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: '🔄 Hourly update [skip ci]'
-          file_pattern: 'servers_collected.txt'
-          commit_user_name: 'GitHub Actions Bot'
-          commit_user_email: 'actions@github.com'
+      - name: Commit and push results
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add servers_collected.txt
+          git diff --staged --quiet || git commit -m "Update servers [skip ci]"
+          git pull --rebase
+          git push
