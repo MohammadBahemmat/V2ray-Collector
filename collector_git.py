@@ -14,6 +14,7 @@ from tqdm import tqdm
 import backoff
 from typing import Dict, Optional, Set, List, Tuple
 import binascii
+import sys
 
 # ============================
 # ⚙️ بخش ۱: پیکربندی نهایی (ساعتی، توقف خودکار و ذخیره‌ی شاخه‌ها)
@@ -937,9 +938,14 @@ if __name__ == "__main__":
             asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
         except Exception:
             pass
+    exit_code = 0
     try:
         asyncio.run(main())
     except KeyboardInterrupt:
         logger.info("Interrupted. Progress saved in checkpoint.")
     except Exception as e:
         logger.error(f"Fatal error: {e}", exc_info=True)
+        exit_code = 1
+    finally:
+        # این خط تضمین می‌کند که فرآیند پایتون به طور کامل خاتمه یابد
+        sys.exit(exit_code)
