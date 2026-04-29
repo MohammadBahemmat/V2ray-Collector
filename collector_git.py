@@ -905,7 +905,7 @@ async def main():
     logger.info(f"✅ Total unique configs: {len(unique_configs)}")
     if unique_configs:
         with open(CONFIG_DEFAULTS["OUTPUT_FILE"], "w", encoding="utf-8") as f:
-            for c in sorted(unique_configs):
+            for c in sorted(unique_configs)[:1000]:
                 f.write(c + "\n")
         logger.info(f"Saved to '{CONFIG_DEFAULTS['OUTPUT_FILE']}'")
     else:
