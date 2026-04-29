@@ -1,6 +1,6 @@
 .env
-collector_cache.json
 collector.db
 collector.log
+collector_cache.json
 __pycache__/
 *.pyc
