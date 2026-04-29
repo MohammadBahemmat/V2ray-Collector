@@ -8,6 +8,17 @@
 <body>
 <div class="container">
 
+<div style="background-color: #1a1a2e; border: 2px solid #6c63ff; border-radius: 10px; padding: 15px; margin: 15px 0; text-align: center;">
+    <p style="margin: 0; font-size: 1.2em; color: #ffffff;">
+        🔗 <strong>لینک مستقیم فایل خروجی (Raw):</strong><br>
+        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers_collected.txt" 
+           style="color: #6c63ff; font-size: 1.1em; word-break: break-all;" 
+           target="_blank" rel="noopener">
+           raw.githubusercontent.com/.../servers_collected.txt
+        </a>
+    </p>
+</div>
+
 <h1>🚀 V2ray Collector</h1>
 
 <p>
@@ -87,18 +98,18 @@
 
 <!-- تنظیمات -->
 <h2>⚙️ تنظیمات (Configuration)</h2>
-<p>تمام پارامترهای قابل تنظیم در ابتدای فایل <code>collector11.py</code> در دیکشنری <code>CONFIG_DEFAULTS</code> قرار دارند. مهم‌ترین آن‌ها:</p>
+<p>تمام پارامترهای قابل تنظیم در ابتدای فایل <code>collector_git.py</code> در دیکشنری <code>CONFIG_DEFAULTS</code> قرار دارند. مهم‌ترین آن‌ها:</p>
 
 <table>
 <thead>
 <tr><th>پارامتر</th><th>مقدار پیش‌فرض</th><th>توضیح</th></tr>
 </thead>
 <tbody>
-<tr><td><code>SEARCH_PERIOD_DAYS</code></td><td><code>1</code></td><td>چند روز گذشته برای جستجو در نظر گرفته شود (۰ = کل تاریخچه)</td></tr>
+<tr><td><code>SEARCH_PERIOD_DAYS</code></td><td><code>0</code></td><td>چند روز گذشته برای جستجو در نظر گرفته شود (۰ = کل تاریخچه)</td></tr>
 <tr><td><code>MAX_AGE_HOURS</code></td><td><code>1</code></td><td>فقط مخازنی که در این چند ساعت push داشته‌اند اسکن شوند (۰ = غیرفعال)</td></tr>
-<tr><td><code>REPO_SEARCH_PAGES</code></td><td><code>1</code></td><td>تعداد صفحات جستجوی مخازن (هر صفحه ۱۰۰ نتیجه)</td></tr>
-<tr><td><code>CODE_SEARCH_PAGES</code></td><td><code>1</code></td><td>تعداد صفحات جستجوی کد</td></tr>
-<tr><td><code>EXTRA_UPDATED_REPO_PAGES</code></td><td><code>1</code></td><td>صفحات جستجوی تکمیلی (با فیلتر <code>updated</code>)</td></tr>
+<tr><td><code>REPO_SEARCH_PAGES</code></td><td><code>0</code></td><td>تعداد صفحات جستجوی مخازن (هر صفحه ۱۰۰ نتیجه)</td></tr>
+<tr><td><code>CODE_SEARCH_PAGES</code></td><td><code>0</code></td><td>تعداد صفحات جستجوی کد</td></tr>
+<tr><td><code>EXTRA_UPDATED_REPO_PAGES</code></td><td><code>0</code></td><td>صفحات جستجوی تکمیلی (با فیلتر <code>updated</code>)</td></tr>
 <tr><td><code>MAX_RECURSION_DEPTH</code></td><td><code>0</code></td><td>عمق دنبال کردن لینک‌های اشتراک (۰ = قطع، توصیه می‌شود)</td></tr>
 <tr><td><code>GENERAL_CONCURRENT_REQUESTS</code></td><td><code>80</code></td><td>تعداد دانلود هم‌زمان فایل‌ها</td></tr>
 <tr><td><code>SEARCH_API_CONCURRENCY</code></td><td><code>3</code></td><td>تعداد کوئری‌های هم‌زمان جستجو (بیش از ۵ می‌تواند منجر به خطا شود)</td></tr>
@@ -121,7 +132,7 @@
 <!-- اجرای دستی -->
 <h2>🚀 اجرای دستی</h2>
 <p>کافیست در ترمینال دستور زیر را اجرا کنید:</p>
-<pre class="ltr-block">python collector11.py</pre>
+<pre class="ltr-block">python collector_git.py</pre>
 <ul>
     <li><strong>اجرای اول</strong> (با دیتابیس خالی) ممکن است ۱۰ تا ۱۵ دقیقه طول بکشد.</li>
     <li><strong>اجراهای بعدی</strong> به دلیل وجود Checkpoint و دیتابیس پر، بسیار سریع‌تر هستند (اغلب <strong>زیر ۱ دقیقه</strong>).</li>
@@ -156,7 +167,7 @@
 
 <h3>۵. لینک خام خروجی</h3>
 <p>پس از اولین اجرای موفق، فایل خروجی از طریق این آدرس در دسترس خواهد بود:</p>
-<pre class="ltr-block">https://github.com/MohammadBahemmat/V2ray-Collector/blob/main/servers_collected.txt</pre>
+<pre class="ltr-block">https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers_collected.txt</pre>
 
 <hr>
 
@@ -196,12 +207,19 @@
 │   └── workflows/
 │       ├── collector_hourly.yml   # Workflow اجرای ساعتی (افزایشی)
 │       └── collector_daily.yml    # Workflow اجرای روزانه (کامل)
-├── collector11.py                 # اسکریپت اصلی جمع‌آوری
-├── daily_reset.py                 # پاک‌کننده‌ی Checkpoint برای اسکن کامل روزانه
-├── requirements.txt               # وابستگی‌های پایتون
-├── .gitignore                     # فایل‌های نادیده گرفته‌شده توسط گیت
-├── .env.example                   # نمونه فایل متغیرهای محیطی
-└── README.md                      # مستندات پروژه
+├── config/
+│   ├── requirements.txt           # وابستگی‌های پایتون
+│   ├── .gitignore                 # فایل‌های نادیده گرفته‌شده
+│   └── .env.example               # نمونه فایل متغیرهای محیطی
+├── src/
+│   ├── collector_git.py           # اسکریپت اصلی جمع‌آوری
+│   ├── split_links.py             # شکستن لینک‌های چسبیده
+│   ├── dedup_configs.py           # حذف تکراری‌های هوشمند
+│   └── daily_reset.py             # پاک‌کننده‌ی Checkpoint
+├── README.md                      # مستندات پروژه
+├── checkpoint.json                # فایل ذخیره‌ی پیشرفت برای اجرای افزایشی
+├── discovered_branches.json       # فایل ذخیره‌ی شاخه‌های جدید
+└── servers_collected.txt          # فایل خروجی نهایی
 </pre>
 
 <hr>
@@ -240,8 +258,8 @@
 </details>
 
 <details>
-<summary><strong>خطای <code>No such file or directory: 'collector11.py'</code></strong></summary>
-<p>مطمئن شوید فایل اصلی دقیقاً <code>collector11.py</code> نام دارد و در ریشه‌ی مخزن قرار دارد. اگر نام آن را تغییر داده‌اید، در خط <code>run: python collector11.py</code> در Workflowها نیز اصلاح کنید.</p>
+<summary><strong>خطای <code>No such file or directory: 'collector_git.py'</code></strong></summary>
+<p>مطمئن شوید فایل اصلی دقیقاً <code>collector_git.py</code> نام دارد و در ریشه‌ی مخزن قرار دارد. اگر نام آن را تغییر داده‌اید، در خط <code>run: python collector_git.py</code> در Workflowها نیز اصلاح کنید.</p>
 </details>
 
 <details>
