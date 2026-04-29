@@ -901,13 +901,23 @@ async def main():
     logger.info("--- Stage 4: Final Export ---")
     cache._save_cache()
     all_configs = await db_get_all_configs()
-    unique_configs = {c.strip() for c in all_configs if c.strip()}
+    unique_configs = sorted({c.strip() for c in all_configs if c.strip()})
     logger.info(f"✅ Total unique configs: {len(unique_configs)}")
+
     if unique_configs:
-        with open(CONFIG_DEFAULTS["OUTPUT_FILE"], "w", encoding="utf-8") as f:
-            for c in sorted(unique_configs)[:1000]:
+        output_file = CONFIG_DEFAULTS["OUTPUT_FILE"]
+        # نوشتن فایل اصلی
+        with open(output_file, "w", encoding="utf-8") as f:
+            for c in unique_configs:
                 f.write(c + "\n")
-        logger.info(f"Saved to '{CONFIG_DEFAULTS['OUTPUT_FILE']}'")
+        logger.info(f"Saved full list to '{output_file}'")
+
+        # فشرده‌سازی با gzip
+        import gzip
+        gz_file = output_file + ".gz"
+        with open(output_file, "rb") as f_in, gzip.open(gz_file, "wb", compresslevel=9) as f_out:
+            f_out.writelines(f_in)
+        logger.info(f"Compressed to '{gz_file}'")
     else:
         logger.warning("⚠️ No configs found.")
 
