@@ -699,13 +699,7 @@ async def main():
             for c in sorted(unique_configs):
                 f.write(c + "\n")
         logger.info(f"Saved to '{output_file}'")
-
-        # فشرده‌سازی
-        import gzip
-        gz_file = output_file + ".gz"
-        with open(output_file, "rb") as f_in, gzip.open(gz_file, "wb", compresslevel=9) as f_out:
-            f_out.writelines(f_in)
-        logger.info(f"Compressed to '{gz_file}'")
+        
     else:
         logger.warning("⚠️ No configs found.")
 
