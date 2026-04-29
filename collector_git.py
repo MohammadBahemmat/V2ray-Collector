@@ -54,23 +54,23 @@ CONFIG_DEFAULTS = {
 # 🔎 بخش ۲: منابع و کوئری‌ها (کامل)
 # ============================
 COMMON_BRANCH_NAMES = [
-    'main', 'master'
+    'main'
 ]
 
 REPO_SEARCH_QUERIES = sorted(list(set([
-    "v2ray", "proxy"
+    "v2ray"
 ])))
 
 CODE_SEARCH_QUERIES = sorted(list(set([
-    '"vless://" security=reality', '"vless://" type=grpc security=tls'
+    '"v2ray config"'
 ])))
 
 EXTRA_UPDATED_REPO_QUERIES = [
-    "v2ray", "proxy"
+    "v2ray"
 ]
 
 MANUAL_REPOS_TO_SCAN = sorted(list(set([
-    ("mahdibland", "V2RayAggregator"), ("yebekhe", "V2Hub")
+    ("V2RAYCONFIGSPOOL", "V2RAY_SUB")
 ])))
 
 # ============================
