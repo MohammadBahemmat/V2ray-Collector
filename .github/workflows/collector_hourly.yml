@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add servers_collected.txt.gz checkpoint.json discovered_branches.json
+          git add servers_collected.txt checkpoint.json discovered_branches.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
