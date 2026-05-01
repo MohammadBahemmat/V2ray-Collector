@@ -6,31 +6,19 @@
 
 </head>
 <body>
-<div style="
-    border: 3px solid #6c63ff;
-    border-radius: 10px;
-    padding: 20px;
-    margin: 20px 0;
-    text-align: center;
-    background-color: #1e1e2f;
-    color: #ffffff;
-">
-    <h2 style="color: #6c63ff; margin: 0 0 15px 0;">📦 فایل‌های خروجی پروژه</h2>
-    <p style="font-size: 1.1em;">
+<div class="container">
+
+<div style="background-color: #1a1a2e; border: 2px solid #6c63ff; border-radius: 10px; padding: 15px; margin: 15px 0; text-align: center;">
+    <p style="margin: 0; font-size: 1.2em; color: #ffffff;">
+        🔗 <strong>لینک مستقیم فایل‌های خروجی (Raw):</strong><br>
         📅 <strong>خروجی کامل روزانه:</strong>
         <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/daily_servers.txt" 
-           style="color: #ff79c6; text-decoration: none;" 
-           target="_blank" rel="noopener">
-           daily_servers.txt
-        </a>
-    </p>
-    <p style="font-size: 1.1em;">
+           style="color: #6c63ff; font-size: 1.1em; word-break: break-all;" 
+           target="_blank" rel="noopener">daily_servers.txt</a><br>
         ⏱️ <strong>خروجی افزایشی ساعتی:</strong>
         <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hourly_servers.txt" 
-           style="color: #ff79c6; text-decoration: none;" 
-           target="_blank" rel="noopener">
-           hourly_servers.txt
-        </a>
+           style="color: #6c63ff; font-size: 1.1em; word-break: break-all;" 
+           target="_blank" rel="noopener">hourly_servers.txt</a>
     </p>
 </div>
 
