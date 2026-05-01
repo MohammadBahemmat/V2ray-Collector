@@ -1257,19 +1257,46 @@ async def main():
             await save_checkpoint(processed_urls_session, searched_queries, scanned_manual_repos)
 
     # --- Stage 4: Final Export ---
+    # --- Stage 4: Final Export ---
     logger.info("--- Stage 4: Final Export ---")
     cache._save_cache()
     all_configs = await db_get_all_configs()
     unique_configs = sorted({c.strip() for c in all_configs if c.strip()})
-    logger.info(f"✅ Total unique configs: {len(unique_configs)}")
+    logger.info(f"✅ Total unique configs in DB: {len(unique_configs)}")
+
+    # تشخیص حالت اجرا: daily یا hourly (پیش‌فرض daily)
+    run_mode = os.getenv("RUN_MODE", "daily")
 
     if unique_configs:
-        output_file = CONFIG_DEFAULTS["OUTPUT_FILE"]
-        with open(output_file, "w", encoding="utf-8") as f:
-            for c in sorted(unique_configs):
-                f.write(c + "\n")
-        logger.info(f"Saved to '{output_file}'")
-        
+        if run_mode == "hourly":
+            daily_file = "daily_servers.txt"
+            hourly_file = "hourly_servers.txt"
+
+            # خواندن محتوای فایل روزانه (مبنا)
+            daily_configs = set()
+            if os.path.exists(daily_file):
+                with open(daily_file, "r", encoding="utf-8") as f:
+                    daily_configs = {line.strip() for line in f if line.strip()}
+                logger.info(f"📄 Loaded {len(daily_configs)} configs from {daily_file}")
+            else:
+                logger.warning(f"⚠️ {daily_file} not found. All current configs will be treated as new.")
+
+            # محاسبه‌ی سرورهای جدید (افزایشی)
+            new_configs = [c for c in unique_configs if c not in daily_configs]
+            logger.info(f"🆕 New configs not in daily file: {len(new_configs)}")
+
+            if new_configs:
+                with open(hourly_file, "w", encoding="utf-8") as f:
+                    f.write("\n".join(new_configs))
+                logger.info(f"💾 Saved {len(new_configs)} new configs to '{hourly_file}'")
+            else:
+                logger.info("👍 No new configs found. hourly_servers.txt will not be created/updated.")
+        else:
+            # حالت روزانه: ذخیره‌ی کل خروجی در daily_servers.txt
+            output_file = "daily_servers.txt"
+            with open(output_file, "w", encoding="utf-8") as f:
+                f.write("\n".join(unique_configs))
+            logger.info(f"💾 Saved {len(unique_configs)} configs to '{output_file}'")
     else:
         logger.warning("⚠️ No configs found.")
 
