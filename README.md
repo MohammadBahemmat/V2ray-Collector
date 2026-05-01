@@ -1,3 +1,36 @@
+<style>
+  h1, h2, h3, h4, h5, h6 {
+    position: relative;
+    padding: 14px 20px;
+    border-radius: 12px;
+    color: #fff; /* رنگ متن را متناسب پس‌زمینه تنظیم کنید */
+    background: #1e1e1e; /* یک پس‌زمینه تیره برای تضاد */
+    z-index: 1;
+    overflow: hidden; /* مهم: باعث می‌شود شبه‌عنصر بیرون نزند */
+  }
+
+  h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
+    content: '';
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    right: -4px;
+    bottom: -4px;
+    background: conic-gradient(
+      from 0deg,
+      #ff0040, #40ff00, #00bfff, #ffcc00, #ff0040
+    );
+    border-radius: 16px; /* کمی بزرگتر از خود تیتر */
+    z-index: -1;
+    animation: spin 3s linear infinite;
+    filter: blur(8px); /* یک حالت نوری نرم */
+    opacity: 0.9;
+  }
+
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+</style>
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
