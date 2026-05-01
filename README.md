@@ -6,16 +6,50 @@
 
 </head>
 <body>
+
+<div style="
+    background: linear-gradient(135deg, #1e1e2f, #2a2a4a);
+    border: 2px solid #6c63ff;
+    border-radius: 15px;
+    padding: 25px;
+    margin: 20px 0;
+    color: #ffffff;
+    box-shadow: 0 0 20px rgba(108, 99, 255, 0.3);
+    animation: pulse 2s infinite;
+    text-align: center;
+">
+    <h2 style="margin: 0; color: #6c63ff;">📦 فایل‌های خروجی پروژه</h2>
+    <p style="font-size: 1.1em; margin-top: 15px;">
+        🔗 <strong>لینک مستقیم فایل خروجی روزانه:</strong><br>
+        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/daily_servers.txt" 
+           style="color: #ff79c6; font-size: 1em; word-break: break-all;" 
+           target="_blank" rel="noopener">
+           daily_servers.txt
+        </a>
+    </p>
+    <p style="font-size: 1.1em; margin-top: 15px;">
+        🔗 <strong>لینک مستقیم فایل خروجی ساعتی:</strong><br>
+        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hourly_servers.txt" 
+           style="color: #ff79c6; font-size: 1em; word-break: break-all;" 
+           target="_blank" rel="noopener">
+           hourly_servers.txt
+        </a>
+    </p>
+</div>
+
 <div class="container">
 
 <div style="background-color: #1a1a2e; border: 2px solid #6c63ff; border-radius: 10px; padding: 15px; margin: 15px 0; text-align: center;">
     <p style="margin: 0; font-size: 1.2em; color: #ffffff;">
-        🔗 <strong>لینک مستقیم فایل خروجی (Raw):</strong><br>
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers_collected.txt" 
+        🔗 <strong>لینک مستقیم فایل‌های خروجی (Raw):</strong><br>
+        📅 <strong>خروجی کامل روزانه:</strong>
+        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/daily_servers.txt" 
            style="color: #6c63ff; font-size: 1.1em; word-break: break-all;" 
-           target="_blank" rel="noopener">
-           raw.githubusercontent.com/.../servers_collected.txt
-        </a>
+           target="_blank" rel="noopener">daily_servers.txt</a><br>
+        ⏱️ <strong>خروجی افزایشی ساعتی:</strong>
+        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hourly_servers.txt" 
+           style="color: #6c63ff; font-size: 1.1em; word-break: break-all;" 
+           target="_blank" rel="noopener">hourly_servers.txt</a>
     </p>
 </div>
 
@@ -39,8 +73,8 @@
 </thead>
 <tbody>
 <tr>
-    <td><strong>جستجوی هیبریدی (Pushed + Updated)</strong></td>
-    <td>مخازن جدید با <code>pushed</code> (آخرین commit) و فایل‌های بدون commit با <code>updated</code> شکار می‌شوند. این ترکیب در هیچ پروژه‌ی دیگری دیده نشده است.</td>
+    <td><strong>معماری مبتنی بر مخازن دستی (Manual-Only Mode)</strong></td>
+    <td>تمام جستجوهای خودکار گیتهاب غیرفعال شده و فقط مخازن منتخب و قدرتمند اسکن می‌شوند. این کار سرعت را فوق‌العاده افزایش داده و مصرف Core را بهینه می‌کند.</td>
 </tr>
 <tr>
     <td><strong>Branch Discovery با حافظه‌ی دائمی</strong></td>
@@ -67,8 +101,8 @@
     <td>هم محدودیت <code>Core</code> (۵۰۰۰ در ساعت) و هم <code>Search</code> (۳۰ در دقیقه) به‌طور جداگانه مدیریت می‌شوند و اسکریپت هرگز به خطای ۴۰۳ برخورد نمی‌کند.</td>
 </tr>
 <tr>
-    <td><strong>منابع بسیار گسترده</strong></td>
-    <td>بیش از ۱۳۰ کوئری جستجوی مخازن، ۹۵ کوئری جستجوی کد، ۱۲۰+ مخزن دستی شناخته‌شده و پشتیبانی از عبارات فارسی، روسی، چینی، ترکی و...</td>
+    <td><strong>منابع منتخب و پربازده</strong></td>
+    <td>مجموعه‌ای بزرگ از مخازن دستی که دائماً به‌روز می‌شوند و کانفیگ‌های تازه‌تری نسبت به جستجوی عمومی ارائه می‌دهند.</td>
 </tr>
 <tr>
     <td><strong>فیلتر خروجی و تقسیم‌بندی</strong></td>
@@ -105,17 +139,16 @@
 <tr><th>پارامتر</th><th>مقدار پیش‌فرض</th><th>توضیح</th></tr>
 </thead>
 <tbody>
-<tr><td><code>SEARCH_PERIOD_DAYS</code></td><td><code>0</code></td><td>چند روز گذشته برای جستجو در نظر گرفته شود (۰ = کل تاریخچه)</td></tr>
-<tr><td><code>MAX_AGE_HOURS</code></td><td><code>1</code></td><td>فقط مخازنی که در این چند ساعت push داشته‌اند اسکن شوند (۰ = غیرفعال)</td></tr>
-<tr><td><code>REPO_SEARCH_PAGES</code></td><td><code>0</code></td><td>تعداد صفحات جستجوی مخازن (هر صفحه ۱۰۰ نتیجه)</td></tr>
-<tr><td><code>CODE_SEARCH_PAGES</code></td><td><code>0</code></td><td>تعداد صفحات جستجوی کد</td></tr>
-<tr><td><code>EXTRA_UPDATED_REPO_PAGES</code></td><td><code>0</code></td><td>صفحات جستجوی تکمیلی (با فیلتر <code>updated</code>)</td></tr>
-<tr><td><code>MAX_RECURSION_DEPTH</code></td><td><code>0</code></td><td>عمق دنبال کردن لینک‌های اشتراک (۰ = قطع، توصیه می‌شود)</td></tr>
+<tr><td><code>SEARCH_PERIOD_DAYS</code></td><td><code>0</code></td><td>تاریخچه‌ی جستجو (۰ = غیرفعال)</td></tr>
+<tr><td><code>MAX_AGE_HOURS</code></td><td><code>1</code></td><td>فقط مخازنی که در این چند ساعت push داشته‌اند اسکن شوند</td></tr>
+<tr><td><code>REPO_SEARCH_PAGES</code></td><td><code>0</code></td><td>صفحات جستجوی مخازن (۰ = غیرفعال)</td></tr>
+<tr><td><code>CODE_SEARCH_PAGES</code></td><td><code>0</code></td><td>صفحات جستجوی کد (۰ = غیرفعال)</td></tr>
+<tr><td><code>EXTRA_UPDATED_REPO_PAGES</code></td><td><code>0</code></td><td>صفحات جستجوی تکمیلی (۰ = غیرفعال)</td></tr>
+<tr><td><code>MAX_RECURSION_DEPTH</code></td><td><code>0</code></td><td>عمق دنبال کردن لینک‌های اشتراک (۰ = قطع)</td></tr>
 <tr><td><code>GENERAL_CONCURRENT_REQUESTS</code></td><td><code>80</code></td><td>تعداد دانلود هم‌زمان فایل‌ها</td></tr>
-<tr><td><code>SEARCH_API_CONCURRENCY</code></td><td><code>3</code></td><td>تعداد کوئری‌های هم‌زمان جستجو (بیش از ۵ می‌تواند منجر به خطا شود)</td></tr>
+<tr><td><code>SEARCH_API_CONCURRENCY</code></td><td><code>3</code></td><td>تعداد کوئری‌های هم‌زمان جستجو</td></tr>
 <tr><td><code>TARGET_CORE_CONSUMPTION</code></td><td><code>5000</code></td><td>حداکثر Core API مجاز (برای توقف خودکار)</td></tr>
-<tr><td><code>MAX_FILE_BYTES</code></td><td><code>2097152</code></td><td>حداکثر حجم فایل قابل دانلود (۲ مگابایت)</td></tr>
-<tr><td><code>OUTPUT_FILE</code></td><td><code>servers_collected.txt</code></td><td>نام فایل خروجی نهایی</td></tr>
+<tr><td><code>MAX_FILE_BYTES</code></td><td><code>2 * 1024 * 1024</code></td><td>حداکثر حجم فایل قابل دانلود (۲ مگابایت)</td></tr>
 <tr><td><code>CHECKPOINT_FILE</code></td><td><code>checkpoint.json</code></td><td>فایل ذخیره‌ی پیشرفت برای اجرای افزایشی</td></tr>
 <tr><td><code>DISCOVERED_BRANCHES_FILE</code></td><td><code>discovered_branches.json</code></td><td>فایل ذخیره‌ی شاخه‌های جدید</td></tr>
 </tbody>
@@ -132,12 +165,12 @@
 <!-- اجرای دستی -->
 <h2>🚀 اجرای دستی</h2>
 <p>کافیست در ترمینال دستور زیر را اجرا کنید:</p>
-<pre class="ltr-block">python collector_git.py</pre>
+<pre class="ltr-block">python src/collector_git.py</pre>
 <ul>
     <li><strong>اجرای اول</strong> (با دیتابیس خالی) ممکن است ۱۰ تا ۱۵ دقیقه طول بکشد.</li>
     <li><strong>اجراهای بعدی</strong> به دلیل وجود Checkpoint و دیتابیس پر، بسیار سریع‌تر هستند (اغلب <strong>زیر ۱ دقیقه</strong>).</li>
 </ul>
-<p>خروجی نهایی در فایل <code>servers_collected.txt</code> ذخیره می‌شود.</p>
+<p>خروجی نهایی در فایل <code>daily_servers.txt</code> (روزانه) و <code>hourly_servers.txt</code> (ساعتی) ذخیره می‌شود.</p>
 
 <hr>
 
@@ -163,11 +196,14 @@
 <p>هر دو Workflow امکان اجرای دستی با دکمه‌ی <strong>Run workflow</strong> را نیز دارند.</p>
 
 <h3>۴. تست اولیه</h3>
-<p>برای اطمینان از درستی تنظیمات، به تب <strong>Actions</strong> بروید، روی <strong>Daily Collector</strong> کلیک کنید و <strong>Run workflow</strong> را بزنید. پس از اتمام اجرا، فایل <code>servers_collected.txt</code> در ریشه‌ی مخزن ظاهر می‌شود.</p>
+<p>برای اطمینان از درستی تنظیمات، به تب <strong>Actions</strong> بروید، روی <strong>Daily Collector</strong> کلیک کنید و <strong>Run workflow</strong> را بزنید. پس از اتمام اجرا، فایل <code>daily_servers.txt</code> در ریشه‌ی مخزن ظاهر می‌شود.</p>
 
 <h3>۵. لینک خام خروجی</h3>
-<p>پس از اولین اجرای موفق، فایل خروجی از طریق این آدرس در دسترس خواهد بود:</p>
-<pre class="ltr-block">https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers_collected.txt</pre>
+<p>پس از اولین اجرای موفق، فایل‌های خروجی از طریق این آدرس‌ها در دسترس خواهند بود:</p>
+<pre class="ltr-block">
+📅 روزانه: https://raw.githubusercontent.com/مشخصات-شما/main/daily_servers.txt
+⏱️ ساعتی: https://raw.githubusercontent.com/مشخصات-شما/main/hourly_servers.txt
+</pre>
 
 <hr>
 
@@ -184,14 +220,14 @@
     <td>بدون دیتابیس، تمام مراحل انجام می‌شود</td>
 </tr>
 <tr>
-    <td><strong>اجرای ساعتی (با Checkpoint)</strong></td>
+    <td><strong>اجرای ساعتی (افزایشی)</strong></td>
     <td><strong>کمتر از ۱ دقیقه</strong></td>
-    <td>Stage ۱ تقریباً خالی است، فقط مخازن تازه اسکن می‌شوند</td>
+    <td>Stage ۱ و ۲ فقط مخازن دستی که اخیراً push داشته‌اند را اسکن می‌کنند</td>
 </tr>
 <tr>
     <td><strong>اجرای روزانه (Full Scan)</strong></td>
     <td>~۱۰-۱۵ دقیقه</td>
-    <td>Checkpoint ریست می‌شود و همه چیز از اول جستجو می‌شود</td>
+    <td>Checkpoint ریست می‌شود و همه‌ی مخازن دستی از نو اسکن می‌شوند</td>
 </tr>
 </tbody>
 </table>
@@ -207,21 +243,20 @@
 │   └── workflows/
 │       ├── collector_hourly.yml   # Workflow اجرای ساعتی (افزایشی)
 │       └── collector_daily.yml    # Workflow اجرای روزانه (کامل)
-├── config/
-│   ├── requirements.txt           # وابستگی‌های پایتون
-│   ├── .gitignore                 # فایل‌های نادیده گرفته‌شده
-│   └── .env.example               # نمونه فایل متغیرهای محیطی
-├── for Developers/
-│   ├── collector_git_Fullversion  # نسخه کامل برای توسعه دهندگان    
 ├── src/
 │   ├── collector_git.py           # اسکریپت اصلی جمع‌آوری
 │   ├── split_links.py             # شکستن لینک‌های چسبیده
 │   ├── dedup_configs.py           # حذف تکراری‌های هوشمند
 │   └── daily_reset.py             # پاک‌کننده‌ی Checkpoint
+├── config/
+│   ├── requirements.txt           # وابستگی‌های پایتون
+│   ├── .gitignore                 # فایل‌های نادیده گرفته‌شده
+│   └── .env.example               # نمونه فایل متغیرهای محیطی
 ├── README.md                      # مستندات پروژه
-├── checkpoint.json                # فایل ذخیره‌ی پیشرفت برای اجرای افزایشی
+├── checkpoint.json                # فایل ذخیره‌ی پیشرفت
 ├── discovered_branches.json       # فایل ذخیره‌ی شاخه‌های جدید
-└── servers_collected.txt          # فایل خروجی نهایی
+├── daily_servers.txt              # فایل خروجی روزانه
+└── hourly_servers.txt             # فایل خروجی ساعتی (در صورت وجود)
 </pre>
 
 <hr>
@@ -235,13 +270,13 @@
 <tr><th>معیار</th><th>این پروژه</th><th>سایر پروژه‌ها</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>منبع اصلی جستجو</strong></td><td><strong>گیتهاب (API)</strong> + مخازن دستی</td><td>اکثراً کانال‌های تلگرام (نیاز به حساب کاربری)</td></tr>
+<tr><td><strong>منبع اصلی جستجو</strong></td><td><strong>مخازن دستی منتخب</strong></td><td>اکثراً کانال‌های تلگرام یا جستجوی عمومی گیتهاب</td></tr>
 <tr><td><strong>مدیریت Rate Limit</strong></td><td><strong>Core + Search با توقف هوشمند</strong></td><td>ابتدایی یا بدون مدیریت</td></tr>
 <tr><td><strong>Checkpoint (ادامه پس از توقف)</strong></td><td>✅ دارد</td><td>❌ در هیچ پروژه‌ای دیده نشد</td></tr>
 <tr><td><strong>پایگاه داده (SQLite)</strong></td><td>✅ دارد</td><td>❌ اکثراً فایل متنی</td></tr>
 <tr><td><strong>Branch Discovery با ذخیره‌سازی</strong></td><td>✅ دارد</td><td>❌ فقط یک نمونه‌ی مشابه (wzdnzd/aggregator)</td></tr>
 <tr><td><strong>خروجی افزایشی (فقط تازه‌ها)</strong></td><td>✅ (با Checkpoint)</td><td>❌</td></tr>
-<tr><td><strong>جستجوی کد (Code Search)</strong></td><td>✅ بله (۹۵+ کوئری)</td><td>❌ اغلب ندارند</td></tr>
+<tr><td><strong>جستجوی کد (Code Search)</strong></td><td>✅ دارد (غیرفعال پیش‌فرض)</td><td>❌ اغلب ندارند</td></tr>
 <tr><td><strong>فیلتر ساعتی واقعی</strong></td><td>✅ بله (<code>MAX_AGE_HOURS</code>)</td><td>❌ خیر</td></tr>
 <tr><td><strong>توقف در سقف Core</strong></td><td>✅ بله (بدون Sleep)</td><td>❌ خیر</td></tr>
 <tr><td><strong>وابستگی به تلگرام</strong></td><td>❌ خیر</td><td>✅ تقریباً همه</td></tr>
@@ -261,7 +296,7 @@
 
 <details>
 <summary><strong>خطای <code>No such file or directory: 'collector_git.py'</code></strong></summary>
-<p>مطمئن شوید فایل اصلی دقیقاً <code>collector_git.py</code> نام دارد و در ریشه‌ی مخزن قرار دارد. اگر نام آن را تغییر داده‌اید، در خط <code>run: python collector_git.py</code> در Workflowها نیز اصلاح کنید.</p>
+<p>مطمئن شوید فایل اصلی دقیقاً <code>collector_git.py</code> نام دارد و در پوشه‌ی <code>src/</code> قرار دارد. اگر نام آن را تغییر داده‌اید، در خط <code>run: python src/collector_git.py</code> در Workflowها نیز اصلاح کنید.</p>
 </details>
 
 <details>
