@@ -29,6 +29,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           RUN_MODE: hourly
+          MAX_AGE_HOURS: 1
         run: python src/collector_git.py
 
       - name: Split joined proxy links
