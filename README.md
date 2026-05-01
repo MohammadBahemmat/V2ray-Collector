@@ -35,6 +35,7 @@
 <hr>
 
 <!-- ویژگی‌های متمایز -->
+<div style="border: 2px solid #6c63ff; border-radius: 10px; padding: 18px; margin: 25px 0; background-color: #1b1b2f; color: #ffffff;">
 <h2>✨ ویژگی‌های متمایز (چرا این Collector از بقیه بهتر است؟)</h2>
 <table>
 <thead>
@@ -85,6 +86,7 @@
 </table>
 
 <hr>
+</div>
 
 <!-- نیازمندی‌ها -->
 <h2>📦 نیازمندی‌ها</h2>
