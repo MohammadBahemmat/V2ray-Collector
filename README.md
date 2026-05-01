@@ -6,37 +6,6 @@
 
 </head>
 <body>
-
-<div style="
-    background: linear-gradient(135deg, #1e1e2f, #2a2a4a);
-    border: 2px solid #6c63ff;
-    border-radius: 15px;
-    padding: 25px;
-    margin: 20px 0;
-    color: #ffffff;
-    box-shadow: 0 0 20px rgba(108, 99, 255, 0.3);
-    animation: pulse 2s infinite;
-    text-align: center;
-">
-    <h2 style="margin: 0; color: #6c63ff;">📦 فایل‌های خروجی پروژه</h2>
-    <p style="font-size: 1.1em; margin-top: 15px;">
-        🔗 <strong>لینک مستقیم فایل خروجی روزانه:</strong><br>
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/daily_servers.txt" 
-           style="color: #ff79c6; font-size: 1em; word-break: break-all;" 
-           target="_blank" rel="noopener">
-           daily_servers.txt
-        </a>
-    </p>
-    <p style="font-size: 1.1em; margin-top: 15px;">
-        🔗 <strong>لینک مستقیم فایل خروجی ساعتی:</strong><br>
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hourly_servers.txt" 
-           style="color: #ff79c6; font-size: 1em; word-break: break-all;" 
-           target="_blank" rel="noopener">
-           hourly_servers.txt
-        </a>
-    </p>
-</div>
-
 <div class="container">
 
 <div style="background-color: #1a1a2e; border: 2px solid #6c63ff; border-radius: 10px; padding: 15px; margin: 15px 0; text-align: center;">
