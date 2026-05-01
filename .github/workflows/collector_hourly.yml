@@ -28,6 +28,7 @@ jobs:
       - name: Run collector
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          RUN_MODE: hourly
         run: python src/collector_git.py
 
       - name: Split joined proxy links
@@ -42,7 +43,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add servers_collected.txt checkpoint.json discovered_branches.json
+          git add hourly_servers.txt
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
