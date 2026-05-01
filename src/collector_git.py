@@ -1142,6 +1142,9 @@ async def main():
     processed_urls_session = set(checkpoint.get("processed_urls", []))
     searched_queries = set(checkpoint.get("searched_queries", []))
     scanned_manual_repos = set(checkpoint.get("scanned_manual_repos", []))
+        # در اجرای ساعتی، مخازن دستی هر بار دوباره بررسی شوند
+    if os.getenv("RUN_MODE") == "hourly":
+        scanned_manual_repos = set()
 
     connector = aiohttp.TCPConnector(limit=CONFIG_DEFAULTS["AIOHTTP_CONNECTION_LIMIT"])
     async with aiohttp.ClientSession(connector=connector) as session:
