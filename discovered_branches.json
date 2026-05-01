@@ -1,12 +1,13 @@
 [
+  "rm",
   "UwU",
-  "Stable",
+  "main",
+  "codex/phase-1-foundation",
+  "codex/render-multiplayer-server",
+  "master",
   "SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev",
-  "dev",
   "gh-pages",
   "develop",
-  "master",
-  "codex/render-multiplayer-server",
-  "rm",
-  "main"
+  "dev",
+  "Stable"
 ]
