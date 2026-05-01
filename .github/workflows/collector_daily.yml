@@ -35,10 +35,10 @@ jobs:
         run: python src/collector_git.py
 
       - name: Split joined proxy links
-        run: python src/split_links.py servers_collected.txt
+        run: python src/split_links.py daily_servers.txt
 
       - name: Advanced dedup configs
-        run: python src/dedup_configs.py servers_collected.txt
+        run: python src/dedup_configs.py daily_servers.txt
 
       - name: Commit and push updated files
         timeout-minutes: 5
@@ -59,6 +59,6 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: servers-collected-${{ github.run_id }}
-          path: servers_collected.txt
+          name: daily_servers.txt-${{ github.run_id }}
+          path: daily_servers.txt
           retention-days: 1
