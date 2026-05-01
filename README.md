@@ -8,20 +8,6 @@
 <body>
 <div class="container">
 
-<div style="background-color: #1a1a2e; border: 2px solid #6c63ff; border-radius: 10px; padding: 15px; margin: 15px 0; text-align: center;">
-    <p style="margin: 0; font-size: 1.2em; color: #ffffff;">
-        🔗 <strong>لینک مستقیم فایل‌های خروجی (Raw):</strong><br>
-        📅 <strong>خروجی کامل روزانه:</strong>
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/daily_servers.txt" 
-           style="color: #6c63ff; font-size: 1.1em; word-break: break-all;" 
-           target="_blank" rel="noopener">daily_servers.txt</a><br>
-        ⏱️ <strong>خروجی افزایشی ساعتی:</strong>
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hourly_servers.txt" 
-           style="color: #6c63ff; font-size: 1.1em; word-break: break-all;" 
-           target="_blank" rel="noopener">hourly_servers.txt</a>
-    </p>
-</div>
-
 <h1>🚀 V2ray Collector</h1>
 
 <p>
