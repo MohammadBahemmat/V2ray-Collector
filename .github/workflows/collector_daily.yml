@@ -32,6 +32,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           RUN_MODE: daily
+          MAX_AGE_HOURS: 1            # فقط مخازنی که توی ۱ ساعت گذشته push خورده بودن
         run: python src/collector_git.py
 
       - name: Split joined proxy links
