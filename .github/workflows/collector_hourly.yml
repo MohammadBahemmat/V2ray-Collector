@@ -47,6 +47,9 @@ jobs:
             echo "File hourly_servers.txt not found, skipping dedup."
           fi
 
+      - name: Clean conflicting untracked files
+        run: rm -f checkpoint.json discovered_branches.json
+
       - name: Commit and push updated files
         timeout-minutes: 5
         continue-on-error: true
@@ -54,6 +57,7 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add hourly_servers.txt 2>/dev/null || true
+          git add checkpoint.json discovered_branches.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
