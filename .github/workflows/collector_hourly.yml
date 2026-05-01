@@ -32,10 +32,20 @@ jobs:
         run: python src/collector_git.py
 
       - name: Split joined proxy links
-        run: python src/split_links.py servers_collected.txt
+        run: |
+          if [ -f hourly_servers.txt ]; then
+            python src/split_links.py hourly_servers.txt
+          else
+            echo "File hourly_servers.txt not found, skipping split."
+          fi
 
       - name: Advanced dedup configs
-        run: python src/dedup_configs.py servers_collected.txt
+        run: |
+          if [ -f hourly_servers.txt ]; then
+            python src/dedup_configs.py hourly_servers.txt
+          else
+            echo "File hourly_servers.txt not found, skipping dedup."
+          fi
 
       - name: Commit and push updated files
         timeout-minutes: 5
@@ -43,7 +53,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add hourly_servers.txt
+          git add hourly_servers.txt 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
@@ -56,6 +66,6 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: servers-collected-${{ github.run_id }}
-          path: servers_collected.txt
+          name: hourly_servers.txt-${{ github.run_id }}
+          path: hourly_servers.txt
           retention-days: 1
