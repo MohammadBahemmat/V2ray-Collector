@@ -1,16 +1,17 @@
 [
   "main",
+  "v2-rewrite",
+  "Stable",
+  "master",
+  "codex/phase-1-foundation",
   "UwU",
   "dev",
-  "codex/phase-1-foundation",
-  "postgresql-dialect",
-  "rm",
   "development",
-  "codex/render-multiplayer-server",
-  "Stable",
-  "gh-pages",
-  "SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev",
   "patch-1",
-  "master",
-  "develop"
+  "gh-pages",
+  "postgresql-dialect",
+  "SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev",
+  "rm",
+  "develop",
+  "codex/render-multiplayer-server"
 ]
