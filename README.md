@@ -8,28 +8,6 @@
 <body>
 <div class="container">
 
-<svg width="100%" height="4" viewBox="0 0 100 4" preserveAspectRatio="none">
-  <!-- گروه شامل رنگ‌ها را دو بار تکرار می‌کنیم تا حلقه بی‌نهایت نرم باشد -->
-  <g>
-    <animateTransform attributeName="transform" type="translate" 
-      values="0,0; -100,0" dur="3s" repeatCount="indefinite" />
-    <!-- تکرار اول -->
-    <rect x="0" y="0" width="16.66" height="4" fill="#ff4d4d" />
-    <rect x="16.66" y="0" width="16.66" height="4" fill="#ffaa00" />
-    <rect x="33.32" y="0" width="16.66" height="4" fill="#ffe600" />
-    <rect x="49.98" y="0" width="16.66" height="4" fill="#4caf50" />
-    <rect x="66.64" y="0" width="16.66" height="4" fill="#2196f3" />
-    <rect x="83.30" y="0" width="16.70" height="4" fill="#9c27b0" />
-    <!-- تکرار دوم (برای پیوستگی) -->
-    <rect x="100" y="0" width="16.66" height="4" fill="#ff4d4d" />
-    <rect x="116.66" y="0" width="16.66" height="4" fill="#ffaa00" />
-    <rect x="133.32" y="0" width="16.66" height="4" fill="#ffe600" />
-    <rect x="149.98" y="0" width="16.66" height="4" fill="#4caf50" />
-    <rect x="166.64" y="0" width="16.66" height="4" fill="#2196f3" />
-    <rect x="183.30" y="0" width="16.70" height="4" fill="#9c27b0" />
-  </g>
-</svg>
-
 <h1>🚀 V2ray Collector</h1>
 
 <p>
