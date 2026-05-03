@@ -2,7 +2,7 @@ name: Frequent Collector (15 min)
 
 on:
   schedule:
-    - cron: '*/15 * * * *'   # هر ۱۵ دقیقه
+    - cron: '5,20,35,50 * * * *'
   workflow_dispatch:
 
 concurrency:
