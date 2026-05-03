@@ -6,7 +6,6 @@ import aiohttp
 import aiosqlite
 import base64
 import re
-import os
 import json
 import logging
 import time
@@ -15,17 +14,16 @@ from dotenv import load_dotenv
 from tqdm import tqdm
 import backoff
 from typing import Dict, Optional, Set, List, Tuple
-import binascii
 
 # ============================
 # ⚙️ بخش ۱: پیکربندی نهایی (ساعتی، توقف خودکار و ذخیره‌ی شاخه‌ها)
 # ============================
 CONFIG_DEFAULTS = {
-    "SEARCH_PERIOD_DAYS": 0,            # فقط برای مرحله‌ی جستجو (پوشش اولیه)
+    "SEARCH_PERIOD_DAYS": 0,
     "REPO_SEARCH_PAGES": 0,
     "CODE_SEARCH_PAGES": 0,
     "EXTRA_UPDATED_REPO_PAGES": 0,
-    "MAX_AGE_HOURS": 1,                 # 🆕 فیلتر ساعتی: فقط مخازنی که در ۱ ساعت گذشته push داشته‌اند
+    "MAX_AGE_HOURS": 1,
 
     "GENERAL_CONCURRENT_REQUESTS": 80,
     "SEARCH_API_CONCURRENCY": 3,
@@ -51,10 +49,10 @@ CONFIG_DEFAULTS = {
 }
 
 # ============================
-# 🔎 بخش ۲: منابع و کوئری‌ها (کامل)
+# 🔎 بخش ۲: منابع و کوئری‌ها
 # ============================
 COMMON_BRANCH_NAMES = [
-    
+
 ]
 
 REPO_SEARCH_QUERIES = sorted(list(set([
@@ -704,7 +702,7 @@ branch_manager = BranchManager(COMMON_BRANCH_NAMES, CONFIG_DEFAULTS["DISCOVERED_
 ACTIVE_BRANCHES = branch_manager.active_branches
 
 # ============================
-# 📊 بخش ۴: مدیریت Rate Limit (با پرچم توقف خودکار)
+# 📊 بخش ۴: مدیریت Rate Limit
 # ============================
 RATE_STATE = {
     'search': {'remaining': 30, 'reset': 0.0, 'last_checked': 0.0, 'paused_until': 0.0},
@@ -782,7 +780,7 @@ async def check_rate_limit(session: aiohttp.ClientSession, headers: dict, resour
             await asyncio.sleep(65)
 
 # ============================
-# 💾 بخش ۵: پایگاه داده و کش (اصلاح‌شده)
+# 💾 بخش ۵: پایگاه داده و کش
 # ============================
 class CacheManager:
     def __init__(self, cache_file: str, expiry_days: int):
@@ -1058,7 +1056,6 @@ async def check_and_scan_repo(session, owner, repo, headers, semaphores, url_set
     if not repo_data:
         return
 
-    # فیلتر ساعتی دقیق
     max_hours = CONFIG_DEFAULTS.get("MAX_AGE_HOURS", 0)
     if max_hours > 0:
         pushed_at_str = repo_data.get("pushed_at") or repo_data.get("updated_at")
@@ -1067,7 +1064,7 @@ async def check_and_scan_repo(session, owner, repo, headers, semaphores, url_set
                 pushed_at = datetime.fromisoformat(pushed_at_str.replace('Z', '+00:00'))
                 cutoff_time = datetime.now(timezone.utc) - timedelta(hours=max_hours)
                 if pushed_at < cutoff_time:
-                    return  # قدیمی است
+                    return
             except Exception:
                 pass
 
@@ -1127,6 +1124,9 @@ async def main():
     logger.info("🚀 Starting Optimized Collector (Hourly Filter + Auto-Stop)")
     start_time = time.time()
 
+    # --- خواندن حالت اجرا فقط یک بار ---
+    run_mode = os.getenv("RUN_MODE", "daily")
+
     token = get_github_token()
     headers = {
         "Accept": "application/vnd.github.v3+json",
@@ -1142,8 +1142,9 @@ async def main():
     processed_urls_session = set(checkpoint.get("processed_urls", []))
     searched_queries = set(checkpoint.get("searched_queries", []))
     scanned_manual_repos = set(checkpoint.get("scanned_manual_repos", []))
-        # در اجرای ساعتی، مخازن دستی هر بار دوباره بررسی شوند
-    if os.getenv("RUN_MODE") == "hourly":
+
+    # در اجرای ساعتی، مخازن دستی هر بار دوباره بررسی شوند
+    if run_mode == "hourly":
         scanned_manual_repos = set()
 
     connector = aiohttp.TCPConnector(limit=CONFIG_DEFAULTS["AIOHTTP_CONNECTION_LIMIT"])
@@ -1192,7 +1193,6 @@ async def main():
         discovered_code_urls = {item for res in search_results for item in res if isinstance(item, str)}
         logger.info(f"Discovered {len(discovered_repo_tuples)} repos, {len(discovered_code_urls)} code URLs.")
 
-        # اگر Core تمام شده، مستقیماً به Stage 3 برو
         if CORE_LIMIT_REACHED:
             logger.warning("Core limit reached before scanning. Skipping Stage 2.")
             source_urls = set(discovered_code_urls)
@@ -1232,6 +1232,12 @@ async def main():
 
             await save_checkpoint(processed_urls_session, searched_queries, scanned_manual_repos)
 
+            # ذخیره‌ی کش لینک‌های raw برای استفاده در اجراهای بعدی (فقط در روزانه)
+            if run_mode == "daily":
+                with open("raw_urls_cache.json", "w") as f:
+                    json.dump(list(source_urls), f)
+                logger.info(f"💾 Saved {len(source_urls)} raw URLs to raw_urls_cache.json")
+
         logger.info(f"Total source URLs (before filtering): {len(source_urls)}")
 
         # --- Stage 3: Process URLs ---
@@ -1240,10 +1246,14 @@ async def main():
         for u in source_urls:
             if 'github.com' not in u and 'raw.githubusercontent.com' not in u:
                 continue
-            if u in processed_urls_session:
-                continue
-            if cache.is_cached(u) or await db_is_url_processed(u, CONFIG_DEFAULTS["CACHE_EXPIRY_DAYS"]):
-                continue
+            if run_mode in ("hourly",):
+                # در مد ساعتی URLهای تکراری هم باید دوباره دانلود شوند
+                pass
+            else:
+                if u in processed_urls_session:
+                    continue
+                if cache.is_cached(u) or await db_is_url_processed(u, CONFIG_DEFAULTS["CACHE_EXPIRY_DAYS"]):
+                    continue
             urls_to_process.append(u)
 
         logger.info(f"New URLs to process: {len(urls_to_process)}")
@@ -1260,22 +1270,17 @@ async def main():
             await save_checkpoint(processed_urls_session, searched_queries, scanned_manual_repos)
 
     # --- Stage 4: Final Export ---
-    # --- Stage 4: Final Export ---
     logger.info("--- Stage 4: Final Export ---")
     cache._save_cache()
     all_configs = await db_get_all_configs()
     unique_configs = sorted({c.strip() for c in all_configs if c.strip()})
     logger.info(f"✅ Total unique configs in DB: {len(unique_configs)}")
 
-    # تشخیص حالت اجرا: daily یا hourly (پیش‌فرض daily)
-    run_mode = os.getenv("RUN_MODE", "daily")
-
     if unique_configs:
         if run_mode == "hourly":
             daily_file = "daily_servers.txt"
             hourly_file = "hourly_servers.txt"
 
-            # خواندن محتوای فایل روزانه (مبنا)
             daily_configs = set()
             if os.path.exists(daily_file):
                 with open(daily_file, "r", encoding="utf-8") as f:
@@ -1284,7 +1289,6 @@ async def main():
             else:
                 logger.warning(f"⚠️ {daily_file} not found. All current configs will be treated as new.")
 
-            # محاسبه‌ی سرورهای جدید (افزایشی)
             new_configs = [c for c in unique_configs if c not in daily_configs]
             logger.info(f"🆕 New configs not in daily file: {len(new_configs)}")
 
@@ -1308,9 +1312,6 @@ async def main():
     else:
         logger.info("✅ Script completed normally without hitting Core limit.")
 
-    # دیگر Checkpoint را پاک نکن تا اجراهای بعدی Stage 1 را تکرار نکنند
-    # if os.path.exists(CONFIG_DEFAULTS["CHECKPOINT_FILE"]):
-    #     os.remove(CONFIG_DEFAULTS["CHECKPOINT_FILE"])
     logger.info(f"--- Finished in {int(time.time() - start_time)}s ---")
     logger.info(f"Estimated Core used: {TOTAL_CORE_USED}")
     os._exit(0)
@@ -1330,5 +1331,4 @@ if __name__ == "__main__":
         logger.error(f"Fatal error: {e}", exc_info=True)
         exit_code = 1
     finally:
-        # این خط تضمین می‌کند که فرآیند پایتون به طور کامل خاتمه یابد
         sys.exit(exit_code)
