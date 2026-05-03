@@ -5,6 +5,10 @@ on:
     - cron: '0 * * * *'   # هر ساعت رأس دقیقه صفر
   workflow_dispatch:
 
+concurrency:
+  group: collector-update
+  cancel-in-progress: false
+
 jobs:
   collect:
     runs-on: ubuntu-latest
@@ -48,13 +52,21 @@ jobs:
             echo "File hourly_servers.txt not found, skipping dedup."
           fi
 
+      - name: Merge new configs into daily file
+        run: |
+          if [ -f hourly_servers.txt ]; then
+            python src/merge_unique.py hourly_servers.txt daily_servers.txt
+          else
+            echo "No hourly file, skipping merge."
+          fi
+
       - name: Commit and push updated files
         timeout-minutes: 5
         continue-on-error: true
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add hourly_servers.txt checkpoint.json discovered_branches.json raw_urls_cache.json 2>/dev/null || true
+          git add hourly_servers.txt daily_servers.txt checkpoint.json discovered_branches.json raw_urls_cache.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
