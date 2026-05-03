@@ -8,6 +8,7 @@
 <body>
 <div class="container">
 
+<div style="border: 2px solid #6c63ff; border-radius: 10px; padding: 18px; margin: 25px 0; background-color: #1b1b2f; color: #ffffff;">
 <h1>🚀 V2ray Collector</h1>
 
 <p>
@@ -19,7 +20,7 @@
 </p>
 
 <hr>
-
+</div>
 <!-- ویژگی‌های متمایز -->
 <h2>✨ ویژگی‌های متمایز (چرا این Collector از بقیه بهتر است؟)</h2>
 <table>
