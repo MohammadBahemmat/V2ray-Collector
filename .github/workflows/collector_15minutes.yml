@@ -29,9 +29,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r config/requirements.txt
 
+      - name: Generate a token for the GitHub App
+        id: app-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ secrets.GH_APP_ID }}
+          private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
+
       - name: Run frequent collector (15-min scan using API)
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_FREQUENT }}
+          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
           RUN_MODE: frequent
           MAX_AGE_HOURS: 0.25
         run: python src/collector_git.py
