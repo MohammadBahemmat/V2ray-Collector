@@ -7,7 +7,7 @@
 </head>
 <body>
 <div class="container">
-پ
+
 <h1>🚀 V2ray Collector</h1>
 
 <p>
