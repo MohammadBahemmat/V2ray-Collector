@@ -5,6 +5,10 @@ on:
     - cron: '0 0 * * *'   # هر روز ساعت 00:00 UTC
   workflow_dispatch:
 
+concurrency:
+  group: collector-update
+  cancel-in-progress: false
+
 jobs:
   collect:
     runs-on: ubuntu-latest
