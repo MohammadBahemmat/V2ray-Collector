@@ -29,8 +29,12 @@ jobs:
       - name: Install dependencies
         run: pip install -r config/requirements.txt
 
-      - name: Run frequent collector (no API, no token)
-        run: python src/collector_frequent.py
+      - name: Run frequent collector (15-min scan using API)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_FREQUENT }}
+          RUN_MODE: frequent
+          MAX_AGE_HOURS: 0.25
+        run: python src/collector_git.py
 
       - name: Split joined proxy links
         run: |
