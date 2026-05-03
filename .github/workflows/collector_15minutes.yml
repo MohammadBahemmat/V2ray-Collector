@@ -57,13 +57,16 @@ jobs:
             echo "No frequent file, skipping merge."
           fi
 
-      - name: Commit and push
+      - name: Commit and push updated files
         timeout-minutes: 5
         continue-on-error: true
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add frequent_servers.txt daily_servers.txt hourly_servers.txt 2>/dev/null || true
+          if [ ! -f discovered_branches.json ]; then
+            echo '[]' > discovered_branches.json
+          fi
+          git add frequent_servers.txt daily_servers.txt hourly_servers.txt discovered_branches.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
@@ -71,3 +74,11 @@ jobs:
             git pull --rebase --strategy-option ours
             git push
           fi
+
+      - name: Upload full file as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: frequent_servers.txt-${{ github.run_id }}
+          path: frequent_servers.txt
+          retention-days: 1
