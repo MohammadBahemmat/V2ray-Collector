@@ -1,9 +1,15 @@
 #!/usr/bin/env python3
-import os, sys, asyncio, aiohttp, re, json, logging, base64
-from collections import Counter
+import os
+import asyncio
+import aiohttp
+import re
+import json
+import logging
+import base64
 
 # ---------- پیکربندی ----------
 DAILY_FILE = "daily_servers.txt"
+HOURLY_FILE = "hourly_servers.txt"
 OUTPUT_FILE = "frequent_servers.txt"
 CACHE_FILE = "raw_urls_cache.json"
 MAX_CONCURRENT = 80
@@ -43,14 +49,15 @@ async def main():
         urls = json.load(f)
     logger.info(f"Loaded {len(urls)} URLs from cache")
 
-    # بارگذاری کانفیگ‌های روزانه (مبنا)
-    daily_configs = set()
-    if os.path.exists(DAILY_FILE):
-        with open(DAILY_FILE) as f:
-            daily_configs = {line.strip() for line in f if line.strip()}
-        logger.info(f"Loaded {len(daily_configs)} configs from {DAILY_FILE}")
-    else:
-        logger.warning(f"{DAILY_FILE} not found, all found configs will be output.")
+    # بارگذاری کانفیگ‌های مبنا از daily و hourly
+    base_configs = set()
+    for base_file in (DAILY_FILE, HOURLY_FILE):
+        if os.path.exists(base_file):
+            with open(base_file) as f:
+                base_configs.update(line.strip() for line in f if line.strip())
+            logger.info(f"Loaded configs from {base_file}")
+    if not base_configs:
+        logger.warning("No daily or hourly configs found; all found configs will be considered new.")
 
     sem = asyncio.Semaphore(MAX_CONCURRENT)
     async with aiohttp.ClientSession() as session:
@@ -62,7 +69,7 @@ async def main():
         if not content or isinstance(content, Exception):
             continue
         try:
-            # تلاش برای decode محتوای base64
+            # بررسی محتوای base64
             stripped = content.strip()
             if 16 <= len(stripped) <= 200000 and re.fullmatch(r'^[A-Za-z0-9_\-=\s/]+$', stripped[:2000]):
                 padding = (4 - len(stripped) % 4) % 4
@@ -75,9 +82,9 @@ async def main():
         except:
             pass
 
-    # فقط کانفیگ‌های جدید نسبت به روزانه
-    truly_new = [c for c in new_configs if c not in daily_configs]
-    logger.info(f"Found {len(truly_new)} new configs (out of {len(new_configs)} total)")
+    # فقط کانفیگ‌های جدید (نه در daily و نه در hourly)
+    truly_new = [c for c in new_configs if c not in base_configs]
+    logger.info(f"Found {len(truly_new)} configs not in daily or hourly (out of {len(new_configs)} total)")
 
     if truly_new:
         with open(OUTPUT_FILE, "w") as f:
