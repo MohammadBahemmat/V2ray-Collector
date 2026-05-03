@@ -5,6 +5,10 @@ on:
     - cron: '*/15 * * * *'   # هر ۱۵ دقیقه
   workflow_dispatch:
 
+concurrency:
+  group: collector-update
+  cancel-in-progress: false
+
 jobs:
   collect:
     runs-on: ubuntu-latest
@@ -40,13 +44,22 @@ jobs:
             python src/dedup_configs.py frequent_servers.txt
           fi
 
+      - name: Merge new configs into daily and hourly files
+        run: |
+          if [ -f frequent_servers.txt ]; then
+            python src/merge_unique.py frequent_servers.txt daily_servers.txt
+            python src/merge_unique.py frequent_servers.txt hourly_servers.txt
+          else
+            echo "No frequent file, skipping merge."
+          fi
+
       - name: Commit and push
         timeout-minutes: 5
         continue-on-error: true
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add frequent_servers.txt 2>/dev/null || true
+          git add frequent_servers.txt daily_servers.txt hourly_servers.txt 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
