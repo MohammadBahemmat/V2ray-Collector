@@ -52,7 +52,7 @@ CONFIG_DEFAULTS = {
 # 🔎 بخش ۲: منابع و کوئری‌ها
 # ============================
 COMMON_BRANCH_NAMES = [
-
+    
 ]
 
 REPO_SEARCH_QUERIES = sorted(list(set([
@@ -1143,8 +1143,8 @@ async def main():
     searched_queries = set(checkpoint.get("searched_queries", []))
     scanned_manual_repos = set(checkpoint.get("scanned_manual_repos", []))
 
-    # در اجرای ساعتی، مخازن دستی هر بار دوباره بررسی شوند
-    if run_mode == "hourly":
+    # در اجرای ساعتی و ۱۵‌دقیقه‌ای، مخازن دستی هر بار دوباره بررسی شوند
+    if run_mode in ("hourly", "frequent"):
         scanned_manual_repos = set()
 
     connector = aiohttp.TCPConnector(limit=CONFIG_DEFAULTS["AIOHTTP_CONNECTION_LIMIT"])
@@ -1246,8 +1246,8 @@ async def main():
         for u in source_urls:
             if 'github.com' not in u and 'raw.githubusercontent.com' not in u:
                 continue
-            if run_mode in ("hourly",):
-                # در مد ساعتی URLهای تکراری هم باید دوباره دانلود شوند
+            if run_mode in ("hourly", "frequent"):
+                # در مد ساعتی و ۱۵دقیقه‌ای URLهای تکراری هم باید دوباره دانلود شوند
                 pass
             else:
                 if u in processed_urls_session:
@@ -1298,6 +1298,35 @@ async def main():
                 logger.info(f"💾 Saved {len(new_configs)} new configs to '{hourly_file}'")
             else:
                 logger.info("👍 No new configs found. hourly_servers.txt will not be created/updated.")
+
+        elif run_mode == "frequent":
+            daily_file = "daily_servers.txt"
+            hourly_file = "hourly_servers.txt"
+            frequent_file = "frequent_servers.txt"
+
+            daily_configs = set()
+            if os.path.exists(daily_file):
+                with open(daily_file, "r", encoding="utf-8") as f:
+                    daily_configs = {line.strip() for line in f if line.strip()}
+                logger.info(f"📄 Loaded {len(daily_configs)} configs from {daily_file}")
+
+            hourly_configs = set()
+            if os.path.exists(hourly_file):
+                with open(hourly_file, "r", encoding="utf-8") as f:
+                    hourly_configs = {line.strip() for line in f if line.strip()}
+                logger.info(f"📄 Loaded {len(hourly_configs)} configs from {hourly_file}")
+
+            base_configs = daily_configs | hourly_configs
+            new_configs = [c for c in unique_configs if c not in base_configs]
+            logger.info(f"🆕 Configs not in daily or hourly: {len(new_configs)}")
+
+            if new_configs:
+                with open(frequent_file, "w", encoding="utf-8") as f:
+                    f.write("\n".join(new_configs))
+                logger.info(f"💾 Saved {len(new_configs)} configs to '{frequent_file}'")
+            else:
+                logger.info("No new configs for frequent.")
+
         else:
             # حالت روزانه: ذخیره‌ی کل خروجی در daily_servers.txt
             output_file = "daily_servers.txt"
