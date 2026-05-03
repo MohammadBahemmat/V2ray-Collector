@@ -8,7 +8,6 @@
 <body>
 <div class="container">
 پ
-![line](line.gif)
 <h1>🚀 V2ray Collector</h1>
 
 <p>
