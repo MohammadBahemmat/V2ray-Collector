@@ -40,7 +40,7 @@ CONFIG_DEFAULTS = {
     "RATE_SLEEP_ON_LOW": 61,
 
     "MAX_RECURSION_DEPTH": 0,
-    "MAX_FILE_BYTES": 2 * 1024 * 1024,
+    "MAX_FILE_BYTES": 10 * 1024 * 1024,
     "OUTPUT_FILE": "servers_collected.txt",
     "DB_FILE": "collector.db",
     "ENV_FILE": ".env",
