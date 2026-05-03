@@ -8,21 +8,32 @@
 <body>
 <div class="container">
 
-<marquee behavior="scroll" direction="left" scrollamount="6" 
- style="height:4px; line-height:0; display:block; margin:10px 0;">
-  <font color="#ff4d4d">█</font>
-  <font color="#ff8c00">█</font>
-  <font color="#ffd700">█</font>
-  <font color="#32cd32">█</font>
-  <font color="#1e90ff">█</font>
-  <font color="#9370db">█</font>
-  <font color="#ff4d4d">█</font>
-  <font color="#ff8c00">█</font>
-  <font color="#ffd700">█</font>
-  <font color="#32cd32">█</font>
-  <font color="#1e90ff">█</font>
-  <font color="#9370db">█</font>
-</marquee>
+<svg width="100%" height="4" viewBox="0 0 100 4" preserveAspectRatio="none">
+  <!-- قرمز -->
+  <rect width="15" height="4" fill="#ff4d4d">
+    <animate attributeName="x" from="-15" to="100" dur="3s" repeatCount="indefinite" begin="0s" />
+  </rect>
+  <!-- نارنجی -->
+  <rect width="15" height="4" fill="#ff8c00">
+    <animate attributeName="x" from="-15" to="100" dur="3s" repeatCount="indefinite" begin="0.5s" />
+  </rect>
+  <!-- زرد -->
+  <rect width="15" height="4" fill="#ffd700">
+    <animate attributeName="x" from="-15" to="100" dur="3s" repeatCount="indefinite" begin="1s" />
+  </rect>
+  <!-- سبز -->
+  <rect width="15" height="4" fill="#32cd32">
+    <animate attributeName="x" from="-15" to="100" dur="3s" repeatCount="indefinite" begin="1.5s" />
+  </rect>
+  <!-- آبی -->
+  <rect width="15" height="4" fill="#1e90ff">
+    <animate attributeName="x" from="-15" to="100" dur="3s" repeatCount="indefinite" begin="2s" />
+  </rect>
+  <!-- بنفش -->
+  <rect width="15" height="4" fill="#9370db">
+    <animate attributeName="x" from="-15" to="100" dur="3s" repeatCount="indefinite" begin="2.5s" />
+  </rect>
+</svg>
 
 <h1>🚀 V2ray Collector</h1>
 
