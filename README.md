@@ -9,20 +9,25 @@
 <div class="container">
 
 <svg width="100%" height="4" viewBox="0 0 100 4" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="e" x1="0" y1="0" x2="100%" y2="0">
-      <stop offset="0%" stop-color="#ff0000"/>
-      <stop offset="20%" stop-color="#ffaa00"/>
-      <stop offset="40%" stop-color="#00ff00"/>
-      <stop offset="60%" stop-color="#0088ff"/>
-      <stop offset="80%" stop-color="#aa00ff"/>
-      <stop offset="100%" stop-color="#ff0000"/>
-      <!-- حرکت رنگ‌ها -->
-      <animate attributeName="x1" values="-100%;100%" dur="3s" repeatCount="indefinite" />
-      <animate attributeName="x2" values="0%;200%" dur="3s" repeatCount="indefinite" />
-    </linearGradient>
-  </defs>
-  <rect width="100" height="4" fill="url(#e)"/>
+  <!-- گروه شامل رنگ‌ها را دو بار تکرار می‌کنیم تا حلقه بی‌نهایت نرم باشد -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+      values="0,0; -100,0" dur="3s" repeatCount="indefinite" />
+    <!-- تکرار اول -->
+    <rect x="0" y="0" width="16.66" height="4" fill="#ff4d4d" />
+    <rect x="16.66" y="0" width="16.66" height="4" fill="#ffaa00" />
+    <rect x="33.32" y="0" width="16.66" height="4" fill="#ffe600" />
+    <rect x="49.98" y="0" width="16.66" height="4" fill="#4caf50" />
+    <rect x="66.64" y="0" width="16.66" height="4" fill="#2196f3" />
+    <rect x="83.30" y="0" width="16.70" height="4" fill="#9c27b0" />
+    <!-- تکرار دوم (برای پیوستگی) -->
+    <rect x="100" y="0" width="16.66" height="4" fill="#ff4d4d" />
+    <rect x="116.66" y="0" width="16.66" height="4" fill="#ffaa00" />
+    <rect x="133.32" y="0" width="16.66" height="4" fill="#ffe600" />
+    <rect x="149.98" y="0" width="16.66" height="4" fill="#4caf50" />
+    <rect x="166.64" y="0" width="16.66" height="4" fill="#2196f3" />
+    <rect x="183.30" y="0" width="16.70" height="4" fill="#9c27b0" />
+  </g>
 </svg>
 
 <h1>🚀 V2ray Collector</h1>
