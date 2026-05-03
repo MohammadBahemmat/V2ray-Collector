@@ -8,6 +8,22 @@
 <body>
 <div class="container">
 
+<marquee behavior="scroll" direction="left" scrollamount="6" 
+ style="height:4px; line-height:0; display:block; margin:10px 0;">
+  <font color="#ff4d4d">█</font>
+  <font color="#ff8c00">█</font>
+  <font color="#ffd700">█</font>
+  <font color="#32cd32">█</font>
+  <font color="#1e90ff">█</font>
+  <font color="#9370db">█</font>
+  <font color="#ff4d4d">█</font>
+  <font color="#ff8c00">█</font>
+  <font color="#ffd700">█</font>
+  <font color="#32cd32">█</font>
+  <font color="#1e90ff">█</font>
+  <font color="#9370db">█</font>
+</marquee>
+
 <h1>🚀 V2ray Collector</h1>
 
 <p>
