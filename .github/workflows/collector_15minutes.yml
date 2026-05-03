@@ -48,15 +48,6 @@ jobs:
             python src/dedup_configs.py frequent_servers.txt
           fi
 
-      - name: Merge new configs into daily and hourly files
-        run: |
-          if [ -f frequent_servers.txt ]; then
-            python src/merge_unique.py frequent_servers.txt daily_servers.txt
-            python src/merge_unique.py frequent_servers.txt hourly_servers.txt
-          else
-            echo "No frequent file, skipping merge."
-          fi
-
       - name: Commit and push updated files
         timeout-minutes: 5
         continue-on-error: true
@@ -66,7 +57,7 @@ jobs:
           if [ ! -f discovered_branches.json ]; then
             echo '[]' > discovered_branches.json
           fi
-          git add frequent_servers.txt daily_servers.txt hourly_servers.txt discovered_branches.json 2>/dev/null || true
+          git add frequent_servers.txt discovered_branches.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
