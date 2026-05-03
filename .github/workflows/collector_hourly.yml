@@ -52,14 +52,6 @@ jobs:
             echo "File hourly_servers.txt not found, skipping dedup."
           fi
 
-      - name: Merge new configs into daily file
-        run: |
-          if [ -f hourly_servers.txt ]; then
-            python src/merge_unique.py hourly_servers.txt daily_servers.txt
-          else
-            echo "No hourly file, skipping merge."
-          fi
-
       - name: Commit and push updated files
         timeout-minutes: 5
         continue-on-error: true
@@ -69,11 +61,11 @@ jobs:
           if [ ! -f discovered_branches.json ]; then
             echo '[]' > discovered_branches.json
           fi
-          git add hourly_servers.txt daily_servers.txt checkpoint.json discovered_branches.json raw_urls_cache.json 2>/dev/null || true
+          git add hourly_servers.txt checkpoint.json discovered_branches.json raw_urls_cache.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "🔄 Update servers, checkpoint and branches [skip ci]"
+            git commit -m "🔄 Update hourly servers [skip ci]"
             git pull --rebase --strategy-option ours
             git push
           fi
