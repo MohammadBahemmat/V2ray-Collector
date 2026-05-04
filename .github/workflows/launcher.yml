@@ -9,10 +9,12 @@ jobs:
   trigger-daily:
     runs-on: ubuntu-latest
     steps:
+      - name: Wait 15 seconds for environment to settle
+        run: sleep 15
+
       - name: Trigger Daily Collector
         uses: actions/github-script@v7
         env:
-          # جایگزین کردن توکن پیش‌فرض با توکن کلاسیک خودمان
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           script: |
