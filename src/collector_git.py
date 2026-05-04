@@ -55,7 +55,7 @@ COMMON_BRANCH_NAMES = [
     'codex/phase-1-foundation', 'codex/render-multiplayer-server', 'dev', 'develop',
     'development', 'gh-pages', 'main', 'master',
     'patch-1', 'postgresql-dialect', 'rm', 'SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev',
-    'smart_core', 'Stable', 'UwU', 'v2-rewrite'
+    'smart_core', 'Stable', 'UwU', 'v2-rewrite', '3.0', 'Her'
 ]
 
 REPO_SEARCH_QUERIES = sorted(list(set([
