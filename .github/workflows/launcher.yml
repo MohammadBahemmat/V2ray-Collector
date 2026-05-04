@@ -2,8 +2,8 @@ name: Launcher (Start Daily Chain)
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # هر روز ساعت 00:00 UTC
-  workflow_dispatch:       # امکان اجرای دستی
+    - cron: '30 20 * * *'   # ساعت 00:00 تهران (20:30 UTC)
+  workflow_dispatch:         # امکان اجرای دستی
 
 jobs:
   trigger-daily:
