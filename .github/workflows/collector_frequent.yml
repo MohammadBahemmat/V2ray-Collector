@@ -45,10 +45,10 @@ jobs:
         id: rate-check
         timeout-minutes: 6
         run: |
-          THRESHOLD=2500
-          MAX_WAIT=300
+          THRESHOLD=2400
+          MAX_WAIT=200
           ELAPSED=0
-          INTERVAL=5
+          INTERVAL=10
           TOKEN="${{ steps.app-token.outputs.token }}"
 
           while [ $ELAPSED -le $MAX_WAIT ]; do
