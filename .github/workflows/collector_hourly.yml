@@ -105,8 +105,11 @@ jobs:
           path: hourly_servers.txt
           retention-days: 1
 
-      # --- فعال‌سازی خودکار Frequent (نوبت اول) ---
-      - name: Trigger First Frequent Collector
+      # --- ۲۰ دقیقه صبر کن سپس Frequent اول را راه‌اندازی کن ---
+      - name: Wait 20 minutes before triggering Frequent 1
+        run: sleep 1200
+
+      - name: Trigger Frequent 1
         if: success()
         uses: actions/github-script@v7
         with:
