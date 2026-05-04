@@ -64,7 +64,7 @@ jobs:
           if [ ! -f discovered_branches.json ]; then
             echo '[]' > discovered_branches.json
           fi
-          git add frequent_servers.txt discovered_branches.json 2>/dev/null || true
+          git add frequent_servers.txt checkpoint.json discovered_branches.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
