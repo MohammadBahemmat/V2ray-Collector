@@ -1,9 +1,7 @@
 name: Hourly Collector (Fast)
 
 on:
-  schedule:
-    - cron: '0 * * * *'   # هر ساعت رأس دقیقه صفر
-  workflow_dispatch:
+  workflow_dispatch:   # از طرف Daily یا دستی
 
 concurrency:
   group: collector-update
@@ -28,6 +26,35 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r config/requirements.txt
+
+      # --- پیش‌بررسی Core Rate Limit ---
+      - name: Pre-check GitHub Core Rate Limit
+        id: rate-check
+        timeout-minutes: 6
+        run: |
+          THRESHOLD=2500
+          MAX_WAIT=300
+          ELAPSED=0
+          INTERVAL=5
+          TOKEN="${{ secrets.GH_TOKEN }}"
+
+          while [ $ELAPSED -le $MAX_WAIT ]; do
+            RESPONSE=$(curl -s -H "Authorization: token $TOKEN" https://api.github.com/rate_limit)
+            CORE_REMAINING=$(echo "$RESPONSE" | python -c "import sys,json; print(json.load(sys.stdin)['resources']['core']['remaining'])")
+            echo "Core Remaining: $CORE_REMAINING (need at least $THRESHOLD)"
+
+            if [ "$CORE_REMAINING" -ge "$THRESHOLD" ]; then
+              echo "✅ Enough Core available. Proceeding with scan."
+              exit 0
+            fi
+
+            echo "⏳ Low Core. Waiting ${INTERVAL}s... ($ELAPSED/$MAX_WAIT elapsed)"
+            sleep $INTERVAL
+            ELAPSED=$((ELAPSED + INTERVAL))
+          done
+
+          echo "❌ Timeout waiting for Core limit. Exiting gracefully."
+          exit 1
 
       - name: Run collector
         env:
@@ -77,3 +104,19 @@ jobs:
           name: hourly_servers.txt-${{ github.run_id }}
           path: hourly_servers.txt
           retention-days: 1
+
+      # --- فعال‌سازی خودکار Frequent (نوبت اول) ---
+      - name: Trigger First Frequent Collector
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'collector_frequent.yml',
+              ref: 'main',
+              inputs: {
+                run_number: '1'
+              }
+            });
