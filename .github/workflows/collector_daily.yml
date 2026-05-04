@@ -117,7 +117,3 @@ jobs:
                 run_number: '1'
               }
             });
-              repo: context.repo.repo,
-              workflow_id: 'collector_hourly.yml',
-              ref: 'main'
-            });
