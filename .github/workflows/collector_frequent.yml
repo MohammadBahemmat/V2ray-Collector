@@ -113,8 +113,12 @@ jobs:
           path: frequent_servers.txt
           retention-days: 1
 
-      # --- زنجیره‌سازی نوبت دوم Frequent ---
-      - name: Trigger Second Frequent Collector (if first run)
+      # --- ۲۰ دقیقه صبر کن سپس کار بعدی را راه‌اندازی کن ---
+      - name: Wait 20 minutes before triggering next job
+        if: success()
+        run: sleep 1200
+
+      - name: Trigger Frequent 2 (if run_number is 1)
         if: success() && github.event.inputs.run_number == '1'
         uses: actions/github-script@v7
         with:
@@ -127,4 +131,16 @@ jobs:
               inputs: {
                 run_number: '2'
               }
+            });
+
+      - name: Trigger Hourly (if run_number is 2)
+        if: success() && github.event.inputs.run_number == '2'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'collector_hourly.yml',
+              ref: 'main'
             });
