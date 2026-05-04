@@ -1,0 +1,21 @@
+name: Launcher (Start Daily Chain)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # هر روز ساعت 00:00 UTC
+  workflow_dispatch:       # امکان اجرای دستی
+
+jobs:
+  trigger-daily:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Daily Collector
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'collector_daily.yml',
+              ref: 'main'
+            });
