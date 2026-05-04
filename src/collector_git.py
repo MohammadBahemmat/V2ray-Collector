@@ -1129,7 +1129,9 @@ async def main():
 
     # --- خواندن حالت اجرا فقط یک بار ---
     run_mode = os.getenv("RUN_MODE", "daily")
-
+    max_age_env = os.getenv("MAX_AGE_HOURS")
+    if max_age_env is not None:
+        CONFIG_DEFAULTS["MAX_AGE_HOURS"] = float(max_age_env)
     token = get_github_token()
     headers = {
         "Accept": "application/vnd.github.v3+json",
