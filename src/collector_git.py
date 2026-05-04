@@ -1319,7 +1319,13 @@ async def main():
                     hourly_configs = {line.strip() for line in f if line.strip()}
                 logger.info(f"📄 Loaded {len(hourly_configs)} configs from {hourly_file}")
 
-            base_configs = daily_configs | hourly_configs
+            frequent_old = set()
+            if os.path.exists(frequent_file):
+                with open(frequent_file, "r", encoding="utf-8") as f:
+                    frequent_old = {line.strip() for line in f if line.strip()}
+                logger.info(f"📄 Loaded {len(frequent_old)} previous frequent configs")
+
+            base_configs = daily_configs | hourly_configs | frequent_old
             new_configs = [c for c in unique_configs if c not in base_configs]
             logger.info(f"🆕 Configs not in daily or hourly: {len(new_configs)}")
 
