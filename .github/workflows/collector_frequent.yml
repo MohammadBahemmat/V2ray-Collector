@@ -1,9 +1,12 @@
-name: Frequent Collector (15 min)
+name: Frequent Collector (20 min)
 
 on:
-  schedule:
-    - cron: '5,20,35,50 * * * *'
   workflow_dispatch:
+    inputs:
+      run_number:
+        description: 'شماره اجرا (1 یا 2)'
+        required: false
+        default: '1'
 
 concurrency:
   group: collector-update
@@ -12,7 +15,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
 
@@ -29,6 +32,35 @@ jobs:
       - name: Install dependencies
         run: pip install -r config/requirements.txt
 
+      # --- پیش‌بررسی Core Rate Limit (با توکن مخصوص Frequent) ---
+      - name: Pre-check GitHub Core Rate Limit
+        id: rate-check
+        timeout-minutes: 6
+        run: |
+          THRESHOLD=2500
+          MAX_WAIT=300
+          ELAPSED=0
+          INTERVAL=5
+          TOKEN="${{ secrets.GH_TOKEN_FREQUENT }}"
+
+          while [ $ELAPSED -le $MAX_WAIT ]; do
+            RESPONSE=$(curl -s -H "Authorization: token $TOKEN" https://api.github.com/rate_limit)
+            CORE_REMAINING=$(echo "$RESPONSE" | python -c "import sys,json; print(json.load(sys.stdin)['resources']['core']['remaining'])")
+            echo "Core Remaining: $CORE_REMAINING (need at least $THRESHOLD)"
+
+            if [ "$CORE_REMAINING" -ge "$THRESHOLD" ]; then
+              echo "✅ Enough Core available. Proceeding with scan."
+              exit 0
+            fi
+
+            echo "⏳ Low Core. Waiting ${INTERVAL}s... ($ELAPSED/$MAX_WAIT elapsed)"
+            sleep $INTERVAL
+            ELAPSED=$((ELAPSED + INTERVAL))
+          done
+
+          echo "❌ Timeout waiting for Core limit. Exiting gracefully."
+          exit 1
+
       - name: Generate a token for the GitHub App
         id: app-token
         uses: actions/create-github-app-token@v2
@@ -36,11 +68,11 @@ jobs:
           app-id: ${{ secrets.GH_APP_ID }}
           private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
 
-      - name: Run frequent collector (15-min scan using API)
+      - name: Run frequent collector
         env:
           GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
           RUN_MODE: frequent
-          MAX_AGE_HOURS: 0.25
+          MAX_AGE_HOURS: 0.33   # حدود 20 دقیقه
         run: python src/collector_git.py
 
       - name: Split joined proxy links
@@ -80,3 +112,19 @@ jobs:
           name: frequent_servers.txt-${{ github.run_id }}
           path: frequent_servers.txt
           retention-days: 1
+
+      # --- زنجیره‌سازی نوبت دوم Frequent ---
+      - name: Trigger Second Frequent Collector (if first run)
+        if: success() && github.event.inputs.run_number == '1'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'collector_frequent.yml',
+              ref: 'main',
+              inputs: {
+                run_number: '2'
+              }
+            });
