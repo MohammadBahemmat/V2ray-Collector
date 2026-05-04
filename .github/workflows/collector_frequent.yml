@@ -32,7 +32,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r config/requirements.txt
 
-      # --- پیش‌بررسی Core Rate Limit (با توکن مخصوص Frequent) ---
+      # --- تولید توکن GitHub App (باید قبل از Pre-check انجام شود) ---
+      - name: Generate a token for the GitHub App
+        id: app-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ secrets.GH_APP_ID }}
+          private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
+
+      # --- پیش‌بررسی Core Rate Limit با توکن App ---
       - name: Pre-check GitHub Core Rate Limit
         id: rate-check
         timeout-minutes: 6
@@ -41,7 +49,7 @@ jobs:
           MAX_WAIT=300
           ELAPSED=0
           INTERVAL=5
-          TOKEN="${{ secrets.GH_TOKEN_FREQUENT }}"
+          TOKEN="${{ steps.app-token.outputs.token }}"
 
           while [ $ELAPSED -le $MAX_WAIT ]; do
             RESPONSE=$(curl -s -H "Authorization: token $TOKEN" https://api.github.com/rate_limit)
@@ -61,18 +69,12 @@ jobs:
           echo "❌ Timeout waiting for Core limit. Exiting gracefully."
           exit 1
 
-      - name: Generate a token for the GitHub App
-        id: app-token
-        uses: actions/create-github-app-token@v2
-        with:
-          app-id: ${{ secrets.GH_APP_ID }}
-          private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
-
+      # --- اجرای collector با توکن App ---
       - name: Run frequent collector
         env:
           GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
           RUN_MODE: frequent
-          MAX_AGE_HOURS: 0.33   # حدود 20 دقیقه
+          MAX_AGE_HOURS: 0.33
         run: python src/collector_git.py
 
       - name: Split joined proxy links
@@ -113,7 +115,7 @@ jobs:
           path: frequent_servers.txt
           retention-days: 1
 
-      # --- ۲۰ دقیقه صبر کن سپس کار بعدی را راه‌اندازی کن ---
+      # --- وقفه ۲۰ دقیقه‌ای و سپس زنجیره‌سازی ---
       - name: Wait 20 minutes before triggering next job
         if: success()
         run: sleep 1200
