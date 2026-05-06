@@ -15,7 +15,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     permissions:
       contents: write
 
@@ -32,6 +32,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r config/requirements.txt
 
+      - name: Wait 20 minutes before starting scan
+        run: sleep 1200
+        
       # --- تولید توکن GitHub App (باید قبل از Pre-check انجام شود) ---
       - name: Generate a token for the GitHub App
         id: app-token
