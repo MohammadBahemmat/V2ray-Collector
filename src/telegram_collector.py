@@ -6,6 +6,7 @@ import sqlite3
 import time
 import logging
 from pathlib import Path
+from datetime import datetime, timezone
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -70,6 +71,7 @@ def main():
     if not channels:
         return
 
+    channel_results = []  # برای گزارش نهایی
     all_configs = set()
     for idx, ch in enumerate(channels, 1):
         logger.info(f"📡 [{idx}/{len(channels)}] واکشی کانال: {ch}")
@@ -78,13 +80,25 @@ def main():
             found = extract_configs(html)
             logger.info(f"   ↳ {len(found)} کانفیگ استخراج شد.")
             all_configs.update(found)
-        if idx < len(channels):  # برای کانال آخر sleep نکنیم
+            channel_results.append((ch, len(found)))
+        else:
+            channel_results.append((ch, 0))
+
+        if idx < len(channels):
             time.sleep(SLEEP_BETWEEN_CHANNELS)
 
     if all_configs:
         save_to_db(all_configs)
     else:
         logger.warning("هیچ کانفیگی یافت نشد.")
+
+    # --- ذخیره گزارش عملکرد کانال‌ها ---
+    with open("channel_report.txt", "w", encoding="utf-8") as f:
+        f.write(f"Telegram Channel Report — {datetime.now(timezone.utc).isoformat()}\n\n")
+        for ch, count in channel_results:
+            f.write(f"{ch}: {count} configs\n")
+    logger.info("📊 گزارش کانال‌ها در channel_report.txt ذخیره شد.")
+
     logger.info("✅ پایان جمع‌آوری تلگرام.")
 
 if __name__ == "__main__":
