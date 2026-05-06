@@ -1,0 +1,35 @@
+name: Temp Channel Cleaner
+
+on:
+  workflow_dispatch:
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run cleaner
+        run: python channel_cleaner.py
+
+      - name: Upload cleaned list
+        uses: actions/upload-artifact@v4
+        with:
+          name: cleaned-channels
+          path: channels_cleaned.txt
+
+      - name: Upload invalid list
+        uses: actions/upload-artifact@v4
+        with:
+          name: invalid-channels
+          path: invalid_channels.txt
