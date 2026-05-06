@@ -1,0 +1,8 @@
+# channels.txt - لیست کانال‌های تلگرام برای جمع‌آوری کانفیگ
+v2ray_configs
+Surfboardv2ray
+VmessProtocol
+VlessConfig
+NekorayConfig
+Hysteria2Config
+free_v2ray_configs
