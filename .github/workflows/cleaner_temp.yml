@@ -1,4 +1,4 @@
-name: Temp Channel Cleaner
+name: Temp Channel Cleaner (commit results)
 
 on:
   workflow_dispatch:
@@ -7,6 +7,9 @@ jobs:
   clean:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    permissions:
+      contents: write          # اجازهٔ commit و push
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -22,14 +25,12 @@ jobs:
       - name: Run cleaner
         run: python channel_cleaner.py
 
-      - name: Upload cleaned list
-        uses: actions/upload-artifact@v4
-        with:
-          name: cleaned-channels
-          path: channels_cleaned.txt
-
-      - name: Upload invalid list
-        uses: actions/upload-artifact@v4
-        with:
-          name: invalid-channels
-          path: invalid_channels.txt
+      # ثبت فایل‌های جدید در مخزن
+      - name: Commit cleaned files
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add channels_cleaned.txt invalid_channels.txt
+          git commit -m "Add cleaned and invalid channel lists" || echo "No changes to commit"
+          git pull --rebase --strategy-option ours
+          git push
