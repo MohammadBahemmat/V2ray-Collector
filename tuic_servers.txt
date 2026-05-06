@@ -6,6 +6,7 @@ tuic://19c80ce9-0935-41b9-b077-277621316a87:19c80ce9-0935-41b9-b077-277621316a87
 tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@aew23y.yydzx.xyz:12603?alpn=h3&congestion_control=bbr&sni=aew23y.yydzx.xyz&udp_relay_mode=native#%F0%9F%87%AD%F0%9F%87%B0HK_51
 tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@f707vl.yydzx.xyz:14377?alpn=h3&congestion_control=bbr&sni=f707vl.yydzx.xyz&udp_relay_mode=native#%E2%9D%93Other_5
 tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@p060kq.yydzx.xyz:14537?alpn=h3&congestion_control=bbr&sni=p060kq.yydzx.xyz&udp_relay_mode=native#%E2%9D%93Other_4
+tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@rybzf0.yydzx.xyz:17838?alpn=h3&congestion_control=bbr&sni=rybzf0.yydzx.xyz#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2014%20TG%3A%20%40nodpai
 tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@rybzf0.yydzx.xyz:17838?alpn=h3&congestion_control=bbr&sni=rybzf0.yydzx.xyz#🇯🇵
 tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@rybzf0.yydzx.xyz:17838?alpn=h3&congestion_control=bbr&sni=rybzf0.yydzx.xyz&udp=true&udp_relay_mode=native#%F0%9F%87%B2%F0%9F%87%B4MO_1
 tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@wqytlr.yydzx.xyz:12473?alpn=h3&congestion_control=bbr&sni=wqytlr.yydzx.xyz&udp_relay_mode=native#%F0%9F%87%AD%F0%9F%87%B0HK_50
