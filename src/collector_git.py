@@ -1281,81 +1281,64 @@ async def main():
     unique_configs = sorted({c.strip() for c in all_configs if c.strip()})
     logger.info(f"✅ Total unique configs in DB: {len(unique_configs)}")
 
-    if unique_configs:
-        if run_mode == "hourly":
-            daily_file = "daily_servers.txt"
-            hourly_file = "hourly_servers.txt"
-
-            daily_configs = set()
-            if os.path.exists(daily_file):
-                with open(daily_file, "r", encoding="utf-8") as f:
-                    daily_configs = {line.strip() for line in f if line.strip()}
-                logger.info(f"📄 Loaded {len(daily_configs)} configs from {daily_file}")
-            else:
-                logger.warning(f"⚠️ {daily_file} not found. All current configs will be treated as new.")
-
-            new_configs = [c for c in unique_configs if c not in daily_configs]
-            logger.info(f"🆕 New configs not in daily file: {len(new_configs)}")
-
-            if new_configs:
-                with open(hourly_file, "w", encoding="utf-8") as f:
-                    f.write("\n".join(new_configs))
-                logger.info(f"💾 Saved {len(new_configs)} new configs to '{hourly_file}'")
-            else:
-                logger.info("👍 No new configs found. hourly_servers.txt will not be created/updated.")
-
-        elif run_mode == "frequent":
-            daily_file = "daily_servers.txt"
-            hourly_file = "hourly_servers.txt"
-            frequent_file = "frequent_servers.txt"
-
-            daily_configs = set()
-            if os.path.exists(daily_file):
-                with open(daily_file, "r", encoding="utf-8") as f:
-                    daily_configs = {line.strip() for line in f if line.strip()}
-                logger.info(f"📄 Loaded {len(daily_configs)} configs from {daily_file}")
-
-            hourly_configs = set()
-            if os.path.exists(hourly_file):
-                with open(hourly_file, "r", encoding="utf-8") as f:
-                    hourly_configs = {line.strip() for line in f if line.strip()}
-                logger.info(f"📄 Loaded {len(hourly_configs)} configs from {hourly_file}")
-
-            frequent_old = set()
-            if os.path.exists(frequent_file):
-                with open(frequent_file, "r", encoding="utf-8") as f:
-                    frequent_old = {line.strip() for line in f if line.strip()}
-                logger.info(f"📄 Loaded {len(frequent_old)} previous frequent configs")
-
-            base_configs = daily_configs | hourly_configs | frequent_old
-            new_configs = [c for c in unique_configs if c not in base_configs]
-            logger.info(f"🆕 Configs not in daily or hourly: {len(new_configs)}")
-
-            if new_configs:
-                with open(frequent_file, "w", encoding="utf-8") as f:
-                    f.write("\n".join(new_configs))
-                logger.info(f"💾 Saved {len(new_configs)} configs to '{frequent_file}'")
-            else:
-                logger.info("No new configs for frequent.")
-
-        else:
-            # حالت روزانه: ذخیره‌ی کل خروجی در daily_servers.txt
-            output_file = "daily_servers.txt"
-            with open(output_file, "w", encoding="utf-8") as f:
-                f.write("\n".join(unique_configs))
-            logger.info(f"💾 Saved {len(unique_configs)} configs to '{output_file}'")
-    else:
-        logger.warning("⚠️ No configs found.")
-
+    # --- مرحله نهایی: ادغام و تفکیک پروتکل‌ها ---
+    await finalize_output()
+    
     if CORE_LIMIT_REACHED:
         logger.warning("⛔ Script finished early because Core limit was reached.")
     else:
         logger.info("✅ Script completed normally without hitting Core limit.")
 
+    # --- مرحله نهایی: ادغام و تفکیک پروتکل‌ها ---
+    await finalize_output()
+
     logger.info(f"--- Finished in {int(time.time() - start_time)}s ---")
     logger.info(f"Estimated Core used: {TOTAL_CORE_USED}")
     os._exit(0)
 
+# ============================
+# 🗂️ بخش ۱۰: ذخیره‌سازی هوشمند و تفکیک پروتکل‌ها (جدید)
+# ============================
+async def finalize_output():
+    """فایل all_servers.txt را با داده‌های جدید به‌روز کرده و پروتکل‌ها را تفکیک می‌کند."""
+    logger.info("--- Finalizing Output: Smart Merge & Protocol Split ---")
+    
+    # ۱. خواندن فایل اصلی موجود (اگر وجود دارد)
+    output_file = "all_servers.txt"
+    existing_configs = set()
+    if os.path.exists(output_file):
+        with open(output_file, "r", encoding="utf-8") as f:
+            existing_configs = {line.strip() for line in f if line.strip()}
+        logger.info(f"📄 Loaded {len(existing_configs)} existing configs from {output_file}")
+
+    # ۲. خواندن کانفیگ‌های جدید از دیتابیس
+    new_configs = set(await db_get_all_configs())  # استفاده از تابع موجود در فایل
+    logger.info(f"🆕 Newly scraped configs from DB: {len(new_configs)}")
+
+    # ۳. ادغام و بازنویسی فایل اصلی
+    all_configs = sorted(existing_configs | new_configs)
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(all_configs) + "\n")
+    logger.info(f"💾 Saved {len(all_configs)} total configs to '{output_file}' (added {len(all_configs) - len(existing_configs)} new)")
+
+    # ۴. تفکیک پروتکل‌ها و ذخیره‌سازی در فایل‌های جداگانه
+    protocols = {}
+    for config in all_configs:
+        # استخراج نام پروتکل (مثلاً vmess, vless, trojan)
+        proto = config.split('://')[0] if '://' in config else 'other'
+        if proto not in protocols:
+            protocols[proto] = []
+        protocols[proto].append(config)
+
+    for proto, configs in protocols.items():
+        proto_file = f"{proto}_servers.txt"
+        # مرتب‌سازی برای جلوگیری از تغییرات بیهوده در گیت
+        with open(proto_file, "w", encoding="utf-8") as f:
+            f.write("\n".join(sorted(configs)) + "\n")
+        logger.info(f"📁 Saved {len(configs)} configs to '{proto_file}'")
+
+    logger.info("✅ Output finalized successfully.")
+    
 if __name__ == "__main__":
     if os.name == 'nt':
         try:
