@@ -1,14 +1,14 @@
-name: Unified Collector (15 min)
+name: Unified Collector (15 min, dual token)
 
 on:
   schedule:
-    - cron: '*/15 * * * *'   # هر ۱۵ دقیقه اجرا می‌شود
-  workflow_dispatch:         # امکان اجرای دستی
+    - cron: '*/15 * * * *'   # هر ۱۵ دقیقه (دقایق 0, 15, 30, 45)
+  workflow_dispatch:
 
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 20        # زمان کافی برای اسکن و پردازش
+    timeout-minutes: 20
     permissions:
       contents: write
 
@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r config/requirements.txt
 
-      # استفاده از GitHub App برای دریافت توکن پایدارتر
+      # همیشه توکن اپ را تولید کن (حتی اگر استفاده نشود، اشکالی ندارد)
       - name: Generate GitHub App token
         id: app-token
         uses: actions/create-github-app-token@v2
@@ -33,14 +33,26 @@ jobs:
           app-id: ${{ secrets.GH_APP_ID }}
           private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
 
+      # تشخیص دقیقهٔ فعلی و انتخاب توکن مناسب
+      - name: Select token based on minute
+        id: select-token
+        run: |
+          MINUTE=$(date +%M)
+          if [ "$MINUTE" = "00" ] || [ "$MINUTE" = "15" ]; then
+            echo "::set-output name=token::${{ secrets.GH_TOKEN }}"
+            echo "Using Classic token for minute $MINUTE"
+          else
+            echo "::set-output name=token::${{ steps.app-token.outputs.token }}"
+            echo "Using GitHub App token for minute $MINUTE"
+          fi
+
       - name: Run collector
         env:
-          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
+          GITHUB_TOKEN: ${{ steps.select-token.outputs.token }}
           RUN_MODE: frequent
-          MAX_AGE_HOURS: 0.25  # فقط ۱۵ دقیقه اخیر
+          MAX_AGE_HOURS: 0.25
         run: python src/collector_git.py
 
-      # پردازش‌های تکمیلی روی فایل اصلی
       - name: Split joined proxy links
         run: |
           if [ -f all_servers.txt ]; then
@@ -62,7 +74,6 @@ jobs:
           if [ ! -f discovered_branches.json ]; then
             echo '[]' > discovered_branches.json
           fi
-          # اضافه کردن all_servers.txt و همه فایل‌های پروتکل‌ها
           git add all_servers.txt *_servers.txt checkpoint.json discovered_branches.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
