@@ -8,7 +8,7 @@ on:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 60
     permissions:
       contents: write
 
@@ -41,10 +41,10 @@ jobs:
         run: |
           MINUTE=$(date +%M)
           if [ "$MINUTE" = "00" ] || [ "$MINUTE" = "15" ]; then
-            echo "::set-output name=token::${{ secrets.GH_TOKEN }}"
+            echo "token=${{ secrets.GH_TOKEN }}" >> $GITHUB_OUTPUT
             echo "Using Classic token for minute $MINUTE"
           else
-            echo "::set-output name=token::${{ steps.app-token.outputs.token }}"
+            echo "token=${{ steps.app-token.outputs.token }}" >> $GITHUB_OUTPUT
             echo "Using GitHub App token for minute $MINUTE"
           fi
 
@@ -76,7 +76,7 @@ jobs:
           if [ ! -f discovered_branches.json ]; then
             echo '[]' > discovered_branches.json
           fi
-          git add all_servers.txt *_servers.txt checkpoint.json discovered_branches.json 2>/dev/null || true
+          git add all_servers.txt *_servers.txt checkpoint.json discovered_branches.json channel_report.txt 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
