@@ -3,3 +3,4 @@ aiosqlite
 python-dotenv
 tqdm
 backoff
+requests
