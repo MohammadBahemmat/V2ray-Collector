@@ -1,641 +1,642 @@
-Telegram Channel Report — last update: 2026-05-07T12:17:45.767138+00:00
+Telegram Channel Report — last update: 2026-05-07T13:16:54.367460+00:00
 
-+JtInm8-guq41OTJi: 0
-ADS_CONFIG: 0
-ARv2ray: 7
-AccountCentre_CSHOP: 0
-AlaedinRobot: 0
-AliAlma_GSM: 0
-Awlix_ir: 0
-AzadNet: 0
-BalePingBot: 0
-BaleSup: 0
-Begoo_VPN: 0
-BegzarProxy: 6
-Behnam_m_pr: 0
-BestProxyTel1: 1
-BestV2rang: 0
-Blue_star_Vip: 8
-BugFreeNet: 0
-BuyVPNRBOT: 0
-BuyVPN_SUP: 0
-BuyVpnv: 0
-CUSTOMVPNSERVER: 37
-Capital_NET: 43
-ChatGptDailyPrompt: 4
-Cheetah_Net: 0
-ChinaPortGFW: 0
-CloudCityy: 3
-ConfigX2ray: 4
-Config_magazine: 0
-Configforvpn01: 10
-ConfigsHUB: 0
-ConfigsVip: 0
-DSR_TM: 4
-DanaConfigBot: 0
-DarkHub_VPN: 0
-DigiV2ray: 1
-DirectVPN: 20
-DrNpv: 7
-DrTel_V2ray: 0
-Easy_Free_VPN: 5
-Exonac_bot: 0
-EzAccess1: 0
-FOX_VPN66: 1
-FalconPolV2rayNG: 0
-FaraSellBot: 0
-Farah_VPN: 20
-FaravaharNet: 0
-FreakConfig: 68
-FreeNet1500: 0
-FreeV2rays: 20
-FreeVlessVpn: 0
-Free_Nettm: 0
-GARDNET_BOT: 0
-God_CONFIG: 0
-HTTPCustomLand: 0
-Helix_Servers: 2
-HiVpnShopBot: 0
-HivpnshopBoT: 0
-Hope_Net: 0
-INIT1984: 0
-IRN_VPN: 0
-IVXChannel: 0
-Ilqiuipll: 0
-IraneAzad_Net: 0
-Iranvpn_ads: 0
-L_AGVPN13: 0
-LizNetworkBot: 0
-LoRd_uL4mo: 0
-Lockey_vpn: 16
-LonUp_M: 172
-MTConfig: 0
-Maznet: 4
-MehradLearn: 0
-Merlin_ViP: 0
-MrRobot_Support: 0
-MsV2ray: 0
-NETMelliAnti: 12
-NFTDAKLIN0: 0
-NGConfigBot: 0
-NIM_VPN_ir: 0
-NPROXY: 0
-NaYabNetBot: 0
-NaYabVPN: 0
-NanoNetTech_bot: 0
-NetAccount: 4
-NetGozar_Config: 0
-NetGozar_Sup: 0
-Netmelik: 0
-Network_442: 0
-NewBuyVPN: 0
-NitroShopRoBot: 0
-NitroVpnCom: 0
-NormanV2ray: 10
-OutlineVpnOfficial: 0
-Outline_Vpn: 71
-Outline_vpn: 71
-Outlinev2rayNG: 0
-PAINB0Y: 0
-PROXIS_FREE: 0
-Parsashonam: 2
-Peweza: 0
-PewezaVPN: 0
-PingKhorbot: 0
-PraivetVpn: 0
-PrivateVPNs: 20
-Privet_Mahdi: 0
-ProxyDaemi: 0
-ProxyDotNet: 2
-ProxyMTProto: 0
-ProxyPJ: 0
-ProxySnipe: 0
-Proxy_PJ: 0
-PulseStore_ir: 0
-RaadPingVpn_bot: 0
-RayoNetRobot: 0
-RezZonez: 6
-Royalping_ir: 0
-SabzNetBot: 0
-SadShekanVPNbot: 0
-SafeNet_Server: 0
-SafeV2ray: 0
-SamanConnectVPN: 0
-ServerNett: 0
-Server_VPNMETA: 0
-Serveretbot: 0
-SeveneNetBot: 0
-ShabrangVPN: 2
-ShadowProxy66: 0
-ShadowSocks_s: 0
-Shadowlinkserverr: 0
-ShadowsocksM: 0
-SimChin_ir: 5
-SoLaRvpnbot: 0
-Spotify_Porteghali: 0
-Ssigma_vpn: 0
-SudoFlux: 0
-TajNet_bot: 0
-TajNetvpn: 0
-TakTazTambot: 0
-TelMTProto: 0
-TeleProxyTele: 5
++JtInm8-guq41OTJi: 0, 0
+ADS_CONFIG: 0, 0
+ARv2ray: 7, 7
+AccountCentre_CSHOP: 0, 0
+AlaedinRobot: 0, 0
+AliAlma_GSM: 0, 0
+Awlix_ir: 0, 0
+AzadNet: 0, 0
+BalePingBot: 0, 0
+BaleSup: 0, 0
+Begoo_VPN: 0, 0
+BegzarProxy: 6, 6
+Behnam_m_pr: 0, 0
+BestProxyTel1: 1, 1
+BestV2rang: 0, 0
+Blue_star_Vip: 8, 8
+BugFreeNet: 0, 0
+BuyVPNRBOT: 0, 0
+BuyVPN_SUP: 0, 0
+BuyVpnv: 0, 0
+CUSTOMVPNSERVER: 37, 37
+Capital_NET: 43, 43
+ChatGptDailyPrompt: 4, 4
+Cheetah_Net: 0, 0
+ChinaPortGFW: 0, 0
+CloudCityy: 3, 3
+ConfigX2ray: 4, 4
+Config_magazine: 0, 0
+Configforvpn01: 10, 10
+ConfigsHUB: 0, 0
+ConfigsVip: 0, 0
+DSR_TM: 4, 4
+DanaConfigBot: 0, 0
+DarkHub_VPN: 0, 0
+DigiV2ray: 1, 1
+DirectVPN: 20, 20
+DrNpv: 7, 7
+DrTel_V2ray: 0, 0
+Easy_Free_VPN: 5, 5
+Exonac_bot: 0, 0
+EzAccess1: 0, 0
+FOX_VPN66: 1, 1
+FalconPolV2rayNG: 0, 0
+FaraSellBot: 0, 0
+Farah_VPN: 20, 20
+FaravaharNet: 0, 0
+FreakConfig: 68, 68
+FreeNet1500: 0, 0
+FreeV2rays: 20, 20
+FreeVlessVpn: 0, 0
+Free_Nettm: 0, 0
+GARDNET_BOT: 0, 0
+God_CONFIG: 0, 0
+HTTPCustomLand: 0, 0
+Helix_Servers: 2, 2
+HiVpnShopBot: 0, 0
+HivpnshopBoT: 0, 0
+Hope_Net: 0, 0
+INIT1984: 0, 0
+IRN_VPN: 0, 0
+IVXChannel: 0, 0
+Ilqiuipll: 0, 0
+IraneAzad_Net: 0, 0
+Iranvpn_ads: 0, 0
+L_AGVPN13: 0, 0
+LizNetworkBot: 0, 0
+LoRd_uL4mo: 0, 0
+Lockey_vpn: 16, 16
+LonUp_M: 172, 174
+MTConfig: 0, 0
+Maznet: 4, 4
+MehradLearn: 0, 0
+Merlin_ViP: 0, 0
+MrRobot_Support: 0, 0
+MsV2ray: 0, 0
+NETMelliAnti: 12, 12
+NFTDAKLIN0: 0, 0
+NGConfigBot: 0, 0
+NIM_VPN_ir: 0, 0
+NPROXY: 0, 0
+NaYabNetBot: 0, 0
+NaYabVPN: 0, 0
+NanoNetTech_bot: 0, 0
+NetAccount: 4, 4
+NetGozar_Config: 0, 0
+NetGozar_Sup: 0, 0
+Netmelik: 0, 0
+Network_442: 0, 0
+NewBuyVPN: 0, 0
+NitroShopRoBot: 0, 0
+NitroVpnCom: 0, 0
+NormanV2ray: 10, 10
+OutlineVpnOfficial: 0, 0
+Outline_Vpn: 71, 71
+Outline_vpn: 71, 71
+Outlinev2rayNG: 0, 0
+PAINB0Y: 0, 0
+PROXIS_FREE: 0, 0
+Parsashonam: 2, 2
+Peweza: 0, 0
+PewezaVPN: 0, 0
+PingKhorbot: 0, 0
+PraivetVpn: 0, 0
+PrivateVPNs: 20, 20
+Privet_Mahdi: 0, 0
+ProxyDaemi: 0, 0
+ProxyDotNet: 2, 2
+ProxyMTProto: 0, 0
+ProxyPJ: 0, 0
+ProxySnipe: 0, 0
+Proxy_PJ: 0, 0
+PulseStore_ir: 0, 0
+RaadPingVpn_bot: 0, 0
+RayoNetRobot: 0, 0
+RezZonez: 6, 6
+Royalping_ir: 0, 0
+SabzNetBot: 0, 0
+SadShekanVPNbot: 0, 0
+SafeNet_Server: 0, 0
+SafeV2ray: 0, 0
+SamanConnectVPN: 0, 0
+ServerNett: 0, 0
+Server_VPNMETA: 0, 0
+Serveretbot: 0, 0
+SeveneNetBot: 0, 0
+ShabrangVPN: 2, 2
+ShadowProxy66: 0, 0
+ShadowSocks_s: 0, 0
+Shadowlinkserverr: 0, 0
+ShadowsocksM: 0, 0
+SimChin_ir: 5, 5
+SoLaRvpnbot: 0, 0
+Spotify_Porteghali: 0, 0
+Ssigma_vpn: 0, 0
+SudoFlux: 0, 0
+TajNet_bot: 0, 0
+TajNetvpn: 0, 0
+TakTazTambot: 0, 0
+TelMTProto: 0, 0
+TeleProxyTele: 5, 8
 Telegram Channel Report — 2026-05-07T10: 
-TheAnilad: 0
-TndVPNbot: 0
-TsTeamShopBot: 0
-TsTeam_Support: 0
-TurboNetShop_bot: 0
-TweetyCP: 0
-UnlimitedDev: 0
-V2All: 46
-V2RAYENGLISH: 2
-V2RAY_NEW: 0
-V2RAY_SPATIAL: 0
-V2RAY_VMESS_free: 0
-V2RayOxygen: 0
-V2RayTz: 0
-V2Ray_FreedomIran: 0
-V2Ray_Tz: 0
-V2WRAY: 0
-V2parsin: 0
-V2pedia: 2
-V2rayCollectorDonate: 0
-V2rayEnglish: 2
-V2rayNG3: 107
-V2rayNGmat: 0
-V2rayNGn: 0
-V2rayN_Free: 0
-V2rayTun0: 10
-V2ray_443: 0
-V2ray_official: 0
-V2rayng_Fast: 44
-V2rayngninja: 13
-VPNCLOP: 0
-VPNCUSTOMIZE: 0
-VPNHamrahBOT: 0
-VPNWS: 0
-VPN_443: 0
-VPNhamrahBOT: 0
-VaslSho1_bot: 0
-ViPVpn_v2ray: 9
-Vi_NetBot: 0
-Viper_ad: 0
-VlessConfig: 20
-VmessProtocol: 0
-VorTexIRN: 0
-VpnFreeSec: 0
-VpnProSec: 0
-VpnQavi: 0
-Vpn_express_sup_bot: 0
-WIRGUARD: 0
-WS_ARIEN: 0
-WebShecan: 13
-WeePeeN: 0
-WindExpressIR_bot: 0
-Winternetshop_bot: 0
-WizProxy: 0
-XpnTeam: 0
-XsV2ray: 0
-YOSHISB: 0
-YamYamProxy: 8
-YtTe3la: 0
-ZIX2RayBot: 0
-ZakharNet: 0
-ablnet7: 2
-academi_vpn: 0
-acccrd: 0
-accountstar: 0
-achavpn: 0
-aghayapple: 0
-ahvaz_vpn: 5
-akhbare2025: 68
-aklisvpn: 0
-ami_rmohamad_1991: 0
-anotherme_night: 0
-antifilterjadid: 4
-appsooner: 12
-ar14n24b: 234
-archive_android: 0
-arisping: 2
-armanstore2: 0
-astrovpn_official: 0
-azadi_az_inja_migzare: 0
-azadnet: 0
-azarbayjab1: 38
-azdeltaghalam7: 12
-b2vasl1: 7
-b_vpn_free: 6
-baserivpnbot: 0
-beshcan: 0
-beshkan: 12
-beta_v2ray: 0
-bigsmoke_config: 2
-blackRay: 0
-black_star_vpn: 0
-bright_vpn: 0
-byiroh: 14
-canfigv2ray: 0
-canfing1free: 0
-capoit: 4
-chatbuzzteam: 0
-chatnakonn: 0
-confegraigan: 2
-config0plus: 1
-config4k: 10
-configV2rayForFree: 3
-configV2rayNG: 0
-config_fre: 6
-config_npv: 1
-config_proxy: 9
-config_v2ray: 0
-configfori: 20
-configir98: 3
-configmax: 10
-configms: 0
-configology: 4
-configpluse: 31
-configraygan: 0
-configshere: 4
-configshub: 0
-configv2rayforfree: 3
-configx2ray: 4
-configx2ray0: 3
-confingv2raayng: 5
-connect_sho: 1
-connectbashbot: 0
-cpy_teeL: 4
-cpy_teel: 4
-crayingroom: 3
-creators1: 0
-crgaming7: 13
-customv2ray: 0
-customvpnserver: 37
-daily_configs: 0
-dailyv2ry: 0
-dalton_ping: 6
-darkteam_vpn: 0
-darvazeazadibot: 0
-directvpn: 20
-dmtvpn: 0
-dns68: 10
-drvpn7: 1
-duckvp_n: 0
-eag1e_yt: 10
-ehsawn8: 3
-electvpn0: 11
-en_vpn: 0
-epxteam: 1
-erfanandroid: 0
-erfeee: 0
-evay_vpn: 7
-exon_supp: 0
-expressvpn_420: 11
-external_net: 1
-farah_vpn: 20
-farahvpn: 15
-farsiproxy: 0
-fast78_channel: 3
-fastnettools: 15
-father_vpn: 2
-filembad: 33
-filshekan_vip: 0
-filtershekan_channel: 12
-flyv2ray: 3
-fnet00: 1
-fr33c0nfig: 3
-freakconfig: 68
-free1_vpn: 1
-free1ss: 14
-free4allVPN: 18
-free_outline_keys: 20
-free_v2ray_npv: 2
-free_v2rayn1: 0
-free_v2rayyy: 0
-free_vpn02: 6
-freeconffning: 5
-freeconfigforyou: 12
-freekesha21: 17
-freekvn: 2
-freeland8: 0
-freev2rayssr: 0
-freev2rng: 1
-frev2ray: 0
-frev2rayng: 26
-g0dv2ray: 2
-generalconfing: 21
-gh_v2rayng: 0
-ghalagyann: 6
-ghalagyann2: 6
-gozargahazad: 14
-h110vpn: 36
-hacknashidd: 0
-hajhoseyn_bot: 0
-hashmakvpn: 0
-hddify: 3
-hi_proxy_iran: 14
-hiddify_nexttt: 11
-hopev2ray: 6
-hunnter_vpn: 1
-i10vpn: 6
-iAMiR_LORD: 0
-iMTProto: 0
-iP_CF: 0
-iSegaro: 0
-iSeqaro: 0
-icv2ray: 34
-idHideN: 0
-iicenet: 4
-infotech_vk: 9
-ipV2Ray: 0
-ip_cf: 0
-iproxy_Meli: 0
-iproxychannel: 23
-iran_v2ray1: 0
-iranconnecting: 68
-iraneazad_net: 0
-iranramona: 0
-iranvpnet: 1
-irconfi: 16
-irv2rey: 1
-javidnamaniran: 0
-juzibaipiao: 0
-kajnet_bot: 0
-key_outline: 0
-keysoutline: 14
-kia_net: 0
-konfig_zub: 2
-kouroshvipvpnbot: 0
-kurdconfing: 10
-kurdistan_vpn_perfectt: 0
-letsproxys: 0
-lexonet: 0
-lightning6: 0
-lldalall: 11
-lrnbymaa: 0
-m_buy: 7
-mahsaamoon1: 0
-markovpnbot: 0
-markovpnir: 0
-maznet: 4
-meliproxyy: 10
-melov2ray: 0
-merlin_vip: 0
-mobo_game_land: 16
-moft_vpn: 3
-monacovpn: 3
-mrsoulb: 0
-mtproxy_lists: 52
-napsternetv_config: 0
-natrixo: 10
-neet_done: 5
-net2proxy: 28
-netaccount: 4
-netemeli: 0
-netifyvpn: 0
-netmellianti: 12
-netstux: 2
-netv2reyng: 26
-netzone_ir: 6
-new_mtproxi2: 45
-next_vpnnn: 0
-noisetdm: 1
-noviin_tel: 0
-npv_tunnels: 3
-npvv2rayfilter: 2
-nt_safe: 0
-nufilter: 0
-oliver_soul: 16
-omidspiro: 0
-oneclickvpnkeys: 163
-orange_vpns: 0
-outline_open_keys: 6
-outlineopenkey: 14
-outlinevpn_ru: 0
-overvpn: 5
-oxigen_sup: 0
-oxigenvpn3bot: 0
-oxigenvpnbot: 0
-oxnet_ir: 10
-paranoia_M2: 3
-parsashonam: 2
-payam_nsi: 11
-persianvpnhub: 6
-pirimod: 21
-pixell_CH: 0
-polproxy: 0
-porteqal3: 0
-porya2648: 0
-privatevpns: 20
-prossh: 3
-proxy_kafee: 8
-proxy_mtm: 0
-proxy_vpney: 80
-proxydaemi: 0
-proxyelitevpn: 6
-proxymtprotoir: 14
-proxysharecn: 1
-proxyskyy: 0
-proxystore11: 10
-proxyv2ir: 11
-proxyvpn11: 11
-proxyxix: 0
-proxyy_1404: 0
-proxyymeliii: 0
-prrofile_purple: 18
-pytonvpn: 109
-qpshow: 0
-qrv2ray: 0
-raiv2mmr: 10
-rayonetrobot: 0
-rayvps: 0
-reality_daily: 0
-red_vpncot: 0
-redux_supports: 0
-redvpn2bot: 0
-redvpnnn: 0
-rezzonez: 6
-rojproxy: 0
-rxv2ray: 15
-rzchanel1: 13
-safenetir: 10
-saka_net: 0
-saministamm: 3
-saramerrrrr: 0
-satarvpn1: 0
-selinc: 0
-server01012: 0
-server_nekobox: 0
-serveriran11: 0
-servernett: 0
-serverstm: 4
-shadowproxy66: 0
-shadowsocks_phs: 100
-shadowsocks_s: 0
-shadowsockskeys: 12
-shadowsocksshop: 1
-shankamil: 0
-sharecentrepro: 5
-shaxhabb: 0
-sheriffnet: 11
-shh_proxy: 0
-shomarrreh: 5
-shopingv2ray: 2
-siigmavpn: 10
-singbox1: 14
-skivpn: 10
-skyportall: 7
-sobi_vpn: 13
-sogoandfuckyourlove: 6
-sorenab2: 10
-soskeynet: 172
-space_sup: 0
-space_vpn_online: 0
-spartan_yt: 7
-srcvpn: 2
-srylove: 6
-ssrsub: 30
-stretten: 45
-sunflowerplato: 0
-surfboardv2ray: 4
-techbod: 16
-tehranargo: 4
-telpj: 0
-themecherie: 3
-tiny_vpn_official: 0
-tkm_fast: 56
-tntplus_vpn: 0
-tntvpn_yousef: 0
-torguard_vpn_1: 1
-toxicvid: 2
-tradenets_bot: 0
-tradenets_sup: 0
-trower_news: 19
-uinqvpn: 0
-ultrasurf_12: 6
-unlimiteddev: 0
-unnurmal: 13
-uvpn_org: 0
-v2Line: 0
-v2RayChannel: 0
-v2_team: 0
-v2_vmess: 0
-v2all: 46
-v2fre: 0
-v2freehub: 13
-v2fres: 0
-v2ngfast: 53
-v2nova8: 0
-v2npv: 2
-v2r_ayorg: 7
-v2ra_config: 11
-v2ray1000: 0
-v2ray1_ng: 0
-v2ray26: 0
-v2ray443_support: 0
-v2rayNG_1002: 0
-v2rayNG_Matsuri: 7
-v2rayNG_VPN: 0
-v2ray_alpha: 10
-v2ray_ar: 0
-v2ray_cartel: 0
-v2ray_configs_pool: 9
-v2ray_confing33: 2
-v2ray_custom: 0
-v2ray_dalghak: 205
-v2ray_extractor: 169
-v2ray_for_free: 13
-v2ray_free_conf: 20
-v2ray_official: 0
-v2ray_outlineir: 15
-v2ray_plusz: 6
-v2ray_spe: 0
-v2ray_swhil: 51
-v2ray_tz: 0
-v2ray_unit: 27
-v2ray_v_vpn: 6
-v2ray_vmess_free: 0
-v2ray_vpn_ir: 2
-v2rayan: 3
-v2rayargon: 0
-v2raybaaz: 0
-v2raych: 83
-v2rayconfigamir: 64
-v2rayenglish: 2
-v2rayfree1: 2
-v2rayn_server: 0
-v2rayng_1378: 0
-v2rayng_blue: 0
-v2rayng_cafe: 7
-v2rayng_config_amin: 0
-v2rayng_fars: 1
-v2rayng_fast: 44
-v2rayng_ip: 0
-v2rayng_org: 0
-v2rayng_v: 0
-v2rayng_vpnrog: 0
-v2rayngte: 0
-v2rayngvpn: 14
-v2rayngzendegimamad: 64
-v2rayroom: 5
-v2rayrootfree: 14
-v2rayvpnchannel: 20
-v2rez: 0
-v2rfa: 10
-v2ryNG01: 0
-v2ry_proxy: 0
-v2ynpv: 97
-va3lsho: 15
-vantiix: 0
-vasilllm_1: 9
-vaslbemonim7: 5
-vaslshiiimm: 7
-vaslvip: 7
-vaynora: 71
-veloriasupport: 0
-vetric_net: 0
-vip_vpn_2022: 3
-vipconfingg: 8
-vipv2rayngnp: 8
-vistav2ray: 12
-vless_vmess: 24
-vless_vpns: 20
-vlessconfig: 20
-vlessrus: 14
-vlesstrojan: 0
-vmess_iran: 5
-vmess_vless_v2rayng: 0
-vmessiran: 0
-vmesskhodam: 14
-vmessorg: 7
-vmessq: 0
-vpnXshop_bot: 0
-vpn_amneziya_hiddify: 95
-vpn_click: 11
-vpn_hubtm: 14
-vpn_ioss: 7
-vpn_jet7: 14
-vpn_mafia: 0
-vpn_nit: 0
-vpn_ocean: 10
-vpn_proxy_custom: 0
-vpn_spe: 0
-vpn_spe_bot: 0
-vpnbaz: 3
-vpnbeitenbot: 0
-vpnfail_v2ray: 19
-vpnisco_v2ray_bot: 0
-vpnitadmin: 0
-vpnitbot: 0
-vpnmasi: 0
-vpnshop666: 3
-vpnshup: 0
-vpnvarzeshplus: 0
-xixv2ray: 0
-yamyamproxy: 8
-yaney_01: 41
-yccmdV: 0
-yccmdv: 0
-zed_netmeli: 2
-zen_cloud: 0
-zhw_x_club: 6
+Telegram Channel Report — last update: 
+TheAnilad: 0, 0
+TndVPNbot: 0, 0
+TsTeamShopBot: 0, 0
+TsTeam_Support: 0, 0
+TurboNetShop_bot: 0, 0
+TweetyCP: 0, 0
+UnlimitedDev: 0, 0
+V2All: 46, 48
+V2RAYENGLISH: 2, 2
+V2RAY_NEW: 0, 0
+V2RAY_SPATIAL: 0, 0
+V2RAY_VMESS_free: 0, 0
+V2RayOxygen: 0, 0
+V2RayTz: 0, 0
+V2Ray_FreedomIran: 0, 0
+V2Ray_Tz: 0, 0
+V2WRAY: 0, 0
+V2parsin: 0, 0
+V2pedia: 2, 2
+V2rayCollectorDonate: 0, 0
+V2rayEnglish: 2, 2
+V2rayNG3: 107, 107
+V2rayNGmat: 0, 0
+V2rayNGn: 0, 0
+V2rayN_Free: 0, 0
+V2rayTun0: 10, 10
+V2ray_443: 0, 0
+V2ray_official: 0, 0
+V2rayng_Fast: 44, 44
+V2rayngninja: 13, 13
+VPNCLOP: 0, 0
+VPNCUSTOMIZE: 0, 0
+VPNHamrahBOT: 0, 0
+VPNWS: 0, 0
+VPN_443: 0, 0
+VPNhamrahBOT: 0, 0
+VaslSho1_bot: 0, 0
+ViPVpn_v2ray: 9, 9
+Vi_NetBot: 0, 0
+Viper_ad: 0, 0
+VlessConfig: 20, 20
+VmessProtocol: 0, 0
+VorTexIRN: 0, 0
+VpnFreeSec: 0, 0
+VpnProSec: 0, 0
+VpnQavi: 0, 0
+Vpn_express_sup_bot: 0, 0
+WIRGUARD: 0, 0
+WS_ARIEN: 0, 0
+WebShecan: 13, 13
+WeePeeN: 0, 0
+WindExpressIR_bot: 0, 0
+Winternetshop_bot: 0, 0
+WizProxy: 0, 0
+XpnTeam: 0, 0
+XsV2ray: 0, 0
+YOSHISB: 0, 0
+YamYamProxy: 8, 8
+YtTe3la: 0, 0
+ZIX2RayBot: 0, 0
+ZakharNet: 0, 0
+ablnet7: 2, 2
+academi_vpn: 0, 0
+acccrd: 0, 0
+accountstar: 0, 0
+achavpn: 0, 0
+aghayapple: 0, 0
+ahvaz_vpn: 5, 5
+akhbare2025: 68, 68
+aklisvpn: 0, 0
+ami_rmohamad_1991: 0, 0
+anotherme_night: 0, 0
+antifilterjadid: 4, 4
+appsooner: 12, 12
+ar14n24b: 234, 218
+archive_android: 0, 0
+arisping: 2, 2
+armanstore2: 0, 0
+astrovpn_official: 0, 0
+azadi_az_inja_migzare: 0, 0
+azadnet: 0, 0
+azarbayjab1: 38, 38
+azdeltaghalam7: 12, 12
+b2vasl1: 7, 6
+b_vpn_free: 6, 5
+baserivpnbot: 0, 0
+beshcan: 0, 0
+beshkan: 12, 12
+beta_v2ray: 0, 0
+bigsmoke_config: 2, 2
+blackRay: 0, 0
+black_star_vpn: 0, 0
+bright_vpn: 0, 0
+byiroh: 14, 15
+canfigv2ray: 0, 0
+canfing1free: 0, 0
+capoit: 4, 4
+chatbuzzteam: 0, 0
+chatnakonn: 0, 0
+confegraigan: 2, 2
+config0plus: 1, 1
+config4k: 10, 9
+configV2rayForFree: 3, 3
+configV2rayNG: 0, 0
+config_fre: 6, 6
+config_npv: 1, 1
+config_proxy: 9, 9
+config_v2ray: 0, 0
+configfori: 20, 20
+configir98: 3, 3
+configmax: 10, 10
+configms: 0, 0
+configology: 4, 4
+configpluse: 31, 31
+configraygan: 0, 0
+configshere: 4, 4
+configshub: 0, 0
+configv2rayforfree: 3, 3
+configx2ray: 4, 4
+configx2ray0: 3, 3
+confingv2raayng: 5, 5
+connect_sho: 1, 1
+connectbashbot: 0, 0
+cpy_teeL: 4, 4
+cpy_teel: 4, 4
+crayingroom: 3, 3
+creators1: 0, 0
+crgaming7: 13, 13
+customv2ray: 0, 0
+customvpnserver: 37, 37
+daily_configs: 0, 0
+dailyv2ry: 0, 0
+dalton_ping: 6, 6
+darkteam_vpn: 0, 0
+darvazeazadibot: 0, 0
+directvpn: 20, 20
+dmtvpn: 0, 0
+dns68: 10, 10
+drvpn7: 1, 1
+duckvp_n: 0, 0
+eag1e_yt: 10, 10
+ehsawn8: 3, 2
+electvpn0: 11, 11
+en_vpn: 0, 0
+epxteam: 1, 1
+erfanandroid: 0, 0
+erfeee: 0, 0
+evay_vpn: 7, 7
+exon_supp: 0, 0
+expressvpn_420: 11, 11
+external_net: 1, 1
+farah_vpn: 20, 17
+farahvpn: 15, 16
+farsiproxy: 0, 0
+fast78_channel: 3, 3
+fastnettools: 15, 15
+father_vpn: 2, 2
+filembad: 33, 21
+filshekan_vip: 0, 0
+filtershekan_channel: 12, 12
+flyv2ray: 3, 3
+fnet00: 1, 1
+fr33c0nfig: 3, 3
+freakconfig: 68, 68
+free1_vpn: 1, 1
+free1ss: 14, 14
+free4allVPN: 18, 18
+free_outline_keys: 20, 20
+free_v2ray_npv: 2, 7
+free_v2rayn1: 0, 0
+free_v2rayyy: 0, 0
+free_vpn02: 6, 6
+freeconffning: 5, 5
+freeconfigforyou: 12, 12
+freekesha21: 17, 17
+freekvn: 2, 2
+freeland8: 0, 0
+freev2rayssr: 0, 0
+freev2rng: 1, 1
+frev2ray: 0, 0
+frev2rayng: 26, 26
+g0dv2ray: 2, 2
+generalconfing: 21, 21
+gh_v2rayng: 0, 0
+ghalagyann: 6, 6
+ghalagyann2: 6, 6
+gozargahazad: 14, 13
+h110vpn: 36, 36
+hacknashidd: 0, 0
+hajhoseyn_bot: 0, 0
+hashmakvpn: 0, 0
+hddify: 3, 3
+hi_proxy_iran: 14, 14
+hiddify_nexttt: 11, 11
+hopev2ray: 6, 6
+hunnter_vpn: 1, 1
+i10vpn: 6, 6
+iAMiR_LORD: 0, 0
+iMTProto: 0, 0
+iP_CF: 0, 0
+iSegaro: 0, 0
+iSeqaro: 0, 0
+icv2ray: 34, 34
+idHideN: 0, 0
+iicenet: 4, 4
+infotech_vk: 9, 9
+ipV2Ray: 0, 0
+ip_cf: 0, 0
+iproxy_Meli: 0, 0
+iproxychannel: 23, 23
+iran_v2ray1: 0, 0
+iranconnecting: 68, 64
+iraneazad_net: 0, 0
+iranramona: 0, 0
+iranvpnet: 1, 1
+irconfi: 16, 16
+irv2rey: 1, 1
+javidnamaniran: 0, 0
+juzibaipiao: 0, 0
+kajnet_bot: 0, 0
+key_outline: 0, 0
+keysoutline: 14, 14
+kia_net: 0, 0
+konfig_zub: 2, 2
+kouroshvipvpnbot: 0, 0
+kurdconfing: 10, 10
+kurdistan_vpn_perfectt: 0, 0
+letsproxys: 0, 0
+lexonet: 0, 0
+lightning6: 0, 0
+lldalall: 11, 11
+lrnbymaa: 0, 0
+m_buy: 7, 7
+mahsaamoon1: 0, 0
+markovpnbot: 0, 0
+markovpnir: 0, 0
+maznet: 4, 4
+meliproxyy: 10, 10
+melov2ray: 0, 0
+merlin_vip: 0, 0
+mobo_game_land: 16, 16
+moft_vpn: 3, 3
+monacovpn: 3, 3
+mrsoulb: 0, 0
+mtproxy_lists: 52, 52
+napsternetv_config: 0, 0
+natrixo: 10, 20
+neet_done: 5, 5
+net2proxy: 28, 32
+netaccount: 4, 4
+netemeli: 0, 0
+netifyvpn: 0, 0
+netmellianti: 12, 12
+netstux: 2, 2
+netv2reyng: 26, 26
+netzone_ir: 6, 6
+new_mtproxi2: 45, 45
+next_vpnnn: 0, 0
+noisetdm: 1, 1
+noviin_tel: 0, 0
+npv_tunnels: 3, 3
+npvv2rayfilter: 2, 2
+nt_safe: 0, 0
+nufilter: 0, 0
+oliver_soul: 16, 16
+omidspiro: 0, 0
+oneclickvpnkeys: 163, 163
+orange_vpns: 0, 0
+outline_open_keys: 6, 6
+outlineopenkey: 14, 14
+outlinevpn_ru: 0, 0
+overvpn: 5, 5
+oxigen_sup: 0, 0
+oxigenvpn3bot: 0, 0
+oxigenvpnbot: 0, 0
+oxnet_ir: 10, 10
+paranoia_M2: 3, 3
+parsashonam: 2, 2
+payam_nsi: 11, 11
+persianvpnhub: 6, 6
+pirimod: 21, 21
+pixell_CH: 0, 0
+polproxy: 0, 0
+porteqal3: 0, 0
+porya2648: 0, 0
+privatevpns: 20, 20
+prossh: 3, 3
+proxy_kafee: 8, 8
+proxy_mtm: 0, 0
+proxy_vpney: 80, 80
+proxydaemi: 0, 0
+proxyelitevpn: 6, 7
+proxymtprotoir: 14, 14
+proxysharecn: 1, 1
+proxyskyy: 0, 0
+proxystore11: 10, 10
+proxyv2ir: 11, 11
+proxyvpn11: 11, 11
+proxyxix: 0, 0
+proxyy_1404: 0, 0
+proxyymeliii: 0, 0
+prrofile_purple: 18, 18
+pytonvpn: 109, 109
+qpshow: 0, 0
+qrv2ray: 0, 0
+raiv2mmr: 10, 10
+rayonetrobot: 0, 0
+rayvps: 0, 0
+reality_daily: 0, 0
+red_vpncot: 0, 0
+redux_supports: 0, 0
+redvpn2bot: 0, 0
+redvpnnn: 0, 0
+rezzonez: 6, 6
+rojproxy: 0, 0
+rxv2ray: 15, 15
+rzchanel1: 13, 13
+safenetir: 10, 10
+saka_net: 0, 0
+saministamm: 3, 4
+saramerrrrr: 0, 0
+satarvpn1: 0, 0
+selinc: 0, 0
+server01012: 0, 0
+server_nekobox: 0, 0
+serveriran11: 0, 0
+servernett: 0, 0
+serverstm: 4, 4
+shadowproxy66: 0, 0
+shadowsocks_phs: 100, 100
+shadowsocks_s: 0, 0
+shadowsockskeys: 12, 12
+shadowsocksshop: 1, 1
+shankamil: 0, 1
+sharecentrepro: 5, 5
+shaxhabb: 0, 0
+sheriffnet: 11, 11
+shh_proxy: 0, 0
+shomarrreh: 5, 5
+shopingv2ray: 2, 2
+siigmavpn: 10, 10
+singbox1: 14, 14
+skivpn: 10, 10
+skyportall: 7, 7
+sobi_vpn: 13, 13
+sogoandfuckyourlove: 6, 10
+sorenab2: 10, 10
+soskeynet: 172, 174
+space_sup: 0, 0
+space_vpn_online: 0, 0
+spartan_yt: 7, 7
+srcvpn: 2, 2
+srylove: 6, 6
+ssrsub: 30, 30
+stretten: 45, 45
+sunflowerplato: 0, 0
+surfboardv2ray: 4, 4
+techbod: 16, 16
+tehranargo: 4, 4
+telpj: 0, 0
+themecherie: 3, 2
+tiny_vpn_official: 0, 0
+tkm_fast: 56, 56
+tntplus_vpn: 0, 0
+tntvpn_yousef: 0, 0
+torguard_vpn_1: 1, 0
+toxicvid: 2, 2
+tradenets_bot: 0, 0
+tradenets_sup: 0, 0
+trower_news: 19, 16
+uinqvpn: 0, 0
+ultrasurf_12: 6, 6
+unlimiteddev: 0, 0
+unnurmal: 13, 13
+uvpn_org: 0, 0
+v2Line: 0, 0
+v2RayChannel: 0, 0
+v2_team: 0, 0
+v2_vmess: 0, 0
+v2all: 46, 48
+v2fre: 0, 0
+v2freehub: 13, 13
+v2fres: 0, 0
+v2ngfast: 53, 53
+v2nova8: 0, 0
+v2npv: 2, 1
+v2r_ayorg: 7, 7
+v2ra_config: 11, 11
+v2ray1000: 0, 0
+v2ray1_ng: 0, 0
+v2ray26: 0, 0
+v2ray443_support: 0, 0
+v2rayNG_1002: 0, 0
+v2rayNG_Matsuri: 7, 7
+v2rayNG_VPN: 0, 0
+v2ray_alpha: 10, 10
+v2ray_ar: 0, 0
+v2ray_cartel: 0, 0
+v2ray_configs_pool: 9, 0
+v2ray_confing33: 2, 2
+v2ray_custom: 0, 0
+v2ray_dalghak: 205, 196
+v2ray_extractor: 169, 169
+v2ray_for_free: 13, 13
+v2ray_free_conf: 20, 20
+v2ray_official: 0, 0
+v2ray_outlineir: 15, 15
+v2ray_plusz: 6, 6
+v2ray_spe: 0, 0
+v2ray_swhil: 51, 51
+v2ray_tz: 0, 0
+v2ray_unit: 27, 27
+v2ray_v_vpn: 6, 6
+v2ray_vmess_free: 0, 0
+v2ray_vpn_ir: 2, 2
+v2rayan: 3, 3
+v2rayargon: 0, 0
+v2raybaaz: 0, 0
+v2raych: 83, 83
+v2rayconfigamir: 64, 64
+v2rayenglish: 2, 2
+v2rayfree1: 2, 2
+v2rayn_server: 0, 0
+v2rayng_1378: 0, 0
+v2rayng_blue: 0, 0
+v2rayng_cafe: 7, 7
+v2rayng_config_amin: 0, 0
+v2rayng_fars: 1, 1
+v2rayng_fast: 44, 44
+v2rayng_ip: 0, 0
+v2rayng_org: 0, 0
+v2rayng_v: 0, 0
+v2rayng_vpnrog: 0, 0
+v2rayngte: 0, 0
+v2rayngvpn: 14, 20
+v2rayngzendegimamad: 64, 64
+v2rayroom: 5, 5
+v2rayrootfree: 14, 14
+v2rayvpnchannel: 20, 20
+v2rez: 0, 0
+v2rfa: 10, 10
+v2ryNG01: 0, 0
+v2ry_proxy: 0, 0
+v2ynpv: 97, 97
+va3lsho: 15, 15
+vantiix: 0, 0
+vasilllm_1: 9, 9
+vaslbemonim7: 5, 5
+vaslshiiimm: 7, 7
+vaslvip: 7, 7
+vaynora: 71, 71
+veloriasupport: 0, 0
+vetric_net: 0, 0
+vip_vpn_2022: 3, 3
+vipconfingg: 8, 9
+vipv2rayngnp: 8, 8
+vistav2ray: 12, 12
+vless_vmess: 24, 24
+vless_vpns: 20, 20
+vlessconfig: 20, 20
+vlessrus: 14, 14
+vlesstrojan: 0, 0
+vmess_iran: 5, 5
+vmess_vless_v2rayng: 0, 0
+vmessiran: 0, 0
+vmesskhodam: 14, 14
+vmessorg: 7, 7
+vmessq: 0, 0
+vpnXshop_bot: 0, 0
+vpn_amneziya_hiddify: 95, 95
+vpn_click: 11, 11
+vpn_hubtm: 14, 14
+vpn_ioss: 7, 6
+vpn_jet7: 14, 15
+vpn_mafia: 0, 0
+vpn_nit: 0, 0
+vpn_ocean: 10, 10
+vpn_proxy_custom: 0, 0
+vpn_spe: 0, 0
+vpn_spe_bot: 0, 0
+vpnbaz: 3, 3
+vpnbeitenbot: 0, 0
+vpnfail_v2ray: 19, 19
+vpnisco_v2ray_bot: 0, 0
+vpnitadmin: 0, 0
+vpnitbot: 0, 0
+vpnmasi: 0, 0
+vpnshop666: 3, 3
+vpnshup: 0, 0
+vpnvarzeshplus: 0, 0
+xixv2ray: 0, 0
+yamyamproxy: 8, 8
+yaney_01: 41, 41
+yccmdV: 0, 0
+yccmdv: 0, 0
+zed_netmeli: 2, 2
+zen_cloud: 0, 0
+zhw_x_club: 6, 6
