@@ -1326,11 +1326,16 @@ async def finalize_output():
 
     for proto, new_configs in new_protocols.items():
         if not new_configs:
-            continue      # اگر پروتکلی کانفیگ جدید نداشت، فایلش را دست نزن
+            continue
         proto_file = f"{proto}_servers.txt"
         with open(proto_file, "w", encoding="utf-8") as f:
             f.write("\n".join(sorted(new_configs)) + "\n")
         logger.info(f"📁 Saved {len(new_configs)} new configs to '{proto_file}'")
+
+    # بازنویسی all_servers.txt با کانفیگ‌های جدید همین اجرا
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(sorted(added_configs)) + "\n")
+    logger.info(f"💾 Saved {len(added_configs)} new configs to '{output_file}'")
 
     logger.info("✅ Output finalized successfully.")
     
