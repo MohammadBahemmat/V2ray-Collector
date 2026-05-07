@@ -14,5 +14,6 @@ hysteria://173.234.25.53:48919?upmbps=50&downmbps=100&auth=dongtaiwang.com&insec
 hysteria://173.234.25.54:48919?alpn=h3&auth=dongtaiwang.com&downmbps=110&fromyaml=1&insecure=1&peer=bing.com&protocol=udp&upmbps=55#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20173.234.25.54%20%E2%97%88%20udp:48919%20%E2%97%88%20Dedicated.com%20%E2%97%88%20dd8d7
 hysteria://173.234.25.54:48919?upmbps=55&downmbps=110&auth=dongtaiwang.com&insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3
 hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#🇫🇷FR
+hysteria://50.114.40.110:62839?upmbps=1100&downmbps=1100&auth=K6MWhE5PP8aKzSGIF1I4Zjb8tpLicSG3NzWckWLsRIGZ9CAOc9&protocol=wechat-video&peer=ghbi.ir&alpn=h3&insecure=1#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20392391
 hysteria://51.158.54.46:55396?upmbps=30&downmbps=70&auth=dongtaiwang.com&insecure=1&peer=youku.com&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY1-UDP-TLS%204%E2%83%A3
 hysteria://51.159.213.39:18702?insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#ð

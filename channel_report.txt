@@ -1,4 +1,4 @@
-Telegram Channel Report — 2026-05-07T00:29:27.865422+00:00
+Telegram Channel Report — 2026-05-07T04:27:57.819478+00:00
 
 +JtInm8-guq41OTJi: 0 configs
 ADS_CONFIG: 0 configs
@@ -13,7 +13,7 @@ BaleSup: 0 configs
 Begoo_VPN: 0 configs
 BegzarProxy: 6 configs
 Behnam_m_pr: 0 configs
-BestProxyTel1: 4 configs
+BestProxyTel1: 3 configs
 BestV2rang: 0 configs
 Blue_star_Vip: 6 configs
 BugFreeNet: 0 configs
@@ -68,7 +68,7 @@ L_AGVPN13: 0 configs
 LizNetworkBot: 0 configs
 LoRd_uL4mo: 0 configs
 Lockey_vpn: 16 configs
-LonUp_M: 168 configs
+LonUp_M: 169 configs
 MTConfig: 0 configs
 Maznet: 4 configs
 MehradLearn: 0 configs
@@ -114,7 +114,7 @@ Proxy_PJ: 0 configs
 PulseStore_ir: 0 configs
 RaadPingVpn_bot: 0 configs
 RayoNetRobot: 0 configs
-RezZonez: 7 configs
+RezZonez: 5 configs
 Royalping_ir: 0 configs
 SabzNetBot: 0 configs
 SadShekanVPNbot: 0 configs
@@ -147,7 +147,7 @@ TsTeam_Support: 0 configs
 TurboNetShop_bot: 0 configs
 TweetyCP: 0 configs
 UnlimitedDev: 0 configs
-V2All: 48 configs
+V2All: 46 configs
 V2RAYENGLISH: 2 configs
 V2RAY_NEW: 0 configs
 V2RAY_SPATIAL: 0 configs
@@ -168,7 +168,7 @@ V2rayN_Free: 0 configs
 V2rayTun0: 0 configs
 V2ray_443: 0 configs
 V2ray_official: 0 configs
-V2rayng_Fast: 44 configs
+V2rayng_Fast: 40 configs
 V2rayngninja: 13 configs
 VPNCLOP: 0 configs
 VPNCUSTOMIZE: 0 configs
@@ -203,7 +203,7 @@ ZIX2RayBot: 0 configs
 ZakharNet: 0 configs
 ablnet7: 2 configs
 academi_vpn: 0 configs
-acccrd: 1 configs
+acccrd: 2 configs
 accountstar: 0 configs
 achavpn: 0 configs
 aghayapple: 0 configs
@@ -214,7 +214,7 @@ ami_rmohamad_1991: 0 configs
 anotherme_night: 0 configs
 antifilterjadid: 4 configs
 appsooner: 14 configs
-ar14n24b: 201 configs
+ar14n24b: 193 configs
 archive_android: 0 configs
 arisping: 2 configs
 armanstore2: 0 configs
@@ -240,8 +240,8 @@ capoit: 4 configs
 chatbuzzteam: 0 configs
 chatnakonn: 0 configs
 confegraigan: 2 configs
-config0plus: 2 configs
-config4k: 10 configs
+config0plus: 1 configs
+config4k: 9 configs
 configV2rayForFree: 3 configs
 configV2rayNG: 0 configs
 config_fre: 6 configs
@@ -249,7 +249,7 @@ config_npv: 1 configs
 config_proxy: 9 configs
 config_v2ray: 0 configs
 configfori: 20 configs
-configir98: 2 configs
+configir98: 1 configs
 configmax: 10 configs
 configms: 0 configs
 configology: 4 configs
@@ -297,7 +297,7 @@ farsiproxy: 0 configs
 fast78_channel: 3 configs
 fastnettools: 8 configs
 father_vpn: 2 configs
-filembad: 21 configs
+filembad: 6 configs
 filshekan_vip: 0 configs
 filtershekan_channel: 9 configs
 flyv2ray: 3 configs
@@ -305,10 +305,10 @@ fnet00: 1 configs
 fr33c0nfig: 3 configs
 freakconfig: 68 configs
 free1_vpn: 1 configs
-free1ss: 14 configs
+free1ss: 13 configs
 free4allVPN: 18 configs
 free_outline_keys: 20 configs
-free_v2ray_npv: 0 configs
+free_v2ray_npv: 1 configs
 free_v2rayn1: 0 configs
 free_v2rayyy: 0 configs
 free_vpn02: 5 configs
@@ -351,7 +351,7 @@ ip_cf: 0 configs
 iproxy_Meli: 0 configs
 iproxychannel: 21 configs
 iran_v2ray1: 0 configs
-iranconnecting: 75 configs
+iranconnecting: 89 configs
 iraneazad_net: 0 configs
 iranramona: 0 configs
 iranvpnet: 1 configs
@@ -361,7 +361,7 @@ javidnamaniran: 0 configs
 juzibaipiao: 0 configs
 kajnet_bot: 0 configs
 key_outline: 0 configs
-keysoutline: 14 configs
+keysoutline: 13 configs
 kia_net: 1 configs
 konfig_zub: 2 configs
 kouroshvipvpnbot: 0 configs
@@ -381,12 +381,12 @@ meliproxyy: 10 configs
 melov2ray: 0 configs
 merlin_vip: 0 configs
 mobo_game_land: 16 configs
-moft_vpn: 4 configs
+moft_vpn: 3 configs
 monacovpn: 3 configs
 mrsoulb: 0 configs
 mtproxy_lists: 52 configs
 napsternetv_config: 0 configs
-natrixo: 18 configs
+natrixo: 20 configs
 neet_done: 5 configs
 net2proxy: 21 configs
 netaccount: 4 configs
@@ -406,10 +406,10 @@ nt_safe: 0 configs
 nufilter: 0 configs
 oliver_soul: 9 configs
 omidspiro: 0 configs
-oneclickvpnkeys: 133 configs
+oneclickvpnkeys: 118 configs
 orange_vpns: 0 configs
 outline_open_keys: 5 configs
-outlineopenkey: 12 configs
+outlineopenkey: 11 configs
 outlinevpn_ru: 0 configs
 overvpn: 5 configs
 oxigen_sup: 0 configs
@@ -420,14 +420,14 @@ paranoia_M2: 3 configs
 parsashonam: 2 configs
 payam_nsi: 5 configs
 persianvpnhub: 4 configs
-pirimod: 16 configs
+pirimod: 18 configs
 pixell_CH: 0 configs
 polproxy: 0 configs
 porteqal3: 0 configs
 porya2648: 0 configs
 privatevpns: 20 configs
 prossh: 3 configs
-proxy_kafee: 6 configs
+proxy_kafee: 5 configs
 proxy_mtm: 0 configs
 proxy_vpney: 80 configs
 proxydaemi: 0 configs
@@ -453,7 +453,7 @@ red_vpncot: 0 configs
 redux_supports: 0 configs
 redvpn2bot: 0 configs
 redvpnnn: 0 configs
-rezzonez: 7 configs
+rezzonez: 5 configs
 rojproxy: 0 configs
 rxv2ray: 15 configs
 rzchanel1: 13 configs
@@ -474,7 +474,7 @@ shadowsocks_s: 0 configs
 shadowsockskeys: 12 configs
 shadowsocksshop: 1 configs
 shankamil: 0 configs
-sharecentrepro: 3 configs
+sharecentrepro: 5 configs
 shaxhabb: 0 configs
 sheriffnet: 11 configs
 shh_proxy: 0 configs
@@ -485,9 +485,9 @@ singbox1: 11 configs
 skivpn: 10 configs
 skyportall: 5 configs
 sobi_vpn: 13 configs
-sogoandfuckyourlove: 0 configs
+sogoandfuckyourlove: 5 configs
 sorenab2: 0 configs
-soskeynet: 168 configs
+soskeynet: 169 configs
 space_sup: 0 configs
 space_vpn_online: 0 configs
 spartan_yt: 7 configs
@@ -497,12 +497,12 @@ ssrsub: 30 configs
 stretten: 46 configs
 sunflowerplato: 0 configs
 surfboardv2ray: 5 configs
-techbod: 18 configs
+techbod: 16 configs
 tehranargo: 4 configs
 telpj: 0 configs
-themecherie: 3 configs
+themecherie: 2 configs
 tiny_vpn_official: 0 configs
-tkm_fast: 49 configs
+tkm_fast: 54 configs
 tntplus_vpn: 0 configs
 tntvpn_yousef: 0 configs
 torguard_vpn_1: 2 configs
@@ -519,7 +519,7 @@ v2Line: 0 configs
 v2RayChannel: 0 configs
 v2_team: 0 configs
 v2_vmess: 0 configs
-v2all: 48 configs
+v2all: 46 configs
 v2fre: 0 configs
 v2freehub: 13 configs
 v2fres: 0 configs
@@ -538,13 +538,13 @@ v2rayNG_VPN: 0 configs
 v2ray_alpha: 7 configs
 v2ray_ar: 0 configs
 v2ray_cartel: 0 configs
-v2ray_configs_pool: 13 configs
+v2ray_configs_pool: 6 configs
 v2ray_confing33: 2 configs
 v2ray_custom: 0 configs
-v2ray_dalghak: 177 configs
-v2ray_extractor: 162 configs
+v2ray_dalghak: 133 configs
+v2ray_extractor: 169 configs
 v2ray_for_free: 13 configs
-v2ray_free_conf: 19 configs
+v2ray_free_conf: 20 configs
 v2ray_official: 0 configs
 v2ray_outlineir: 15 configs
 v2ray_plusz: 8 configs
@@ -559,7 +559,7 @@ v2rayan: 3 configs
 v2rayargon: 0 configs
 v2raybaaz: 0 configs
 v2raych: 83 configs
-v2rayconfigamir: 57 configs
+v2rayconfigamir: 55 configs
 v2rayenglish: 2 configs
 v2rayfree1: 2 configs
 v2rayn_server: 0 configs
@@ -568,7 +568,7 @@ v2rayng_blue: 0 configs
 v2rayng_cafe: 7 configs
 v2rayng_config_amin: 0 configs
 v2rayng_fars: 1 configs
-v2rayng_fast: 44 configs
+v2rayng_fast: 40 configs
 v2rayng_ip: 0 configs
 v2rayng_org: 0 configs
 v2rayng_v: 0 configs
@@ -577,24 +577,24 @@ v2rayngte: 0 configs
 v2rayngvpn: 15 configs
 v2rayngzendegimamad: 64 configs
 v2rayroom: 7 configs
-v2rayrootfree: 18 configs
+v2rayrootfree: 19 configs
 v2rayvpnchannel: 20 configs
 v2rez: 0 configs
-v2rfa: 10 configs
+v2rfa: 9 configs
 v2ryNG01: 0 configs
 v2ry_proxy: 0 configs
 v2ynpv: 97 configs
 va3lsho: 15 configs
 vantiix: 0 configs
 vasilllm_1: 3 configs
-vaslbemonim7: 5 configs
-vaslshiiimm: 7 configs
+vaslbemonim7: 3 configs
+vaslshiiimm: 6 configs
 vaslvip: 7 configs
 vaynora: 71 configs
 veloriasupport: 0 configs
 vetric_net: 0 configs
 vip_vpn_2022: 3 configs
-vipconfingg: 5 configs
+vipconfingg: 8 configs
 vipv2rayngnp: 1 configs
 vistav2ray: 12 configs
 vless_vmess: 24 configs
@@ -622,7 +622,7 @@ vpn_spe: 0 configs
 vpn_spe_bot: 0 configs
 vpnbaz: 4 configs
 vpnbeitenbot: 0 configs
-vpnfail_v2ray: 20 configs
+vpnfail_v2ray: 19 configs
 vpnisco_v2ray_bot: 0 configs
 vpnitadmin: 0 configs
 vpnitbot: 0 configs
