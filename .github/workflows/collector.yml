@@ -1,9 +1,11 @@
-name: Unified Collector (15 min, dual token)
+name: Unified Collector (auto-chain, dual token)
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'   # هر ۱۵ دقیقه (دقایق 0, 15, 30, 45)
-  workflow_dispatch:
+  workflow_dispatch:      # فقط با اجرای دستی شروع می‌شود
+
+concurrency:
+  group: collector-run
+  cancel-in-progress: false
 
 jobs:
   collect:
@@ -27,8 +29,7 @@ jobs:
 
       - name: Run Telegram Collector
         run: python src/telegram_collector.py
-        
-      # همیشه توکن اپ را تولید کن (حتی اگر استفاده نشود، اشکالی ندارد)
+
       - name: Generate GitHub App token
         id: app-token
         uses: actions/create-github-app-token@v2
@@ -36,17 +37,27 @@ jobs:
           app-id: ${{ secrets.GH_APP_ID }}
           private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
 
-      - name: Select token based on minute
+      # --- مدیریت شمارنده برای الگوی Classic, Classic, App, App ---
+      - name: Select token based on counter
         id: select-token
         run: |
-          MINUTE=$(date +%M)
-          if [ "$MINUTE" = "00" ] || [ "$MINUTE" = "15" ]; then
+          COUNTER_FILE="token_state.txt"
+          if [ ! -f "$COUNTER_FILE" ]; then
+            echo "0" > "$COUNTER_FILE"
+          fi
+          COUNTER=$(cat "$COUNTER_FILE")
+          echo "Current counter: $COUNTER"
+
+          if [ "$COUNTER" -eq 0 ] || [ "$COUNTER" -eq 1 ]; then
             echo "token=${{ secrets.GH_TOKEN }}" >> $GITHUB_OUTPUT
-            echo "Using Classic token for minute $MINUTE"
+            echo "Using Classic token (counter $COUNTER)"
           else
             echo "token=${{ steps.app-token.outputs.token }}" >> $GITHUB_OUTPUT
-            echo "Using GitHub App token for minute $MINUTE"
+            echo "Using GitHub App token (counter $COUNTER)"
           fi
+
+          NEXT=$(( (COUNTER + 1) % 4 ))
+          echo "$NEXT" > "$COUNTER_FILE"
 
       - name: Run collector
         env:
@@ -76,7 +87,7 @@ jobs:
           if [ ! -f discovered_branches.json ]; then
             echo '[]' > discovered_branches.json
           fi
-          git add all_servers.txt *_servers.txt checkpoint.json discovered_branches.json channel_report.txt 2>/dev/null || true
+          git add all_servers.txt *_servers.txt checkpoint.json discovered_branches.json channel_report.txt token_state.txt 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
@@ -84,3 +95,16 @@ jobs:
             git pull --rebase --strategy-option ours
             git push
           fi
+
+      - name: Trigger next run
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GH_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'collector.yml',
+              ref: 'main'
+            });
