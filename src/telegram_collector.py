@@ -66,6 +66,9 @@ def save_to_db(configs):
         conn.close()
 
 def main():
+    conn = sqlite3.connect(DB_FILE)
+    conn.execute("CREATE TABLE IF NOT EXISTS configs (config TEXT PRIMARY KEY)")
+    conn.close()
     logger.info("🚀 شروع جمع‌آوری کانفیگ‌های تلگرام...")
     channels = load_channels(CHANNELS_FILE)
     if not channels:
