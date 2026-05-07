@@ -52,7 +52,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ steps.select-token.outputs.token }}
           RUN_MODE: frequent
-          MAX_AGE_HOURS: 0.25
+          MAX_AGE_HOURS: 0.015
         run: python src/collector_git.py
 
       - name: Split joined proxy links
