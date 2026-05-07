@@ -1315,16 +1315,19 @@ async def finalize_output():
     new_configs = set(await db_get_all_configs())  # استفاده از تابع موجود در فایل
     logger.info(f"🆕 Newly scraped configs from DB: {len(new_configs)}")
 
-    # ۳. ادغام و بازنویسی فایل اصلی
+    # ۳. محاسبه کانفیگ‌های واقعاً جدید
+    added_configs = new_configs - existing_configs
+    logger.info(f"🆕 Truly new configs this run: {len(added_configs)}")
+
+    # ۴. ادغام و بازنویسی فایل اصلی (همچنان تجمعی)
     all_configs = sorted(existing_configs | new_configs)
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("\n".join(all_configs) + "\n")
-    logger.info(f"💾 Saved {len(all_configs)} total configs to '{output_file}' (added {len(all_configs) - len(existing_configs)} new)")
+    logger.info(f"💾 Saved {len(all_configs)} total configs to '{output_file}'")
 
-    # ۴. تفکیک پروتکل‌ها و ذخیره‌سازی در فایل‌های جداگانه
+    # ۵. تفکیک پروتکل‌ها فقط برای کانفیگ‌های جدید این اجرا
     protocols = {}
-    for config in all_configs:
-        # استخراج نام پروتکل (مثلاً vmess, vless, trojan)
+    for config in added_configs:          # <-- فقط کانفیگ‌های جدید
         proto = config.split('://')[0] if '://' in config else 'other'
         if proto not in protocols:
             protocols[proto] = []
@@ -1332,10 +1335,9 @@ async def finalize_output():
 
     for proto, configs in protocols.items():
         proto_file = f"{proto}_servers.txt"
-        # مرتب‌سازی برای جلوگیری از تغییرات بیهوده در گیت
-        with open(proto_file, "w", encoding="utf-8") as f:
+        with open(proto_file, "w", encoding="utf-8") as f:   # بازنویسی با داده‌های جدید
             f.write("\n".join(sorted(configs)) + "\n")
-        logger.info(f"📁 Saved {len(configs)} configs to '{proto_file}'")
+        logger.info(f"📁 Saved {len(configs)} new configs to '{proto_file}'")
 
     logger.info("✅ Output finalized successfully.")
     
