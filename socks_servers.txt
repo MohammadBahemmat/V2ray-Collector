@@ -1,5 +1,0 @@
-socks://62.220.126.56:26483?type=tcp#%F0%9F%87%AE%F0%9F%87%B722135%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://80.210.37.38:1080#%F0%9F%87%AE%F0%9F%87%B722008%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@pl-tor.pvdata.host:1080#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple💋
-socks://Og@62.220.126.56:30871#%F0%9F%87%AE%F0%9F%87%B721936%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://Og@62.220.126.56:30992#%40ultrasurf_12
