@@ -1280,9 +1280,6 @@ async def main():
     all_configs = await db_get_all_configs()
     unique_configs = sorted({c.strip() for c in all_configs if c.strip()})
     logger.info(f"✅ Total unique configs in DB: {len(unique_configs)}")
-
-    # --- مرحله نهایی: ادغام و تفکیک پروتکل‌ها ---
-    await finalize_output()
     
     if CORE_LIMIT_REACHED:
         logger.warning("⛔ Script finished early because Core limit was reached.")
@@ -1319,25 +1316,21 @@ async def finalize_output():
     added_configs = new_configs - existing_configs
     logger.info(f"🆕 Truly new configs this run: {len(added_configs)}")
 
-    # ۴. ادغام و بازنویسی فایل اصلی (همچنان تجمعی)
-    all_configs = sorted(existing_configs | new_configs)
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write("\n".join(all_configs) + "\n")
-    logger.info(f"💾 Saved {len(all_configs)} total configs to '{output_file}'")
-
-    # ۵. تفکیک پروتکل‌ها فقط برای کانفیگ‌های جدید این اجرا
-    protocols = {}
-    for config in added_configs:          # <-- فقط کانفیگ‌های جدید
+    # ۴. تفکیک پروتکل‌ها و ذخیره‌سازی فقط کانفیگ‌های جدید
+    new_protocols = {}
+    for config in added_configs:          # فقط کانفیگ‌های جدید
         proto = config.split('://')[0] if '://' in config else 'other'
-        if proto not in protocols:
-            protocols[proto] = []
-        protocols[proto].append(config)
+        if proto not in new_protocols:
+            new_protocols[proto] = set()
+        new_protocols[proto].add(config)
 
-    for proto, configs in protocols.items():
+    for proto, new_configs in new_protocols.items():
+        if not new_configs:
+            continue      # اگر پروتکلی کانفیگ جدید نداشت، فایلش را دست نزن
         proto_file = f"{proto}_servers.txt"
-        with open(proto_file, "w", encoding="utf-8") as f:   # بازنویسی با داده‌های جدید
-            f.write("\n".join(sorted(configs)) + "\n")
-        logger.info(f"📁 Saved {len(configs)} new configs to '{proto_file}'")
+        with open(proto_file, "w", encoding="utf-8") as f:
+            f.write("\n".join(sorted(new_configs)) + "\n")
+        logger.info(f"📁 Saved {len(new_configs)} new configs to '{proto_file}'")
 
     logger.info("✅ Output finalized successfully.")
     
