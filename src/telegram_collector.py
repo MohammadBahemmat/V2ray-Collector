@@ -93,11 +93,35 @@ def main():
         logger.warning("هیچ کانفیگی یافت نشد.")
 
     # --- ذخیره گزارش عملکرد کانال‌ها ---
-    with open("channel_report.txt", "w", encoding="utf-8") as f:
-        f.write(f"Telegram Channel Report — {datetime.now(timezone.utc).isoformat()}\n\n")
-        for ch, count in channel_results:
-            f.write(f"{ch}: {count} configs\n")
-    logger.info("📊 گزارش کانال‌ها در channel_report.txt ذخیره شد.")
+    report_file = "channel_report.txt"
+    history = {}
+    if Path(report_file).exists():
+        with open(report_file, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line or ':' not in line:
+                    continue
+                parts = line.split(':', 1)
+                if len(parts) != 2:
+                    continue
+                ch, counts = parts
+                ch = ch.strip()
+                counts = [c.strip() for c in counts.split(',') if c.strip().isdigit()]
+                history[ch] = counts
+
+    for ch, count in channel_results:
+        if ch in history:
+            history[ch].append(str(count))
+        else:
+            history[ch] = [str(count)]
+
+    with open(report_file, "w", encoding="utf-8") as f:
+        f.write(f"Telegram Channel Report — last update: {datetime.now(timezone.utc).isoformat()}\n\n")
+        for ch in sorted(history.keys()):
+            counts_str = ", ".join(history[ch])
+            f.write(f"{ch}: {counts_str}\n")
+
+    logger.info("📊 تاریخچه‌ی کانال‌ها در channel_report.txt بروز شد.")
 
     logger.info("✅ پایان جمع‌آوری تلگرام.")
 
