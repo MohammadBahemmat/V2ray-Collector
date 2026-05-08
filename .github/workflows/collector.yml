@@ -89,7 +89,7 @@ jobs:
           fi
           # اطمینان از اینکه all_servers.txt همیشه وجود دارد
           touch all_servers.txt
-          git add all_servers.txt *_servers.txt checkpoint.json discovered_branches.json channel_report.txt token_state.txt 2>/dev/null || true
+          git add all_servers.txt *_servers.txt checkpoint.json discovered_branches.json channel_report.txt repo_report.txt token_state.txt 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
