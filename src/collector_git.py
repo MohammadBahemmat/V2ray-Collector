@@ -3929,42 +3929,19 @@ async def main():
 # 🗂️ بخش ۱۰: ذخیره‌سازی هوشمند و تفکیک پروتکل‌ها (جدید)
 # ============================
 async def finalize_output():
-    """فایل all_servers.txt را با داده‌های جدید به‌روز کرده و پروتکل‌ها را تفکیک می‌کند."""
-    logger.info("--- Finalizing Output: Smart Merge & Protocol Split ---")
+    """فقط all_servers.txt را با کانفیگ‌های جدید بازنویسی می‌کند."""
+    logger.info("--- Finalizing Output: Writing new configs to all_servers.txt ---")
     
-    # ۱. خواندن فایل اصلی موجود (اگر وجود دارد)
     output_file = "all_servers.txt"
     existing_configs = set()
     if os.path.exists(output_file):
         with open(output_file, "r", encoding="utf-8") as f:
             existing_configs = {line.strip() for line in f if line.strip()}
-        logger.info(f"📄 Loaded {len(existing_configs)} existing configs from {output_file}")
 
-    # ۲. خواندن کانفیگ‌های جدید از دیتابیس
-    new_configs = set(await db_get_all_configs())  # استفاده از تابع موجود در فایل
-    logger.info(f"🆕 Newly scraped configs from DB: {len(new_configs)}")
-
-    # ۳. محاسبه کانفیگ‌های واقعاً جدید
+    new_configs = set(await db_get_all_configs())
     added_configs = new_configs - existing_configs
     logger.info(f"🆕 Truly new configs this run: {len(added_configs)}")
 
-    # ۴. تفکیک پروتکل‌ها و ذخیره‌سازی فقط کانفیگ‌های جدید
-    new_protocols = {}
-    for config in added_configs:          # فقط کانفیگ‌های جدید
-        proto = config.split('://')[0] if '://' in config else 'other'
-        if proto not in new_protocols:
-            new_protocols[proto] = set()
-        new_protocols[proto].add(config)
-
-    for proto, new_configs in new_protocols.items():
-        if not new_configs:
-            continue
-        proto_file = f"{proto}_servers.txt"
-        with open(proto_file, "w", encoding="utf-8") as f:
-            f.write("\n".join(sorted(new_configs)) + "\n")
-        logger.info(f"📁 Saved {len(new_configs)} new configs to '{proto_file}'")
-
-    # بازنویسی all_servers.txt با کانفیگ‌های جدید همین اجرا
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("\n".join(sorted(added_configs)) + "\n")
     logger.info(f"💾 Saved {len(added_configs)} new configs to '{output_file}'")
