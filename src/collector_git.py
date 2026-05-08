@@ -3669,7 +3669,7 @@ async def check_and_scan_repo(session, owner, repo, headers, semaphores, url_set
 # ============================
 # 🔍 بخش ۸: پردازش URL و استخراج نهایی
 # ============================
-async def process_url(session, url, headers, processed_urls_session, cache, semaphore, depth=0):
+async def process_url(session, url, headers, processed_urls_session, cache, semaphore, depth=0, repo_stats: dict = None):
     if depth > CONFIG_DEFAULTS["MAX_RECURSION_DEPTH"] or url in processed_urls_session:
         return
     processed_urls_session.add(url)
@@ -3700,6 +3700,13 @@ async def process_url(session, url, headers, processed_urls_session, cache, sema
 
     if found_configs:
         await db_add_configs(found_configs)
+        # استخراج owner/repo از URL و به‌روزرسانی آمار
+        if repo_stats is not None:
+            parts = url.split('/')
+            if len(parts) >= 5 and parts[2] == 'raw.githubusercontent.com':
+                owner, repo = parts[3], parts[4]
+                key = f"({owner}, {repo})"
+                repo_stats[key] = repo_stats.get(key, 0) + len(found_configs)
 
     cache.add(url)
     await db_mark_url_processed(url)
@@ -3836,6 +3843,9 @@ async def main():
 
         logger.info(f"Total source URLs (before filtering): {len(source_urls)}")
 
+        # --- برای آمار مخازن ---
+        repo_stats: Dict[str, int] = {}
+
         # --- Stage 3: Process URLs ---
         logger.info("--- Stage 3: Processing URLs ---")
         urls_to_process = []
@@ -3843,7 +3853,6 @@ async def main():
             if 'github.com' not in u and 'raw.githubusercontent.com' not in u:
                 continue
             if run_mode in ("hourly", "frequent"):
-                # در مد ساعتی و ۱۵دقیقه‌ای URLهای تکراری هم باید دوباره دانلود شوند
                 pass
             else:
                 if u in processed_urls_session:
@@ -3856,7 +3865,7 @@ async def main():
         batch_size = CONFIG_DEFAULTS["BATCH_SIZE"]
         for i in range(0, len(urls_to_process), batch_size):
             batch = urls_to_process[i:i+batch_size]
-            tasks = [asyncio.create_task(process_url(session, url, headers, processed_urls_session, cache, fetch_semaphore, 0))
+            tasks = [asyncio.create_task(process_url(session, url, headers, processed_urls_session, cache, fetch_semaphore, 0, repo_stats))
                      for url in batch]
             for fut in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc=f"[Stage 3] Batch {i//batch_size + 1}"):
                 try:
@@ -3864,6 +3873,38 @@ async def main():
                 except Exception as e:
                     logger.debug(f"Process error: {e}")
             await save_checkpoint(processed_urls_session, searched_queries, scanned_manual_repos)
+
+        # --- بروزرسانی گزارش مخازن ---
+        repo_report_file = "repo_report.txt"   # در ریشهٔ پروژه
+        repo_history = {}
+        if os.path.exists(repo_report_file):
+            with open(repo_report_file, "r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line or ':' not in line:
+                        continue
+                    key, counts = line.split(':', 1)
+                    key = key.strip()
+                    counts = [c.strip() for c in counts.split(',') if c.strip().isdigit()]
+                    repo_history[key] = counts
+
+        for key, count in repo_stats.items():
+            if key in repo_history:
+                repo_history[key].append(str(count))
+            else:
+                prev_len = len(next(iter(repo_history.values()))) if repo_history else 0
+                repo_history[key] = ['0'] * prev_len + [str(count)]
+
+        for key in repo_history:
+            if key not in repo_stats:
+                repo_history[key].append('0')
+
+        with open(repo_report_file, "w", encoding="utf-8") as f:
+            f.write(f"GitHub Repo Report — last update: {datetime.now(timezone.utc).isoformat()}\n\n")
+            for key in sorted(repo_history.keys()):
+                counts_str = ", ".join(repo_history[key])
+                f.write(f"{key}: {counts_str}\n")
+        logger.info(f"📊 گزارش مخازن در {repo_report_file} بروز شد.")
 
     # --- Stage 4: Final Export ---
     logger.info("--- Stage 4: Final Export ---")
