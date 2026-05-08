@@ -1,0 +1,11 @@
+hysteria://108.181.24.77:11512/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#Channel
+hysteria://185.22.155.71:10803/?insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=1000&downmbps=1000&alpn=h3#Channel
+hysteria://195.154.200.178:46938?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3#🇫🇷FR
+hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel
+hysteria://195.154.200.40:15010?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=100&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=100#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
+hysteria://208.87.243.187:40528/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel
+hysteria://51.159.226.1:49003?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&delay=1547&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+hysteria://62.210.10.186:35511?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
+hysteria://62.210.10.186:50011?alpn=h3&auth=dongtaiwang.com&downmbps=55
+hysteria://62.210.196.68:26691?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=55
+hysteria://62.210.196.68:26691?auth_str=dongtaiwang.com&auth=dongtaiwang.com&upmbps=11
