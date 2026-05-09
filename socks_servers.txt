@@ -1,6 +1,3 @@
-socks://62.220.126.56:24497?type=tcp#%F0%9F%87%AE%F0%9F%87%B722303%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-socks://62.220.126.56:30824#%F0%9F%87%AE%F0%9F%87%B722302%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@pl-tor.pvdata.host:1080#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple💋
-socks://Og@45.94.213.213:443#%40V2_MOD_SHOP%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29برای
+socks://Og@45.94.213.213:443
 socks://Og@62.220.126.56:31687#Tarkibi6%20%7C%20%40FreeLand8
 socks://Og@62.220.126.92:27211#Tarkibi7%20%7C%20%40FreeLand8
