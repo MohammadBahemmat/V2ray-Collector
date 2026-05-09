@@ -52,7 +52,25 @@ CONFIG_DEFAULTS = {
 # 🔎 بخش ۲: منابع و کوئری‌ها
 # ============================
 COMMON_BRANCH_NAMES = [
-
+'main', 'master', 'dev', 'develop', 'v2', 'Master', 'The-Nodes-of-Clash&V2ray',
+'tutu', 'canary', 'mineuwu', 'Clash-and-V2ray', 'branch', 'manyuser', 'Main',
+'on', 'mian', 'v.-2.0', 'KangProxy', 'VPN', 'rm', '2.15.x', 'Config', 'up',
+'feat/initial-project-scaffold', '5.x', 'backup', 'proxies', 'nodes', 'gh-pages',
+'patch-1', 'release', 'latest', 'stable', 'beta', 'alpha', 'test', 'testing',
+'staging', 'production', 'prod', 'development', 'feature', 'hotfix', 'bugfix',
+'free', 'premium', 'iran', 'ir', 'global', 'world', 'all', 'full', 'complete',
+'update', 'new', 'latest-configs', 'daily', 'hourly', 'auto', 'automatic',
+'subscription', 'sub', 'config', 'configs', 'proxy', 'proxies', 'vless', 'vmess',
+'trojan', 'shadowsocks', 'hysteria', 'hysteria2', 'tuic', 'juicity', 'reality',
+'sing-box', 'clash', 'nekobox', 'nekoray', 'v2rayng', 'v2rayu', 'xray', 'singbox',
+'hiddify', 'warp', 'argo', 'cloudflare', 'cf', 'cdn', 'speed', 'fast', 'best',
+'premium-configs', 'free-nodes', 'paid', 'vip', 'exclusive', 'private', 'public',
+'mci', 'irancell', 'mokhaberat', 'rightel', 'asiatech', 'shatel', 'v2ray-iran',
+'pishgaman', 'hiweb', 'tci', 'parsonline', 'freeiran', 'iranfree', 'config-iran',
+'iran-proxy', 'persian', 'farsi', 'vless-reality-iran', 'hysteria2-iran',
+'singbox-iran', 'tuic-iran', 'juicity-iran', 'warp-iran', 'worker-iran',
+'protonvpn-next-dev', 'devin/1777224454-initial-app', 'v2-rewrite', 'no-reflow',
+'codex/anfisa-vpn-publish', 'init', 'Monad'
 ]
 
 REPO_SEARCH_QUERIES = sorted(list(set([
