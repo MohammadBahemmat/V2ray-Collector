@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-![Collector Status](https://github.com/MohammadBahemmat/V2ray-Collector/actions/workflows/collector.yml/badge.svg)
 <div class="container">
 
 <div style="background-color: #1a1a2e; border: 2px solid #6c63ff; border-radius: 10px; padding: 15px; margin: 15px 0; text-align: center;">
