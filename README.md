@@ -7,6 +7,8 @@
 <body>
 <div class="container">
 
+<img src="https://github.com/MohammadBahemmat/V2ray-Collector/actions/workflows/collector.yml/badge.svg" alt="Collector Status">
+
 <div style="background-color: #1a1a2e; border: 2px solid #6c63ff; border-radius: 10px; padding: 15px; margin: 15px 0; text-align: center;">
     <p style="margin: 0; font-size: 1.2em; color: #ffffff;">
         🔗 <strong>لینک مستقیم فایل‌های خروجی (Raw):</strong><br>
