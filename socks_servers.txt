@@ -1,3 +1,2 @@
-socks://Og@45.94.213.213:443
 socks://Og@62.220.126.56:31687#Tarkibi6%20%7C%20%40FreeLand8
 socks://Og@62.220.126.92:27211#Tarkibi7%20%7C%20%40FreeLand8
