@@ -168,7 +168,7 @@ GH_APP_PRIVATE_KEY    → کلید خصوصی برنامه‌ی گیتهاب
 <h3>۱. فایل Workflow</h3>
 <p>پروژه به صورت پیش‌فرض با یک فایل YAML در مسیر <code>.github/workflows/collector.yml</code> اجرا می‌شود که:
 <ul>
-    <li>هر <strong>۱۵ دقیقه</strong> یک‌بار (با cron <code>*/15 * * * *</code>) فعال می‌شود.</li>
+    <li>از طریق <strong>workflow_dispatch</strong> (اجرای دستی یا زنجیره‌ای) آغاز می‌شود و پس از هر اجرا، اجرای بعدی را به طور خودکار فرا می‌خواند.</li>
     <li>ابتدا کانفیگ‌های جدید را از <strong>تلگرام</strong> دریافت می‌کند.</li>
     <li>سپس مخازن <strong>گیتهاب</strong> را اسکن می‌کند.</li>
     <li>با استفاده از <strong>توکن‌های دوگانه</strong>، فشار Rate Limit را بین دو منبع تقسیم می‌کند.</li>
@@ -177,7 +177,7 @@ GH_APP_PRIVATE_KEY    → کلید خصوصی برنامه‌ی گیتهاب
 </p>
 
 <h3>۲. دریافت فایل‌های خروجی</h3>
-<p>پس از اولین اجرای موفق، می‌توانید از لینک‌های ابتدای همین صفحه برای دریافت فایل‌ها استفاده کنید.</p>
+<p>پس از اولین اجرای موفق، می‌توانید از لینک‌های ابتدای همین صفحه برای دریافت فایل‌ها استفاده کنید. این فایل‌ها را می‌توان مستقیماً در کلاینت V2Ray خود (مانند v2rayN، Nekobox یا Hiddify) بارگذاری کرد.</p>
 
 <h3>۳. افزودن کانال‌های تلگرام</h3>
 <p>فایل <code>channels.txt</code> در ریشه‌ی پروژه، فهرست کانال‌های عمومی تلگرام را نگهداری می‌کند (هر خط یک شناسه، بدون <code>@</code>). برای افزودن کانال جدید، کافیست شناسه‌ی آن را در یک خط جدید اضافه کنید.</p>
@@ -191,16 +191,20 @@ GH_APP_PRIVATE_KEY    → کلید خصوصی برنامه‌ی گیتهاب
 <tr><th>فایل</th><th>توضیح</th></tr>
 </thead>
 <tbody>
-<tr><td><code>all_servers.txt</code></td><td>تمامی کانفیگ‌های یکتای جمع‌آوری‌شده (از گیتهاب و تلگرام)</td></tr>
+<tr><td><code>all_servers.txt</code></td><td>تمامی کانفیگ‌های یکتای جدید در هر اجرا (از گیتهاب و تلگرام)</td></tr>
 <tr><td><code>vmess_servers.txt</code></td><td>فقط کانفیگ‌های VMess</td></tr>
 <tr><td><code>vless_servers.txt</code></td><td>فقط کانفیگ‌های VLESS</td></tr>
 <tr><td><code>trojan_servers.txt</code></td><td>فقط کانفیگ‌های Trojan</td></tr>
+<tr><td><code>hysteria_servers.txt</code></td><td>فقط کانفیگ‌های Hysteria</td></tr>
 <tr><td><code>hysteria2_servers.txt</code></td><td>فقط کانفیگ‌های Hysteria2</td></tr>
 <tr><td><code>tuic_servers.txt</code></td><td>فقط کانفیگ‌های TUIC</td></tr>
 <tr><td><code>ss_servers.txt</code></td><td>فقط کانفیگ‌های Shadowsocks</td></tr>
+<tr><td><code>ssr_servers.txt</code></td><td>فقط کانفیگ‌های SSR</td></tr>
+<tr><td><code>socks_servers.txt</code></td><td>فقط کانفیگ‌های SOCKS</td></tr>
+<tr><td><code>socks5_servers.txt</code></td><td>فقط کانفیگ‌های SOCKS5</td></tr>
 </tbody>
 </table>
-<p>همه‌ی فایل‌ها در هر اجرا به‌روزرسانی می‌شوند و فقط شامل کانفیگ‌های یکتا و جدید هستند.</p>
+<p>همه‌ی فایل‌ها در هر اجرا به‌روزرسانی می‌شوند و فقط شامل کانفیگ‌های یکتا و جدید هستند. اگر فایلی حجم بالایی داشت، می‌توانید از نسخه‌های تفکیک‌شده استفاده کنید.</p>
 
 <hr>
 
@@ -210,14 +214,15 @@ GH_APP_PRIVATE_KEY    → کلید خصوصی برنامه‌ی گیتهاب
 .
 ├── .github/
 │   └── workflows/
-│       ├── collector.yml              # گردش‌کار اصلی (اجرای یکپارچه هر ۱۵ دقیقه)
+│       ├── collector.yml              # گردش‌کار اصلی (اجرای یکپارچه خودکار)
 │       └── cleaner_temp.yml           # گردش‌کار موقت برای پاکسازی کانال‌های تلگرام
 │
 ├── src/
 │   ├── collector_git.py               # اسکریپت اصلی جمع‌آوری از گیتهاب
 │   ├── telegram_collector.py          # اسکریپت جمع‌آوری از تلگرام (بدون API)
 │   ├── split_links.py                 # شکستن لینک‌های چسبیده
-│   └── dedup_configs.py               # حذف تکراری‌های هوشمند
+│   ├── dedup_configs.py               # حذف تکراری‌های هوشمند
+│   └── rebuild_protocols.py           # بازسازی فایل‌های پروتکل از روی all_servers.txt
 │
 ├── config/
 │   ├── requirements.txt               # وابستگی‌های پایتون
@@ -246,14 +251,17 @@ GH_APP_PRIVATE_KEY    → کلید خصوصی برنامه‌ی گیتهاب
 ├── socks5_servers.txt                  # کانفیگ‌های SOCKS5
 │
 ├── checkpoint.json                     # فایل ذخیره‌ی پیشرفت (Checkpoint)
-└── discovered_branches.json            # شاخه‌های جدید کشف‌شده
+├── discovered_branches.json            # شاخه‌های جدید کشف‌شده
+├── channel_report.txt                  # گزارش تعداد کانفیگ‌های استخراج‌شده از هر کانال
+├── repo_report.txt                     # گزارش تعداد کانفیگ‌های استخراج‌شده از هر مخزن گیتهاب
+└── token_state.txt                     # شمارنده‌ی چرخش توکن
 </pre>
 
 <hr>
 
 <!-- مقایسه -->
 <h2>📊 مقایسه با سایر Collectorهای معروف گیتهاب</h2>
-<p>پس از بررسی ده‌ها پروژه‌ی مطرح، جدول زیر تفاوت‌های کلیدی را نشان می‌دهد:</p>
+<p>پس از بررسی ده‌ها پروژه‌ی مطرح در گیتهاب، جدول زیر تفاوت‌های کلیدی را نشان می‌دهد. در انتها نیز نام پروژه‌های شاخص در هر حوزه آمده است.</p>
 
 <table>
 <thead>
@@ -273,6 +281,42 @@ GH_APP_PRIVATE_KEY    → کلید خصوصی برنامه‌ی گیتهاب
 </tbody>
 </table>
 
+<h3>🔍 پروژه‌های شاخص در هر حوزه</h3>
+<table>
+<thead>
+<tr><th>حوزه</th><th>نام پروژه</th><th>توضیح کوتاه</th></tr>
+</thead>
+<tbody>
+<tr>
+    <td><strong>جمع‌آوری از گیتهاب</strong></td>
+    <td>
+        <a href="https://github.com/mahdibland/V2RayAggregator" target="_blank">mahdibland/V2RayAggregator</a><br>
+        <a href="https://github.com/swileran/v2ray-config-collector" target="_blank">swileran/v2ray-config-collector</a><br>
+        <a href="https://github.com/MahanKenway/Freedom-V2Ray" target="_blank">MahanKenway/Freedom-V2Ray</a>
+    </td>
+    <td>مخازن شناخته‌شده‌ای که فقط از گیتهاب جمع‌آوری می‌کنند</td>
+</tr>
+<tr>
+    <td><strong>جمع‌آوری از تلگرام</strong></td>
+    <td>
+        <a href="https://github.com/Surfboardv2ray/TGParse" target="_blank">Surfboardv2ray/TGParse</a><br>
+        <a href="https://github.com/Kolandone/v2raycollector" target="_blank">Kolandone/v2raycollector</a><br>
+        <a href="https://github.com/denxv/TGV2RayScraper" target="_blank">denxv/TGV2RayScraper</a><br>
+        <a href="https://github.com/MhdiTaheri/V2rayCollector" target="_blank">MhdiTaheri/V2rayCollector</a>
+    </td>
+    <td>پروژه‌هایی که فقط از کانال‌های تلگرام جمع‌آوری می‌کنند</td>
+</tr>
+<tr>
+    <td><strong>هر دو (گیتهاب + تلگرام)</strong></td>
+    <td>
+        <a href="https://github.com/wzdnzd/aggregator" target="_blank">wzdnzd/aggregator</a><br>
+        <a href="https://github.com/SoroushImanian/BlackKnight" target="_blank">SoroushImanian/BlackKnight</a>
+    </td>
+    <td>پروژه‌هایی که از هر دو منبع استفاده می‌کنند، اما معمولاً برای تلگرام به API نیاز دارند</td>
+</tr>
+</tbody>
+</table>
+
 <hr>
 
 <!-- خطاهای رایج -->
@@ -285,7 +329,7 @@ GH_APP_PRIVATE_KEY    → کلید خصوصی برنامه‌ی گیتهاب
 
 <details>
 <summary><strong>خطای <code>403 / 429 (Rate limit)</code> در لاگ</strong></summary>
-<p>اسکریپت به‌طور خودکار Sleep کرده و مجدداً تلاش می‌کند. این بخشی از عملکرد عادی است. اگر مکرراً رخ داد، <code>SEARCH_API_CONCURRENCY</code> را کمتر کنید.</p>
+<p>اسکریپت به‌طور خودکار Sleep کرده و مجدداً تلاش می‌کند. این بخشی از عملکرد عادی است. اگر مکرراً رخ داد، <code>MAX_AGE_HOURS</code> را بیشتر کنید.</p>
 </details>
 
 <details>
@@ -313,6 +357,12 @@ GH_APP_PRIVATE_KEY    → کلید خصوصی برنامه‌ی گیتهاب
 پیشنهادات، گزارش باگ‌ها، مخازن جدید برای اضافه شدن به لیست <code>MANUAL_REPOS_TO_SCAN</code>، یا کانال‌های تلگرام جدید برای فایل <code>channels.txt</code> را می‌توانید از طریق <strong>Pull Request</strong> یا <strong>Issue</strong> با ما به اشتراک بگذارید.<br>
 برای توسعه‌دهندگان: لطفاً پیش از ارسال تغییرات، یک اجرای آزمایشی روی سیستم خود انجام دهید.
 </p>
+
+<hr>
+
+<!-- قدردانی -->
+<h2>💡 قدردانی</h2>
+<p>ایده‌ی استفاده از <code>t.me/s</code> برای دسترسی به کانال‌های تلگرام بدون نیاز به API از پروژه‌های متن‌بازی مانند <code>Kolandone/v2raycollector</code> و <code>MhdiTaheri/V2rayCollector</code> الهام گرفته شده است. از تمام توسعه‌دهندگانی که دانش خود را به اشتراک می‌گذارند سپاسگزاریم.</p>
 
 <hr>
 
