@@ -1,0 +1,27 @@
+name: Scan Git History for Secrets
+
+on:
+  workflow_dispatch:   # فقط وقتی خودت دستی اجرا کنی
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # کل تاریخچه را بگیرد
+
+      - name: Search for patterns
+        run: |
+          echo "=== Searching for classic tokens ==="
+          git log -p | grep "ghp_" || echo "No classic token found."
+
+          echo "=== Searching for fine-grained tokens ==="
+          git log -p | grep "github_pat_" || echo "No fine-grained token found."
+
+          echo "=== Searching for private keys ==="
+          git log -p | grep "BEGIN.*PRIVATE KEY" || echo "No private key found."
+
+          echo "=== Searching for token/secret keywords ==="
+          git log -p | grep -i "token\|secret" || echo "No sensitive keywords found."
