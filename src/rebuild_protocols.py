@@ -16,9 +16,23 @@ def main():
     with open(ALL_SERVERS, "r", encoding="utf-8") as f:
         configs = sorted({line.strip() for line in f if line.strip()})
 
+    # -- نگاشت نام‌های غیراستاندارد --
+    PROTO_MAP = {
+        "hy2": "hysteria2",
+        "hysteria": "hysteria",      # بدون تغییر
+        "tuic": "tuic",
+        "juicity": "juicity",
+        # اگر مورد دیگری بود اینجا اضافه کنید
+    }
+
     protocols = {}
     for cfg in configs:
-        proto = cfg.split('://')[0] if '://' in cfg else 'other'
+        if '://' not in cfg:
+            proto = 'other'
+        else:
+            proto = cfg.split('://')[0].strip().lower()   # یکسان‌سازی حروف
+            proto = PROTO_MAP.get(proto, proto)           # ترجمه نام‌های خاص
+
         protocols.setdefault(proto, []).append(cfg)
 
     for proto, items in protocols.items():
