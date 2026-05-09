@@ -181,6 +181,25 @@ GH_APP_PRIVATE_KEY    → کلید خصوصی برنامه‌ی گیتهاب
 
 <hr>
 
+<h2>🧩 راه‌اندازی سریع (Quick Start)</h2>
+<p>اگر می‌خواهید همین پروژه را برای خودتان کپی و اجرا کنید:</p>
+<ol>
+    <li>مخزن را Fork کنید (دکمه Fork در بالای صفحه گیتهاب)</li>
+    <li>مخزن Fork شده را Clone کنید:
+        <pre class="ltr-block">git clone https://github.com/YOUR_USERNAME/V2ray-Collector.git
+cd V2ray-Collector</pre>
+    </li>
+    <li>نیازمندی‌های پایتون را نصب کنید:
+        <pre class="ltr-block">pip install -r config/requirements.txt</pre>
+    </li>
+    <li>فایل <code>.env</code> را با توکن گیتهاب خود مطابق <code>config/.env.example</code> ایجاد کنید.</li>
+    <li>فایل <code>channels.txt</code> را با کانال‌های تلگرام دلخواه پر کنید.</li>
+    <li>یک بار اسکریپت را به صورت دستی اجرا کنید تا همه چیز تست شود:
+        <pre class="ltr-block">python src/collector_git.py</pre>
+    </li>
+</ol>
+<hr>
+
 <!-- اجرای دستی -->
 <h2>🚀 اجرای دستی</h2>
 <p>برای اجرای جمع‌آورنده‌ی گیتهاب (بدون بخش تلگرام)، کافیست در ترمینال دستور زیر را اجرا کنید:</p>
