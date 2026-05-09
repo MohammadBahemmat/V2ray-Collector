@@ -1,1 +1,1 @@
-hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#🇫🇷FR
+hysteria://50.114.40.110:62839?upmbps=1100&downmbps=1100&auth=K6MWhE5PP8aKzSGIF1I4Zjb8tpLicSG3NzWckWLsRIGZ9CAOc9&protocol=wechat-video&peer=ghbi.ir&alpn=h3&insecure=1#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20392391
