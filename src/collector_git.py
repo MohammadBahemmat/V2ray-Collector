@@ -1389,7 +1389,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 V2RAY_CONFIG_PATTERN = re.compile(
-    r'(?:vless|vmess|trojan|ss|ssr|hysteria|hysteria2|tuic|juicity)://[^\s`\'"]+',
+    r'(?:vless|vmess|trojan|ss|ssr|hysteria|hysteria2|tuic|juicity|socks[45]?)://[^\s`\'"]+',
     flags=re.IGNORECASE
 )
 SUB_LINK_PATTERN = re.compile(
