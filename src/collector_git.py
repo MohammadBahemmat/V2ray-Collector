@@ -70,7 +70,8 @@ COMMON_BRANCH_NAMES = [
 'iran-proxy', 'persian', 'farsi', 'vless-reality-iran', 'hysteria2-iran',
 'singbox-iran', 'tuic-iran', 'juicity-iran', 'warp-iran', 'worker-iran',
 'protonvpn-next-dev', 'devin/1777224454-initial-app', 'v2-rewrite', 'no-reflow',
-'codex/anfisa-vpn-publish', 'init', 'Monad'
+'codex/anfisa-vpn-publish', 'init', 'Monad', 'claude/apartment-listing-monitor-2U2yQ',
+'UwU', 'SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev'
 ]
 
 REPO_SEARCH_QUERIES = sorted(list(set([
