@@ -1,1 +1,0 @@
-socks5://128.140.46.169:13482&security=tls&sni=socks5.revil-time3.workers.dev&type=ws#🕊️23@oneclickvpnkeys
