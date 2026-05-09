@@ -5,6 +5,28 @@
   </a>
 </div>
 
+<body>
+<div class="container">
+
+<!-- ====== ردیف نشان‌های اطلاعاتی پروژه ====== -->
+<div align="center" style="margin-bottom: 15px;">
+
+<!-- Python Version -->
+<img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+<!-- License -->
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=open-source-initiative" alt="License">
+
+<!-- Requirements -->
+<a href="https://github.com/MohammadBahemmat/V2ray-Collector/blob/main/config/requirements.txt">
+    <img src="https://img.shields.io/badge/Requirements-txt-critical?style=for-the-badge&logo=pypi" alt="Requirements">
+</a>
+
+<!-- Platform -->
+<img src="https://img.shields.io/badge/Platform-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions" alt="GitHub Actions">
+
+</div>
+
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
@@ -197,20 +219,64 @@ GH_APP_PRIVATE_KEY    → کلید خصوصی برنامه‌ی گیتهاب
 <h2>📁 فایل‌های خروجی</h2>
 <table>
 <thead>
-<tr><th>فایل</th><th>توضیح</th></tr>
+<tr><th>فایل</th><th>توضیح</th><th>لینک مستقیم</th></tr>
 </thead>
 <tbody>
-<tr><td><code>all_servers.txt</code></td><td>تمامی کانفیگ‌های یکتای جدید در هر اجرا (از گیتهاب و تلگرام)</td></tr>
-<tr><td><code>vmess_servers.txt</code></td><td>فقط کانفیگ‌های VMess</td></tr>
-<tr><td><code>vless_servers.txt</code></td><td>فقط کانفیگ‌های VLESS</td></tr>
-<tr><td><code>trojan_servers.txt</code></td><td>فقط کانفیگ‌های Trojan</td></tr>
-<tr><td><code>hysteria_servers.txt</code></td><td>فقط کانفیگ‌های Hysteria</td></tr>
-<tr><td><code>hysteria2_servers.txt</code></td><td>فقط کانفیگ‌های Hysteria2</td></tr>
-<tr><td><code>tuic_servers.txt</code></td><td>فقط کانفیگ‌های TUIC</td></tr>
-<tr><td><code>ss_servers.txt</code></td><td>فقط کانفیگ‌های Shadowsocks</td></tr>
-<tr><td><code>ssr_servers.txt</code></td><td>فقط کانفیگ‌های SSR</td></tr>
-<tr><td><code>socks_servers.txt</code></td><td>فقط کانفیگ‌های SOCKS</td></tr>
-<tr><td><code>socks5_servers.txt</code></td><td>فقط کانفیگ‌های SOCKS5</td></tr>
+<tr>
+    <td><strong>all_servers.txt</strong></td>
+    <td>تمامی کانفیگ‌های یکتای جدید در هر اجرا (گیتهاب + تلگرام)</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/all_servers.txt"><img src="https://img.shields.io/badge/Download-All_Configs-blue?style=flat-square&logo=textpattern" alt="All Configs"></a></td>
+</tr>
+<tr>
+    <td><strong>vmess_servers.txt</strong></td>
+    <td>فقط کانفیگ‌های VMess</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/vmess_servers.txt"><img src="https://img.shields.io/badge/Download-VMess-EF7F1A?style=flat-square&logo=v" alt="VMess"></a></td>
+</tr>
+<tr>
+    <td><strong>vless_servers.txt</strong></td>
+    <td>فقط کانفیگ‌های VLESS</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/vless_servers.txt"><img src="https://img.shields.io/badge/Download-VLESS-00BFFF?style=flat-square&logo=v" alt="VLESS"></a></td>
+</tr>
+<tr>
+    <td><strong>trojan_servers.txt</strong></td>
+    <td>فقط کانفیگ‌های Trojan</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/trojan_servers.txt"><img src="https://img.shields.io/badge/Download-Trojan-2E8B57?style=flat-square&logo=trove" alt="Trojan"></a></td>
+</tr>
+<tr>
+    <td><strong>hysteria_servers.txt</strong></td>
+    <td>فقط کانفیگ‌های Hysteria</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hysteria_servers.txt"><img src="https://img.shields.io/badge/Download-Hysteria-8A2BE2?style=flat-square&logo=h" alt="Hysteria"></a></td>
+</tr>
+<tr>
+    <td><strong>hysteria2_servers.txt</strong></td>
+    <td>فقط کانفیگ‌های Hysteria2</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hysteria2_servers.txt"><img src="https://img.shields.io/badge/Download-Hysteria2-9400D3?style=flat-square&logo=h" alt="Hysteria2"></a></td>
+</tr>
+<tr>
+    <td><strong>tuic_servers.txt</strong></td>
+    <td>فقط کانفیگ‌های TUIC</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/tuic_servers.txt"><img src="https://img.shields.io/badge/Download-TUIC-FF69B4?style=flat-square&logo=t" alt="TUIC"></a></td>
+</tr>
+<tr>
+    <td><strong>ss_servers.txt</strong></td>
+    <td>فقط کانفیگ‌های Shadowsocks</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/ss_servers.txt"><img src="https://img.shields.io/badge/Download-Shadowsocks-4682B4?style=flat-square&logo=s" alt="Shadowsocks"></a></td>
+</tr>
+<tr>
+    <td><strong>ssr_servers.txt</strong></td>
+    <td>فقط کانفیگ‌های SSR</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/ssr_servers.txt"><img src="https://img.shields.io/badge/Download-SSR-5F9EA0?style=flat-square&logo=s" alt="SSR"></a></td>
+</tr>
+<tr>
+    <td><strong>socks_servers.txt</strong></td>
+    <td>فقط کانفیگ‌های SOCKS</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/socks_servers.txt"><img src="https://img.shields.io/badge/Download-SOCKS-8B4513?style=flat-square&logo=s" alt="SOCKS"></a></td>
+</tr>
+<tr>
+    <td><strong>socks5_servers.txt</strong></td>
+    <td>فقط کانفیگ‌های SOCKS5</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/socks5_servers.txt"><img src="https://img.shields.io/badge/Download-SOCKS5-A0522D?style=flat-square&logo=s" alt="SOCKS5"></a></td>
+</tr>
 </tbody>
 </table>
 <p>همه‌ی فایل‌ها در هر اجرا به‌روزرسانی می‌شوند و فقط شامل کانفیگ‌های یکتا و جدید هستند. اگر فایلی حجم بالایی داشت، می‌توانید از نسخه‌های تفکیک‌شده استفاده کنید.</p>
