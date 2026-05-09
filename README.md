@@ -1,7 +1,7 @@
 <!-- README.md (English Version) -->
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://github.com/MohammadBahemmat/V2ray-Collector/blob/main/README.fa.md">
-    <img src="https://img.shields.io/badge/Read_in-فارسی-FF5722?style=for-the-badge&logo=readthedocs" alt="Read in فارسی">
+    <img src="https://img.shields.io/badge/Read_in-</p>فارسی<p>-FF5722?style=for-the-badge&logo=readthedocs" alt="Read in فارسی">
   </a>
 </div>
 
