@@ -38,35 +38,6 @@
 
 <img src="https://github.com/MohammadBahemmat/V2ray-Collector/actions/workflows/collector.yml/badge.svg" alt="Collector Status">
 
-<div style="background-color: #1a1a2e; border: 2px solid #6c63ff; border-radius: 10px; padding: 15px; margin: 15px 0; text-align: center;">
-    <p style="margin: 0; font-size: 1.2em; color: #ffffff;">
-        🔗 <strong>لینک مستقیم فایل‌های خروجی (Raw):</strong><br>
-        📁 <strong>تمام کانفیگ‌ها:</strong>
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/all_servers.txt" 
-           style="color: #6c63ff; font-size: 1.1em; word-break: break-all;" 
-           target="_blank" rel="noopener">all_servers.txt</a><br>
-        🧩 <strong>تفکیک شده بر اساس پروتکل:</strong>
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/vmess_servers.txt" 
-           style="color: #6c63ff; font-size: 1.0em; word-break: break-all;" 
-           target="_blank" rel="noopener">VMess</a> ·
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/vless_servers.txt" 
-           style="color: #6c63ff; font-size: 1.0em; word-break: break-all;" 
-           target="_blank" rel="noopener">VLESS</a> ·
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/trojan_servers.txt" 
-           style="color: #6c63ff; font-size: 1.0em; word-break: break-all;" 
-           target="_blank" rel="noopener">Trojan</a> ·
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hysteria2_servers.txt" 
-           style="color: #6c63ff; font-size: 1.0em; word-break: break-all;" 
-           target="_blank" rel="noopener">Hysteria2</a> ·
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/tuic_servers.txt" 
-           style="color: #6c63ff; font-size: 1.0em; word-break: break-all;" 
-           target="_blank" rel="noopener">TUIC</a> ·
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/ss_servers.txt" 
-           style="color: #6c63ff; font-size: 1.0em; word-break: break-all;" 
-           target="_blank" rel="noopener">Shadowsocks</a>
-    </p>
-</div>
-
 <h1>🚀 V2ray Collector</h1>
 
 <p>
