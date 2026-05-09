@@ -132,8 +132,9 @@
 <hr>
 
 <!-- نیازمندی‌ها -->
-<h2>📦 نیازمندی‌ها</h2>
+<h2>📦 پیش‌نیازها (Requirements)</h2>
 <ul>
+    <li><strong>Git</strong> نصب شده روی سیستم (برای clone کردن مخزن)</li>
     <li>Python 3.10 یا بالاتر</li>
     <li>
         کتابخانه‌های موجود در <code>requirements.txt</code>:
