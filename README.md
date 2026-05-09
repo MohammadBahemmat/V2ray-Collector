@@ -5,6 +5,28 @@
   </a>
 </div>
 
+<body>
+<div class="container">
+
+<!-- ====== ردیف نشان‌های اطلاعاتی پروژه ====== -->
+<div align="center" style="margin-bottom: 15px;">
+
+<!-- Python Version -->
+<img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+<!-- License -->
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=open-source-initiative" alt="License">
+
+<!-- Requirements -->
+<a href="https://github.com/MohammadBahemmat/V2ray-Collector/blob/main/config/requirements.txt">
+    <img src="https://img.shields.io/badge/Requirements-txt-critical?style=for-the-badge&logo=pypi" alt="Requirements">
+</a>
+
+<!-- Platform -->
+<img src="https://img.shields.io/badge/Platform-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions" alt="GitHub Actions">
+
+</div>
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -15,35 +37,6 @@
 <div class="container">
 
 <img src="https://github.com/MohammadBahemmat/V2ray-Collector/actions/workflows/collector.yml/badge.svg" alt="Collector Status">
-
-<div style="background-color: #1a1a2e; border: 2px solid #6c63ff; border-radius: 10px; padding: 15px; margin: 15px 0; text-align: center;">
-    <p style="margin: 0; font-size: 1.2em; color: #ffffff;">
-        🔗 <strong>Direct download links (Raw):</strong><br>
-        📁 <strong>All configs:</strong>
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/all_servers.txt" 
-           style="color: #6c63ff; font-size: 1.1em; word-break: break-all;" 
-           target="_blank" rel="noopener">all_servers.txt</a><br>
-        🧩 <strong>Split by protocol:</strong>
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/vmess_servers.txt" 
-           style="color: #6c63ff; font-size: 1.0em; word-break: break-all;" 
-           target="_blank" rel="noopener">VMess</a> ·
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/vless_servers.txt" 
-           style="color: #6c63ff; font-size: 1.0em; word-break: break-all;" 
-           target="_blank" rel="noopener">VLESS</a> ·
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/trojan_servers.txt" 
-           style="color: #6c63ff; font-size: 1.0em; word-break: break-all;" 
-           target="_blank" rel="noopener">Trojan</a> ·
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hysteria2_servers.txt" 
-           style="color: #6c63ff; font-size: 1.0em; word-break: break-all;" 
-           target="_blank" rel="noopener">Hysteria2</a> ·
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/tuic_servers.txt" 
-           style="color: #6c63ff; font-size: 1.0em; word-break: break-all;" 
-           target="_blank" rel="noopener">TUIC</a> ·
-        <a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/ss_servers.txt" 
-           style="color: #6c63ff; font-size: 1.0em; word-break: break-all;" 
-           target="_blank" rel="noopener">Shadowsocks</a>
-    </p>
-</div>
 
 <h1>🚀 V2ray Collector</h1>
 
@@ -112,6 +105,7 @@ What sets this project apart from other collectors is its <strong>unified archit
 <!-- Requirements -->
 <h2>📦 Requirements</h2>
 <ul>
+    <li><strong>Git</strong> installed on your system (to clone the repository)</li>
     <li>Python 3.10 or higher</li>
     <li>
         Libraries listed in <code>requirements.txt</code>:
@@ -158,6 +152,25 @@ GH_APP_PRIVATE_KEY    → Private key of your GitHub App
 
 <hr>
 
+<h2>🧩 Quick Start</h2>
+<p>If you want to copy and run this project for yourself:</p>
+<ol>
+    <li>Fork the repository (use the Fork button at the top of the GitHub page)</li>
+    <li>Clone the forked repository:
+        <pre class="ltr-block">git clone https://github.com/YOUR_USERNAME/V2ray-Collector.git
+cd V2ray-Collector</pre>
+    </li>
+    <li>Install Python dependencies:
+        <pre class="ltr-block">pip install -r config/requirements.txt</pre>
+    </li>
+    <li>Create a <code>.env</code> file with your GitHub token, following the template in <code>config/.env.example</code>.</li>
+    <li>Fill <code>channels.txt</code> with the Telegram channels you want to monitor.</li>
+    <li>Run the collector once manually to test everything:
+        <pre class="ltr-block">python src/collector_git.py</pre>
+    </li>
+</ol>
+<hr>
+
 <!-- Manual Execution -->
 <h2>🚀 Manual Execution</h2>
 <p>To run the GitHub collector alone (without Telegram), simply execute the following command in your terminal:</p>
@@ -197,20 +210,64 @@ GH_APP_PRIVATE_KEY    → Private key of your GitHub App
 <h2>📁 Output Files</h2>
 <table>
 <thead>
-<tr><th>File</th><th>Description</th></tr>
+<tr><th>File</th><th>Description</th><th>Direct Link</th></tr>
 </thead>
 <tbody>
-<tr><td><code>all_servers.txt</code></td><td>All unique new configs in each run (from GitHub and Telegram)</td></tr>
-<tr><td><code>vmess_servers.txt</code></td><td>Only VMess configs</td></tr>
-<tr><td><code>vless_servers.txt</code></td><td>Only VLESS configs</td></tr>
-<tr><td><code>trojan_servers.txt</code></td><td>Only Trojan configs</td></tr>
-<tr><td><code>hysteria_servers.txt</code></td><td>Only Hysteria configs</td></tr>
-<tr><td><code>hysteria2_servers.txt</code></td><td>Only Hysteria2 configs</td></tr>
-<tr><td><code>tuic_servers.txt</code></td><td>Only TUIC configs</td></tr>
-<tr><td><code>ss_servers.txt</code></td><td>Only Shadowsocks configs</td></tr>
-<tr><td><code>ssr_servers.txt</code></td><td>Only SSR configs</td></tr>
-<tr><td><code>socks_servers.txt</code></td><td>Only SOCKS configs</td></tr>
-<tr><td><code>socks5_servers.txt</code></td><td>Only SOCKS5 configs</td></tr>
+<tr>
+    <td><strong>all_servers.txt</strong></td>
+    <td>All unique new configs per run (GitHub + Telegram)</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/all_servers.txt"><img src="https://img.shields.io/badge/Download-All_Configs-blue?style=flat-square&logo=textpattern" alt="All Configs"></a></td>
+</tr>
+<tr>
+    <td><strong>vmess_servers.txt</strong></td>
+    <td>VMess configs only</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/vmess_servers.txt"><img src="https://img.shields.io/badge/Download-VMess-EF7F1A?style=flat-square&logo=v" alt="VMess"></a></td>
+</tr>
+<tr>
+    <td><strong>vless_servers.txt</strong></td>
+    <td>VLESS configs only</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/vless_servers.txt"><img src="https://img.shields.io/badge/Download-VLESS-00BFFF?style=flat-square&logo=v" alt="VLESS"></a></td>
+</tr>
+<tr>
+    <td><strong>trojan_servers.txt</strong></td>
+    <td>Trojan configs only</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/trojan_servers.txt"><img src="https://img.shields.io/badge/Download-Trojan-2E8B57?style=flat-square&logo=trove" alt="Trojan"></a></td>
+</tr>
+<tr>
+    <td><strong>hysteria_servers.txt</strong></td>
+    <td>Hysteria configs only</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hysteria_servers.txt"><img src="https://img.shields.io/badge/Download-Hysteria-8A2BE2?style=flat-square&logo=h" alt="Hysteria"></a></td>
+</tr>
+<tr>
+    <td><strong>hysteria2_servers.txt</strong></td>
+    <td>Hysteria2 configs only</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hysteria2_servers.txt"><img src="https://img.shields.io/badge/Download-Hysteria2-9400D3?style=flat-square&logo=h" alt="Hysteria2"></a></td>
+</tr>
+<tr>
+    <td><strong>tuic_servers.txt</strong></td>
+    <td>TUIC configs only</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/tuic_servers.txt"><img src="https://img.shields.io/badge/Download-TUIC-FF69B4?style=flat-square&logo=t" alt="TUIC"></a></td>
+</tr>
+<tr>
+    <td><strong>ss_servers.txt</strong></td>
+    <td>Shadowsocks configs only</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/ss_servers.txt"><img src="https://img.shields.io/badge/Download-Shadowsocks-4682B4?style=flat-square&logo=s" alt="Shadowsocks"></a></td>
+</tr>
+<tr>
+    <td><strong>ssr_servers.txt</strong></td>
+    <td>SSR configs only</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/ssr_servers.txt"><img src="https://img.shields.io/badge/Download-SSR-5F9EA0?style=flat-square&logo=s" alt="SSR"></a></td>
+</tr>
+<tr>
+    <td><strong>socks_servers.txt</strong></td>
+    <td>SOCKS configs only</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/socks_servers.txt"><img src="https://img.shields.io/badge/Download-SOCKS-8B4513?style=flat-square&logo=s" alt="SOCKS"></a></td>
+</tr>
+<tr>
+    <td><strong>socks5_servers.txt</strong></td>
+    <td>SOCKS5 configs only</td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/socks5_servers.txt"><img src="https://img.shields.io/badge/Download-SOCKS5-A0522D?style=flat-square&logo=s" alt="SOCKS5"></a></td>
+</tr>
 </tbody>
 </table>
 <p>All files are updated on every run and contain only unique, new configs. If a file becomes too large, you can use the split versions instead.</p>
