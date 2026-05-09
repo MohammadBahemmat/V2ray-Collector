@@ -1,3 +1,1 @@
-socks5://128.140.46.169:13482
-socks5://PROXY_HOST:PROXY_PORT
-socks5://myproxy.com:3128
+socks5://168.119.38.41:5391
