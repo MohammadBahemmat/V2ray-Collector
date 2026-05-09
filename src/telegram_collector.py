@@ -19,7 +19,7 @@ SLEEP_BETWEEN_CHANNELS = 1.5         # تاخیر بین واکشی کانال�
 
 # ----- الگوی استخراج کانفیگ -----
 V2RAY_PATTERN = re.compile(
-    r'(?:vless|vmess|trojan|ss|ssr|hysteria|hysteria2|tuic|juicity)://[^\s`\'"<>]+',
+    r'(?:vless|vmess|trojan|ss|ssr|hysteria|hysteria2|tuic|juicity|socks[45]?)://[^\s`\'"<>]+',
     flags=re.IGNORECASE
 )
 
