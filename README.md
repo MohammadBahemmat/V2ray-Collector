@@ -221,52 +221,52 @@ cd V2ray-Collector</pre>
 <tr>
     <td><strong>vmess_servers.txt</strong></td>
     <td>فقط کانفیگ‌های VMess</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/vmess_servers.txt"><img src="https://img.shields.io/badge/Download-VMess-EF7F1A?style=flat-square&logo=v" alt="VMess"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vmess_servers.txt"><img src="https://img.shields.io/badge/Download-VMess-EF7F1A?style=flat-square&logo=v" alt="VMess"></a></td>
 </tr>
 <tr>
     <td><strong>vless_servers.txt</strong></td>
     <td>فقط کانفیگ‌های VLESS</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/vless_servers.txt"><img src="https://img.shields.io/badge/Download-VLESS-00BFFF?style=flat-square&logo=v" alt="VLESS"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vless_servers.txt"><img src="https://img.shields.io/badge/Download-VLESS-00BFFF?style=flat-square&logo=v" alt="VLESS"></a></td>
 </tr>
 <tr>
     <td><strong>trojan_servers.txt</strong></td>
     <td>فقط کانفیگ‌های Trojan</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/trojan_servers.txt"><img src="https://img.shields.io/badge/Download-Trojan-2E8B57?style=flat-square&logo=trove" alt="Trojan"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/trojan_servers.txt"><img src="https://img.shields.io/badge/Download-Trojan-2E8B57?style=flat-square&logo=trove" alt="Trojan"></a></td>
 </tr>
 <tr>
     <td><strong>hysteria_servers.txt</strong></td>
     <td>فقط کانفیگ‌های Hysteria</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hysteria_servers.txt"><img src="https://img.shields.io/badge/Download-Hysteria-8A2BE2?style=flat-square&logo=h" alt="Hysteria"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria_servers.txt"><img src="https://img.shields.io/badge/Download-Hysteria-8A2BE2?style=flat-square&logo=h" alt="Hysteria"></a></td>
 </tr>
 <tr>
     <td><strong>hysteria2_servers.txt</strong></td>
     <td>فقط کانفیگ‌های Hysteria2</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hysteria2_servers.txt"><img src="https://img.shields.io/badge/Download-Hysteria2-9400D3?style=flat-square&logo=h" alt="Hysteria2"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria2_servers.txt"><img src="https://img.shields.io/badge/Download-Hysteria2-9400D3?style=flat-square&logo=h" alt="Hysteria2"></a></td>
 </tr>
 <tr>
     <td><strong>tuic_servers.txt</strong></td>
     <td>فقط کانفیگ‌های TUIC</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/tuic_servers.txt"><img src="https://img.shields.io/badge/Download-TUIC-FF69B4?style=flat-square&logo=t" alt="TUIC"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/tuic_servers.txt"><img src="https://img.shields.io/badge/Download-TUIC-FF69B4?style=flat-square&logo=t" alt="TUIC"></a></td>
 </tr>
 <tr>
     <td><strong>ss_servers.txt</strong></td>
     <td>فقط کانفیگ‌های Shadowsocks</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/ss_servers.txt"><img src="https://img.shields.io/badge/Download-Shadowsocks-4682B4?style=flat-square&logo=s" alt="Shadowsocks"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/ss_servers.txt"><img src="https://img.shields.io/badge/Download-Shadowsocks-4682B4?style=flat-square&logo=s" alt="Shadowsocks"></a></td>
 </tr>
 <tr>
     <td><strong>ssr_servers.txt</strong></td>
     <td>فقط کانفیگ‌های SSR</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/ssr_servers.txt"><img src="https://img.shields.io/badge/Download-SSR-5F9EA0?style=flat-square&logo=s" alt="SSR"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/ssr_servers.txt"><img src="https://img.shields.io/badge/Download-SSR-5F9EA0?style=flat-square&logo=s" alt="SSR"></a></td>
 </tr>
 <tr>
     <td><strong>socks_servers.txt</strong></td>
     <td>فقط کانفیگ‌های SOCKS</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/socks_servers.txt"><img src="https://img.shields.io/badge/Download-SOCKS-8B4513?style=flat-square&logo=s" alt="SOCKS"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/socks_servers.txt"><img src="https://img.shields.io/badge/Download-SOCKS-8B4513?style=flat-square&logo=s" alt="SOCKS"></a></td>
 </tr>
 <tr>
     <td><strong>socks5_servers.txt</strong></td>
     <td>فقط کانفیگ‌های SOCKS5</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/socks5_servers.txt"><img src="https://img.shields.io/badge/Download-SOCKS5-A0522D?style=flat-square&logo=s" alt="SOCKS5"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/socks5_servers.txt"><img src="https://img.shields.io/badge/Download-SOCKS5-A0522D?style=flat-square&logo=s" alt="SOCKS5"></a></td>
 </tr>
 </tbody>
 </table>
@@ -288,42 +288,43 @@ cd V2ray-Collector</pre>
 │   ├── telegram_collector.py          # اسکریپت جمع‌آوری از تلگرام (بدون API)
 │   ├── split_links.py                 # شکستن لینک‌های چسبیده
 │   ├── dedup_configs.py               # حذف تکراری‌های هوشمند
-│   └── rebuild_protocols.py           # بازسازی فایل‌های پروتکل از روی all_servers.txt
+│   ├── rebuild_protocols.py           # بازسازی فایل‌های پروتکل از روی all_servers.txt تمیز
+│   └── channel_cleaner.py             # اسکریپت کمکی برای پاکسازی کانال‌های تلگرام
 │
 ├── config/
 │   ├── requirements.txt               # وابستگی‌های پایتون
 │   ├── .gitignore                     # فایل‌های نادیده گرفته‌شده
 │   └── .env.example                   # نمونه فایل متغیرهای محیطی
 │
+├── data/                              # فایل‌های داده و گزارش‌ها
+│   ├── channels.txt                   # فهرست کانال‌های تلگرام (ورودی)
+│   ├── channel_report.txt             # گزارش تعداد کانفیگ‌های استخراج‌شده از هر کانال
+│   ├── checkpoint.json                # فایل ذخیره‌ی پیشرفت (Checkpoint)
+│   ├── discovered_branches.json       # شاخه‌های جدید کشف‌شده
+│   ├── repo_report.txt                # گزارش تعداد کانفیگ‌های استخراج‌شده از هر مخزن گیتهاب
+│   ├── token_state.txt                # شمارنده‌ی چرخش توکن
+│   ├── channels_cleaned.txt           # (تولیدشده) خروجی پاک‌سازی‌شده کانال‌های معتبر
+│   └── invalid_channels.txt           # (تولیدشده) کانال‌های نامعتبر
+│
+├── servers/                           # فایل‌های تفکیک‌شده بر اساس پروتکل
+│   ├── vmess_servers.txt              # کانفیگ‌های VMess
+│   ├── vless_servers.txt              # کانفیگ‌های VLESS
+│   ├── trojan_servers.txt             # کانفیگ‌های Trojan
+│   ├── ss_servers.txt                 # کانفیگ‌های Shadowsocks
+│   ├── ssr_servers.txt                # کانفیگ‌های SSR
+│   ├── hysteria_servers.txt           # کانفیگ‌های Hysteria
+│   ├── hysteria2_servers.txt          # کانفیگ‌های Hysteria2
+│   ├── tuic_servers.txt               # کانفیگ‌های TUIC
+│   ├── socks_servers.txt              # کانفیگ‌های SOCKS
+│   └── socks5_servers.txt             # کانفیگ‌های SOCKS5
+│
 ├── for Developers/                     # نسخه‌های کامل و قدیمی برای توسعه‌دهندگان
 │   └── collector_git_Fullversion
 │
-├── README.EN.md                        # مستندات انگلیسی
+├── all_servers.txt                     # تمام کانفیگ‌های یکتای جدید در هر اجرا (گیتهاب + تلگرام)
 ├── README.md                           # مستندات فارسی
-├── channels.txt                        # فهرست کانال‌های تلگرام (ورودی)
-├── channels_cleaned.txt                # خروجی پاک‌سازی‌شده کانال‌های معتبر
-├── invalid_channels.txt                # کانال‌های نامعتبر
-├── channel_cleaner.py                  # اسکریپت کمکی برای پاکسازی کانال‌ها
-│
-├── all_servers.txt                     # تمام کانفیگ‌های یکتا (گیتهاب + تلگرام)
-├── vmess_servers.txt                   # کانفیگ‌های VMess
-├── vless_servers.txt                   # کانفیگ‌های VLESS
-├── trojan_servers.txt                  # کانفیگ‌های Trojan
-├── ss_servers.txt                      # کانفیگ‌های Shadowsocks
-├── ssr_servers.txt                     # کانفیگ‌های SSR
-├── hysteria_servers.txt                # کانفیگ‌های Hysteria
-├── hysteria2_servers.txt               # کانفیگ‌های Hysteria2
-├── tuic_servers.txt                    # کانفیگ‌های TUIC
-├── socks_servers.txt                   # کانفیگ‌های SOCKS
-├── socks5_servers.txt                  # کانفیگ‌های SOCKS5
-│
-├── checkpoint.json                     # فایل ذخیره‌ی پیشرفت (Checkpoint)
-├── discovered_branches.json            # شاخه‌های جدید کشف‌شده
-├── channel_report.txt                  # گزارش تعداد کانفیگ‌های استخراج‌شده از هر کانال
-├── repo_report.txt                     # گزارش تعداد کانفیگ‌های استخراج‌شده از هر مخزن گیتهاب
-└── token_state.txt                     # شمارنده‌ی چرخش توکن
+└── README.EN.md                        # مستندات انگلیسی
 </pre>
-
 <hr>
 
 <!-- مقایسه -->
