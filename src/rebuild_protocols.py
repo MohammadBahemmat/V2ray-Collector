@@ -36,7 +36,7 @@ def main():
         protocols.setdefault(proto, []).append(cfg)
 
     for proto, items in protocols.items():
-        fname = f"{proto}_servers.txt"
+        fname = f"servers/{proto}_servers.txt"
         with open(fname, "w", encoding="utf-8") as f:
             f.write("\n".join(items) + "\n")
         logger.info(f"Rebuilt {fname} with {len(items)} configs")
