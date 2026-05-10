@@ -221,52 +221,52 @@ cd V2ray-Collector</pre>
 <tr>
     <td><strong>vmess_servers.txt</strong></td>
     <td>VMess configs only</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/vmess_servers.txt"><img src="https://img.shields.io/badge/Download-VMess-EF7F1A?style=flat-square&logo=v" alt="VMess"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vmess_servers.txt"><img src="https://img.shields.io/badge/Download-VMess-EF7F1A?style=flat-square&logo=v" alt="VMess"></a></td>
 </tr>
 <tr>
     <td><strong>vless_servers.txt</strong></td>
     <td>VLESS configs only</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/vless_servers.txt"><img src="https://img.shields.io/badge/Download-VLESS-00BFFF?style=flat-square&logo=v" alt="VLESS"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vless_servers.txt"><img src="https://img.shields.io/badge/Download-VLESS-00BFFF?style=flat-square&logo=v" alt="VLESS"></a></td>
 </tr>
 <tr>
     <td><strong>trojan_servers.txt</strong></td>
     <td>Trojan configs only</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/trojan_servers.txt"><img src="https://img.shields.io/badge/Download-Trojan-2E8B57?style=flat-square&logo=trove" alt="Trojan"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/trojan_servers.txt"><img src="https://img.shields.io/badge/Download-Trojan-2E8B57?style=flat-square&logo=trove" alt="Trojan"></a></td>
 </tr>
 <tr>
     <td><strong>hysteria_servers.txt</strong></td>
     <td>Hysteria configs only</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hysteria_servers.txt"><img src="https://img.shields.io/badge/Download-Hysteria-8A2BE2?style=flat-square&logo=h" alt="Hysteria"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria_servers.txt"><img src="https://img.shields.io/badge/Download-Hysteria-8A2BE2?style=flat-square&logo=h" alt="Hysteria"></a></td>
 </tr>
 <tr>
     <td><strong>hysteria2_servers.txt</strong></td>
     <td>Hysteria2 configs only</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/hysteria2_servers.txt"><img src="https://img.shields.io/badge/Download-Hysteria2-9400D3?style=flat-square&logo=h" alt="Hysteria2"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria2_servers.txt"><img src="https://img.shields.io/badge/Download-Hysteria2-9400D3?style=flat-square&logo=h" alt="Hysteria2"></a></td>
 </tr>
 <tr>
     <td><strong>tuic_servers.txt</strong></td>
     <td>TUIC configs only</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/tuic_servers.txt"><img src="https://img.shields.io/badge/Download-TUIC-FF69B4?style=flat-square&logo=t" alt="TUIC"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/tuic_servers.txt"><img src="https://img.shields.io/badge/Download-TUIC-FF69B4?style=flat-square&logo=t" alt="TUIC"></a></td>
 </tr>
 <tr>
     <td><strong>ss_servers.txt</strong></td>
     <td>Shadowsocks configs only</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/ss_servers.txt"><img src="https://img.shields.io/badge/Download-Shadowsocks-4682B4?style=flat-square&logo=s" alt="Shadowsocks"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/ss_servers.txt"><img src="https://img.shields.io/badge/Download-Shadowsocks-4682B4?style=flat-square&logo=s" alt="Shadowsocks"></a></td>
 </tr>
 <tr>
     <td><strong>ssr_servers.txt</strong></td>
     <td>SSR configs only</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/ssr_servers.txt"><img src="https://img.shields.io/badge/Download-SSR-5F9EA0?style=flat-square&logo=s" alt="SSR"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/ssr_servers.txt"><img src="https://img.shields.io/badge/Download-SSR-5F9EA0?style=flat-square&logo=s" alt="SSR"></a></td>
 </tr>
 <tr>
     <td><strong>socks_servers.txt</strong></td>
     <td>SOCKS configs only</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/socks_servers.txt"><img src="https://img.shields.io/badge/Download-SOCKS-8B4513?style=flat-square&logo=s" alt="SOCKS"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/socks_servers.txt"><img src="https://img.shields.io/badge/Download-SOCKS-8B4513?style=flat-square&logo=s" alt="SOCKS"></a></td>
 </tr>
 <tr>
     <td><strong>socks5_servers.txt</strong></td>
     <td>SOCKS5 configs only</td>
-    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/socks5_servers.txt"><img src="https://img.shields.io/badge/Download-SOCKS5-A0522D?style=flat-square&logo=s" alt="SOCKS5"></a></td>
+    <td><a href="https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/socks5_servers.txt"><img src="https://img.shields.io/badge/Download-SOCKS5-A0522D?style=flat-square&logo=s" alt="SOCKS5"></a></td>
 </tr>
 </tbody>
 </table>
@@ -288,42 +288,43 @@ cd V2ray-Collector</pre>
 │   ├── telegram_collector.py          # Telegram collector script (no API)
 │   ├── split_links.py                 # Split joined links
 │   ├── dedup_configs.py               # Intelligent deduplication
-│   └── rebuild_protocols.py           # Rebuild protocol files from cleaned all_servers.txt
+│   ├── rebuild_protocols.py           # Rebuild protocol files from cleaned all_servers.txt
+│   └── channel_cleaner.py             # Helper script for cleaning Telegram channels
 │
 ├── config/
 │   ├── requirements.txt               # Python dependencies
 │   ├── .gitignore                     # Ignored files
 │   └── .env.example                   # Sample environment variables file
 │
+├── data/                              # Data and report files
+│   ├── channels.txt                   # Telegram channel list (input)
+│   ├── channel_report.txt             # Report of configs extracted per channel
+│   ├── checkpoint.json                # Progress save file (Checkpoint)
+│   ├── discovered_branches.json       # Newly discovered branches
+│   ├── repo_report.txt                # Report of configs extracted per GitHub repository
+│   ├── token_state.txt                # Token rotation counter
+│   ├── channels_cleaned.txt           # (generated) Cleaned list of valid channels
+│   └── invalid_channels.txt           # (generated) List of invalid channels
+│
+├── servers/                           # Split protocol output files
+│   ├── vmess_servers.txt              # VMess configs
+│   ├── vless_servers.txt              # VLESS configs
+│   ├── trojan_servers.txt             # Trojan configs
+│   ├── ss_servers.txt                 # Shadowsocks configs
+│   ├── ssr_servers.txt                # SSR configs
+│   ├── hysteria_servers.txt           # Hysteria configs
+│   ├── hysteria2_servers.txt          # Hysteria2 configs
+│   ├── tuic_servers.txt               # TUIC configs
+│   ├── socks_servers.txt              # SOCKS configs
+│   └── socks5_servers.txt             # SOCKS5 configs
+│
 ├── for Developers/                     # Full and old versions for developers
 │   └── collector_git_Fullversion
 │
-├── README.EN.md                        # English documentation
+├── all_servers.txt                     # All unique new configs per run (GitHub + Telegram)
 ├── README.md                           # Persian documentation
-├── channels.txt                        # Telegram channel list (input)
-├── channels_cleaned.txt                # Cleaned output of valid channels
-├── invalid_channels.txt                # Invalid channels
-├── channel_cleaner.py                  # Helper script for cleaning channels
-│
-├── all_servers.txt                     # All unique configs (GitHub + Telegram)
-├── vmess_servers.txt                   # VMess configs
-├── vless_servers.txt                   # VLESS configs
-├── trojan_servers.txt                  # Trojan configs
-├── ss_servers.txt                      # Shadowsocks configs
-├── ssr_servers.txt                     # SSR configs
-├── hysteria_servers.txt                # Hysteria configs
-├── hysteria2_servers.txt               # Hysteria2 configs
-├── tuic_servers.txt                    # TUIC configs
-├── socks_servers.txt                   # SOCKS configs
-├── socks5_servers.txt                  # SOCKS5 configs
-│
-├── checkpoint.json                     # Progress save file (Checkpoint)
-├── discovered_branches.json            # Newly discovered branches
-├── channel_report.txt                  # Report of configs extracted per channel
-├── repo_report.txt                     # Report of configs extracted per GitHub repository
-└── token_state.txt                     # Token rotation counter
+└── README.EN.md                        # English documentation
 </pre>
-
 <hr>
 
 <!-- Comparison -->
