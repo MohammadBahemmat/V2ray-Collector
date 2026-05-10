@@ -44,8 +44,8 @@ CONFIG_DEFAULTS = {
     "ENV_FILE": ".env",
     "CACHE_FILE": "collector_cache.json",
     "CACHE_EXPIRY_DAYS": 1,
-    "CHECKPOINT_FILE": "checkpoint.json",
-    "DISCOVERED_BRANCHES_FILE": "discovered_branches.json",
+    "CHECKPOINT_FILE": "data/checkpoint.json",
+    "DISCOVERED_BRANCHES_FILE": "data/discovered_branches.json",
 }
 
 # ============================
@@ -71,7 +71,7 @@ COMMON_BRANCH_NAMES = [
 'singbox-iran', 'tuic-iran', 'juicity-iran', 'warp-iran', 'worker-iran',
 'protonvpn-next-dev', 'devin/1777224454-initial-app', 'v2-rewrite', 'no-reflow',
 'codex/anfisa-vpn-publish', 'init', 'Monad', 'claude/apartment-listing-monitor-2U2yQ',
-'UwU', 'SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev'
+'UwU', 'SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev', 'next'
 ]
 
 REPO_SEARCH_QUERIES = sorted(list(set([
@@ -1980,7 +1980,7 @@ async def main():
 
             # ذخیره‌ی کش لینک‌های raw برای استفاده در اجراهای بعدی (فقط در روزانه)
             if run_mode == "daily":
-                with open("raw_urls_cache.json", "w") as f:
+                with open("data/raw_urls_cache.json", "w") as f:
                     json.dump(list(source_urls), f)
                 logger.info(f"💾 Saved {len(source_urls)} raw URLs to raw_urls_cache.json")
 
@@ -2018,7 +2018,7 @@ async def main():
             await save_checkpoint(processed_urls_session, searched_queries, scanned_manual_repos)
 
         # --- بروزرسانی گزارش مخازن ---
-        repo_report_file = "repo_report.txt"   # در ریشهٔ پروژه
+        repo_report_file = "data/repo_report.txt"   # در ریشهٔ پروژه
         repo_history = {}
         if os.path.exists(repo_report_file):
             with open(repo_report_file, "r", encoding="utf-8") as f:
