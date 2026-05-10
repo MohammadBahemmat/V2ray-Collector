@@ -87,12 +87,12 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          if [ ! -f discovered_branches.json ]; then
-            echo '[]' > discovered_branches.json
-          fi
-          # اطمینان از اینکه all_servers.txt همیشه وجود دارد
+          # ساخت پوشه‌های ضروری اگر وجود ندارند
+          mkdir -p servers data
+          # اطمینان از وجود all_servers.txt
           touch all_servers.txt
-          git add all_servers.txt servers/*_servers.txt data/checkpoint.json data/discovered_branches.json data/channel_report.txt data/repo_report.txt data/token_state.txt 2>/dev/null || true
+          # افزودن فایل‌ها (حتی untrackedها)
+          git add -A all_servers.txt servers/ data/ 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
