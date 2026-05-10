@@ -35,6 +35,8 @@ def main():
 
         protocols.setdefault(proto, []).append(cfg)
 
+    os.makedirs("servers", exist_ok=True)
+
     for proto, items in protocols.items():
         fname = f"servers/{proto}_servers.txt"
         with open(fname, "w", encoding="utf-8") as f:
