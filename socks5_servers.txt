@@ -1,4 +1,1 @@
-socks5://134.199.159.23:1080/#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20SOCKS5%20134.199.159.23%3A1080
-socks5://8.222.249.27:1100#[
-socks5://8.222.249.27:1100&host=shiny.revilseptember.workers.dev&sni=shiny.revilseptember.workers.dev&fp=chrome&encryption=none#
-socks5://gogo:gogo@185.184.70.120:50088
+socks5://79.172.212.71:1080
