@@ -298,7 +298,8 @@ cd V2ray-Collector</pre>
 ├── for Developers/                     # Full and old versions for developers
 │   └── collector_git_Fullversion
 │
-├── README.md                           # Project documentation
+├── README.EN.md                        # English documentation
+├── README.md                           # Persian documentation
 ├── channels.txt                        # Telegram channel list (input)
 ├── channels_cleaned.txt                # Cleaned output of valid channels
 ├── invalid_channels.txt                # Invalid channels
