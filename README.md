@@ -298,7 +298,8 @@ cd V2ray-Collector</pre>
 ├── for Developers/                     # نسخه‌های کامل و قدیمی برای توسعه‌دهندگان
 │   └── collector_git_Fullversion
 │
-├── README.md                           # مستندات پروژه
+├── README.EN.md                        # مستندات انگلیسی
+├── README.md                           # مستندات فارسی
 ├── channels.txt                        # فهرست کانال‌های تلگرام (ورودی)
 ├── channels_cleaned.txt                # خروجی پاک‌سازی‌شده کانال‌های معتبر
 ├── invalid_channels.txt                # کانال‌های نامعتبر
