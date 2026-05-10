@@ -38,7 +38,7 @@
 
 <img src="https://github.com/MohammadBahemmat/V2ray-Collector/actions/workflows/collector.yml/badge.svg" alt="Collector Status">
 
-<h1>🚀 V2ray Collector</h1>
+<h1>🚀 جمع‌آوری‌کننده کانفیگ V2Ray — اشتراک پروکسی رایگان و خودکار</h1>
 
 <p>
 <strong>یک گردآورنده‌ی هوشمند، بدون وابستگی و فوق‌العاده بهینه برای جمع‌آوری خودکار کانفیگ‌های V2Ray و پروتکل‌های مشابه.</strong><br>
@@ -437,5 +437,11 @@ cd V2ray-Collector</pre>
 <p>این پروژه تحت مجوز <strong>MIT</strong> منتشر شده است. استفاده، ویرایش و توزیع آزاد است.</p>
 
 </div>
+
+<!-- keywords: v2ray collector, v2ray config, vmess vless trojan, free v2ray, 
+     v2ray subscription, proxy config collector, telegram v2ray, 
+     github actions collector, hysteria2 tuic, shadowsocks collector, 
+     جمع آوری کانفیگ V2Ray, کانفیگ رایگان V2Ray, وی‌پی‌ان رایگان -->
+
 </body>
 </html>
