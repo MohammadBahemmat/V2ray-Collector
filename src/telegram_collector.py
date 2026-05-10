@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # ----- تنظیمات -----
-CHANNELS_FILE = "channels.txt"       # فایل حاوی شناسه کانال‌ها
+CHANNELS_FILE = "data/channels.txt"       # فایل حاوی شناسه کانال‌ها
 DB_FILE = "collector.db"             # همان دیتابیس اصلی پروژه
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 SLEEP_BETWEEN_CHANNELS = 1.5         # تاخیر بین واکشی کانال‌ها (حفظ ادب در scraping)
@@ -96,7 +96,7 @@ def main():
         logger.warning("هیچ کانفیگی یافت نشد.")
 
     # --- ذخیره گزارش عملکرد کانال‌ها ---
-    report_file = "channel_report.txt"
+    report_file = "data/channel_report.txt"
     history = {}
     if Path(report_file).exists():
         with open(report_file, "r", encoding="utf-8") as f:
