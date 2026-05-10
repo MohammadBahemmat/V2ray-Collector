@@ -2,17 +2,17 @@
 import requests, time
 from pathlib import Path
 
-INPUT = "channels.txt"
-VALID = "channels_cleaned.txt"
-INVALID = "invalid_channels.txt"
+INPUT_FILE = "data/channels.txt"
+VALID_FILE = "data/channels_cleaned.txt"
+INVALID_FILE = "data/invalid_channels.txt"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 TIMEOUT = 5
 
 def main():
-    if not Path(INPUT).exists():
-        print(f"❌ {INPUT} not found")
+    if not Path(INPUT_FILE).exists():
+        print(f"❌ {INPUT_FILE} not found")
         return
-    with open(INPUT) as f:
+    with open(INPUT_FILE) as f:
         channels = [l.strip() for l in f if l.strip() and not l.startswith('#')]
     print(f"Checking {len(channels)} channels...")
     valid, invalid = [], []
@@ -28,9 +28,9 @@ def main():
             invalid.append(f"{ch} # {e}")
         if i % 50 == 0:
             print(f"  {i}/{len(channels)} checked...")
-        time.sleep(0.2)  # مؤدبانه
-    Path(VALID).write_text("\n".join(valid))
-    Path(INVALID).write_text("\n".join(invalid))
+        time.sleep(0.2)
+    Path(VALID_FILE).write_text("\n".join(valid))
+    Path(INVALID_FILE).write_text("\n".join(invalid))
     print(f"Done. Valid: {len(valid)}, Invalid: {len(invalid)}")
 
 if __name__ == "__main__":
