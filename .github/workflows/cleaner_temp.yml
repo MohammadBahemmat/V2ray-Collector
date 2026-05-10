@@ -23,14 +23,14 @@ jobs:
         run: pip install requests
 
       - name: Run cleaner
-        run: python channel_cleaner.py
+        run: python src/channel_cleaner.py
 
       # ثبت فایل‌های جدید در مخزن
       - name: Commit cleaned files
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add channels_cleaned.txt invalid_channels.txt
+          git add data/channels_cleaned.txt data/invalid_channels.txt
           git commit -m "Add cleaned and invalid channel lists" || echo "No changes to commit"
           git pull --rebase --strategy-option ours
           git push
