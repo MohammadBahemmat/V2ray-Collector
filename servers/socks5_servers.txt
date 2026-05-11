@@ -1,1 +1,2 @@
-socks5://T2clM0QlM0Q6@121.169.46.116:1090
+socks5://127.0.0.1:10886/#WhiteDNS%20%C2%B9
+socks5://62.220.126.56:30170/#2%40oneclickvpnkeys
