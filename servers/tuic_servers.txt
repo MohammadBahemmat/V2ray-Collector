@@ -1,1 +1,1 @@
-tuic://90675eb8-759e-4efb-b119-0b8a7f435b6b:password@xtls.juda.dpdns.org:8082??type=tcp&security=tls&fp=chrome&sni=xtls.juda.dpdns.org&alpn=h3#singbox-tuic-in
+tuic://5936c09e-b309-4946-966e-4245afd04a6a:5936c09e-b309-4946-966e-4245afd04a6a@38.135.24.154:30000?alpn=h3&congestion_control=bbr&allow_insecure=1&sni=www.python.org&udp_relay_mode=native#%F0%9F%87%BA%F0%9F%87%B8US%C2%B2_2%7C0.9MB%2Fs%7C50%25%7CGPT%E2%81%BA%7CGM%7CYT%7CTK%7CNF%7CD%2B%7CX
