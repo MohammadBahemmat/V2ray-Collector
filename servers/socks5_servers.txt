@@ -1,3 +1,1 @@
-socks5://127.0.0.1:10880/#%40TechNowAi%20Socks%20For%20Slipnet
-socks5://127.0.0.1:10886/#%40TechNowAi%20Socks
-socks5://T2clM0QlM0Q6@121.169.46.116:1090
+socks5://127.0.0.1:10886/#WhiteDNS%20%C2%B9
