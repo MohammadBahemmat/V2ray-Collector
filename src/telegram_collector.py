@@ -89,6 +89,7 @@ def main():
 
     channel_results = []
     all_configs = set()
+    invalid_channels = []  # 🆕 کانال‌هایی که message_id ندارند
     
     for idx, ch in enumerate(channels, 1):
         logger.info(f"📡 [{idx}/{len(channels)}] واکشی کانال: {ch}")
@@ -105,7 +106,8 @@ def main():
         
         if not msg_ids:
             logger.warning(f"   ↳ هیچ message_id در HTML پیدا نشد")
-            channel_results.append((ch, 0))
+            invalid_channels.append(ch)          # 🆕 اضافه به لیست کانال‌های نامعتبر
+            channel_results.append((ch, "ERR"))  # 🆕 ERR به‌جای 0
             if idx < len(channels):
                 time.sleep(SLEEP_BETWEEN_CHANNELS)
             continue
@@ -115,12 +117,10 @@ def main():
         new_msg_ids = [m for m in msg_ids if m > last_id]
         
         if new_msg_ids:
-            # فقط پیام‌های جدیدتر از آخرین بررسی
             found = extract_configs(html)
             logger.info(f"   ↳ {len(found)} کانفیگ استخراج شد (پیام‌های جدید: {len(new_msg_ids)})")
             all_configs.update(found)
             channel_results.append((ch, len(found)))
-            # به‌روزرسانی آخرین message_id برای این کانال
             last_ids[ch] = max(msg_ids)
         else:
             logger.info(f"   ↳ 0 پیام جدید — همه {len(msg_ids)} پیام قبلاً بررسی شده‌اند")
@@ -135,6 +135,18 @@ def main():
             json.dump(last_ids, f, indent=2)
     except Exception as e:
         logger.warning(f"خطا در ذخیره last_message_id.json: {e}")
+
+    # --- ذخیره کانال‌های نامعتبر در فایل جداگانه ---
+    if invalid_channels:
+        invalid_file = "data/invalid_channels.txt"
+        try:
+            with open(invalid_file, "w", encoding="utf-8") as f:
+                f.write(f"Invalid Telegram Channels — {datetime.now(timezone.utc).isoformat()}\n\n")
+                for ch in invalid_channels:
+                    f.write(f"{ch}\n")
+            logger.info(f"📁 {len(invalid_channels)} کانال نامعتبر در {invalid_file} ذخیره شد.")
+        except Exception as e:
+            logger.warning(f"خطا در ذخیره invalid_channels.txt: {e}")
 
     if all_configs:
         save_to_db(all_configs)
@@ -155,14 +167,15 @@ def main():
                     continue
                 ch, counts = parts
                 ch = ch.strip()
-                counts = [c.strip() for c in counts.split(',') if c.strip().isdigit()]
+                counts = [c.strip() for c in counts.split(',') if c.strip().isdigit() or c.strip() == "ERR"]
                 history[ch] = counts
 
     for ch, count in channel_results:
+        val = str(count)
         if ch in history:
-            history[ch].append(str(count))
+            history[ch].append(val)
         else:
-            history[ch] = [str(count)]
+            history[ch] = [val]
 
     with open(report_file, "w", encoding="utf-8") as f:
         f.write(f"Telegram Channel Report — last update: {datetime.now(timezone.utc).isoformat()}\n\n")
