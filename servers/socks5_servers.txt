@@ -1,2 +1,4 @@
-socks5://127.0.0.1:10880/#%40DarkHub_VPN
-socks5://ermia:Ermia3472%23@185.231.183.229:80/#%40oneclickvpnkeys
+socks5://127.0.0.1:10880#t.me/vasl_bashim
+socks5://127.0.0.1:10880/#%40B_VPN_free
+socks5://128.140.46.169:13482
+socks5://ermia:Ermia3472%23@185.231.183.229:80/#%F0%9F%87%AE%F0%9F%87%B724419%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
