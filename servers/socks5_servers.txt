@@ -1,2 +1,2 @@
-socks5://127.0.0.1:10880/#%40DarkHub_VPN
-socks5://128.140.46.169:13482
+socks5://127.0.0.1:10880#t.me/vasl_bashim
+socks5://127.0.0.1:10880/#%40B_VPN_free
