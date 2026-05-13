@@ -71,7 +71,7 @@ COMMON_BRANCH_NAMES = [
 'singbox-iran', 'tuic-iran', 'juicity-iran', 'warp-iran', 'worker-iran',
 'protonvpn-next-dev', 'devin/1777224454-initial-app', 'v2-rewrite', 'no-reflow',
 'codex/anfisa-vpn-publish', 'init', 'Monad', 'claude/apartment-listing-monitor-2U2yQ',
-'UwU', 'SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev', 'next'
+'UwU', 'SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev', 'next', '0.8.70-mihomo', 'Avalonia'
 ]
 
 REPO_SEARCH_QUERIES = sorted(list(set([
