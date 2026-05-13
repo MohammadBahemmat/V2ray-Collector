@@ -48,7 +48,7 @@ This project leverages <strong>GitHub repositories</strong> and <strong>public T
 What sets this project apart from other collectors is its <strong>unified architecture, intelligent Rate Limit management with dual tokens, and always-fresh, categorized outputs</strong>.
 </p>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- Distinctive Features -->
 <h2>✨ Distinctive Features</h2>
@@ -100,7 +100,7 @@ What sets this project apart from other collectors is its <strong>unified archit
 </tbody>
 </table>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- Requirements -->
 <h2>📦 Requirements</h2>
@@ -120,7 +120,7 @@ What sets this project apart from other collectors is its <strong>unified archit
     </li>
 </ul>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- Configuration -->
 <h2>⚙️ Configuration</h2>
@@ -150,7 +150,7 @@ GH_APP_PRIVATE_KEY    → Private key of your GitHub App
 </pre>
 </div>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <h2>🧩 Quick Start</h2>
 <p>If you want to copy and run this project for yourself:</p>
@@ -169,7 +169,7 @@ cd V2ray-Collector</pre>
         <pre class="ltr-block">python src/collector_git.py</pre>
     </li>
 </ol>
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- Manual Execution -->
 <h2>🚀 Manual Execution</h2>
@@ -182,7 +182,7 @@ cd V2ray-Collector</pre>
     <li><strong>Subsequent runs</strong> are much faster due to the populated database.</li>
 </ul>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- Automated Execution -->
 <h2>🤖 Automated Execution with GitHub Actions</h2>
@@ -204,7 +204,7 @@ cd V2ray-Collector</pre>
 <h3>3. Adding Telegram Channels</h3>
 <p>The file <code>channels.txt</code> in the project root maintains the list of public Telegram channels (one identifier per line, without <code>@</code>). To add a new channel, simply insert its identifier on a new line.</p>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- Output Files -->
 <h2>📁 Output Files</h2>
@@ -272,7 +272,7 @@ cd V2ray-Collector</pre>
 </table>
 <p>All files are updated on every run and contain only unique, new configs. If a file becomes too large, you can use the split versions instead.</p>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- Project Structure -->
 <h2>🗂️ Project Structure</h2>
@@ -326,7 +326,7 @@ cd V2ray-Collector</pre>
 ├── README.md                           # Persian documentation
 └── README.EN.md                        # English documentation
 </pre>
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- Comparison -->
 <h2>📊 Comparison with Other Well-Known GitHub Collectors</h2>
@@ -386,7 +386,7 @@ cd V2ray-Collector</pre>
 </tbody>
 </table>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- Common Errors -->
 <h2>❗ Common Errors and Solutions</h2>
@@ -418,7 +418,7 @@ cd V2ray-Collector</pre>
 </ul>
 </details>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- Contribution -->
 <h2>🙏 Contribution & Development</h2>
@@ -427,13 +427,13 @@ Suggestions, bug reports, new repositories to add to the <code>MANUAL_REPOS_TO_S
 For developers: please test your changes locally before submitting them.
 </p>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- Acknowledgements -->
 <h2>💡 Acknowledgements</h2>
 <p>The idea of using <code>t.me/s</code> to access Telegram channels without an API was inspired by open-source projects such as <code>Kolandone/v2raycollector</code> and <code>MhdiTaheri/V2rayCollector</code>. We are grateful to all developers who share their knowledge.</p>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- License -->
 <h2>📄 License</h2>
