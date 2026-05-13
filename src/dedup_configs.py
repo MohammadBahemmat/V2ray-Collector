@@ -20,6 +20,10 @@ def safe_base64_decode(s):
     return base64.b64decode(s + '=' * (-len(s) % 4))
 
 def _normalize_vmess(link: str) -> str:
+    """
+    نرمال‌سازی پیشرفته VMess:
+    - دیکود JSON، حذف فیلد 'ps'، استانداردسازی مقادیر کلیدی، بازسازی JSON مرتب.
+    """
     try:
         if "://" in link:
             b64_data = link.split("://")[1]
@@ -27,6 +31,7 @@ def _normalize_vmess(link: str) -> str:
             b64_data = link
         json_bytes = safe_base64_decode(b64_data)
         config = json.loads(json_bytes.decode('utf-8', errors='ignore'))
+        
         to_lower_keys = ['add', 'host', 'sni', 'id', 'net', 'type', 'tls', 'scy']
         cleaned_config = {}
         for k, v in config.items():
@@ -45,8 +50,12 @@ def _normalize_vmess(link: str) -> str:
         return link
 
 def _normalize_shadowsocks(parsed: object) -> str:
+    """
+    نرمال‌سازی Shadowsocks (SS):
+    - مدیریت فرمت‌های قدیمی و جدید (SIP002)
+    - کوچک کردن متد (method) اما حفظ بزرگی/کوچکی پسورد (password) برای جلوگیری از حذف اشتباه.
+    """
     try:
-        user_info = parsed.netloc
         if '@' in parsed.netloc:
             credentials, host_port = parsed.netloc.rsplit('@', 1)
             host_port = host_port.lower()
@@ -54,6 +63,7 @@ def _normalize_shadowsocks(parsed: object) -> str:
                 decoded_creds = safe_base64_decode(credentials).decode('utf-8')
                 if ':' in decoded_creds:
                     method, password = decoded_creds.split(':', 1)
+                    # فقط متد کوچک می‌شود
                     credentials = f"{method.lower()}:{password}"
             except:
                 pass
@@ -74,6 +84,10 @@ def _normalize_shadowsocks(parsed: object) -> str:
         return urlunparse(parsed)
 
 def _normalize_generic(parsed: object) -> str:
+    """
+    نرمال‌سازی عمومی برای VLESS, Trojan, Tuic, Hysteria, Socks, Juicity و غیره.
+    - کوچک کردن UUID (برای vless/trojan)، مرتب‌سازی پارامترهای Query، حذف Fragment.
+    """
     scheme = parsed.scheme.lower()
     netloc = parsed.netloc
     if '@' in netloc:
@@ -84,6 +98,7 @@ def _normalize_generic(parsed: object) -> str:
         final_netloc = f"{user_info}@{host_port}"
     else:
         final_netloc = netloc.lower()
+        
     query_params = parse_qs(parsed.query, keep_blank_values=True)
     sorted_params = []
     safe_to_lower_values = ['type', 'security', 'fp', 'alpn', 'sni', 'flow', 'encryption', 'headerType']
@@ -99,6 +114,7 @@ def _normalize_generic(parsed: object) -> str:
     return urlunparse((scheme, final_netloc, parsed.path, parsed.params, normalized_query, ''))
 
 def get_canonical_form(link: str) -> str:
+    """تابع اصلی تشخیص و نرمال‌سازی لینک"""
     link = link.strip()
     if not link:
         return None
@@ -111,6 +127,7 @@ def get_canonical_form(link: str) -> str:
             return _normalize_vmess(link)
         elif scheme in ['ss', 'shadowsocks']:
             return _normalize_shadowsocks(parsed)
+        # پشتیبانی کامل از تمام پروتکل‌های رایج
         elif scheme in ['vless', 'trojan', 'socks', 'socks5', 'tuic', 'hysteria', 'hysteria2', 'hy2', 'juicity']:
             return _normalize_generic(parsed)
         else:
