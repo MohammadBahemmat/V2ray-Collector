@@ -7,14 +7,7 @@
 
 <body>
 <div class="container">
-<style>
-  hr {
-    border: none;
-    height: 4px;
-    background: url('line.gif') repeat-x center;
-    margin: 30px 0;
-  }
-</style>
+
 <!-- ====== ردیف نشان‌های اطلاعاتی پروژه ====== -->
 <div align="center" style="margin-bottom: 15px;">
 
@@ -58,7 +51,7 @@
 </p>
 
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- ویژگی‌های متمایز -->
 
@@ -112,7 +105,7 @@
 </tbody>
 </table>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- نیازمندی‌ها -->
 
@@ -134,7 +127,7 @@
     </li>
 </ul>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- تنظیمات -->
 
@@ -166,7 +159,7 @@ GH_APP_PRIVATE_KEY    → کلید خصوصی برنامه‌ی گیتهاب
 </pre>
 </div>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 
 
@@ -187,7 +180,7 @@ cd V2ray-Collector</pre>
         <pre class="ltr-block">python src/collector_git.py</pre>
     </li>
 </ol>
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- اجرای دستی -->
 
@@ -202,7 +195,7 @@ cd V2ray-Collector</pre>
     <li><strong>اجراهای بعدی</strong> به دلیل وجود دیتابیس پر، بسیار سریع‌تر هستند.</li>
 </ul>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- اجرای خودکار -->
 
@@ -226,7 +219,7 @@ cd V2ray-Collector</pre>
 <h3>۳. افزودن کانال‌های تلگرام</h3>
 <p>فایل <code>channels.txt</code> در ریشه‌ی پروژه، فهرست کانال‌های عمومی تلگرام را نگهداری می‌کند (هر خط یک شناسه، بدون <code>@</code>). برای افزودن کانال جدید، کافیست شناسه‌ی آن را در یک خط جدید اضافه کنید.</p>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- خروجی‌ها -->
 <h2>📁 فایل‌های خروجی</h2>
@@ -294,7 +287,7 @@ cd V2ray-Collector</pre>
 </table>
 <p>همه‌ی فایل‌ها در هر اجرا به‌روزرسانی می‌شوند و فقط شامل کانفیگ‌های یکتا و جدید هستند. اگر فایلی حجم بالایی داشت، می‌توانید از نسخه‌های تفکیک‌شده استفاده کنید.</p>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- ساختار فایل‌ها -->
 <h2>🗂️ ساختار فایل‌های پروژه</h2>
@@ -348,7 +341,7 @@ cd V2ray-Collector</pre>
 ├── README.md                           # مستندات فارسی
 └── README.EN.md                        # مستندات انگلیسی
 </pre>
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- مقایسه -->
 <h2>📊 مقایسه با سایر Collectorهای معروف گیتهاب</h2>
@@ -408,7 +401,7 @@ cd V2ray-Collector</pre>
 </tbody>
 </table>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- خطاهای رایج -->
 <h2>❗ خطاهای رایج و راه‌حل</h2>
@@ -440,7 +433,7 @@ cd V2ray-Collector</pre>
 </ul>
 </details>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- مشارکت -->
 <h2>🙏 مشارکت و توسعه</h2>
@@ -449,13 +442,13 @@ cd V2ray-Collector</pre>
 برای توسعه‌دهندگان: لطفاً پیش از ارسال تغییرات، یک اجرای آزمایشی روی سیستم خود انجام دهید.
 </p>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- قدردانی -->
 <h2>💡 قدردانی</h2>
 <p>ایده‌ی استفاده از <code>t.me/s</code> برای دسترسی به کانال‌های تلگرام بدون نیاز به API از پروژه‌های متن‌بازی مانند <code>Kolandone/v2raycollector</code> و <code>MhdiTaheri/V2rayCollector</code> الهام گرفته شده است. از تمام توسعه‌دهندگانی که دانش خود را به اشتراک می‌گذارند سپاسگزاریم.</p>
 
-<hr>
+<img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
 <!-- مجوز -->
 <h2>📄 مجوز</h2>
