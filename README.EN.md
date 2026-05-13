@@ -320,6 +320,7 @@ cd V2ray-Collector</pre>
 │
 ├── for Developers/                     # Full and old versions for developers
 │   └── collector_git_Fullversion
+│   └── channels_Fullversion.txt
 │
 ├── all_servers.txt                     # All unique new configs per run (GitHub + Telegram)
 ├── README.md                           # Persian documentation
