@@ -38,8 +38,8 @@
 
 <img src="https://github.com/MohammadBahemmat/V2ray-Collector/actions/workflows/collector.yml/badge.svg" alt="Collector Status">
 
-![line](line.gif)
 
+![line](line.gif)
 <h1>🚀 جمع‌آوری‌کننده کانفیگ V2Ray — اشتراک پروکسی رایگان و خودکار</h1>
 
 <p>
@@ -50,10 +50,11 @@
 چیزی که این پروژه را از سایر جمع‌آوری‌کننده‌ها متمایز می‌کند، <strong>معماری یکپارچه، مدیریت هوشمند Rate Limit با توکن‌های دوگانه، و خروجی‌های تفکیک‌شده و همیشه تازه</strong> است.
 </p>
 
+![line](line.gif)
 <hr>
 
 <!-- ویژگی‌های متمایز -->
-![line](line.gif)
+
 
 <h2>✨ ویژگی‌های متمایز</h2>
 <table>
