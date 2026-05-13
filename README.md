@@ -51,7 +51,7 @@
 </p>
 
 ![line](line.gif)
-<hr>
+<hr ![line](line.gif)>
 
 <!-- ویژگی‌های متمایز -->
 
