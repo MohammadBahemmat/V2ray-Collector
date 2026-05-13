@@ -5,6 +5,7 @@ import re
 import sqlite3
 import time
 import logging
+import json
 from pathlib import Path
 from datetime import datetime, timezone
 
@@ -66,29 +67,74 @@ def save_to_db(configs):
         conn.close()
 
 def main():
+    # اطمینان از وجود جدول در دیتابیس
     conn = sqlite3.connect(DB_FILE)
     conn.execute("CREATE TABLE IF NOT EXISTS configs (config TEXT PRIMARY KEY)")
     conn.close()
+    
     logger.info("🚀 شروع جمع‌آوری کانفیگ‌های تلگرام...")
     channels = load_channels(CHANNELS_FILE)
     if not channels:
         return
 
-    channel_results = []  # برای گزارش نهایی
+    # --- بارگذاری آخرین message_id های بررسی‌شده ---
+    last_ids_file = "data/last_message_id.json"
+    last_ids = {}
+    if Path(last_ids_file).exists():
+        try:
+            with open(last_ids_file, "r", encoding="utf-8") as f:
+                last_ids = json.load(f)
+        except:
+            pass
+
+    channel_results = []
     all_configs = set()
+    
     for idx, ch in enumerate(channels, 1):
         logger.info(f"📡 [{idx}/{len(channels)}] واکشی کانال: {ch}")
         html = fetch_page(ch)
-        if html:
+        if not html:
+            channel_results.append((ch, 0))
+            if idx < len(channels):
+                time.sleep(SLEEP_BETWEEN_CHANNELS)
+            continue
+
+        # --- استخراج تمام message_id ها از HTML ---
+        msg_pattern = re.compile(r'data-post="[^"]+/(\d+)"')
+        msg_ids = [int(m) for m in msg_pattern.findall(html)]
+        
+        if not msg_ids:
+            logger.warning(f"   ↳ هیچ message_id در HTML پیدا نشد")
+            channel_results.append((ch, 0))
+            if idx < len(channels):
+                time.sleep(SLEEP_BETWEEN_CHANNELS)
+            continue
+
+        # --- تشخیص پیام‌های جدید بر اساس آخرین بررسی ---
+        last_id = last_ids.get(ch, 0)
+        new_msg_ids = [m for m in msg_ids if m > last_id]
+        
+        if new_msg_ids:
+            # فقط پیام‌های جدیدتر از آخرین بررسی
             found = extract_configs(html)
-            logger.info(f"   ↳ {len(found)} کانفیگ استخراج شد.")
+            logger.info(f"   ↳ {len(found)} کانفیگ استخراج شد (پیام‌های جدید: {len(new_msg_ids)})")
             all_configs.update(found)
             channel_results.append((ch, len(found)))
+            # به‌روزرسانی آخرین message_id برای این کانال
+            last_ids[ch] = max(msg_ids)
         else:
+            logger.info(f"   ↳ 0 پیام جدید — همه {len(msg_ids)} پیام قبلاً بررسی شده‌اند")
             channel_results.append((ch, 0))
 
         if idx < len(channels):
             time.sleep(SLEEP_BETWEEN_CHANNELS)
+
+    # --- ذخیره آخرین message_id ها برای اجرای بعدی ---
+    try:
+        with open(last_ids_file, "w", encoding="utf-8") as f:
+            json.dump(last_ids, f, indent=2)
+    except Exception as e:
+        logger.warning(f"خطا در ذخیره last_message_id.json: {e}")
 
     if all_configs:
         save_to_db(all_configs)
@@ -125,7 +171,6 @@ def main():
             f.write(f"{ch}: {counts_str}\n")
 
     logger.info("📊 تاریخچه‌ی کانال‌ها در channel_report.txt بروز شد.")
-
     logger.info("✅ پایان جمع‌آوری تلگرام.")
 
 if __name__ == "__main__":
