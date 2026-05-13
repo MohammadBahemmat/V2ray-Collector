@@ -39,7 +39,7 @@
 <img src="https://github.com/MohammadBahemmat/V2ray-Collector/actions/workflows/collector.yml/badge.svg" alt="Collector Status">
 
 
-![line](line.gif)
+
 <h1>🚀 جمع‌آوری‌کننده کانفیگ V2Ray — اشتراک پروکسی رایگان و خودکار</h1>
 
 <p>
@@ -50,8 +50,8 @@
 چیزی که این پروژه را از سایر جمع‌آوری‌کننده‌ها متمایز می‌کند، <strong>معماری یکپارچه، مدیریت هوشمند Rate Limit با توکن‌های دوگانه، و خروجی‌های تفکیک‌شده و همیشه تازه</strong> است.
 </p>
 
-![line](line.gif)
-<hr ![line](line.gif)>
+
+<hr>
 
 <!-- ویژگی‌های متمایز -->
 
@@ -108,7 +108,7 @@
 <hr>
 
 <!-- نیازمندی‌ها -->
-![line](line.gif)
+
 
 <h2>📦 پیش‌نیازها (Requirements)</h2>
 <ul>
@@ -130,7 +130,7 @@
 <hr>
 
 <!-- تنظیمات -->
-![line](line.gif)
+
 
 <h2>⚙️ تنظیمات (Configuration)</h2>
 <p>تمام پارامترهای کلیدی در دیکشنری <code>CONFIG_DEFAULTS</code> در فایل <code>collector_git.py</code> قابل تنظیم هستند. مهم‌ترین آن‌ها:</p>
@@ -161,7 +161,7 @@ GH_APP_PRIVATE_KEY    → کلید خصوصی برنامه‌ی گیتهاب
 
 <hr>
 
-![line](line.gif)
+
 
 <h2>🧩 راه‌اندازی سریع (Quick Start)</h2>
 <p>اگر می‌خواهید همین پروژه را برای خودتان کپی و اجرا کنید:</p>
@@ -183,7 +183,7 @@ cd V2ray-Collector</pre>
 <hr>
 
 <!-- اجرای دستی -->
-![line](line.gif)
+
 
 <h2>🚀 اجرای دستی</h2>
 <p>برای اجرای جمع‌آورنده‌ی گیتهاب (بدون بخش تلگرام)، کافیست در ترمینال دستور زیر را اجرا کنید:</p>
@@ -198,7 +198,7 @@ cd V2ray-Collector</pre>
 <hr>
 
 <!-- اجرای خودکار -->
-![line](line.gif)
+
 
 <h2>🤖 راه‌اندازی اجرای خودکار با GitHub Actions</h2>
 
