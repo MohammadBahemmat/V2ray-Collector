@@ -38,6 +38,7 @@
 
 <img src="https://github.com/MohammadBahemmat/V2ray-Collector/actions/workflows/collector.yml/badge.svg" alt="Collector Status">
 
+![line](line.gif)
 <h1>🚀 جمع‌آوری‌کننده کانفیگ V2Ray — اشتراک پروکسی رایگان و خودکار</h1>
 
 <p>
