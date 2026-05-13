@@ -7,7 +7,14 @@
 
 <body>
 <div class="container">
-
+<style>
+  hr {
+    border: none;
+    height: 4px;
+    background: url('line.gif') repeat-x center;
+    margin: 30px 0;
+  }
+</style>
 <!-- ====== ردیف نشان‌های اطلاعاتی پروژه ====== -->
 <div align="center" style="margin-bottom: 15px;">
 
