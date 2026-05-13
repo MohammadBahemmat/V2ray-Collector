@@ -320,6 +320,7 @@ cd V2ray-Collector</pre>
 │
 ├── for Developers/                     # نسخه‌های کامل و قدیمی برای توسعه‌دهندگان
 │   └── collector_git_Fullversion
+│   └── channels_Fullversion.txt
 │
 ├── all_servers.txt                     # تمام کانفیگ‌های یکتای جدید در هر اجرا (گیتهاب + تلگرام)
 ├── README.md                           # مستندات فارسی
