@@ -1,8 +1,8 @@
-socks://62.220.126.56:26132/
-socks://62.220.126.92:30871/
-socks://62.220.126.92:32302/
-socks://Og@62.220.126.56:26132#2
-socks://Og@62.220.126.92:30871#https://t.me/KurdConfing
-socks://Og@62.220.126.92:32302#@
-socks://ZXJtaWE6RXJtaWEzNDcyIw==@185.231.183.229:80#https%3A%2F%2Ft.me%2Fv2rayRoom
-socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#https://t.me/KurdConfing
+socks://Og@185.8.172.128:443#%E2%9C%85%40v2r_ayorg
+socks://Og@188.121.110.192:84#%E2%9C%85%40v2r_ayorg
+socks://Og@62.220.126.56:26132#5
+socks://Og@62.220.126.56:31548#%E2%9C%85%40v2r_ayorg
+socks://Og@62.220.126.92:32302#%F0%9F%87%AE%F0%9F%87%B724699%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://ZXJtaWE6RXJtaWEzNDcyIw%3D%3D@185.231.183.229:80#https://t.me/ConfigX2ray
+socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#%F0%9F%87%AE%F0%9F%87%B724675%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://proxyanonymous1.pahlavi.dpdns.org:1080?type=tcp#%F0%9F%87%AE%F0%9F%87%B724599%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
