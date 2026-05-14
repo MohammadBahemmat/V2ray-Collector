@@ -1,7 +1,6 @@
-trojan://0iLjwhuOCB@85.209.134.118:54134?type=tcp&amp;security=reality&amp;pbk=cp6OVdvIcoBGHMeq0LrA75RUJucrX5HIwdqrRyJsvGw&amp;fp=chrome&amp;sni=www.ya.ru&amp;sid=8fb50ad8&amp;spx=%2F#USA-szavzx9m#
-trojan://8r%3C%5B9%27l6hAO%238ZQi@185.103.253.226:2053?host=Koma-YT.PAGeS.Dev&amp;path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&amp;security=tls&amp;sni=Koma-YT.PAGeS.Dev&amp;type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-14707
-trojan://8r%3C%5B9%27l6hAO%238ZQi@89.107.10.22:2053?host=Koma-YT.PAGeS.Dev&amp;path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&amp;security=tls&amp;sni=Koma-YT.PAGeS.Dev&amp;type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-14708
-trojan://SuPCmvdWOB@83.219.250.21:53127?type=tcp&amp;security=reality&amp;pbk=dbZ9FYncIWm_1V89_r9rr08zoKitv-yF4YZGKyG-2RE&amp;fp=chrome&amp;sni=www.vk.ru&amp;sid=dc&amp;spx=%2F#Sweden_Trojan-https%3A%2F%2Ft.me%2Fvpn_amneziya_hiddify#[
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#https://t.me/Configir98
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?path=/trojan-ws&amp;security=tls&amp;insecure=0&amp;host=xo.e0f.cx&amp;type=ws&amp;allowInsecure=0&amp;sni=xo.e0f.cx#
-trojan://r1EkRzwp4P@93.177.116.27:34190?type=tcp&amp;security=reality&amp;pbk=zHMhSWSTQOzdltHpDUJfuXhtZuaojDcdenBjfmYU-1Q&amp;fp=chrome&amp;sni=www.ya.ru&amp;sid=47&amp;spx=%2F#Holand-g4jk6byb#
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&amp;security=tls&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;sni=Koma-YT.PAGeS.Dev#v2ray_dalghak
+trojan://8r%3C%5B9%27l6hAO%238ZQi@38.180.143.51:2053?security=tls&amp;sni=Koma-YT.PAGeS.Dev&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=Koma-YT.PAGeS.Dev&amp;path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%40v2rayconfigamir%201004
+trojan://8r%3C%5B9%27l6hAO%238ZQi@46.102.156.144:2053?security=tls&amp;sni=Koma-YT.PAGeS.Dev&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=Koma-YT.PAGeS.Dev&amp;path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%40v2rayconfigamir%209532
+trojan://8r%3C%5B9%27l6hAO%238ZQi@77.37.96.247:443?security=tls&amp;sni=Koma-YT.PAGeS.Dev&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=Koma-YT.PAGeS.Dev&amp;path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%40v2rayconfigamir%201327
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#
+trojan://telegram-id-privatevpns@13.39.190.113:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[54421]

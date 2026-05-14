@@ -1,5 +1,2 @@
-socks://Og@62.220.126.92:30871#TEL%3BFather_vpn
-socks://Og@62.220.126.92:32302#TEL%3BFather_vpn
-socks://Og@91.222.196.8:7071#TEL%3BFATHER_VPN
-socks://ZXJtaWE6RXJtaWEzNDcyI0AxODUuMjMxLjE4My4yMjk6ODA=#@ehsawn8
-socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#TEL%3BFather_vpn
+socks://Og@127.0.0.1:1080#%40free_v2ray_npv
+socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#@VIPV2rayNGNP
