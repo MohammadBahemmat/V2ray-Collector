@@ -1,6 +1,2 @@
-hysteria2://DBUklcvOyH@45.81.19.251:443?insecure=1&sni=web.bale.ai#%40Proxy_Vpney%20v%2Bp%20%284%29
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Telegram%20%3A%20%40V2ynpv
-hysteria2://cca70979-4f99-449b-9a01-a3ad8d3d4481@142.171.241.143:41555?insecure=1&sni=142.171.241.143#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2001%20TG%3A%20%40nodpai
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443?insecure=1&sni=vpn-sg-002.fastervpn.world#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.3MB/s
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1.4MB/s
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900/?insecure=1&amp;sni=www.microsoft.com#%E2%9B%B0%EF%B8%8F39@oneclickvpnkeys
 hysteria2://tSVwuwRnNk@srm.kishonline.online:443?security=tls&amp;obfs=salamander&amp;obfs-password=kish-data-center&amp;insecure=0&amp;sni=srm.kishonline.online#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%97%BE+prrofile_purple%4
