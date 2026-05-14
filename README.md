@@ -175,7 +175,7 @@ cd V2ray-Collector</pre>
         <pre class="ltr-block">pip install -r config/requirements.txt</pre>
     </li>
     <li>فایل <code>.env</code> را با توکن گیتهاب خود مطابق <code>config/.env.example</code> ایجاد کنید.</li>
-    <li>فایل <code>channels.txt</code> را با کانال‌های تلگرام دلخواه پر کنید.</li>
+    <li>فایل <code>data/channels.txt</code> را با کانال‌های تلگرام دلخواه پر کنید.</li>
     <li>یک بار اسکریپت را به صورت دستی اجرا کنید تا همه چیز تست شود:
         <pre class="ltr-block">python src/collector_git.py</pre>
     </li>
@@ -217,7 +217,7 @@ cd V2ray-Collector</pre>
 <p>پس از اولین اجرای موفق، می‌توانید از لینک‌های ابتدای همین صفحه برای دریافت فایل‌ها استفاده کنید. این فایل‌ها را می‌توان مستقیماً در کلاینت V2Ray خود (مانند v2rayN، Nekobox یا Hiddify) بارگذاری کرد.</p>
 
 <h3>۳. افزودن کانال‌های تلگرام</h3>
-<p>فایل <code>channels.txt</code> در ریشه‌ی پروژه، فهرست کانال‌های عمومی تلگرام را نگهداری می‌کند (هر خط یک شناسه، بدون <code>@</code>). برای افزودن کانال جدید، کافیست شناسه‌ی آن را در یک خط جدید اضافه کنید.</p>
+<p>فایل <code>data/channels.txt</code> فهرست کانال‌های عمومی تلگرام را نگهداری می‌کند (هر خط یک شناسه، بدون <code>@</code>). برای افزودن کانال جدید، کافیست شناسه‌ی آن را در یک خط جدید اضافه کنید.</p>
 
 <img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
@@ -319,6 +319,7 @@ cd V2ray-Collector</pre>
 │   ├── repo_report.txt                # گزارش تعداد کانفیگ‌های استخراج‌شده از هر مخزن گیتهاب
 │   ├── token_state.txt                # شمارنده‌ی چرخش توکن
 │   ├── channels_cleaned.txt           # (تولیدشده) خروجی پاک‌سازی‌شده کانال‌های معتبر
+│   ├── last_message_id.json           # (تولیدشده) آخرین message_id بررسی‌شده هر کانال
 │   └── invalid_channels.txt           # (تولیدشده) کانال‌های نامعتبر
 │
 ├── servers/                           # فایل‌های تفکیک‌شده بر اساس پروتکل
@@ -337,6 +338,7 @@ cd V2ray-Collector</pre>
 │   └── collector_git_Fullversion
 │   └── channels_Fullversion.txt
 │
+├── line.gif                            # جداکننده متحرک برای README
 ├── all_servers.txt                     # تمام کانفیگ‌های یکتای جدید در هر اجرا (گیتهاب + تلگرام)
 ├── README.md                           # مستندات فارسی
 └── README.EN.md                        # مستندات انگلیسی
@@ -419,7 +421,7 @@ cd V2ray-Collector</pre>
 <details>
 <summary><strong>کانال‌های تلگرام یافت نشدند</strong></summary>
 <ul>
-    <li>مطمئن شوید فایل <code>channels.txt</code> در ریشه‌ی پروژه وجود دارد.</li>
+    <li>مطمئن شوید فایل <code>data/channels.txt</code> در پوشه‌ی <code>data</code> وجود دارد.</li>
     <li>شناسه‌ها باید عمومی (Public) باشند.</li>
     <li>برای بررسی سلامت کانال‌ها، می‌توانید از ورک‌فلوی <code>Temp Channel Cleaner</code> استفاده کنید.</li>
 </ul>
