@@ -164,7 +164,7 @@ cd V2ray-Collector</pre>
         <pre class="ltr-block">pip install -r config/requirements.txt</pre>
     </li>
     <li>Create a <code>.env</code> file with your GitHub token, following the template in <code>config/.env.example</code>.</li>
-    <li>Fill <code>channels.txt</code> with the Telegram channels you want to monitor.</li>
+    <li>Fill <code>data/channels.txt</code> with the Telegram channels you want to monitor.</li>
     <li>Run the collector once manually to test everything:
         <pre class="ltr-block">python src/collector_git.py</pre>
     </li>
@@ -202,7 +202,7 @@ cd V2ray-Collector</pre>
 <p>After the first successful run, you can use the links at the top of this page to download the files. These files can be directly loaded into your V2Ray client (such as v2rayN, Nekobox, or Hiddify).</p>
 
 <h3>3. Adding Telegram Channels</h3>
-<p>The file <code>channels.txt</code> in the project root maintains the list of public Telegram channels (one identifier per line, without <code>@</code>). To add a new channel, simply insert its identifier on a new line.</p>
+<p>The file <code>data/channels.txt</code> maintains the list of public Telegram channels (one identifier per line, without <code>@</code>). To add a new channel, simply insert its identifier on a new line.</p>
 
 <img src="line.gif" alt="separator" style="display: block; margin: 30px auto;" />
 
@@ -304,6 +304,7 @@ cd V2ray-Collector</pre>
 │   ├── repo_report.txt                # Report of configs extracted per GitHub repository
 │   ├── token_state.txt                # Token rotation counter
 │   ├── channels_cleaned.txt           # (generated) Cleaned list of valid channels
+│   ├── last_message_id.json           # (generated) last message_id for channels
 │   └── invalid_channels.txt           # (generated) List of invalid channels
 │
 ├── servers/                           # Split protocol output files
@@ -322,6 +323,7 @@ cd V2ray-Collector</pre>
 │   └── collector_git_Fullversion
 │   └── channels_Fullversion.txt
 │
+├── line.gif                            # animated split for README
 ├── all_servers.txt                     # All unique new configs per run (GitHub + Telegram)
 ├── README.md                           # Persian documentation
 └── README.EN.md                        # English documentation
@@ -404,7 +406,7 @@ cd V2ray-Collector</pre>
 <details>
 <summary><strong>Telegram channels not found</strong></summary>
 <ul>
-    <li>Make sure the <code>channels.txt</code> file exists in the project root.</li>
+    <li>Make sure the <code>data/channels.txt</code> file exists in the <code>data</code> folder.</li>
     <li>Identifiers must be public.</li>
     <li>You can use the <code>Temp Channel Cleaner</code> workflow to check channel health.</li>
 </ul>
