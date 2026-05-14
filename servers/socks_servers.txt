@@ -1,4 +1,3 @@
-socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#%F0%9F%87%AE%F0%9F%87%B724539%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-socks://bnVsbDpudWxs@62.220.126.92:30871#%F0%9F%87%AE%F0%9F%87%B724529%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-socks://bnVsbDpudWxs@62.220.126.92:32302#%F0%9F%87%AE%F0%9F%87%B724528%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-socks://telegram-saministamm@185.231.183.229:80#%F0%9F%87%AE%F0%9F%87%B724522%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+socks://Og@127.0.0.1:1080#%40free_v2ray_npv
+socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#
+socks://telegram-
