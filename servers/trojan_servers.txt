@@ -1,5 +1,6 @@
-trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?security=tls&amp;sni=HL-FREEDOM-1.UNDEF.NETWORK#[54868]
-trojan://humanity@104.18.16.56:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#v2ray_dalghak
-trojan://humanity@162.159.36.20:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#[54908]
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#@themecherie
-trojan://humanity@8.6.112.6:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#[54906]
+trojan://2a599135-886f-4359-bf68-0993baa990f1@79.127.82.170:443?path=%2F1000%2F10%2Fb449693f-1869-4379-946d-279f2ad95021&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;host=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&amp;fp=randomized&amp;type=ws&amp;allowInsecure=0&amp;sni=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd#%40proxy_kafee%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+trojan://humanity@104.20.6.134:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;sni=www.calmloud.com#%40SHADOW_VPN
+trojan://humanity@127.0.0.1:40443?security=tls&amp;sni=www.multiplydose.com&amp;type=ws&amp;host=www.multiplydose.com&amp;path=%2Fassignment#%40shadow_vpn%20sni-spoofing
+trojan://humanity@127.0.0.1:40443?security=tls&amp;sni=www.multiplydose.com&amp;type=ws&amp;host=www.multi…
+trojan://telegram-id-directvpn@18.197.233.165:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[54889]
+trojan://telegram-id-privatevpns@18.197.233.165:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[54888]
