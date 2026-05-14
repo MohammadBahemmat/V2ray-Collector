@@ -1,6 +1,3 @@
 trojan://2a599135-886f-4359-bf68-0993baa990f1@79.127.82.170:443?path=%2F1000%2F10%2Fb449693f-1869-4379-946d-279f2ad95021&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;host=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&amp;fp=randomized&amp;type=ws&amp;sni=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd#%40themecherie
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#filembad-9
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#
 trojan://humanity@www.multiplydose.com:443?security=tls&amp;sni=www.multiplydose.com&amp;allowInsecure=1&amp;type=ws&amp;host=www.multiplydose.com&amp;path=%2Fassignment#v2ray_dalghak
-trojan://telegram-id-privatevpns@3.122.87.69:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#
-trojan://telegram-id-privatevpns@35.180.13.11:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#
-trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&amp;headerType=none&amp;allowinsecure=0&amp;type=tcp#v2ray_dalghak
