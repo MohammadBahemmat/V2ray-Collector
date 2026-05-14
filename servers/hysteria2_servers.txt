@@ -1,2 +1,1 @@
-hysteria2://tg_7230388099:s1XZZ8Km1YajFNyd@nice.cuda-cluster-metrics.sbs.alexanderoff.ru:443/?sni=nice.cuda-cluster-metrics.sbs&amp;peer=nice.cuda-cluster-metrics.sbs&amp;alpn=h3#
-hysteria2://tg_7230388099:s1XZZ8Km1YajFNyd@sweden.cuda-cluster-metrics.sbs.alexanderoff.ru:443/?sni=sweden.cuda-cluster-metrics.sbs&amp;peer=sweden.cuda-cluster-metrics.sbs&amp;alpn=h3#
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900/?insecure=1&amp;sni=www.microsoft.com#%E2%9B%B0%EF%B8%8F39@oneclickvpnkeys
