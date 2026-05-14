@@ -1,2 +1,8 @@
-socks://Og@127.0.0.1:1080#%40free_v2ray_npv
-socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#@VIPV2rayNGNP
+socks://Og%3D%3D@2.144.15.62:1013#%40configmax
+socks://Og@62.220.126.92:30871#%40proxy_kafee%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
+socks://Og@62.220.126.92:32302#%40proxy_kafee%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
+socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#%F0%9F%87%AE%F0%9F%87%B724490%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#%40B2vasl1
+socks://bnVsbDpudWxs@62.220.126.92:30871#%F0%9F%87%AE%F0%9F%87%B724480%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://bnVsbDpudWxs@62.220.126.92:32302#%F0%9F%87%AE%F0%9F%87%B724479%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://telegram-saministamm@185.231.183.229:80#%F0%9F%87%AE%F0%9F%87%B724473%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
