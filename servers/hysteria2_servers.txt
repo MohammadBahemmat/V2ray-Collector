@@ -1,3 +1,10 @@
+hysteria2://DBUklcvOyH@45.81.19.251:443?insecure=1&sni=web.bale.ai#%40Proxy_Vpney%20v%2Bp%20%284%29
 hysteria2://DBUklcvOyH@45.81.19.251:443?security=tls&amp;insecure=1&amp;sni=web.bale.ai#%E2%9C%85%40v2r_ayorg
-hysteria2://tg_7230388099:s1XZZ8Km1YajFNyd@nice.cuda-cluster-metrics.sbs.alexanderoff.ru:443/?sni=nice.cuda-cluster-metrics.sbs&amp;peer=nice.cuda-cluster-metrics.sbs&amp;alpn=h3#
-hysteria2://tg_7230388099:s1XZZ8Km1YajFNyd@sweden.cuda-cluster-metrics.sbs.alexanderoff.ru:443/?sni=sweden.cuda-cluster-metrics.sbs&amp;peer=sweden.cuda-cluster-metrics.sbs&amp;alpn=h3#
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Telegram%20%3A%20%40V2ynpv
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.7MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-003.fastervpn.world:443?insecure=1&sni=vpn-jp-003.fastervpn.world#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2009%20TG%3A%20%40nodpai
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-001.fastervpn.world:443?insecure=1&fp=&sni=vpn-kr-001.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C3.9MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-003.fastervpn.world:443?insecure=1&fp=&sni=vpn-sg-003.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.1MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1.8MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-001.fastervpn.world:443?insecure=1&fp=&sni=vpn-us-001.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.1MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-004.fastervpn.world:443?insecure=1&sni=vpn-us-004.fastervpn.world#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2029%20TG%3A%20%40nodpai
