@@ -1,1 +1,2 @@
-socks5://127.0.0.1:10880/#%40DarkHub_VPN
+socks5://127.0.0.1:10880#t.me/KurdConfing
+socks5://ermia:Ermia3472%23@185.231.183.229:80/#%40oneclickvpnkeys
