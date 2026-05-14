@@ -1,7 +1,10 @@
-socks://62.220.126.56:26132/#https://t.me/themecherie
-socks://62.220.126.92:32302/#https://t.me/themecherie
-socks://Og@62.220.126.56:26132#5
-socks://Og@62.220.126.56:27251#%40SkiVPN%F0%9F%A4%B4%DA%A9%DB%8C%D8%A7%D9%86%E2%80%8C%D9%BE%DB%8C%D8%B1%D9%81%D9%84%DA%A9%F0%9F%8C%88
-socks://Og@62.220.126.92:30871#https://t.me/KurdConfing
-socks://Og@62.220.126.92:32302#https://t.me/KurdConfing
-socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#@themecherie
+socks://62.220.126.56:26132#@vasl_bashim
+socks://62.220.126.56:26132/#%F0%9F%87%AE%F0%9F%87%B724587%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://62.220.126.92:32302/#%F0%9F%87%AE%F0%9F%87%B724586%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://Og@62.220.126.56:26132#2
+socks://Og@62.220.126.92:30871#
+socks://Og@62.220.126.92:32302#
+socks://ZXJtaWE6RXJtaWEzNDcyIw==@185.231.183.229:80#https%3A%2F%2Ft.me%2Fv2rayRoom
+socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#%40Shomarrreh
+socks://bnVsbDpudWxs@62.220.126.56:26132#%40Shomarrreh
+socks://proxyanonymous1.pahlavi.dpdns.org:1080?type=tcp#%F0%9F%87%AE%F0%9F%87%B724599%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
