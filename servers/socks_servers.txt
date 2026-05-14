@@ -1,10 +1,3 @@
-socks://Og%3D%3D@62.220.126.56:30170#@V2RAYNG_FARS
-socks://Og%3D%3D@62.220.126.92:32024#azdeltaghalam7%F0%93%84%82%F0%93%86%83
-socks://Og%3D%3D@79.175.177.96:1080#@V2RAYNG_FARS
-socks://Og@130.185.75.82:9595#@V2RAYNG_FARS
-socks://Og@62.220.126.92:25393#@V2RAYNG_FARS
-socks://Og@62.220.126.92:30871#
-socks://Og@62.220.126.92:32302#
-socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#@byiroh
-socks://ZXJtaWE6RXJtaWEzNDcyIw%3D%3D@185.231.183.229:80#https://t.me/byiroh
-socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#
+socks://Og@62.220.126.92:30871#https://t.me/BestProxyTel1
+socks://Og@62.220.126.92:32302#https://t.me/BestProxyTel1
+socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#@BestProxyTel1

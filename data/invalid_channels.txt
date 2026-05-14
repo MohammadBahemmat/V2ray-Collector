@@ -1,4 +1,4 @@
-Invalid Telegram Channels — 2026-05-14T00:21:09.319348+00:00
+Invalid Telegram Channels — 2026-05-14T00:53:42.759554+00:00
 
 +jtinm8-guq41otji
 accountcentre_cshop
@@ -93,7 +93,6 @@ init1984
 iproxy_meli
 iran_vpn
 iranvpn_ads
-ivxchannel
 jadi_vpn
 javid_vpn
 joker_vpn
