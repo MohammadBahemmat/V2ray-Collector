@@ -1,8 +1,9 @@
-GitHub Repo Report — last update: 2026-05-13T23:48:36.712521+00:00
+GitHub Repo Report — last update: 2026-05-14T00:22:24.991847+00:00
 
-(Hamedzah, vpn_config): 4, 0
-(Surfboardv2ray, Proxy-sorter): 0, 1674, 0, 698
-(acymz, AutoVPN): 227, 0, 0
-(elliottophellia, proxylist): 0, 1
-(wuqb2i4f, xray-config-toolkit): 1, 0
-GitHub Repo Report — last update: 0, 0
+(Hamedzah, vpn_config): 4, 0, 0
+(Surfboardv2ray, Proxy-sorter): 0, 1674, 0, 698, 0
+(acymz, AutoVPN): 227, 0, 0, 225
+(elliottophellia, proxylist): 0, 1, 0
+(proxifly, free-proxy-list): 0, 0, 2
+(wuqb2i4f, xray-config-toolkit): 1, 0, 0
+GitHub Repo Report — last update: 0, 0, 0
