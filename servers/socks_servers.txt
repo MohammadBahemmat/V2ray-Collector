@@ -1,1 +1,2 @@
-socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80
+socks://Og%3D%3D@185.8.172.128:443#mobo_game_land
+socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#ultrasurf_12
