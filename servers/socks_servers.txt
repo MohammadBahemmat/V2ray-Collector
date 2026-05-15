@@ -1,2 +1,1 @@
-socks://Og@62.220.126.92:30871#TEL%3BFather_vpn
-socks://Og@62.220.126.92:32302#TEL%3BFather_vpn
+socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80
