@@ -1,4 +1,3 @@
-trojan://humanity@188.114.98.0:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;path=%2Fassignment&amp;security=tls&amp;host=www.calmlunch.com&amp;type=ws&amp;sni=www.calmlunch.com#@GozargahAzad|
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9%20Psiphon--%40V2ray_Raha-2
-trojan://humanity@www.multiplydose.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;path=/assignment&amp;security=tls&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=#@GozargahAzad|
-trojan://humanity@www.multiplydose.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;security=tls&amp;type=ws&amp;sni=&amp;path=/assignment&amp;host=#@GozargahAzad|
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.multiplydose.com#
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#
+trojan://humanity@188.114.98.0:443?security=tls&amp;type=ws&amp;sni=www.calmlunch.com&amp;path=/assignment&amp;host=www.calmlunch.com#%40filembad
