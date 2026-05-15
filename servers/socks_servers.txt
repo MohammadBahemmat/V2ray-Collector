@@ -1,2 +1,2 @@
-socks://Og@2.144.6.31:80#%40free_v2ray_npv
-socks://Og@62.220.126.56:26132#2%20%40proxy_kafee
+socks://Og@62.220.126.56:26132#%40proxy_kafee2
+socks://Og@62.220.126.92:32302#%40proxy_kafee
