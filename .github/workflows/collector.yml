@@ -70,6 +70,5 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Update configs from Telegram [skip ci]"
-            git pull --rebase --strategy-option ours
             git push
           fi
