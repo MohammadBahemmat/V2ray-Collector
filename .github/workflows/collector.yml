@@ -1,28 +1,23 @@
-name: Unified Collector (auto-chain, dual token)
+name: Telegram Collector Only
 
 on:
-  workflow_dispatch:      # فقط با اجرای دستی شروع می‌شود
-
-concurrency:
-  group: collector-run
-  cancel-in-progress: false
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'   # اجرای خودکار هر ۵ دقیقه
 
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: 'pip'
 
       - name: Install dependencies
         run: pip install -r config/requirements.txt
@@ -30,86 +25,51 @@ jobs:
       - name: Run Telegram Collector
         run: python src/telegram_collector.py
 
-      - name: Generate GitHub App token
-        id: app-token
-        uses: actions/create-github-app-token@v2
-        with:
-          app-id: ${{ secrets.GH_APP_ID }}
-          private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
-
-      # --- مدیریت شمارنده برای الگوی Classic, Classic, App, App ---
-      - name: Select token based on counter
-        id: select-token
+      - name: Export configs from database to all_servers.txt
         run: |
-          COUNTER_FILE="data/token_state.txt"
-          if [ ! -f "$COUNTER_FILE" ]; then
-            echo "0" > "$COUNTER_FILE"
-          fi
-          COUNTER=$(cat "$COUNTER_FILE")
-          echo "Current counter: $COUNTER"
-
-          if [ "$COUNTER" -eq 0 ] || [ "$COUNTER" -eq 1 ]; then
-            echo "token=${{ secrets.GH_TOKEN }}" >> $GITHUB_OUTPUT
-            echo "Using Classic token (counter $COUNTER)"
+          if [ -f collector.db ]; then
+            sqlite3 collector.db "SELECT config FROM configs;" > all_servers.txt
+            COUNT=$(wc -l < all_servers.txt)
+            echo "✅ $COUNT configs exported to all_servers.txt"
           else
-            echo "token=${{ steps.app-token.outputs.token }}" >> $GITHUB_OUTPUT
-            echo "Using GitHub App token (counter $COUNTER)"
+            echo "⚠️ collector.db not found, creating empty all_servers.txt"
+            touch all_servers.txt
           fi
 
-          NEXT=$(( (COUNTER + 1) % 4 ))
-          echo "$NEXT" > "$COUNTER_FILE"
-
-      - name: Run collector
-        env:
-          GITHUB_TOKEN: ${{ steps.select-token.outputs.token }}
-          RUN_MODE: frequent
-          MAX_AGE_HOURS: 0.5
-        run: python src/collector_git.py
-
-      - name: Split joined proxy links
+      - name: Keep only last 100 configs
         run: |
           if [ -f all_servers.txt ]; then
-            python src/split_links.py all_servers.txt
+            # نگهداری فقط ۱۰۰ خط آخر (جدیدترین کانفیگ‌ها)
+            tail -n 100 all_servers.txt > all_servers.tmp && mv all_servers.tmp all_servers.txt
+            COUNT=$(wc -l < all_servers.txt)
+            echo "✅ Trimmed to ${COUNT} latest configs (last 100 lines)"
+          else
+            echo "⚠️ all_servers.txt not found, skipping trim"
           fi
-
-      - name: Advanced dedup configs
+          
+      - name: Fix Config Remarks
         run: |
           if [ -f all_servers.txt ]; then
-            python src/dedup_configs.py all_servers.txt
+            python edit_remarks.py
+          else
+            echo "⚠️ all_servers.txt not found, skipping remark fix."
+          fi
+ 
+      - name: (Optional) Rebuild protocol files
+        run: |
+          if [ -f src/rebuild_protocols.py ]; then
+            python src/rebuild_protocols.py
           fi
 
-      - name: Rebuild protocol files from cleaned all_servers.txt
-        run: python src/rebuild_protocols.py
-
-      - name: Commit and push updated files
-        timeout-minutes: 5
-        continue-on-error: true
-        run: |
+      - name: Commit and push
+         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          # ساخت پوشه‌های ضروری اگر وجود ندارند
-          mkdir -p servers data
-          # اطمینان از وجود all_servers.txt
-          touch all_servers.txt
-          # افزودن فایل‌ها (حتی untrackedها)
-          git add -A all_servers.txt servers/ data/ 2>/dev/null || true
+          git add all_servers.txt collector.db data/ servers/ 2>/dev/null || true
           if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "🔄 Update all servers [skip ci]"
-            git pull --rebase --strategy-option ours
-            git push
-          fi
-
-      - name: Trigger next run
-        if: success()
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GH_TOKEN }}
-          script: |
-            await github.rest.actions.createWorkflowDispatch({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              workflow_id: 'collector.yml',
-              ref: 'main'
-            });
+          echo "No changes to commit."
+           else
+          git commit -m "Update configs from Telegram [skip ci]"
+          git pull --rebase --strategy-option ours
+          git push
+           fi
