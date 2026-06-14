@@ -3,7 +3,7 @@ name: Telegram Collector Only
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'   # اجرای خودکار هر ۵ دقیقه
+    - cron: '*/30 * * * *'   # اجرای خودکار هر ۵ دقیقه
 
 jobs:
   collect:
