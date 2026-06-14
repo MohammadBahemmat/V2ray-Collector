@@ -1,1 +1,1 @@
-trojan://humanity@130.61.50.75:6443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calm#trojan config #14
+trojan://humanity@104.18.8.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#trojan config #12
