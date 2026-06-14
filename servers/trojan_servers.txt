@@ -1,1 +1,2 @@
 trojan://humanity@104.18.8.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#trojan config #12
+trojan://mitivpn@188.114.97.202:443?path=%2Fed%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;host=d.gamingdll.ir&amp;fp=chrome&amp;type=ws&amp;sni=gamingdll.ir#trojan config #50
