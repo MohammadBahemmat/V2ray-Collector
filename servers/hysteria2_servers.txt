@@ -1,2 +1,1 @@
-hysteria2://zru63dr6vokx56iy@tr-1.metsima.com:52067?security=tls&amp;obfs=salamander&amp;obfs-password=60wvbymjlc9zw3gk&amp;insecure=0&amp;sni=#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Ankara%20%7C%20%E2%8F%B1493ms%20%7C%20%E2%9A%A11.1MB%2Fs%20%7C%20%40NamazVPN
-hysteria2://zru63dr6vokx56iy@tr-1.metsima.com:52067?security=tls&amp;obfs=salamander&amp;obfs-password=60wvbymjlc9zw3gk&amp;insecure=0&amp;sni=tr-1.metsima.com#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Ankara%20%7C%20%E2%8F%B1481ms%20%7C%20%E2%9A%A11.4MB%2Fs%20%7C%20%40NamazVPN
+hysteria2://zru63dr6vokx56iy@tr-1.metsima.com:52067?security=tls&amp;obfs=salamander&amp;obfs-password=60wvbymjlc9zw3gk&amp;insecure=0&amp;sni=tr-1.metsima.com#%40filembad
