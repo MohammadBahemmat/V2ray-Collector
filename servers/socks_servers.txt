@@ -1,3 +1,1 @@
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@dk-cop.pvdata.host:1080#telegram%20%40mtmvpn
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@hu-bud.pvdata.host:1080#telegram%20%40mtmvpn
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#%40mtmvpn
+socks://TV9ZT1VfRDpQcml2YXRl@88.198.133.4:1080#%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%40azdeltaghalam7
