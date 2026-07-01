@@ -1,4 +1,2 @@
-socks5://128.140.46.169:13482
-socks5://194.165.16.21:1080
-socks5://209.97.175.215:1080
-socks5://89.188.76.72:1080
+socks5://:@152.53.137.180:1081
+socks5://R38Ycj1bnGQtFWP7cLUMgyGC:Tel6@SoonTeam@dk-cop.pvdata.host:1080
