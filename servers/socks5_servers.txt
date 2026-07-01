@@ -1,2 +1,1 @@
-socks5://:@152.53.137.180:1081
-socks5://R38Ycj1bnGQtFWP7cLUMgyGC:Tel6@SoonTeam@dk-cop.pvdata.host:1080
+socks5://80.78.247.217:1080
