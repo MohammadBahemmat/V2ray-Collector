@@ -12,6 +12,7 @@ rzchanel1
 b_vpn_free
 vaslshiiimm
 drovone
+saministamm
 generalconfing
 rezzonez
 v2ray_configs_pools
