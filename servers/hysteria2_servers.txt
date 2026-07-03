@@ -1,6 +1,3 @@
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443/?sni=fta.fontanvpn.com#%E2%9B%B386@oneclickvpnkeys
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#%F0%9F%8F%A068@oneclickvpnkeys
 hysteria2://dongtaiwang.com@www.838491.xyz:13377/?sni=www.838491.xyz#%F0%9F%8F%A042@oneclickvpnkeys
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@clash-ip1.934618.xyz:18271/?sni=clash-ip1.934618.xyz#%E2%9B%B379@oneclickvpnkeys
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=0&amp;sni=hy2.aspidnet.xyz#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20%E2%8F%B1736ms%20%7C%20%E2%9A%A11.4MB%2Fs%20%7C%20%40NamazVPN
 hysteria2://zru63dr6vokx56iy@188.132.141.113:52067?security=tls&amp;fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%2260wvbymjlc9zw3gk%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&amp;sni=tr-1.metsima.com&amp;allowinsecure=0#%40filembad
