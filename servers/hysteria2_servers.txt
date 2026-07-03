@@ -1,3 +1,2 @@
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#%F0%9F%8F%A068@oneclickvpnkeys
-hysteria2://dongtaiwang.com@www.838491.xyz:13377/?sni=www.838491.xyz#%F0%9F%8F%A042@oneclickvpnkeys
-hysteria2://zru63dr6vokx56iy@188.132.141.113:52067?security=tls&amp;fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%2260wvbymjlc9zw3gk%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&amp;sni=tr-1.metsima.com&amp;allowinsecure=0#%40filembad
+hysteria2://f80fadf1-4f90-40e2-891f-e9a10146d960@#%F0%9F%8C%8D97279%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://f80fadf1-4f90-40e2-891f-e9a10146d960@[2a0b:4142:a86::2]:28443/?insecure=1&amp;sni=c9a0c4942b7edk1v6.587458.xyz#%F0%9F%8D%931@oneclickvpnkeys
