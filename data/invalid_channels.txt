@@ -14,5 +14,4 @@ vaslshiiimm
 drovone
 generalconfing
 rezzonez
-teleproxytele
 v2ray_configs_pools
