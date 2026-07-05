@@ -1,1 +1,5 @@
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#%F0%9F%A6%89%40FreeConfigForYou
+socks://NTRHUUtKYmRWOkhmaEZ6c0E5ZQ@138.249.189.211:64735#telegram%20%40mtmvpn%207
+socks://TV9ZT1VfRDpQcml2YXRl@pl1.cactussstp.com:1080#telegram%20%40mtmvpn
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@dk-cop.pvdata.host:1080#%40mtmvpn
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@hu-bud.pvdata.host:1080#%40mtmvpn
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#%40mtmvpn
