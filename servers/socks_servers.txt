@@ -1,1 +1,6 @@
-socks://bDUxYWg0cmI6aHNDemUwdDR3YjJm@154.16.137.194:5782#%E7%BE%8E%E5%9B%BD%20%40zyzzzoao
+socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki%2C%20FI%20%7C%20SOCKS%20%7C%20fi-esp.pvdata.host%3A1080
+socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080?note=@FreeOnlineVPN#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2C%20LU%20%7C%20SOCKS%20%7C%20lu-lux.pvdata.host%3A1080
+socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@pl-tor.pvdata.host:1080#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20SOCKS%20%7C%20pl-tor.pvdata.host%3A1080%20%231
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@dk-cop.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20SOCKS%20%7C%20dk-cop.pvdata.host%3A1080
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@hu-bud.pvdata.host:1080#%F0%9F%87%AD%F0%9F%87%BA%20Budapest%2C%20HU%20%7C%20SOCKS%20%7C%20hu-bud.pvdata.host%3A1080
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20SOCKS%20%7C%20pl-tor.pvdata.host%3A1080%20%232

@@ -1,1 +1,2 @@
-hysteria://95.182.85.39:21402?downmbps=100&amp;upmbps=100&amp;auth=8TTauzC6Yundefined&amp;security=tls&amp;sni=tunnel.axonshield.ir&amp;fastopen=0#
+hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#🇫🇷FR
+hysteria://5.83.129.153:20088?alpn=h3&auth=dongtaiwang.com&downmbps=1000&protocol=udp&insecure=1&peer=apple.com&upmbps=500#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.3MB%2Fs%7CGPT%E2%81%BA%7CYT-NL%7CD%2B%7C0%25
