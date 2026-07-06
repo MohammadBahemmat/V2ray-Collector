@@ -1,1 +1,1 @@
-socks://TV9ZT1VfRDpQcml2YXRl@85.17.179.81:1080#%40@confiiing_chanel%E4%B8%A8%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+socks://127.0.0.1:18892
