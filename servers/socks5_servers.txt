@@ -1,3 +1,2 @@
-socks5://165.16.192.81:1080
-socks5://192.248.95.98:54126
-socks5://206.123.156.229:4317
+socks5://myproxy.com:3128
+socks5://your-sub-user-loc-us:your-password@p1.bytesflows.com:1080
