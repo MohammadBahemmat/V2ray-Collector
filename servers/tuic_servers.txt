@@ -1,1 +1,1 @@
-tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@62.210.24.143:33888?allow_insecure=1&amp;alpn=h3&amp;congestion_control=cubic&amp;congestion_controller=cubic&amp;sni=bing.com&amp;udp_relay_mode=native&amp;version=5#%E2%99%A6%EF%B8%8F16@oneclick
+tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@62.210.24.143:33888?allow_insecure=1&amp;alpn=h3&amp;congestion_control=cubic&amp;congestion_controller=cubic&amp;sni=bing.com&amp;udp_relay_mode=native&amp;version=5#%E2%99%A6%EF%B8%8F16@NetFlowTools
