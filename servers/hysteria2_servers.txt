@@ -3,5 +3,4 @@ hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.168:8449/?insecure=1
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.199:8449/?insecure=1&amp;sni=sni.fi-m247-02.com#%F0%9F%87%BA%F0%9F%87%B8103591%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.222:8449/?insecure=1&amp;sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%BA%F0%9F%87%B8103598%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://AmWCbxhVSBz7b1XL9ZNJSReMCxdFZlxX@107.173.11.163:36713/?insecure=1&amp;sni=bing.com#@meliproxyy
-hysteria2://V2Rayyngvpn@91.107.152.188:40460?sni=www.amd.com&amp;insecure=1&amp;allowInsecure=1&amp;pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn#%40filembad
-hysteria2://t-me-V2RayyNGvpn@91.107.152.188:40460?sni=www.amd.com&amp;insecure=1&amp;allowInsecure=1&amp;pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn#%40filembad
+hysteria2://t-me-V2RayyNGvpn@91.107.152.188:40460?security=tls&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;insecure=1&amp;pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&amp;sni=www.amd.com#%40outline_ir
