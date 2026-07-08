@@ -1,1 +1,1 @@
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443/?sni=tunel1.washing.help&amp;obfs=salamander&amp;obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&amp;insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%E2%8F%B13011ms%20%7C%20%E2%9A%A1115KB%2Fs%20%7C%20%40NamazVPN
+hysteria2://w1BoB6s3L3@91.107.152.188:40460?security=tls&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;insecure=1&amp;pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&amp;sni=www.amd.com#%E2%9C%85%40v2r_ayorg
