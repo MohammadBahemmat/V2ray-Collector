@@ -1,2 +1,2 @@
-socks5://206.123.156.233:10412
-socks5://206.123.156.245:10650
+socks5://5.255.113.177:1080#%F0%9F%95%B9%EF%B8%8F59@v2ray_configs_pools
+socks5://74.162.65.56:1080#%F0%9F%95%B9%EF%B8%8F60@v2ray_configs_pools
