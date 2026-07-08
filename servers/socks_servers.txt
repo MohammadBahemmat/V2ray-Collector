@@ -1,1 +1,3 @@
-socks://Og@157.90.183.51:5555#@BestProxyTel1
+socks://Og@51.83.101.177:1080#@meliproxyy
+socks://Og@85.239.60.30:1090#@meliproxyy
+socks://Og@91.107.253.241:1080#@meliproxyy
