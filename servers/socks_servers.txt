@@ -1,3 +1,1 @@
-socks://Og@51.83.101.177:1080#@meliproxyy
-socks://Og@85.239.60.30:1090#@meliproxyy
-socks://Og@91.107.253.241:1080#@meliproxyy
+socks://Og@193.151.149.90:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B11022ms%20%7C%20%E2%9A%A1164KB%2Fs%20%7C%20%40NamazVPN
