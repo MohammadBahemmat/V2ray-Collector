@@ -1,4 +1,2 @@
-hysteria2://57c77d07-bec3-4bf7-9b72-70ece40450f6@vkmks.hysteria.ltd:5443/?sni=vkmks.hysteria.ltd#%F0%9F%8E%8D55@v2ray_configs_pools
-hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;insecure=1&amp;sni=www.oracle.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-hysteria2://eltgrek81o6w5cd4@social.klipp.su:443/?obfs=salamander&amp;obfs-password=3sv5vpdl9xr84lyb&amp;sni=social.klipp.su#%F0%9F%90%9E27@v2ray_configs_pools
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&amp;obfs=salamander&amp;obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&amp;insecure=0&amp;sni=tunel1.washing.help#%F0%9F%94%B0%20%40v2ray_configs_pools%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
+hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&amp;obfs=salamander&amp;obfs-password=ngljeqgna3hmfr2s&amp;insecure=0&amp;sni=qg.easyiran.org#@meliproxyy
+hysteria2://eltgrek81o6w5cd4@social.klipp.su:443?sni=social.klipp.su&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=3sv5vpdl9xr84lyb#@meliproxyy
