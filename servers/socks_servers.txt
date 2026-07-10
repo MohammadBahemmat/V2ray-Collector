@@ -1,1 +1,4 @@
 socks://Og@134.122.1.61:11679#%40v2raybaaz%20%C2%B2
+socks://Og@89.44.112.13:1093#@meliproxyy
+socks://Og@93.118.142.196:1093#@meliproxyy
+socks://Og@94.182.135.133:3030#@meliproxyy
