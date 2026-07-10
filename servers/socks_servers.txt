@@ -1,3 +1,1 @@
-socks://Og@89.44.112.13:1093#@meliproxyy
-socks://Og@93.118.142.196:1093#@meliproxyy
-socks://Og@94.182.135.133:3030#telegram%20%40mtmvpn
+socks://Og@188.121.123.38:40000#%40@confiiing_chanel%E4%B8%A8%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
