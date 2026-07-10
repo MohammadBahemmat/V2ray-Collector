@@ -1,3 +1,2 @@
-hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?insecure=0&sni=qg.easyiran.org&obfs=salamander&obfs-password=ngljeqgna3hmfr2s#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-hysteria2://KYFundefinedZYs4KB@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@ma-ybu7mswk.9966690.xyz:10000?insecure=1&sni=ma-ybu7mswk.9966690.xyz&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA==#%F0%9F%87%B2%F0%9F%87%A6MA_1%7C2.1MB/s
+hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&amp;obfs=salamander&amp;obfs-password=ngljeqgna3hmfr2s&amp;insecure=0&amp;sni=qg.easyiran.org#@meliproxyy
+hysteria2://eltgrek81o6w5cd4@social.klipp.su:443?sni=social.klipp.su&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=3sv5vpdl9xr84lyb#@meliproxyy
