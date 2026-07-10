@@ -1,7 +1,6 @@
-socks://Og@134.122.1.61:11679#%F0%9F%87%BA%F0%9F%87%B8107177%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://Og@51.83.101.177:1080#@meliproxyy
-socks://Og@85.239.60.30:1090#@meliproxyy
-socks://Og@89.44.112.13:1093#@meliproxyy
-socks://Og@91.107.253.241:1080#%40hi_proxy_iran
-socks://Og@93.118.142.196:1093#@meliproxyy
-socks://Og@94.182.135.133:3030#@V2ray_confing33
+socks://Og@134.122.1.61:11679#%F0%9F%87%BA%F0%9F%87%B8107226%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+socks://Og@45.94.213.213:443#%40NetZone_ir
+socks://Og@51.83.101.177:1080#Mix--%40V2rayAlpha-6
+socks://Og@85.239.60.30:1090#Mix--%40V2rayAlpha-15
+socks://Og@91.107.253.241:1080#Mix--%40V2rayAlpha-8
+socks://Og@94.182.135.133:3030#@meliproxyy
