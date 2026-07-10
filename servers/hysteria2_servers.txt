@@ -1,2 +1,2 @@
-hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&amp;obfs=salamander&amp;obfs-password=ngljeqgna3hmfr2s&amp;insecure=0&amp;sni=qg.easyiran.org#%F0%9F%87%A9%F0%9F%87%AA%40V2RFA
-hysteria2://eltgrek81o6w5cd4@social.klipp.su:443?sni=social.klipp.su&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=3sv5vpdl9xr84lyb#@FAST78_CHANNEL
+hysteria2://w1BoB6s3L3@91.107.152.188:40460?security=tls&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;insecure=1&amp;pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&amp;sni=www.amd.com#%E2%9C%85%40v2r_ayorg
+hysteria2://y4nJ8poIsh@91.107.152.188:40460?security=tls&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;insecure=1&amp;pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&amp;sni=www.amd.com#%E2%9C%85%40v2r_ayorg
