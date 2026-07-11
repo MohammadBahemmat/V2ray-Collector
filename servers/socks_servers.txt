@@ -1,1 +1,1 @@
-socks://Og@94.182.135.133:3030#@V2ray_confing33
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#%F0%9F%94%B0%20%40ConfigV2RayNG%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
