@@ -1,1 +1,1 @@
-tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@62.210.24.143:33888/?congestion_control=cubic&amp;udp_relay_mode=native&amp;sni=bing.com&amp;alpn=h3#%F0%9F%87%AB%F0%9F%87%B7108381%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@62.210.24.143:33888/?congestion_control=cubic&amp;udp_relay_mode=native&amp;sni=bing.com&amp;alpn=h3#%F0%9F%87%AB%F0%9F%87%B7108430%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
