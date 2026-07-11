@@ -1,5 +1,1 @@
-hysteria2://CRzpXvIiyI@185.250.41.245:443?security=tls&amp;obfs=salamander&amp;obfs-password=T.me%2FV2RayyNGvpn&amp;insecure=1&amp;sni=www.wordreference.com#%F0%9F%87%A9%F0%9F%87%AA%40ConfigV2RayNG%20%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://Z7MFGgpuzh@185.250.41.245:443?security=tls&amp;obfs=salamander&amp;obfs-password=T.me%2FV2RayyNGvpn&amp;insecure=1&amp;sni=www.wordreference.com#%F0%9F%87%A9%F0%9F%87%AA%40ConfigV2RayNG%20%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=0&amp;sni=hy2.aspidnet.xyz#%F0%9F%8F%8D%EF%B8%8F%20%40ConfigV2RayNG
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&amp;obfs=salamander&amp;obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&amp;insecure=0&amp;sni=tunel1.washing.help#%5B%F0%9F%87%B7%F0%9F%87%BA%5Dt.me%2FConfigV2RayNG
-hysteria2://t.me.V2RayyNGvpn@185.250.41.245:443?security=tls&amp;obfs=salamander&amp;obfs-password=T.me%2FV2RayyNGvpn&amp;insecure=1&amp;sni=www.wordreference.com#%F0%9F%87%A9%F0%9F%87%AA%40ConfigV2RayNG%20%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&amp;obfs=salamander&amp;obfs-password=ngljeqgna3hmfr2s&amp;insecure=0&amp;sni=qg.easyiran.org#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
