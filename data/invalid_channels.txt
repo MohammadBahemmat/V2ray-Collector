@@ -1,4 +1,4 @@
-Invalid Telegram Channels — 2026-07-11T10:16:36.974135+00:00
+Invalid Telegram Channels — 2026-07-11T10:34:58.065842+00:00
 
 tradenets_bot
 v2wray
@@ -10,7 +10,6 @@ canfigiop
 m_buy
 black_star_vpn
 b_vpn_free
-lldalall
 vaslshiiimm
 drovone
 generalconfing
