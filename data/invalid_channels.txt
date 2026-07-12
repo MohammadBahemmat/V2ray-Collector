@@ -14,4 +14,3 @@ b_vpn_free
 vaslshiiimm
 drovone
 generalconfing
-rezzonez
