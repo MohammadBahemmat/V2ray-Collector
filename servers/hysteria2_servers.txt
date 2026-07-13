@@ -5,7 +5,7 @@ hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=
 hysteria2://88f839f2-c3c0-487d-aac3-f8c089d2369d@45.154.205.25:55000?insecure=1&sni=www.bing.com#%F0%9F%8E%A115%40oneclickvpnkeys
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?insecure=0&sni=qg.easyiran.org&obfs=salamander&obfs-password=ngljeqgna3hmfr2s#%F0%9F%87%A9%F0%9F%87%AA%40V2rayng_Fast
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
-hysteria2://BADANGELLLL@169.40.32.218:53008?insecure=0&alpn=h3&sni=169.40.32.218&obfs=salamander&obfs-password=lwhvz2y1ntz8p5nf#%F0%9F%87%A9%F0%9F%87%AADE_4%7C3.5MB/s
+hysteria2://BADANGELLLL@169.40.32.218:53008?insecure=0&alpn=h3&sni=169.40.32.218&obfs=salamander&obfs-password=lwhvz2y1ntz8p5nf#%40Badangellll-JOIN%F0%9F%A4%9D%20%D9%88%D8%B5%D9%84%20%D8%B4%DB%8C%D9%86%20%D8%8C%D8%AD%D9%85...
 hysteria2://CakZRUUlundefinedS@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#telegram%20%40mtmvpn%20%F0%9F%8C%9B
 hysteria2://D0KVsHbDlj@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#Telegram%F0%9F%87%A9%F0%9F%87%AAV2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://Dd8FfJSif0@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#t-me-V2RayyNGvpn%F0%9F%8E%96%EF%B8%8F
@@ -24,7 +24,7 @@ hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk
 hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg2.auragg.org:443?sni=argg2.auragg.org#%F0%9F%AA%AF46%40oneclickvpnkeys
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2%20%232
-hysteria2://d5m-5bGOsVbFgRlxsEyO3pCF@8.148.4.25:55020?allowInsecure=1&insecure=1&security=tls&sni=8.148.4.25#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
+hysteria2://d5m-5bGOsVbFgRlxsEyO3pCF@8.148.4.25:55020?insecure=1&sni=8.148.4.25&obfs=&obfs-password=#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.1MB/s
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?insecure=0&sni=&obfs=salamander&obfs-password=ielzukpwth087afx#%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1
