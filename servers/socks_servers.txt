@@ -1,2 +1,5 @@
-socks://Og@94.182.135.133:3030#telegram%20%40mtmvpn
-socks://U0RQb3J3Rkp4YW9OckxpOjFAU29vblRlYW0%3D@104.254.90.218:1080#telegram%20%40mtmvpn
+socks://Og@130.185.75.82:9595#V2rayNG3
+socks://Og@62.220.126.56:30170#V2rayNG3
+socks://Og@87.107.155.141:1080#@v2rayng3
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#@v2rayng3
+socks://bnVsbDpudWxs@62.220.126.92:30871#V2rayNG3
