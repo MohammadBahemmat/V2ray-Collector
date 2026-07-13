@@ -1,1 +1,3 @@
-hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&amp;obfs=salamander&amp;obfs-password=ngljeqgna3hmfr2s&amp;insecure=0&amp;sni=qg.easyiran.org#%F0%9F%87%A9%F0%9F%87%AA%40V2rayng_Fast
+hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&amp;obfs=salamander&amp;obfs-password=ngljeqgna3hmfr2s&amp;insecure=0&amp;sni=qg.easyiran.org#%F0%9F%87%A9%F0%9F%87%AA%40V2RFA
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52013?security=tls&amp;obfs=salamander&amp;obfs-password=cukfjxud1ebjuuzs&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40vmesskhodam
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&amp;obfs=salamander&amp;obfs-password=mtg2vchyir6la3et&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40proxy_kafee
