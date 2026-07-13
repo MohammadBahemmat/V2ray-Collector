@@ -1,3 +1,2 @@
-hysteria2://88f839f2-c3c0-487d-aac3-f8c089d2369d@45.154.205.25:55000/?insecure=1&amp;sni=www.bing.com#%F0%9F%87%AC%F0%9F%87%A7109382%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?security=tls&amp;obfs=salamander&amp;obfs-password=93lc6r07zfx4crct&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40filembad
-hysteria2://uQUfGOf9Mx@140.233.177.48:33884/?insecure=1&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;sni=www.oracle.com#%F0%9F%87%AB%F0%9F%87%B7109377%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&amp;obfs=salamander&amp;obfs-password=mtg2vchyir6la3et&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40proxy_kafee
+hysteria2://uQUfGOf9Mx@140.233.177.48:33884/?insecure=1&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;sni=www.oracle.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%E2%8F%B1390ms%20%7C%20%E2%9A%A11.4MB%2Fs%20%7C%20%40NamazVPN
