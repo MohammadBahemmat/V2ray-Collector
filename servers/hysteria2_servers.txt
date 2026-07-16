@@ -1,3 +1,2 @@
-hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443/?sni=kamil-power-machine.roxa.org#%F0%9F%87%AB%F0%9F%87%B7112108%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://NZC2w2V2NQ@91.107.152.188:40460?security=tls&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;insecure=1&amp;pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&amp;sni=www.amd.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&amp;obfs=salamander&amp;obfs-password=mtg2vchyir6la3et&amp;insecure=0&amp;sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443/?sni=kamil-power-machine.roxa.org#%F0%9F%87%AB%F0%9F%87%B7112059%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?security=tls&amp;obfs=salamander&amp;obfs-password=ielzukpwth087afx&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40FarazV2ray
