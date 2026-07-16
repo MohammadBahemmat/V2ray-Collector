@@ -1,2 +1,1 @@
-hysteria2://3uIVdQh2vc@140.233.177.48:33884/?insecure=1&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;sni=www.oracle.com#%F0%9F%AA%9919@oneclickvpnkeys
-hysteria2://tf5LINcpQy@91.107.152.188:40460?security=tls&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;insecure=1&amp;pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&amp;sni=www.amd.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Nuremberg%20%7C%20%E2%8F%B1528ms%20%7C%20%E2%9A%A11.4MB%2Fs%20%7C%20%40NamazVPN
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&amp;__rand=4177beba#Telegram+%7C+Payam_Nsi
