@@ -1,3 +1,3 @@
-hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443?sni=kamil-power-machine.roxa.org&amp;insecure=0&amp;allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20
-hysteria2://Ov_98eqvJ9N8SE3_Bxhr238e_Ntz2_Sxc47_J2@185.126.236.152:8443?sni=key-hm-at.1cooldns.com&amp;insecure=0&amp;allowInsecure=0#%20%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52000?security=tls&amp;obfs=salamander&amp;obfs-password=gu74jg3ym0e21zco&amp;insecure=0&amp;sni=assets.gateway-stream.com#%5B%F0%9F%87%AB%F0%9F%87%B7%5D%20%40NOFILTERING2
+hysteria2://3uIVdQh2vc@140.233.177.48:33884/?insecure=1&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;sni=www.oracle.com#%F0%9F%AA%9919@oneclickvpnkeys
+hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;sni=kamil-power-machine.roxa.org#@GozargahAzad|
+hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443/?sni=kamil-power-machine.roxa.org#%F0%9F%87%AB%F0%9F%87%B7112059%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
