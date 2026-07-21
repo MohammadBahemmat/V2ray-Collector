@@ -1,2 +1,1 @@
-socks://U0RQb3J3Rkp4YW9OckxpOjFAU29vblRlYW0%3D@104.254.90.218:1080#[11345][UnResolvedDomains][0][SS][None][proxy_mtm][2026-07-12][2026-07-21
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@de-fra.pvdata.host:1080#telegram%20%40mtmvpn
+socks://Og@193.151.150.121:54321#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40FreeLand8%20%E2%94%82%20All
