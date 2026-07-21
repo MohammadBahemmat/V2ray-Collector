@@ -1,1 +1,1 @@
-socks5://128.140.46.169:13482@NebulaVPNx&packetEncoding=xudp#
+socks5://159.195.61.240:1080
