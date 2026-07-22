@@ -1,1 +1,2 @@
-socks://Og@62.60.223.192:8081#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+socks://Og@62.60.223.192:8081#Channel%20%3A%20%40proxy_kafee
+socks://Og@87.236.208.153:8081#@meliproxyy
