@@ -1,1 +1,1 @@
-socks://Og@87.236.208.153:8081#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Frankfurt%20am%20Main%20%7C%20%E2%8F%B1898ms%20%7C%20%E2%9A%A1843KB%2Fs%20%7C%20%40NamazVPN
+socks://Og@87.236.208.153:8081#@meliproxyy
