@@ -1,2 +1,1 @@
-hysteria2://gG5szcxrbt@51.15.110.119:19978/?insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram%3DV2RayyNGvpn&amp;sni=www.amd.com#%F0%9F%93%8A76@oneclickvpnkeys
-hysteria2://o3774es6cfv74kaf@social.klipp.su:443/?obfs=salamander&amp;obfs-password=3sv5vpdl9xr84lyb&amp;sni=social.klipp.su#%F0%9F%AA%A945@oneclickvpnkeys
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?security=tls&amp;obfs=salamander&amp;obfs-password=ielzukpwth087afx&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40FarazV2ray
