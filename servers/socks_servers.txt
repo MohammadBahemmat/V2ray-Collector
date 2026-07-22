@@ -1,3 +1,1 @@
-socks://Og@62.60.210.173:1080#%40Surfboardv2ray
-socks://Og@62.60.223.192:8081#Channel%20%3A%20%40Daily_Configs
-socks://Og@89.44.112.13:1091#%40Surfboardv2ray
+socks://Og@87.236.208.153:8081#@meliproxyy
