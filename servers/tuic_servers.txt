@@ -1,4 +1,4 @@
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@jp01.uzifan.monster:8443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3#%F0%9F%87%AF%F0%9F%87%B5t%40oneclickvpnkeys
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@sg01.uzifan.monster:8443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3#%F0%9F%87%B8%F0%9F%87%AC1t%40oneclickvpnkeys
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us01.uzifan.monster:8443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=azure.microsoft.com&amp;alpn=h3#%F0%9F%87%BA%F0%9F%87%B82t%40oneclickvpnkeys
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us02.uzifan.monster:8443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3#%F0%9F%87%BA%F0%9F%87%B81t%40oneclickvpnkeys
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@jp01.uzifan.monster:8443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3#
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@sg01.uzifan.monster:8443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3#
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us01.uzifan.monster:8443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=azure.microsoft.com&amp;alpn=h3#
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us02.uzifan.monster:8443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3#
