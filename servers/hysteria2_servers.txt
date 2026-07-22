@@ -1,13 +1,1 @@
-hysteria2://3wFFmAhSJ0@104.248.180.67:15173?sni=www.intel.com&amp;insecure=1&amp;allowInsecure=1&amp;pinSHA256=OB%2BTzMZKodbRhlbB%2BhN5guYhGvtfb3nqpv2xI1efjnI%3D#%40zyzzzoao
-hysteria2://7_Bz834J98n238cNbx7cjLAw_Nux28c_kIO1Hq86Vr@151.247.219.191:8443/?sni=hopp-queen.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3AGB
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443/?sni=fl02.auragg.org#%3E%3E%40oneclickvpnkeys%3A%3AFI
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.212.146.99:443/?insecure=1&amp;sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.219.182.57:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.245.180.117:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?sni=hy2.123266.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&amp;sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&amp;sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443/?insecure=1&amp;sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443/?insecure=1&amp;sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&amp;sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&amp;sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?security=tls&amp;obfs=salamander&amp;obfs-password=ielzukpwth087afx&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40FarazV2ray
