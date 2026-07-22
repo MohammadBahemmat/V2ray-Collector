@@ -1,2 +1,1 @@
-socks://Og@62.60.223.192:8081#Channel%20%3A%20%40proxy_kafee
-socks://Og@87.236.208.153:8081#@meliproxyy
+socks://Og@87.236.208.153:8081#V2ray_Alpha%F0%9F%8C%91%203
