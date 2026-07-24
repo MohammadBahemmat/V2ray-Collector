@@ -1,4 +1,1 @@
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nland1.noesissite.ru:443/?sni=nland1.noesissite.ru#%F0%9F%87%B3%F0%9F%87%B1121148%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.117:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#%F0%9F%87%A9%F0%9F%87%AA121130%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://hy2_czaawdhc%3AVwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443/?obfs=salamander&amp;obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF&amp;sni=nl2.cleanersaz.help#%40filembad
-hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com&amp;insecure=1&amp;allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA121178%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://hy2_czaawdhc%3AVwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?security=tls&amp;obfs=salamander&amp;obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF&amp;insecure=0&amp;sni=nl2.cleanersaz.help#%40filembad
