@@ -1,1 +1,1 @@
-hysteria2://hy2_czaawdhc%3AVwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?security=tls&amp;obfs=salamander&amp;obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF&amp;insecure=0&amp;sni=nl2.cleanersaz.help#%40filembad
+hysteria2://hy2_czaawdhc%3AVwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443/?obfs=salamander&amp;obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF&amp;sni=nl2.cleanersaz.help#%40filembad
