@@ -1,1 +1,1 @@
-socks://Og@87.248.145.82:1080#%40vmesskhodam
+socks://Og@62.60.223.192:8081#Channel%20%3A%20%40Daily_Configs
