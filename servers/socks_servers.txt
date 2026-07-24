@@ -1,2 +1,1 @@
-socks://#name
-socks://127.0.0.1:10001
+socks://Og@87.248.145.82:1080#%40vmesskhodam
