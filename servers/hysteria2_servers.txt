@@ -1,3 +1,1 @@
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&amp;obfs=salamander&amp;obfs-password=fd3olglr2bmimgje&amp;insecure=0&amp;sni=assets.gateway-stream.com#
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&amp;obfs=salamander&amp;obfs-password=mtg2vchyir6la3et&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-hysteria2://hy2_czaawdhc%3AVwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?security=tls&amp;obfs=salamander&amp;obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF&amp;insecure=0&amp;sni=nl2.cleanersaz.help#
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&amp;obfs=salamander&amp;obfs-password=fd3olglr2bmimgje&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40filembad
