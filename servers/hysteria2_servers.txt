@@ -1,1 +1,2 @@
-hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ger.leontunel.ru:443?security=tls&amp;insecure=0&amp;sni=ger.leontunel.ru#Channel%20%3A%20%40Daily_Configs
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?sni=assets.gateway-stream.com&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=ielzukpwth087afx#https://t.me/ShadowsocksM
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=0&amp;sni=hy2.aspidnet.xyz#@meliproxyy
