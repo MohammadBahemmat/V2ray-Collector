@@ -1,3 +1,2 @@
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&amp;obfs=salamander&amp;obfs-password=l960g2kn19nphlra&amp;insecure=0&amp;sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE122132%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?sni=assets.gateway-stream.com&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=fd3olglr2bmimgje#%40proxy_kafee
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%F0%9F%87%B7%F0%9F%87%BA122112%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&amp;obfs=salamander&amp;obfs-password=l960g2kn19nphlra&amp;insecure=0&amp;sni=assets.gateway-stream.com#
+hysteria2://hy2_czaawdhc%3AVwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?sni=nl2.cleanersaz.help&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF#
