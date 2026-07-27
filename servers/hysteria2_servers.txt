@@ -1,1 +1,1 @@
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52021?security=tls&amp;obfs=salamander&amp;obfs-password=mtg2vchyir6la3et&amp;insecure=0&amp;sni=assets.gateway-stream.com#
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?sni=assets.gateway-stream.com&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=fd3olglr2bmimgje#%40proxy_kafee
