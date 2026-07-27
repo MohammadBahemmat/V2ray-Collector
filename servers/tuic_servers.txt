@@ -1,1 +1,1 @@
-tuic://b7479b73-8cea-4a82-97e8-bacf9bd86605:b7479b73-8cea-4a82-97e8-bacf9bd86605@154.17.238.183:64087/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#%F0%9F%8E%B431%40oneclickvpnkeys
+tuic://261d95d4-73c0-4c33-957a-04b6d407bea2:261d95d4-73c0-4c33-957a-04b6d407bea2@83.243.86.109:27947?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=bing.com&udp_relay_mode=native#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.4MB/s
