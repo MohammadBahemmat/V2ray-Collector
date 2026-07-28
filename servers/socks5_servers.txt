@@ -1,4 +1,2 @@
-socks5://144.217.12.20:10808#CA%20-%20zhuhai.uk
-socks5://149.62.186.244:1080#IT%20-%20zhuhai.uk
-socks5://43.164.3.124:1080#TH%20-%20zhuhai.uk
-socks5://admin:admin@158.180.91.51:5555#KR%20-%20zhuhai.uk
+socks5://187.124.187.158:1080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Frankfurt%20am%20Main%20%7C%20%E2%8F%B1495ms%20%7C%20%E2%9A%A11.1MB%2Fs%20%7C%20%40NamazVPN
+socks5://187.63.9.62:63253#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20Arraial%20do%20Cabo%20%7C%20%E2%8F%B11826ms%20%7C%20%E2%9A%A1156KB%2Fs%20%7C%20%40NamazVPN
