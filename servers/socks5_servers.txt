@@ -1,1 +1,4 @@
-socks5://185.121.13.73:1080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Dronten%20%7C%20%E2%8F%B1522ms%20%7C%20%E2%9A%A1118KB%2Fs%20%7C%20%40NamazVPN
+socks5://144.217.12.20:10808#CA%20-%20zhuhai.uk
+socks5://149.62.186.244:1080#IT%20-%20zhuhai.uk
+socks5://43.164.3.124:1080#TH%20-%20zhuhai.uk
+socks5://admin:admin@158.180.91.51:5555#KR%20-%20zhuhai.uk
