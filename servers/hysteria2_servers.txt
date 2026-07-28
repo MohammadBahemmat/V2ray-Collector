@@ -1,2 +1,1 @@
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52025?security=tls&amp;obfs=salamander&amp;obfs-password=iknjsvsjagi449mm&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40vmesskhodam
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=1&amp;sni=hy2.aspidnet.xyz#%40filembad
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&amp;obfs=salamander&amp;obfs-password=fd3olglr2bmimgje&amp;insecure=0&amp;sni=assets.gateway-stream.com#
