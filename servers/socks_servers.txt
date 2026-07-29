@@ -1,2 +1,1 @@
-socks://Og@109.122.246.227:2053#%40FreeLand8
-socks://Og@95.38.160.79:10809#%40FreeLand8
+socks://Og@95.38.160.79:10809#%40ConfigV2RayNG
