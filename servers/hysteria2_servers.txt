@@ -1,2 +1,3 @@
-hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?obfs=salamander&amp;sni=assets.gateway-stream.com&amp;insecure=0&amp;obfs-password=l960g2kn19nphlra&amp;security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20Gothenburg%20%7C%20%E2%8F%B1694ms%20%7C%20%E2%9A%A11.1MB%2Fs%20%7C%20%40NamazVPN
-hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&amp;obfs=salamander&amp;obfs-password=l960g2kn19nphlra&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40filembad
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52025?security=tls&amp;obfs=salamander&amp;obfs-password=iknjsvsjagi449mm&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40erfanandroid
+hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&amp;obfs=salamander&amp;obfs-password=l960g2kn19nphlra&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40erfanandroid
+hysteria2://e04a51d1-0450-4919-b924-bd08501934bf@80.66.78.105:443?security=tls&amp;insecure=0&amp;sni=80.66.78.105.nip.io#
