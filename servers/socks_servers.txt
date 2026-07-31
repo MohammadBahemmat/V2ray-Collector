@@ -1,1 +1,6 @@
-socks://Og@193.25.215.182:22222#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Los%20Angeles%20%7C%20%E2%8F%B12895ms%20%7C%20%E2%9A%A1283KB%2Fs%20%7C%20%40NamazVPN
+socks://Og@185.218.139.38:2080#azdeltaghalam7%F0%93%84%82%F0%93%86%83
+socks://Og@188.121.120.254:18000#azdeltaghalam7%F0%93%84%82%F0%93%86%83
+socks://Og@2.184.51.130:10800#azdeltaghalam7%F0%93%84%82%F0%93%86%83
+socks://Og@62.60.144.109:1080#azdeltaghalam7%F0%93%84%82%F0%93%86%83
+socks://Og@79.175.171.213:6666#azdeltaghalam7%F0%93%84%82%F0%93%86%83
+socks://Og@89.165.40.24:1080#azdeltaghalam7%F0%93%84%82%F0%93%86%83
