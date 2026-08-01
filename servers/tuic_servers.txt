@@ -1,1 +1,1 @@
-tuic://5936c09e-b309-4946-966e-4245afd04a6a:5936c09e-b309-4946-966e-4245afd04a6a@38.135.24.154:30000?alpn=h3&congestion_control=bbr&allow_insecure=1&sni=www.python.org&udp_relay_mode=native#%F0%9F%87%BA%F0%9F%87%B8US%C2%B2_2%7C0.9MB%2Fs%7C50%25%7CGPT%E2%81%BA%7CGM%7CYT%7CTK%7CNF%7CD%2B%7CX
+tuic://3ebac90b-6977-47c0-bef5-b2e37554432c:3ebac90b-6977-47c0-bef5-b2e37554432c@89.144.35.232:17306?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.microsoft.com&udp_relay_mode=native#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.0MB/s
