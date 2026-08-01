@@ -1,5 +1,1 @@
-hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443/?sni=prodfr.h2corp.org#%F0%9F%A6%8443@oneclickvpnkeys
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.133:8443/?sni=grape-zet-turbo-nl.yyuyy.com#%F0%9F%A6%8439@oneclickvpnkeys
-hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%F0%9F%8E%9261@oneclickvpnkeys
-hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#%F0%9F%8E%9265@oneclickvpnkeys
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443/?sni=grape-turbo-fr.roxa.org#%F0%9F%A6%8442@oneclickvpnkeys
+hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&amp;insecure=1&amp;allowInsecure=1&amp;obfs=salamander&amp;obfs-password=w0tx1ju9iix6913p#%40Daily_Configs
