@@ -1,4 +1,2 @@
-hysteria2://0ansucp5k6aop125@185.47.172.226:32950?security=tls&amp;obfs=salamander&amp;obfs-password=dnwx30hvcobf7xcf&amp;insecure=0&amp;sni=#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Milan%20%7C%20%E2%8F%B1485ms%20%7C%20%E2%9A%A11.3MB%2Fs%20%7C%20%40NamazVPN
-hysteria2://0ansucp5k6aop125@185.47.172.226:32950?security=tls&amp;obfs=salamander&amp;obfs-password=dnwx30hvcobf7xcf&amp;insecure=0&amp;sni=185.47.172.226#%F0%9F%87%AE%F0%9F%87%B9130036%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&amp;insecure=1&amp;allowInsecure=1&amp;obfs=salamander&amp;obfs-password=w0tx1ju9iix6913p#join--&gt;Fast78_channel
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&amp;obfs=salamander&amp;obfs-password=93lc6r07zfx4crct&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40filembad
+hysteria2://0ansucp5k6aop125@185.47.172.226:32950?security=tls&amp;obfs=salamander&amp;obfs-password=dnwx30hvcobf7xcf&amp;insecure=0&amp;sni=185.47.172.226#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Milan%20%7C%20%E2%8F%B1484ms%20%7C%20%E2%9A%A11.3MB%2Fs%20%7C%20%40NamazVPN
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=t72hzzenktxmrvgu&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40filembad
