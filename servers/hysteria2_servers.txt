@@ -1,1 +1,1 @@
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&amp;obfs=salamander&amp;obfs-password=w0tx1ju9iix6913p&amp;insecure=1&amp;sni=assets.gateway-stream.com#%40v2ray_confing33
+hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&amp;obfs=salamander&amp;obfs-password=w0tx1ju9iix6913p&amp;insecure=1&amp;sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
