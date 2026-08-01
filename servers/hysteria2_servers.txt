@@ -1,9 +1,7 @@
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&amp;obfs=salamander&amp;obfs-password=w0tx1ju9iix6913p&amp;insecure=1&amp;sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443/?sni=wopa7.api3-max.ru#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F36@oneclickvpnkeys
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443/?sni=wopa3.api3-max.ru#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F38@oneclickvpnkeys
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443/?sni=wopa5.api3-max.ru#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F23@oneclickvpnkeys
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa7.api3-max.ru:443/?sni=wopa7.api3-max.ru#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F43@oneclickvpnkeys
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa9.api3-max.ru:443/?sni=wopa9.api3-max.ru#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F44@oneclickvpnkeys
-hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%F0%9F%8E%9261@oneclickvpnkeys
-hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#%F0%9F%8E%9265@oneclickvpnkeys
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&amp;sni=dash.cloudflare.com#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F16@oneclickvpnkeys
+hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&amp;obfs=salamander&amp;obfs-password=w0tx1ju9iix6913p&amp;insecure=1&amp;sni=assets.gateway-stream.com#%40v2ray_confing33
+hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&amp;insecure=1&amp;allowInsecure=1&amp;obfs=salamander&amp;obfs-password=w0tx1ju9iix6913p#%40Daily_Configs
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443/?sni=wopa7.api3-max.ru#%F0%9F%87%AC%F0%9F%87%A7129103%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443/?sni=wopa3.api3-max.ru#%F0%9F%87%AC%F0%9F%87%A7129105%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443/?sni=wopa5.api3-max.ru#%F0%9F%87%AC%F0%9F%87%A7129094%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?security=tls&amp;obfs=salamander&amp;obfs-password=4b6gmo4jujpapx99&amp;insecure=0&amp;sni=vhd.nth.gelzaro.ir#%F0%9F%87%AE%F0%9F%87%B7129108%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&amp;sni=dash.cloudflare.com#%F0%9F%87%A9%F0%9F%87%AA129100%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
