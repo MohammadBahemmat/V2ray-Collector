@@ -1,5 +1,2 @@
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443/?sni=wopa7.api3-max.ru#%F0%9F%87%AC%F0%9F%87%A7129152%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443/?sni=wopa3.api3-max.ru#%F0%9F%87%AC%F0%9F%87%A7129105%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443/?sni=wopa5.api3-max.ru#%F0%9F%87%AC%F0%9F%87%A7129143%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?security=tls&amp;obfs=salamander&amp;obfs-password=4b6gmo4jujpapx99&amp;insecure=0&amp;sni=vhd.nth.gelzaro.ir#%F0%9F%87%AE%F0%9F%87%B7129108%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&amp;sni=dash.cloudflare.com#%F0%9F%87%A9%F0%9F%87%AA129149%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&amp;obfs=salamander&amp;obfs-password=l960g2kn19nphlra&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40FarazV2ray
+hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?security=tls&amp;obfs=salamander&amp;obfs-password=4b6gmo4jujpapx99&amp;insecure=0&amp;sni=vhd.nth.gelzaro.ir#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Amsterdam%20%7C%20%E2%8F%B14383ms%20%7C%20%E2%9A%A1186KB%2Fs%20%7C%20%40NamazVPN
