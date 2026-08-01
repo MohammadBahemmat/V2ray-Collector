@@ -1,1 +1,2 @@
 tuic://542bd1db-f5e7-4c81-a08a-d95da62a914b:542bd1db-f5e7-4c81-a08a-d95da62a914b@69.63.204.31:46501?alpn=h3&amp;congestion_control=bbr&amp;congestion_controller=bbr&amp;sni=www.bing.com&amp;udp_relay_mode=native&amp;version=5#%F0%9F%87%BA%F0%9F%87%B831@oneclickvpnkeys
+tuic://5936c09e-b309-4946-966e-4245afd04a6a:5936c09e-b309-4946-966e-4245afd04a6a@38.135.24.154:30000?alpn=h3&congestion_control=bbr&allow_insecure=1&sni=www.python.org&udp_relay_mode=native#%F0%9F%87%BA%F0%9F%87%B8US%C2%B2_2%7C0.9MB%2Fs%7C50%25%7CGPT%E2%81%BA%7CGM%7CYT%7CTK%7CNF%7CD%2B%7CX
