@@ -1016,3 +1016,7 @@ zix2raybot
 zohreh_vpn
 zoom_vpn
 zoro_vpn
+sil3nt_network
+ShadowFlux2
+npvfreeall
+v2rayMelliii
