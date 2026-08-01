@@ -1,5 +1,5 @@
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&amp;obfs=salamander&amp;obfs-password=l960g2kn19nphlra&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40IRan_V2ray1%20%7C%20VIP15
-hysteria2://5e1a0806-8be7-44e9-966d-517541307fbd@212.119.42.98:55000/?insecure=1&amp;obfs=salamander&amp;obfs-password=6fb01f11e04c0e33c9b62e64bfeb4c10&amp;sni=ok.ru#%F0%9F%87%B7%F0%9F%87%BA129828%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443/?sni=taga2.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7129827%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443/?sni=taga3.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7129826%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=t72hzzenktxmrvgu&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40filembad
+hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&amp;obfs=salamander&amp;obfs-password=w0tx1ju9iix6913p&amp;insecure=1&amp;sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+hysteria2://5e1a0806-8be7-44e9-966d-517541307fbd@212.119.42.98:55000/?insecure=1&amp;obfs=salamander&amp;obfs-password=6fb01f11e04c0e33c9b62e64bfeb4c10&amp;sni=ok.ru#%F0%9F%87%B7%F0%9F%87%BA129877%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443/?sni=taga2.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7129876%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443/?sni=taga3.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7129875%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&amp;obfs=salamander&amp;obfs-password=93lc6r07zfx4crct&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40filembad
