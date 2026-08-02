@@ -1,2 +1,1 @@
-hysteria2://0ansucp5k6aop125@185.47.172.226:32950?security=tls&amp;obfs=salamander&amp;obfs-password=dnwx30hvcobf7xcf&amp;insecure=0&amp;sni=185.47.172.226#%F0%9F%87%AE%F0%9F%87%B9130036%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&amp;obfs=salamander&amp;obfs-password=w0tx1ju9iix6913p&amp;insecure=1&amp;sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+hysteria2://0ansucp5k6aop125@185.47.172.226:32950?security=tls&amp;obfs=salamander&amp;obfs-password=dnwx30hvcobf7xcf&amp;insecure=0&amp;sni=185.47.172.226#%F0%9F%87%AE%F0%9F%87%B9130085%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
