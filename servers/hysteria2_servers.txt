@@ -1,9 +1,5 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.197.139:443/?insecure=1&amp;sni=vpn-fr-002.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443/?insecure=1&amp;sni=vpn-fr-002.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.52.234:443/?insecure=1&amp;sni=vpn-fr-002.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20297026
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.213.137:443/?insecure=1&amp;sni=vpn-fr-002.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1#hysteria2-200242608
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&amp;sni=127.0.0.1#%F0%9F%87%AB%F0%9F%87%B7FR_1195%7C459KB%2Fs%7CA004-260618%2001
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&amp;sni=vpn-fr-002.fastervpn.world#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.9MB/s
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.147.2:43115?sni=www.microsoft.com&amp;insecure=1&amp;allowInsecure=1#
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&amp;sni=vpn-de-001.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AA131282%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443?security=tls&amp;insecure=0&amp;sni=germany1.noesissite.ru#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&amp;obfs=salamander&amp;obfs-password=93lc6r07zfx4crct&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40FarazV2ray
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?security=tls&amp;insecure=1&amp;sni=vpn-fr-002.fastervpn.world#France%20%F0%9F%87%AB%F0%9F%87%B7
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&amp;obfs=salamander&amp;obfs-password=mtg2vchyir6la3et&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+hysteria2://jeLq05gFPe@91.107.178.22:443?security=tls&amp;obfs=salamander&amp;obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&amp;insecure=1&amp;pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&amp;sni=www.refersion.com#%E2%9A%A1%EF%B8%8F%20%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%20%E2%9A%A1%EF%B8%8F%20%7C%20%40prrofile_purple
