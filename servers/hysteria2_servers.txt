@@ -1,1 +1,1 @@
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=t72hzzenktxmrvgu&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40filembad
+hysteria2://0ansucp5k6aop125@185.47.172.226:32950?security=tls&amp;obfs=salamander&amp;obfs-password=dnwx30hvcobf7xcf&amp;insecure=0&amp;sni=185.47.172.226#%F0%9F%87%AE%F0%9F%87%B9130036%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
