@@ -1,3 +1,2 @@
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443/?sni=usa1.spectrumproxy.shop#%F0%9F%87%BA%F0%9F%87%B8131957%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://XhVX5cnBmJ@185.253.117.217:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=TelEgRam%3DV2RayyNGvpn&amp;sni=www.intel.com#%F0%9F%87%A7%F0%9F%87%AD131940%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://p0IbtS8wCZ@91.107.174.32:25810?security=tls&amp;obfs=salamander&amp;obfs-password=T-ME-V2RayyNGvpn&amp;insecure=1&amp;pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&amp;sni=www.amd.com#%40Selinc
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443/?sni=usa1.spectrumproxy.shop#%40filembad
+hysteria2://XhVX5cnBmJ@185.253.117.217:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=TelEgRam%3DV2RayyNGvpn&amp;sni=www.intel.com#%F0%9F%87%A7%F0%9F%87%AD131989%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
