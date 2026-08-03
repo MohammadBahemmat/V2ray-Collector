@@ -1,1 +1,2 @@
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&amp;insecure=1&amp;allowInsecure=1&amp;obfs=salamander&amp;obfs-password=w0tx1ju9iix6913p#%40Daily_Configs
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&amp;obfs=salamander&amp;obfs-password=93lc6r07zfx4crct&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40FarazV2ray
+hysteria2://jeLq05gFPe@91.107.178.22:443?security=tls&amp;obfs=salamander&amp;obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&amp;insecure=1&amp;pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&amp;sni=www.refersion.com#@meliproxyy
