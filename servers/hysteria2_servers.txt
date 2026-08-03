@@ -1,2 +1,1 @@
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443?security=tls&amp;insecure=0&amp;sni=germany1.noesissite.ru#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?security=tls&amp;insecure=1&amp;sni=vpn-fr-002.fastervpn.world#France%20%F0%9F%87%AB%F0%9F%87%B7
+hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&amp;insecure=1&amp;allowInsecure=1&amp;obfs=salamander&amp;obfs-password=w0tx1ju9iix6913p#%40Daily_Configs
