@@ -1,1 +1,2 @@
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?sni=nas.aizhzo.com&amp;insecure=1&amp;allowInsecure=1&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Hong%20Kong%20%7C%20%E2%8F%B11454ms%20%7C%20%E2%9A%A1463KB%2Fs%20%7C%20%40NamazVPN
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443?security=tls&amp;insecure=0&amp;sni=germany1.noesissite.ru#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?security=tls&amp;insecure=1&amp;sni=vpn-fr-002.fastervpn.world#France%20%F0%9F%87%AB%F0%9F%87%B7
