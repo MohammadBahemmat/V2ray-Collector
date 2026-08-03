@@ -1,2 +1,2 @@
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443/?sni=taga5.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7131445%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://2b0062f7b3a709c26248189c3f094725@82.152.161.144:40058?sni=www.amd.com&amp;insecure=1&amp;allowInsecure=1&amp;pinSHA256=dfd0a878271ece6b69b50d577bfabf94164ffca8d550bd3b15c6761e943538d6#%40zyzzzoao
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?sni=nas.aizhzo.com&amp;insecure=1&amp;allowInsecure=1&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Hong%20Kong%20%7C%20%E2%8F%B11454ms%20%7C%20%E2%9A%A1463KB%2Fs%20%7C%20%40NamazVPN
