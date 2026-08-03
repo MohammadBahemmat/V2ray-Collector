@@ -1,1 +1,3 @@
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443/?sni=taga5.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7131396%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443/?sni=taga5.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7131445%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://TelegramVPNjey@179.61.251.253:37003?insecure=0&amp;alpn=h3&amp;sni=de.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=83v9muumcyikh5ch#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Frankfurt%20am%20Main%20%7C%20%E2%8F%B1507ms%20%7C%20%E2%9A%A11.3MB%2Fs%20%7C%20%40NamazVPN
+hysteria2://TelegramVPNjey@179.61.251.253:37003?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=83v9muumcyikh5ch&amp;insecure=0&amp;sni=de.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Frankfurt%20am%20Main%20%7C%20%E2%8F%B1464ms%20%7C%20%E2%9A%A11.4MB%2Fs%20%7C%20%40NamazVPN
