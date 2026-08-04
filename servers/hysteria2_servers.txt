@@ -1,6 +1,1 @@
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443/?sni=swe-one.quiet-rogue.site#%40filembad
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&amp;sni=127.0.0.1#%F0%9F%87%AB%F0%9F%87%B7FR_1195%7C459KB%2Fs%7CA004-260618%2001
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?sni=off&amp;insecure=1#%F0%9F%87%AB%F0%9F%87%B7FR_909%7C221KB%2Fs%7CA004-260618
-hysteria2://jeLq05gFPe@91.107.178.22:443?security=tls&amp;obfs=salamander&amp;obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&amp;insecure=1&amp;pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&amp;sni=www.refersion.com#%40vmesskhodam
-hysteria2://p0IbtS8wCZ@91.107.174.32:25810?security=tls&amp;obfs=salamander&amp;obfs-password=T-ME-V2RayyNGvpn&amp;insecure=1&amp;pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&amp;sni=www.amd.com#%40Selinc
-hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443/#%40filembad
+hysteria2://pjyFpMEKFH@185.253.117.217:443?security=tls&amp;obfs=salamander&amp;obfs-password=TelEgRam%3DV2RayyNGvpn&amp;insecure=1&amp;pinSHA256=6e630338f6b8432a50db80988e00002c669ca0306c64d1856daa6e89a1bc6c3b&amp;sni=www.intel.com#%F0%9F%87%A7%F0%9F%87%AD%40V2RayyNGvpn%20%F0%9F%87%A7%F0%9F%87%AD
