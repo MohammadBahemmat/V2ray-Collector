@@ -1,2 +1,1 @@
-hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&amp;obfs=salamander&amp;obfs-password=l960g2kn19nphlra&amp;insecure=0&amp;sni=assets.gateway-stream.com#
-hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?security=tls&amp;obfs=salamander&amp;obfs-password=4b6gmo4jujpapx99&amp;insecure=0&amp;sni=vhd.nth.gelzaro.ir#
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&amp;obfs=salamander&amp;obfs-password=93lc6r07zfx4crct&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40FarazV2ray
