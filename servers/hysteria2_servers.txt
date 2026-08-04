@@ -1,6 +1,2 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.197.139:443/?insecure=1&amp;sni=vpn-fr-002.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.52.234:443/?insecure=1&amp;sni=vpn-fr-002.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20297026
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&amp;sni=127.0.0.1#%F0%9F%87%AB%F0%9F%87%B7FR_1195%7C459KB%2Fs%7CA004-260618%2001
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?sni=off&amp;insecure=1#%F0%9F%87%AB%F0%9F%87%B7FR_909%7C221KB%2Fs%7CA004-260618
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.147.2:43115?sni=www.microsoft.com&amp;insecure=1&amp;allowInsecure=1#
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&amp;sni=vpn-de-001.fastervpn.world#DE_2%7C1.2MB%2Fs
+hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&amp;obfs=salamander&amp;obfs-password=l960g2kn19nphlra&amp;insecure=0&amp;sni=assets.gateway-stream.com#
+hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?security=tls&amp;obfs=salamander&amp;obfs-password=4b6gmo4jujpapx99&amp;insecure=0&amp;sni=vhd.nth.gelzaro.ir#
