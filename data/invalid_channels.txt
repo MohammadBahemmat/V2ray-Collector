@@ -9,7 +9,6 @@ m_buy
 black_star_vpn
 flash_vpn
 themecherie
-b_vpn_free
 vaslshiiimm
 drovone
 generalconfing
