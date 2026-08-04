@@ -1,5 +1,1 @@
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@143.246.136.159:443/?sni=taga2.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7133389%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443/?sni=swe-one.quiet-rogue.site#%40filembad
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#%F0%9F%87%AB%F0%9F%87%AE133377%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://pjyFpMEKFH@185.253.117.217:443?security=tls&amp;obfs=salamander&amp;obfs-password=TelEgRam%3DV2RayyNGvpn&amp;insecure=1&amp;pinSHA256=6e630338f6b8432a50db80988e00002c669ca0306c64d1856daa6e89a1bc6c3b&amp;sni=www.intel.com#%F0%9F%87%A7%F0%9F%87%AD%40V2RayyNGvpn%20%F0%9F%87%A7%F0%9F%87%AD
-hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443/#%40filembad
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@143.246.136.159:443/?sni=taga2.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7133438%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
