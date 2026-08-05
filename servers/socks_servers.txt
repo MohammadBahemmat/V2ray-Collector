@@ -1,4 +1,1 @@
-socks://Og@109.95.61.203:1080#%40azdeltaghalam7
-socks://Og@2.184.51.130:10800#azdeltaghalam7%F0%93%84%82%F0%93%86%83
-socks://Og@5.61.25.227:1080#azdeltaghalam7%F0%93%84%82%F0%93%86%83
-socks://Og@89.165.40.24:1080#azdeltaghalam7%F0%93%84%82%F0%93%86%83
+socks://MTExOjExMQ@47.76.229.132:11310#%F0%9F%94%B0%20%40ConfigV2RayNG%20
