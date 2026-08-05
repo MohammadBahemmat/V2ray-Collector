@@ -1,5 +1,1 @@
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40FarazV2ray
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ee-tal.pvdata.host:1080#%40FarazV2ray
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@im-bal.pvdata.host:1080#%40FarazV2ray
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@no-osl.pvdata.host:1080#%40FarazV2ray
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@tr-ist.pvdata.host:1080#%40FarazV2ray
+socks://TV9ZT1VfRDpQcml2YXRl@pl1.cactussstp.com:1080#@Proxy_mtm%2013
