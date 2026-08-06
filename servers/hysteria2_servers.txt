@@ -1,14 +1,2 @@
-hysteria2://22j0d00lev7mq0yv@ipaste.4ippi.ru:1935/?obfs=salamander&amp;obfs-password=816ys5fceofhpwft&amp;sni=ipaste.4ippi.ru#%F0%9F%92%AB51@oneclickvpnkeys
-hysteria2://22j0d00lev7mq0yv@social.klipp.su:443/?obfs=salamander&amp;obfs-password=3sv5vpdl9xr84lyb&amp;sni=social.klipp.su#%F0%9F%92%AB22@oneclickvpnkeys
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443/?sni=it-one.quiet-rogue.site#%F0%9F%92%AB75@oneclickvpnkeys
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443/?sni=usa1.spectrumproxy.shop#5%F0%9F%92%AB@oneclickvpnkeys
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443/?sni=mercedes-grape.yyuyy.com#%F0%9F%92%AB6@oneclickvpnkeys
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.214:8443/?sni=mercedes-grape.yyuyy.com#%F0%9F%92%AB12@oneclickvpnkeys
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@flkf3.mangshe.xyz:2056/?insecure=1&amp;sni=flkf3.mangshe.xyz#%F0%9F%92%AB23@oneclickvpnkeys
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xby.mangshe.xyz:2056/?insecure=1&amp;sni=mg2.mangshe.xyz#%F0%9F%92%AB95@oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443/?insecure=1&amp;sni=https%3A%2F%2Ft.me%2Fclashv8%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%92%AB37@oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.52.234:443/?insecure=1&amp;sni=vpn-fr-002.fastervpn.world#%F0%9F%92%AB58@oneclickvpnkeys
-hysteria2://TelegramVPNjey@179.61.251.253:37003/?obfs=salamander&amp;obfs-password=83v9muumcyikh5ch&amp;sni=de.jey.cc.cd#%F0%9F%A4%9675@oneclickvpnkeys
-hysteria2://TelegramVPNjey@179.61.251.253:37003?security=tls&amp;obfs=salamander&amp;obfs-password=83v9muumcyikh5ch&amp;insecure=0&amp;sni=de.jey.cc.cd#%40FarazV2ray
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=0&amp;sni=hy2.aspidnet.xyz#%40FarazV2ray
-hysteria2://pjyFpMEKFH@185.253.117.217:443?security=tls&amp;obfs=salamander&amp;obfs-password=TelEgRam%3DV2RayyNGvpn&amp;insecure=1&amp;pinSHA256=6e630338f6b8432a50db80988e00002c669ca0306c64d1856daa6e89a1bc6c3b&amp;sni=www.intel.com#%40FarazV2ray
+hysteria2://TelegramVPNjey@179.61.251.253:37003?insecure=0&amp;sni=de.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=83v9muumcyikh5ch#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Frankfurt%20am%20Main%20%7C%20%E2%8F%B11476ms%20%7C%20%E2%9A%A1821KB%2Fs%20%7C%20%40NamazVPN
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=0&amp;sni=hy2.aspidnet.xyz#%40filembad
