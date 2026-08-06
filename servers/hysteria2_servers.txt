@@ -1,2 +1,1 @@
-hysteria2://TelegramVPNjey@179.61.251.253:37003?insecure=0&amp;sni=de.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=83v9muumcyikh5ch#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Frankfurt%20am%20Main%20%7C%20%E2%8F%B11476ms%20%7C%20%E2%9A%A1821KB%2Fs%20%7C%20%40NamazVPN
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=0&amp;sni=hy2.aspidnet.xyz#%40filembad
