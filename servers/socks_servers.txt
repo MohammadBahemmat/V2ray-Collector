@@ -1,1 +1,2 @@
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#3|@ConfingV2RaayNG
+socks://91.108.146.28:1080#@kamkarstore
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#join--&gt;Fast78_channel
