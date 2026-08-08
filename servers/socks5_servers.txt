@@ -1,5 +1,1 @@
-socks5://128.140.46.169:13482
-socks5://93.184.8.22:1080
-socks5://:@77.110.102.252:1080
-socks5://N9cyF6jvgy3ZEmCNKe04zBIR:1Telegram_MojiVPN@ee-tal.pvdata.host:1080
-socks5://N9cyF6jvgy3ZEmCNKe04zBIR:1Telegram_MojiVPN@im-bal.pvdata.host:1080
+socks5://92.255.251.206:21
