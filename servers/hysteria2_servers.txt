@@ -1,2 +1,2 @@
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111/?insecure=1&amp;sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7138291%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52056?security=tls&amp;obfs=salamander&amp;obfs-password=pha76a5o7ormjepb&amp;insecure=0&amp;sni=assets.gateway-stream.com#
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111/?insecure=1&amp;sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7138242%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52056?security=tls&amp;obfs=salamander&amp;obfs-password=pha76a5o7ormjepb&amp;insecure=0&amp;sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE138204%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
