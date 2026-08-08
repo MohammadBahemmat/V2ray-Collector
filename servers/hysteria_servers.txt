@@ -1,3 +1,6 @@
+hysteria://108.181.24.77:37872?upmbps=10&downmbps=50&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20US%20%C2%B7%20Psychz%20Networks%20%7C%20108.181.24.77
+hysteria://195.154.200.40:15010?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%20195.154.200.40
+hysteria://208.87.243.187:15823?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20US%20%C2%B7%20Psychz%20Networks%20%7C%20208.87.243.187%20%231
 hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Takehost%20Ou%20%7C%205.83.129.143
 hysteria://5.83.129.153:20088/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Takehost%20Ou%20%7C%205.83.129.153
 hysteria://5.83.129.90:54177/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Takehost%20Ou%20%7C%205.83.129.90
