@@ -1,2 +1,2 @@
-socks://Og@89.44.241.98:1080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B14051ms%20%7C%20%E2%9A%A1289KB%2Fs%20%7C%20%40NamazVPN
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#@meliproxyy
+socks://Og@81.12.57.38:10808#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+socks://Og@87.248.145.82:1080#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
