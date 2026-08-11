@@ -1,13 +1,2 @@
-socks://188.121.124.208:10808?type=tcp#
-socks://213.136.92.91:1080#@meliproxyy
-socks://5.57.32.204:10808?type=tcp#
-socks://62.60.210.173:1080?type=tcp#
-socks://Og@109.122.249.221:1080#%40FarazV2ray
-socks://Og@5.255.99.75:1080#Zed_NetNeli%201
-socks://Og@5.45.118.209:1080#Zed_NetMeli%202
-socks://Og@5.57.32.204:10808#%F0%9F%87%B9%F0%9F%87%B7%20%40ConfigV2RayNG%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
-socks://Og@81.12.57.38:10808#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-socks://Og@85.133.242.171:5443#
-socks://Og@87.248.145.82:1080#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-socks://TV9ZT1VfRDpQcml2YXRl@85.17.179.81:1080#%F0%9F%AA%A2ConfigV2RayNG%20
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%E2%9C%85%20%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9C%85
+socks://Og@89.44.241.98:1080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Falkenstein%20%7C%20%E2%8F%B14051ms%20%7C%20%E2%9A%A1289KB%2Fs%20%7C%20%40NamazVPN
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#@meliproxyy
