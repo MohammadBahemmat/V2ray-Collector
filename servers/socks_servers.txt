@@ -1,15 +1,1 @@
-socks://103.6.235.13:5555#%E8%B6%8A%E5%8D%97_Hanoi_BAOVECAS_Gemini_Claude
-socks://144.91.121.61:1088#144.91.121.61_Claude
-socks://149.62.186.244:1080#149.62.186.244_Claude
-socks://213.136.92.91:1080#%E6%B3%95%E5%9B%BD_Lauterbourg_Contabo%20GmbH_Claude1
-socks://69.55.49.177:38182#%E7%BE%8E%E5%9B%BD_North%20Bergen_DigitalOcean%2C%20LLC_Gemini_Claude1
-socks://:@144.24.111.128:1088#144.24.111.128_Claude
-socks://:@144.91.111.48:1088#144.91.111.48_Claude
-socks://:@212.58.132.5:1080#212.58.132.5_Claude1
-socks://M_YOU_D:Private@pl1.cactussstp.com:1080#%E5%85%B6%E4%BB%96%E5%9C%B0%E5%8C%BA_Warsaw_OVHcloud_Claude
-socks://N9cyF6jvgy3ZEmCNKe04zBIR:1Telegram_MojiVPN@ch-zur.pvdata.host:1080#80.239.178.98_Claude
-socks://N9cyF6jvgy3ZEmCNKe04zBIR:1Telegram_MojiVPN@im-bal.pvdata.host:1080#82.21.123.80_Claude
-socks://T2clM0QlM0Q6@121.169.46.116:1090#%E9%9F%A9%E5%9B%BD_Suwon_Korea%20Telecom_Gemini_Claude
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOg@ch-zur.pvdata.host:1080#%F0%9F%87%A8%F0%9F%87%AD141950%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://admin:admin@143.198.85.89:1080#%E6%96%B0%E5%8A%A0%E5%9D%A1_Singapore_DigitalOcean%2C%20LLC_Gemini_Claude6
-socks://test123:test123@185.145.99.41:1080#23.238.42.119_Claude
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOg@ch-zur.pvdata.host:1080#%F0%9F%87%A8%F0%9F%87%AD141999%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
