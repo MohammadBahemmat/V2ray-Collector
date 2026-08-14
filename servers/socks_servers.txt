@@ -1,1 +1,4 @@
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOg@ch-zur.pvdata.host:1080#@meliproxyy
+socks://Og@89.44.112.13:1100#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20MTMVPN%2018
+socks://TV9ZT1VfRDpQcml2YXRl@85.17.179.81:1080#Proxy_mtm%2026
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOg@ch-zur.pvdata.host:1080#MTMVPN%202
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20MTMVPN
