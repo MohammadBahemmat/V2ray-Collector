@@ -1,1 +1,2 @@
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#Telegram%3A%20%40Daily_Configs
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOg@ch-zur.pvdata.host:1080#@meliproxyy
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#@meliproxyy
