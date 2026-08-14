@@ -1,2 +1,1 @@
-socks://Og@85.133.242.171:5443#
-socks://Og@89.44.112.13:1100#%F0%9F%87%AE%F0%9F%87%B7142434%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOg@ch-zur.pvdata.host:1080#@meliproxyy
