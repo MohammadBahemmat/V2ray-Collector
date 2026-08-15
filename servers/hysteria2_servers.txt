@@ -1,2 +1,2 @@
-hysteria2://4e756809@92.4.68.18:12694?sni=www.bing.com&amp;insecure=1&amp;allowInsecure=1#%40zyzzzoao
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=0&amp;sni=hy2.aspidnet.xyz#%40filembad
+hysteria2://22j0d00lev7mq0yv@ipaste.4ippi.ru:1935?sni=ipaste.4ippi.ru&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=816ys5fceofhpwft#%40Daily_Configs
+hysteria2://22j0d00lev7mq0yv@social.klipp.su:443?sni=social.klipp.su&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=3sv5vpdl9xr84lyb#%40Daily_Configs
