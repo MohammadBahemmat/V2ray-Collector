@@ -1,1 +1,1 @@
-socks://111:111@47.76.229.132:11310#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Hong%20Kong%20%7C%20%E2%8F%B11628ms%20%7C%20%E2%9A%A192KB%2Fs%20%7C%20%40NamazVPN
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#Telegram%3A%20%40Daily_Configs
