@@ -1,2 +1,2 @@
-socks://Og@5.160.134.17:10808#%40V2ray_Alpha%F0%9F%A6%8C%209
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#@meliproxyy
+socks://111:111@47.76.229.132:11310#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Hong%20Kong%20%7C%20%E2%8F%B11628ms%20%7C%20%E2%9A%A192KB%2Fs%20%7C%20%40NamazVPN
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%F0%9F%87%A8%F0%9F%87%AD%40FreakConfig
