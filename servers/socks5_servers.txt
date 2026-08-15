@@ -1,3 +1,3 @@
-socks5://103.41.113.76:1080
-socks5://173.212.252.150:1080#%F0%9F%87%AB%F0%9F%87%B7143158%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-socks5://185.105.50.21:1085
+socks5://173.212.252.150:1080#%E2%9A%9B%EF%B8%8F76@oneclickvpnkeys
+socks5://93.184.4.254:1080
+socks5://M_YOU_D:Private@85.17.179.81:1080#%F0%9F%9B%8E%EF%B8%8F100@oneclickvpnkeys
