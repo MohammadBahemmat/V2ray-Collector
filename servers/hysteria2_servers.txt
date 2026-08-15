@@ -1,1 +1,1 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443/?insecure=1&amp;sni=vpn-us-003.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8143215%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52029?security=tls&amp;obfs=salamander&amp;obfs-password=v8h63irhnay97090&amp;insecure=0&amp;sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20Helsinki%20%7C%20%E2%8F%B1695ms%20%7C%20%E2%9A%A1438KB%2Fs%20%7C%20%40NamazVPN
