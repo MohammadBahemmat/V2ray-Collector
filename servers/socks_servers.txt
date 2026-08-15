@@ -1,1 +1,1 @@
-socks://Og@85.133.242.171:5443#
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#@v2ray_confing33
