@@ -1,1 +1,5 @@
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#@v2ray_confing33
+socks://#name
+socks://127.0.0.1:10001
+socks://157.90.113.23:9052#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%E2%8F%B17793ms%20%7C%20%E2%9A%A1880KB%2Fs%20%7C%20%40NamazVPN
+socks://159.195.49.27:1080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Nuremberg%20%7C%20%E2%8F%B1549ms%20%7C%20%E2%9A%A1714KB%2Fs%20%7C%20%40NamazVPN
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#@meliproxyy
