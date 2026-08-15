@@ -1,1 +1,2 @@
-socks5://M_YOU_D:Private@85.17.179.81:1080#%F0%9F%87%B3%F0%9F%87%B1142603%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+socks5://123:123@43.100.43.112:3060
+socks5://N9cyF6jvgy3ZEmCNKe04zBIR:1Telegram_MojiVPN@ch-zur.pvdata.host:1080
