@@ -1,1 +1,2 @@
-socks5://128.140.46.169:13482
+socks5://45.144.54.40:1080#%F0%9F%A6%8149@oneclickvpnkeys
+socks5://N9cyF6jvgy3ZEmCNKe04zBIR:1Telegram_MojiVPN@ch-zur.pvdata.host:1080#%F0%9F%8C%8059@oneclickvpnkeys
