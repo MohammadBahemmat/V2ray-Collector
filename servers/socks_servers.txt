@@ -1,2 +1,2 @@
-socks://Og@185.235.197.46:8443#%40V2RFA
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40V2RFA
+socks://Og@185.235.197.46:8443#%40V2rayng_Fast
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40V2rayng_Fast
