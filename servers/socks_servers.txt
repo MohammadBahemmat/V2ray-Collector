@@ -1,5 +1,1 @@
-socks://Og@2.144.24.147:1080#@
-socks://Og@5.202.53.190:1080#@
-socks://Og@78.39.235.149:1080#@
-socks://Og@89.42.138.163:1088#@
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40Daily_Configs
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#join--%3EFast78_channel
