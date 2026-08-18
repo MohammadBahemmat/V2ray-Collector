@@ -1,3 +1,8 @@
-socks://Og%3D%3D@89.42.138.163:1088#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20Stockholm%20%7C%20%E2%8F%B11130ms%20%7C%20%E2%9A%A1116KB%2Fs%20%7C%20%40NamazVPN
-socks://Og@5.201.174.236:1080#%F0%9F%87%A9%F0%9F%87%AA%40v2ray_configs_pools
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40vmesskhodam
+socks://Og@144.91.121.61:1088#%F0%9F%87%AB%F0%9F%87%B7%20France%20Lauterbourg%20%7C%20%E2%8F%B11420ms%20%7C%20%E2%9A%A1284KB%2Fs%20%7C%20%40NamazVPN
+socks://Og@2.144.24.147:1080#@
+socks://Og@2.180.22.81:1080#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+socks://Og@5.160.134.17:10808#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Almaty%20%7C%20%E2%8F%B11380ms%20%7C%20%E2%9A%A1622KB%2Fs%20%7C%20%40NamazVPN
+socks://Og@5.202.53.190:1080#@
+socks://Og@78.39.235.149:1080#@
+socks://Og@89.42.138.163:1088#@
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%F0%9F%87%A8%F0%9F%87%AD%40v2ray_configs_pools
