@@ -1,4 +1,2 @@
-socks://Og@185.252.31.104:1080#%40V2ray_Alpha%F0%9F%8F%97%EF%B8%8F%207
-socks://Og@2.180.22.81:1080#@v2ray_confing33
-socks://Og@5.201.174.236:1080#@v2ray_confing33
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#@meliproxyy
+socks://Og@185.235.197.46:8443#%40V2RFA
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40V2RFA
