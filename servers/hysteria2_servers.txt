@@ -1,3 +1,1 @@
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#Joinbede@ConfingV2RaayNG
-hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&amp;obfs=salamander&amp;obfs-password=d6pv15sghiq1onts&amp;insecure=0&amp;sni=assets.gateway-stream.com#Telegram@ConfingV2RaayNG
-hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52061?security=tls&amp;obfs=salamander&amp;obfs-password=fd3olglr2bmimgje&amp;insecure=0&amp;sni=assets.gateway-stream.com#Channel@ConfingV2RaayNG
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
