@@ -1,3 +1,6 @@
-socks://Og@185.235.197.46:8443#%40FarazV2ray
-socks://Og@185.252.31.104:1080#%40V2ray_Alpha%F0%9F%8F%97%EF%B8%8F%207
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40FarazV2ray
+socks://Og@185.235.197.46:8443#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+socks://Og@185.63.113.164:1085#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+socks://Og@2.180.22.81:1080#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+socks://Og@5.201.174.236:1080#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+socks://Og@91.213.151.4:1070#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F
