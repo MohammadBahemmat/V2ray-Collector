@@ -1,2 +1,2 @@
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?security=tls&amp;obfs=salamander&amp;obfs-password=AIbOe_791iQ4k6kPUgdsO7B9&amp;insecure=0&amp;sni=a26738d5774ad803.devmrzero.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#@v2ray_confing33
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&amp;obfs=salamander&amp;obfs-password=d6pv15sghiq1onts&amp;insecure=0&amp;sni=assets.gateway-stream.com#@v2ray_confing33
