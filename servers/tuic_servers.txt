@@ -1,1 +1,1 @@
-tuic://3ebac90b-6977-47c0-bef5-b2e37554432c:3ebac90b-6977-47c0-bef5-b2e37554432c@89.144.35.232:17306?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.microsoft.com&udp_relay_mode=native#%F0%9F%87%A9%F0%9F%87%AADE_5%7C1.6MB/s
+tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com:443?allow_insecure=1&congestion_control=bbr#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C3.7MB/s
