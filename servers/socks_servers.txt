@@ -1,6 +1,2 @@
-socks://Og@185.235.197.46:8443#%F0%9F%87%A9%F0%9F%87%AA%
-socks://Og@185.63.113.164:1085#%F0%9F%87%A9%F0%9F%87%AA%
-socks://Og@2.180.22.81:1080#%F0%9F%87%A9%F0%9F%87%AA%
-socks://Og@5.201.174.236:1080#%F0%9F%87%A9%F0%9F%87%AA%
-socks://Og@91.213.151.4:1070#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40Daily_Configs
+socks://Og@185.235.197.46:8443#%40FarazV2ray
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40FarazV2ray
