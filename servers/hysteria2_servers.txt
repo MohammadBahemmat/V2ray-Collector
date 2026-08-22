@@ -1,2 +1,1 @@
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;sni=fiproxy1.lockdwn.com&amp;obfs=salamander&amp;security=tls&amp;obfs-password=uw9b2qq5rx&amp;insecure=0#@GozargahAzad|
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&amp;obfs=salamander&amp;security=tls&amp;obfs-password=uw9b2qq5rx&amp;insecure=0#%40vpn_ete
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#ConfigV2RayNG%20

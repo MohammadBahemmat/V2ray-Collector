@@ -1,2 +1,2 @@
-socks://Og@2.180.22.81:1080#@v2ray_confing33
-socks://Og@5.201.174.236:1080#@v2ray_confing33
+socks://MTExOjExMQ@47.243.173.50:11211#%F0%9F%94%B0%20%40ConfigV2RayNG%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%F0%9F%8C%8059%40ConfigV2RayNG
