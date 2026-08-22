@@ -1,4 +1,4 @@
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#%40V2RFA
-hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?security=tls&amp;obfs=salamander&amp;obfs-password=hmvyfx1tpnz6pp3k&amp;insecure=0&amp;sni=lms22.gelzaro.ir#%D9%84%D8%B0%D8%AA%20%D8%A8%D8%A8%D8%B1%DB%8C%D8%AF%20%E2%99%A5%EF%B8%8F
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&amp;sni=202.146.222.29#%F0%9F%87%AD%F0%9F%87%B0149978%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443/?insecure=1&amp;sni=vpn-kr-003.fastervpn.world#%F0%9F%87%B0%F0%9F%87%B7149977%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#%40FarazV2ray
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&amp;sni=202.146.222.29#%F0%9F%87%AD%F0%9F%87%B0149929%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443/?insecure=1&amp;sni=vpn-kr-003.fastervpn.world#%F0%9F%87%B0%F0%9F%87%B7149928%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52023/?obfs=salamander&amp;obfs-password=detgimgm8qh8i2g2&amp;sni=assets.gateway-stream.com#Telegram%20:%20@siigmavpn
