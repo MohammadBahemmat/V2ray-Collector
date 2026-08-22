@@ -28,6 +28,7 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.105:8080?insecure=1
 hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?insecure=0&sni=a26738d5774ad803.devmrzero.ir&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig%20%231
 hysteria2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645?insecure=1&sni=vip-sg-1.hkd4fwmg.vip#SG
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.80:8443?sni=grape-power-pl.ddnsguru.com#%E8%8A%AC%E5%85%B0
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?insecure=1&security=tls&sni=fast.wwwinternetvideo.click#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 hysteria2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-usa2-hy2.gigatapbot.top:1443?insecure=1&sni=pg-usa2-hy2.gigatapbot.top#%E7%BE%8E%E5%9B%BD
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=127.0.0.1&obfs=&obfs-password=#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C4.1MB/s
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443?insecure=1&sni=vpn-us-003.fastervpn.world#%E7%BE%8E%E5%9B%BD%20%231
@@ -61,11 +62,8 @@ hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.104:8443?insecure=1
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.97:8443?insecure=1&sni=keyhop-offshore.roxa.org#%E5%BE%B7%E5%9B%BD%20%235
 hysteria2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443?insecure=1&sni=jp.cryptoofarm.com#%E6%97%A5%E6%9C%AC
 hysteria2://fe475179-d8a8-420d-a4ac-3e415ed8dc72@uswx4.wxgqlfx.vip:11683?insecure=1&sni=144.225.187.153#%E7%BE%8E%E5%9B%BD%20%233
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&security=tls&sni=www.docker.com#%E5%BE%B7%E5%9B%BD+%E7%BA%BD%E4%BC%A6%E5%A0%A1CONTABO%E6%9C%BA%E6%88%BF
 hysteria2://gf1@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%8D%A553%40oneclickvpnkeys
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.147.2:43115?insecure=1&security=tls&sni=www.microsoft.com#%E6%B3%95%E5%9B%BD+ONLINE+S.A.S.%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?sni=hopp-legend-se.roxa.org#%E8%8B%B1%E5%9B%BD
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8443?insecure=1&security=tls&sni=hopp-legend-se.roxa.org#%E6%8C%AA%E5%A8%81+V2CROSS.COM
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8080?insecure=1&sni=hopp-legend-se.roxa.org#%E8%8B%B1%E5%9B%BD%20%231
 hysteria2://hysteria2_fastlane_9r63hua9f@144.31.135.204:443?sni=nl2.h.fastlanehosting.ru#%E8%8D%B7%E5%85%B0%20%235
 hysteria2://l25nJa8z0D5pT6jl@16.79.28.237:26001?insecure=1&sni=id-ls-c-4.nebulacloud.win#%F0%9F%87%AE%F0%9F%87%A9ID_1%7C3.9MB/s
