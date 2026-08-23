@@ -1,1 +1,2 @@
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%F0%9F%8C%8059%40ConfigV2RayNG
+socks://Og@91.213.151.4:1070#%F0%9F%87%A9%F0%9F%87%AA%40v2ray_configs_pools
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40Daily_Configs

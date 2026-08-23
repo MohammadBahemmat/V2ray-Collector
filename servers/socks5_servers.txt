@@ -1,2 +1,1 @@
 socks5://45.144.54.40:1080
-socks5://N9cyF6jvgy3ZEmCNKe04zBIR:1Telegram_MojiVPN@im-bal.pvdata.host:1080
