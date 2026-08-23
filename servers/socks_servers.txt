@@ -1,2 +1,1 @@
-socks://Og@185.235.197.46:8443#%F0%9F%87%A9%F0%9F%87%AA%40
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40Daily_Configs
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40FarazV2ray
