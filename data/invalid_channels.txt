@@ -1,4 +1,4 @@
-Invalid Telegram Channels — 2026-08-23T00:01:26.769397+00:00
+Invalid Telegram Channels — 2026-08-23T00:23:47.765645+00:00
 
 zenith_vpn
 shopingv2ray
@@ -12,7 +12,6 @@ m_buy
 black_star_vpn
 aghayapple
 flash_vpn
-vpn_amneziya_hiddify
 themecherie
 b_vpn_free
 lldalall
