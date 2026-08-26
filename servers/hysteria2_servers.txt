@@ -1,14 +1,3 @@
-hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@177.3.212.155:443/?insecure=1&amp;sni=olp.crsmaps.com#%F0%9F%8D%9167@oneclickvpnkeys
-hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443/?insecure=1&amp;sni=replay.wwwinternetvideo.click#%F0%9F%8D%9149@oneclickvpnkeys
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%40FastNetTools%F0%9F%98%8D
-hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?insecure=1&amp;sni=gorbachev-th.kvnfreetest.uk#%F0%9F%A5%8E30@oneclickvpnkeys
-hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-switzerlandgopota.unlimited-access.ru:443/?sni=hy2-switzerlandgopota.unlimited-access.ru#%F0%9F%A5%8E80@oneclickvpnkeys
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.162:8443/?insecure=1&amp;sni=hopp-netherland-new.dynuddns.net#%F0%9F%8D%9176@oneclickvpnkeys
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443/?insecure=1&amp;sni=hopp-netherland-new.dynuddns.net#%F0%9F%A5%8E70@oneclickvpnkeys
-hysteria2://Telegram%40vpnjey@31.76.27.23:37009/?insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;sni=de.vpnjey.store#%F0%9F%A5%8E52@oneclickvpnkeys
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?sni=admin.wwwinternetvideo.click#%F0%9F%8D%9154@oneclickvpnkeys
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;sni=hy2.aspidnet.xyz#%F0%9F%8D%9152@oneclickvpnkeys
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.141:8080/?sni=grape-turbo-fr.roxa.org#%F0%9F%8D%9174@oneclickvpnkeys
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8443/?insecure=1&amp;sni=grape-turbo-fr.roxa.org#%F0%9F%8D%9177@oneclickvpnkeys
-hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443/?insecure=1&amp;sni=germany1.h2corp.local#%F0%9F%A5%8E62@oneclickvpnkeys
-hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@de.1.22.washing.help:443/?insecure=1&amp;sni=germany1.h2corp.local#%F0%9F%A5%8E66@oneclickvpnkeys
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#%40FarazV2ray
+hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-switzerlandgopota.unlimited-access.ru:443/?sni=hy2-switzerlandgopota.unlimited-access.ru#%F0%9F%87%A8%F0%9F%87%AD153119%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52032?alpn=h3&amp;fp=chrome&amp;obfs=salamander&amp;obfs-password=fuw2k1ddrouwxr3u&amp;security=tls&amp;sni=giftcard.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20Paris%20%7C%20%E2%8F%B1798ms%20%7C%20%E2%9A%A1871KB%2Fs%20%7C%20%40NamazVPN
