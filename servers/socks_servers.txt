@@ -1,8 +1,2 @@
-socks://37.187.57.177:49153#37.187.57.177_Claude
-socks://:@144.24.111.128:1088#144.24.111.128_Gemini_Claude
-socks://M_YOU_D:Private@pl1.cactussstp.com:1080#%E5%85%B6%E4%BB%96%E5%9C%B0%E5%8C%BA_Warsaw_OVH%20SAS_Claude
-socks://N9cyF6jvgy3ZEmCNKe04zBIR:1Telegram_MojiVPN@ch-zur.pvdata.host:1080#45.148.4.2_Claude
-socks://N9cyF6jvgy3ZEmCNKe04zBIR:1Telegram_MojiVPN@im-bal.pvdata.host:1080#%E5%85%B6%E4%BB%96%E5%9C%B0%E5%8C%BA_Ballasalla_Netcetera%20Ltd._Claude
-socks://Og%3D%3D@185.79.96.93:1070#%F0%9F%87%AE%F0%9F%87%B7153567%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://Og@185.235.197.46:8443#%F0%9F%87%AE%F0%9F%87%B7153689%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-socks://test123:test123@104.168.249.36:1080#%E7%BE%8E%E5%9B%BD_Seattle_HostPapa_Gemini_Claude
+socks://Og@92.42.207.16:7890#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
