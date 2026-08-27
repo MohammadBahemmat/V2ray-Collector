@@ -1,1 +1,1 @@
-socks://185.185.80.58:1088#%F0%9F%87%AB%F0%9F%87%B7%20France%20Lauterbourg%20%7C%20%E2%8F%B11690ms%20%7C%20%E2%9A%A1182KB%2Fs%20%7C%20%40NamazVPN
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%F0%9F%8C%8059%40ConfigV2RayNG
