@@ -1,4 +1,1 @@
-socks://Og@5.255.99.75:1080#Zed_NetNeli%201
-socks://Og@5.45.118.209:1080#Zed_NetMeli%202
-socks://Og@92.42.207.16:7890#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
+socks://Og@185.235.197.46:8443#%F0%9F%87%AE%F0%9F%87%B7153640%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
