@@ -1,5 +1,5 @@
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&amp;sni=www.microsoft.com#
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?allowInsecure=1&amp;fp=chrome&amp;sni=www.microsoft.com#[30549]
-trojan://humanity@104.16.71.213:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#
-trojan://humanity@am12.levikogjgfdd.ir:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%A6%20direct|||14050606|tunder_vpn|V2rayCh
-trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?allowInsecure=1#[30546]
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?allowInsecure=1&amp;fp=chrome&amp;sni=www.microsoft.com#[30552]
+trojan://BxceQaOe@119.246.1.143:443?security=tls&amp;sni=t.me/ripaojiedian#
+trojan://ZcV1AKzS1KPuLXOvW3RXr%2BHFldso5hZoaMpZ%2FqbeEW4%3D@130.185.122.106:2053?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0#[30562]
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#
+trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?allowInsecure=1#[30547]
