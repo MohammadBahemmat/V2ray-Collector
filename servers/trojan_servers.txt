@@ -1,6 +1,2 @@
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&amp;sni=www.microsoft.com#
-trojan://257d8622-6701-4c98-a432-67a9696f58ae@shazira.app:443?path=/Novan-ID9&amp;security=tls&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=shazira.app#
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?allowInsecure=1&amp;sni=moltbot.doctoroyy.net#
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&amp;sni=space.byu.id.yxls.eu.cc&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=space.byu.id.yxls.eu.cc&amp;path=%2Fin-pdr#
-trojan://humanity@104.16.71.213:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#
-trojan://humanity@am12.levikogjgfdd.ir:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%A6%20direct|||14050606|tunder_vpn|V2rayCh
+trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?security=reality&amp;pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&amp;headerType=none&amp;type=tcp&amp;sni=cloud.mail.ru&amp;sid=8c3785d47c2017ec#[30579]
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=russiapower.accesscam.org#
