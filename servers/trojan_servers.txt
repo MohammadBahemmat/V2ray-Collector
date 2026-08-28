@@ -1,4 +1,1 @@
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?security=tls&amp;sni=www.microsoft.com#
-trojan://humanity@104.17.121.71:443?security=tls&amp;type=ws&amp;sni=www.calmlunch.com&amp;path=/assignment&amp;host=www.calmlunch.com#|14050607|farahvpn|V2rayCh
-trojan://humanity@185.220.100.168:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#|14050607|farahvpn|V2rayCh
-trojan://humanity@185.255.179.166:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#|14050607|farahvpn|V2rayCh
+trojan://humanity@185.255.179.166:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#|14050607…
