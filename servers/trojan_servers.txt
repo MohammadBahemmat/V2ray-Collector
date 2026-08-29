@@ -1,13 +1,2 @@
-trojan://0hbl*0RB4T%2CLSk%3BJK@104.21.72.201:2096?path=%2Ftr%2Fd2y5re8Z9iqkUtWNtSR%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=14sw2krbeo0wv7gz32h3bnj.halabia061.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=14SW2KRBEO0wv7GZ32H3BnJ.HalABiA061.workeRs.DEv#
-trojan://BxceQaOe@119.246.1.143:443?security=tls&amp;sni=t.me/ripaojiedian#
-trojan://humanity@104.18.152.219:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#canfingV2rayNG-38
-trojan://humanity@104.18.152.246:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#canfingV2rayNG-39
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&amp;sni=russiapower.accesscam.org#
-trojan://opentunnel.net-andonezi30day@38.9.140.91:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=uplod.ir#%40v2rayconfigamir%209718
-trojan://opentunnel.net-engliah30day1@38.48.123.89:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=uplod.ir#%40v2rayconfigamir%204517
-trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=uplod.ir#%40v2rayconfigamir%208280
-trojan://opentunnel.net-hongkong30day3@185.48.251.29:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=uplod.ir#%40v2rayconfigamir%207169
-trojan://opentunnel.net-usa30day@15.204.9.172:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=uplod.ir#%40v2rayconfigamir%202631
-trojan://p%3DXuu4jK_lJ9rOKw5%2B7BsW798DZ-01cv4S@37.235.49.118:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#%40v2rayconfigamir%201176
-trojan://p%3DXuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443/?type=tcp&amp;security=tls&amp;sni=37.235.49.118#%40v2rayconfigamir%206408
-trojan://vpn@45.82.14.144:2025?sni=dns.google.com&amp;type=ws#
+trojan://0hbl*0RB4T%2CLSk%3BJK@104.21.72.201:2096?path=%2Ftr%2Fd2y5re8Z9iqkUtWNtSR%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=14sw2krbeo0wv7gz32h3bnj.halabia061.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=14SW2KRBEO0wv7GZ32H3BnJ.HalABiA061.workeRs.DEv#[31488]
+trojan://73796e63-0000-4000-8000-000000000000@vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev:2052?path=%2FeyJqdW5rIjoiYjNXNmtMdjh1ME8iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4Ijo2fQ%3D%3D&amp;security=none&amp;host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#Delam
