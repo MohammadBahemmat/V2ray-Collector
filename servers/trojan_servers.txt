@@ -1,8 +1,15 @@
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:43022?allowInsecure=1&fp=chrome&sni=www.microsoft.com#EPODONIOS
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:38261?allowInsecure=1&amp;fp=chrome&amp;sni=www.microsoft.com#4%F0%9F%AA%9E@oneclickvpnkeys
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:46292?allowInsecure=1&amp;fp=chrome&amp;sni=www.microsoft.com#2%F0%9F%93%8D@oneclickvpnkeys
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowInsecure=1&amp;fp=chrome&amp;sni=us01.duotg.top#2%F0%9F%AA%9E@oneclickvpnkeys
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:59385?allowInsecure=1&amp;fp=chrome&amp;sni=us01.duotg.top#%F0%9F%AA%9E97@oneclickvpnkeys
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?allowInsecure=1&amp;fp=chrome&amp;sni=www.microsoft.com#4%F0%9F%93%8D@oneclickvpnkeys
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:38261?allowInsecure=1&amp;fp=chrome#1%F0%9F%93%8D@oneclickvpnkeys
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:43022?allowInsecure=1&amp;fp=chrome&amp;sni=www.microsoft.com#1%F0%9F%AA%9E@oneclickvpnkeys
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?security=tls&amp;sni=www.microsoft.com#
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?allowInsecure=1&amp;fp=chrome&amp;sni=www.microsoft.com#5%F0%9F%93%8D@oneclickvpnkeys
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?allowInsecure=1&amp;fp=chrome&amp;sni=www.microsoft.com#3%F0%9F%93%8D@oneclickvpnkeys
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&amp;sni=moltbot.doctoroyy.net#
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&amp;security=reality&amp;pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&amp;fp=chrome&amp;sni=cloud.mail.ru&amp;sid=8c3785d47c2017ec&amp;spx=/#
-trojan://fef70590-17a9-4ddc-a38c-2b7467c083b5@clsk2.rvvs.im:16825?security=tls&sni=clsk2.rvvs.im#%F0%9F%87%BA%F0%9F%87%B8US-37.123.193.37-0437
 trojan://humanity@104.17.121.71:443?security=tls&amp;type=ws&amp;sni=www.calmlunch.com&amp;path=/assignment&amp;host=www.calmlunch.com#
 trojan://humanity@104.19.229.21:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#
 trojan://humanity@165.215.250.14:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.calmlunch.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmlunch.com#
@@ -11,5 +18,5 @@ trojan://humanity@185.255.179.166:443?path=%2Fassignment&amp;security=tls&amp;in
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&amp;path=%2Fassignment&amp;security=tls&amp;sni=www.calmlunch.com&amp;type=ws#
 trojan://humanity@45.87.41.18:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#
 trojan://humanity@www.calmlunch.com:443?security=tls&amp;type=ws&amp;sni=www.calmlunch.com&amp;path=/assignment&amp;host=www.calmlunch.com#
-trojan://r49gssuondznyu2eex83@14.1.28.76:50740?allowInsecure=1#EPODONIOS
-trojan://vpn@45.82.14.144:2025?sni=dns.google.com&type=ws#EPODONIOS
+trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?allowInsecure=1#%F0%9F%93%8D91@oneclickvpnkeys
+trojan://r49gssuondznyu2eex83@14.1.28.76:50740?allowInsecure=1#%F0%9F%AA%9E99@oneclickvpnkeys
