@@ -1,1 +1,1 @@
-hysteria2://2c9fcb3869ba49132c3f93c1416af6c1@193.124.91.226:443/?alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=firefox&amp;insecure=1&amp;pinSHA256=8757a92d1931afc0787f3ed5b1d65da7961f5957666358c751b6335afab88dc2&amp;security=tls&amp;sni=api.yandex.ru
+hysteria2://76ivwa51ce2gauym@giftcard.gateway-stream.com:52004?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=fuw2k1ddrouwxr3u&amp;insecure=0&amp;sni=giftcard.gateway-stream.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Brisbane%20%7C%20%E2%8F%B12125ms%20%7C%20%E2%9A%A1179KB%2Fs%20%7C%20%40NamazVPN
