@@ -1,10 +1,2 @@
-hysteria2://2c9fcb3869ba49132c3f93c1416af6c1@193.124.91.226:443/?alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=firefox&amp;insecure=1&amp;pinSHA256=8757a92d1931afc0787f3ed5b1d65da7961f5957666358c751b6335afab88dc2&amp;security=tls&amp;sni=api.yandex.ru
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#%F0%9F%87%AB%F0%9F%87%AE156203%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.118:8443/?insecure=1&amp;sni=hopp-germany-new.ddnsguru.com#%F0%9F%87%A9%F0%9F%87%AA156311%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://EkF2Yw0Lc7@72.56.16.243:443/?insecure=1&amp;sni=hys34.wba-pn.ru#%F0%9F%87%B3%F0%9F%87%B1156317%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.38.82.167:443?insecure=1&amp;sni=vpn-fr-001.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20154973
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443?insecure=1&amp;sni=vpn-fr-002.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.162.6:443?insecure=1&amp;sni=vpn-fr-001.fastervpn.world#
-hysteria2://jbmuokj7p4kg4h4s@giftcard.gateway-stream.com:52021?security=tls&amp;obfs=salamander&amp;obfs-password=fuw2k1ddrouwxr3u&amp;insecure=0&amp;sni=giftcard.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE156202%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.84.16:443?insecure=1&amp;sni=vpn-de-001.fastervpn.world#
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.1.222:443?sni=whatsapp.com&amp;insecure=1#hysteria2-918221030
+hysteria2://jbmuokj7p4kg4h4s@giftcard.gateway-stream.com:52029?security=tls&amp;fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22fuw2k1ddrouwxr3u%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&amp;sni=giftcard.gateway-stream.com&amp;allowinsecure=0#@
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%40filembad
