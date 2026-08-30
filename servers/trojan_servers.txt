@@ -1,8 +1,4 @@
-trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=%2F51.91.253.83&amp;security=tls&amp;insecure=0&amp;host=gzjx.dpdns.org&amp;type=ws&amp;allowInsecure=0&amp;sni=gzjx.dpdns.org#canfingV2rayNG-15
-trojan://50414e45-4c5f-5a45-5553-8516b0dd5664@y5zihgecul4s.x1z361egusys.workers.dev:443?security=tls&amp;path=%2Fstream%2FPANEL_ZEUS%2F8516b0dd5664&amp;type=ws&amp;allowInsecure=0&amp;host=y5zihgecul4s.x1z361egusys.workers.dev&amp;sni=y5zihgecul4s.x1z361egusys.workers.dev&amp;insecure=0#%F0%9F%87%A8%F0%9F%87%A6156439%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=hk.catxstar.com#%F0%9F%87%AD%F0%9F%87%B0%20V2RayyNGvpn%20
-trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&amp;path=%2F%3Fed&amp;sni=epge.muarua.filegear-sg.me&amp;type=ws#%F0%9F%87%BA%F0%9F%87%B8156404%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://e4448f0b1a074503b75b88c313a50285@star.starnick2031.ir:12673?type=tcp&amp;security=none#%F0%9F%87%BA%F0%9F%87%B8156321%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://e4448f0b1a074503b75b88c313a50285@star.starnicksolo.ir:50831?type=tcp&amp;security=reality&amp;fp=firefox&amp;sni=www.samsung.com&amp;pbk=lKJYZgHT_PzARH1E0ZnAjp16e_Ps38_SGix_SxtUBkU&amp;sid=3263a2&amp;spx=/759e8a7b0260385#%F0%9F%87%A9%F0%9F%87%AA156319%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://humanity@gr3.levikogjgfdd.ir:443?security=tls&amp;fp=chrome&amp;sni=www.calmlunch.com&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;path=%2Fassignment#2%20%F0%9F%87%A9%F0%9F%87%AA%20%40V2RAYNG_IP
-trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?allowInsecure=1&amp;security=tls&amp;sni=borat-hopp.bumbleshrimp.com&amp;type=tcp#%F0%9F%87%B0%F0%9F%87%BF156413%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&amp;security=reality&amp;pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&amp;fp=chrome&amp;sni=cloud.mail.ru&amp;sid=8c3785d47c2017ec&amp;spx=/#
+trojan://MITIVPN@104.18.42.68:443?security=tls&amp;sni=Ussa1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#https://t.me/ShadowsocksM134
+trojan://MITIVPN@151.101.243.172:80#https://t.me/ShadowsocksM135
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&amp;sni=64.94.95.118#
