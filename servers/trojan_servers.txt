@@ -1,4 +1,4 @@
-trojan://humanity@104.19.229.21:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#
-trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;type=ws&amp;security=tls&amp;path=%2Fassignment&amp;host=www.calmlunch.com&amp;sni=www.calmlunch.com&amp;fp=chrome&amp;insecure=1&amp;allowInsecure=1#
-trojan://yI2v2AKkv5@65.109.216.227:18399?mode=auto&path=/&security=reality&pbk=GKuKpF3GTyegvn88lDErT42FVu7MbnV_8uZSW-q7mSo&fp=chrome&spx=/&type=xhttp&sni=play.google.com&sid=9af429c9fa59d7#@filembad
-trojan://yI2v2AKkv5@65.109.216.227:18399?security=reality&sni=play.google.com&fp=chrome&pbk=GKuKpF3GTyegvn88lDErT42FVu7MbnV_8uZSW-q7mSo&sid=9af429c9fa59d7&type=xhttp&path=/&mode=auto&encryption=none#[32181]
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@mn7.levikogjgfdd.ir:20065?security=tls&amp;host=Telegram-Leviko_v2ray&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.microsoft.com#[32322]
+trojan://50414e45-4c5f-5a45-5553-447b1f65f334@www.heydarifard.id.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F447b1f65f334%2Floc-0&amp;security=tls&amp;insecure=0&amp;host=wlzb0leyumns.ly66c55c-vgzhjx.workers.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=wlzb0leyumns.ly66c55c-vgzhjx.workers.dev#[32332]
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&amp;sni=borat-hopp.bumbleshrimp.com#
+trojan://vpn@45.82.14.144:2025?sni=dns.google.com&amp;type=ws#
