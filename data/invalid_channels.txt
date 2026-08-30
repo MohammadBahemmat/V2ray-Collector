@@ -1,6 +1,7 @@
-Invalid Telegram Channels — 2026-08-29T23:55:22.750659+00:00
+Invalid Telegram Channels — 2026-08-30T00:11:35.474384+00:00
 
 zenith_vpn
+ir_netlify
 shopingv2ray
 canfing1free
 begzarproxy
