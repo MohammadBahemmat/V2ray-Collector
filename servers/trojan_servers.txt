@@ -1,1 +1,6 @@
-trojan://8MAmkCERLW@65.109.216.227:10521?mode=auto&amp;path=%2F&amp;security=reality&amp;pbk=gWmipUukIBjYhsK28eEtRXAcUZUG2B_ADhY9ILPa4EY&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=play.google.com&amp;sid=0e0588#%40filembad
+trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&amp;security=reality&amp;pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&amp;fp=chrome&amp;sni=cloud.mail.ru&amp;sid=8c3785d47c2017ec&amp;spx=/#
+trojan://8MAmkCERLW@65.109.216.227:10521?mode=auto&amp;path=%2F&amp;security=reality&amp;pbk=gWmipUukIBjYhsK28eEtRXAcUZUG2B_ADhY9ILPa4EY&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=play.google.com&amp;sid=0e0588#[33134]
+trojan://MiTiVPN@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=8383833-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=3865895-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#ProxyMtpVPN-18
+trojan://e000f0d4-4f0e-4722-926f-f551d3e377c7@514b5fc3-833e-430c-ba80-5370cde9c40e.bnsepserv.com:32028?security=tls&amp;insecure=1&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%40zyzzzoao%20
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&amp;sni=64.94.95.118#
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&amp;sni=borat-hopp.bumbleshrimp.com#
