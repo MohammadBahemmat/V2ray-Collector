@@ -1,4 +1,11 @@
-trojan://BxceQaOe@119.246.1.143:443?security=tls&amp;sni=t.me/ripaojiedian#
-trojan://Mitivpn@151.101.110.219:443?path=%2Fde&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=3-mitivpn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=global.fastly.com#canfingV2rayNG-29
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&amp;sni=russiapower.accesscam.org#
-trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&amp;sni=borat-hopp.bumbleshrimp.com#
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&amp;sni=space.byu.id.yxls.eu.cc&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=space.byu.id.yxls.eu.cc&amp;path=%2Fus-gllc@ThePackageCom#%40Simchin_iR
+trojan://8JHppSLSIBA0PK%2CNx@104.21.41.49:2083?path=%2Ftr%2FfsvjN2wOC2fuDFrdawJtWADScC%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=8tsmm6nspocz3ha9.khr2dz0ola61ydpze6zvu7jhcd4.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=8tsmm6NspoCZ3HA9.KHr2DZ0OLa61yDPZE6ZVU7Jhcd4.WORKErS.dEV#%F0%9F%87%A8%F0%9F%87%A6156959%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+trojan://8MAmkCERLW@65.109.216.227:10521?mode=auto&amp;path=%2F&amp;security=reality&amp;pbk=gWmipUukIBjYhsK28eEtRXAcUZUG2B_ADhY9ILPa4EY&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=play.google.com&amp;sid=0e0588#filembad-23
+trojan://AE62539071@frank-frog.rooster465.autos:443?fp=chrome&amp;security=tls&amp;sni=frank-frog.rooster465.autos&amp;type=tcp#%40v2rayconfigamir%202038
+trojan://FC60532879@welcome-labrador.rooster465.autos:443?security=tls&amp;sni=welcome-labrador.rooster465.autos#%40v2rayconfigamir%201550
+trojan://FH72359861@communal-troll.rooster465.autos:443?security=tls&amp;sni=communal-troll.rooster465.autos#%40v2rayconfigamir%204439
+trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&amp;sni=eternal-frog.rooster465.autos#%40v2rayconfigamir%209117
+trojan://PD07395842@true-pony.rooster465.autos:443?sni=true-pony.rooster465.autos&amp;peer=true-pony.rooster465.autos&amp;security=tls#%40v2rayconfigamir%207960
+trojan://RHCyMRXeOBf41ia7WrpJc00EBWZEoJNK@awex1.awexio.ir:2082?security=reality&amp;pbk=YcE0ofDAVLs0QhEk3Yj5vy2hAqLB67tUVKSGe53prjA&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;sni=amp-api-edge.apps.apple.com&amp;sid=52b8b53f2b340356#%40v2rayconfigamir%205246
+trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=concise-buck.rooster465.autos#%40v2rayconfigamir%207721
+trojan://zFJ25p2ZlJ@65.109.216.227:47808?mode=auto&amp;path=%2F%40Cooonfig&amp;security=reality&amp;pbk=PwaU9fF90H43zbu5q5CCLU7H6ME44CQwRzZox76UeHU&amp;fp=chrome&amp;spx=%2F%40Cooonfig&amp;type=xhttp&amp;sni=play.google.com&amp;sid=e7f9#[33235]
