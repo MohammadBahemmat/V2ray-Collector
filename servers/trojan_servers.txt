@@ -1,5 +1,10 @@
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?security=tls&amp;sni=www.microsoft.com#
-trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&amp;security=reality&amp;pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&amp;fp=chrome&amp;sni=cloud.mail.ru&amp;sid=8c3785d47c2017ec&amp;spx=/#
-trojan://8MAmkCERLW@65.109.216.227:10521?mode=auto&amp;path=%2F&amp;security=reality&amp;pbk=gWmipUukIBjYhsK28eEtRXAcUZUG2B_ADhY9ILPa4EY&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=play.google.com&amp;sid=0e0588#%40filembad
-trojan://MiTiVPN@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=8383833-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=3865895-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#ProxyMtpVPN-18
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&amp;sni=64.94.95.118#
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&amp;sni=moltbot.doctoroyy.net#
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&amp;sni=space.byu.id.yxls.eu.cc&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=space.byu.id.yxls.eu.cc&amp;path=%2Fus-gllc@ThePackageCom#%40Simchin_iR
+trojan://AE62539071@frank-frog.rooster465.autos:443?fp=chrome&amp;security=tls&amp;sni=frank-frog.rooster465.autos&amp;type=tcp#%40v2rayconfigamir%202038
+trojan://FC60532879@welcome-labrador.rooster465.autos:443?security=tls&amp;sni=welcome-labrador.rooster465.autos#%40v2rayconfigamir%201550
+trojan://FH72359861@communal-troll.rooster465.autos:443?security=tls&amp;sni=communal-troll.rooster465.autos#%40v2rayconfigamir%204439
+trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&amp;sni=eternal-frog.rooster465.autos#%40v2rayconfigamir%209117
+trojan://PD07395842@true-pony.rooster465.autos:443?sni=true-pony.rooster465.autos&amp;peer=true-pony.rooster465.autos&amp;security=tls#%40v2rayconfigamir%207960
+trojan://RHCyMRXeOBf41ia7WrpJc00EBWZEoJNK@awex1.awexio.ir:2082?security=reality&amp;pbk=YcE0ofDAVLs0QhEk3Yj5vy2hAqLB67tUVKSGe53prjA&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;sni=amp-api-edge.apps.apple.com&amp;sid=52b8b53f2b340356#%40v2rayconfigamir%205246
+trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=concise-buck.rooster465.autos#%40v2rayconfigamir%207721
+trojan://humanity@188.114.98.0:443?security=tls&amp;sni=www.calmlunch.com&amp;allowinsecure=0&amp;type=ws&amp;host=www.calmlunch.com&amp;path=%2Fassignment#
