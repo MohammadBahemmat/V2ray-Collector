@@ -1,3 +1,2 @@
-trojan://Mitivpn@151.101.110.219:443?path=%2Fde&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=3-mitivpn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=global.fastly.com#canfingV2rayNG-29
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&amp;sni=russiapower.accesscam.org#
-trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&amp;sni=borat-hopp.bumbleshrimp.com#
+trojan://8MAmkCERLW@65.109.216.227:10521?mode=auto&amp;path=%2F&amp;security=reality&amp;pbk=gWmipUukIBjYhsK28eEtRXAcUZUG2B_ADhY9ILPa4EY&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=play.google.com&amp;sid=0e0588#filembad-23
+trojan://zFJ25p2ZlJ@65.109.216.227:47808?mode=auto&amp;path=%2F%40Cooonfig&amp;security=reality&amp;pbk=PwaU9fF90H43zbu5q5CCLU7H6ME44CQwRzZox76UeHU&amp;fp=chrome&amp;spx=%2F%40Cooonfig&amp;type=xhttp&amp;sni=play.google.com&amp;sid=e7f9#[33235]
