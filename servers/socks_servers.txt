@@ -1,9 +1,1 @@
-socks://Og.110.121.34:10808#%F0%9F%8C%8D157243%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-socks://Og@144.91.121.61:1088#%F0%9F%87%AB%F0%9F%87%B7157297%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://Og@193.111.235.63:8081#%40FREELAND8
-socks://Og@195.234.80.140:8081#@meliproxyy
-socks://Og@62.60.146.250:3001#@meliproxyy
-socks://Og@78.110.121.34:10808#@meliproxyy
-socks://Og@80.191.243.212:1080#@meliproxyy
-socks://Og@87.236.38.11:1081#@meliproxyy
-socks://Og@89.42.138.172:1101#@meliproxyy
+socks://Og@144.91.121.61:1088#%F0%9F%87%AB%F0%9F%87%B7157346%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
