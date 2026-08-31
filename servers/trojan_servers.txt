@@ -1,2 +1,2 @@
-trojan://8MAmkCERLW@65.109.216.227:10521?mode=auto&amp;path=%2F&amp;security=reality&amp;pbk=gWmipUukIBjYhsK28eEtRXAcUZUG2B_ADhY9ILPa4EY&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=play.google.com&amp;sid=0e0588#%40filembad
-trojan://8MAmkCERLW@65.109.216.227:10521?mode=auto&path=/&security=reality&pbk=gWmipUukIBjYhsK28eEtRXAcUZUG2B_ADhY9ILPa4EY&fp=chrome&spx=/&type=xhttp&sni=play.google.com&sid=0e0588#@VEGAAS_VPN🇫🇮
+trojan://Mitivpn@151.101.110.219:443?path=%2Fde&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=3-mitivpn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=global.fastly.com#canfingV2rayNG-29
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&amp;sni=russiapower.accesscam.org#
