@@ -1,9 +1,3 @@
-socks://Og.110.121.34:10808#%F0%9F%8C%8D157194%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-socks://Og@195.234.80.140:8081#@meliproxyy
-socks://Og@62.60.146.250:3001#@meliproxyy
-socks://Og@78.110.121.34:10808#@meliproxyy
-socks://Og@80.191.243.212:1080#@meliproxyy
-socks://Og@87.236.38.11:1081#@meliproxyy
-socks://Og@89.42.138.172:1101#@meliproxyy
-socks://Og@92.42.207.16:7890#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
-socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
+socks://Og.110.121.34:10808#%F0%9F%8C%8D157243%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+socks://Og@185.79.96.93:1070#https%3A%2F%2Ft.me%2Fmtmvpn
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#MTMVPN%E2%99%A3%EF%B8%8F
