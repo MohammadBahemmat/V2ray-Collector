@@ -1,6 +1,1 @@
-trojan://14ad1f44v9vz5tc1@sakura.proxy.rlwy.net:53530?security=none&headerType=none&type=tcp#EPODONIOS
-trojan://47SXGr72f1wpGNkZzLUUExRDHuVQypaW@90.156.218.126:2223?type=tcp&security=tls&fp=android&sni=vkc7.secured-by-tenzo.sbs&alpn=h2,http/1.1#RU
-trojan://TNTo3rwa1WFSlr50tkUUiucgF8JUWsksw6xrlw+h4xc=@91.107.242.197:33522?security=none&type=tcp#DE
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&amp;sni=64.94.95.118#
-trojan://yDDof5FN4t@65.109.217.127:19874?mode=auto&path=/@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1&security=reality&pbk=3JK6GXCugUxU-KKZJdWU6yVEzD792MDqU0i1da9zzF8&fp=chrome&spx=/&type=xhttp&sni=amp-api-edge.apps.apple.com&sid=7e22#EPODONIOS
-trojan://yDDof5FN4t@65.109.217.127:19874?mode=auto&path=/@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN&security=reality&pbk=3JK6GXCugUxU-KKZJdWU6yVEzD792MDqU0i1da9zzF8&fp=chrome&spx=/&type=xhttp&sni=amp-api-edge.apps.apple.com&sid=7e22#@VEGAAS_VPN🇫🇮
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&amp;sni=russiapower.accesscam.org#
