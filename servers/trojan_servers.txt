@@ -1,4 +1,2 @@
-trojan://50414e45-4c5f-5a45-5553-18758aad47e1@172.67.147.237:80?path=%2Fstream%2FPANEL_ZEUS%2F18758aad47e1&amp;security=none&amp;fragment=200-3000%2C1-2%2Ctlshello&amp;host=nwz42weeut9s.e7zixieluycs.workers.dev&amp;fp=unsafe&amp;type=ws&amp;sni=nwz42weeut9s.e7zixieluycs.workers.dev#filembad-20
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&amp;sni=moltbot.doctoroyy.net#
-trojan://73796e63-0000-4000-8000-000000000000@vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev:2052?path=%2FeyJqdW5rIjoiYjNXNmtMdjh1ME8iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4Ijo2fQ%3D%3D&amp;security=none&amp;host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;host=www.volumeroot.com&amp;fp=chrome&amp;type=ws&amp;sni=www.volumeroot.com#[|||14050610|configshub|V2rayCh
+trojan://Telegram-Config0plus-983ced63-fcf0-4d15-b81b-432e32e9b932@45.130.125.0:443?path=%2Fus-gllc&amp;security=tls&amp;insecure=0&amp;host=api24-normal.tiktokv.com.r3xxe.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=api24-normal.tiktokv.com.r3xxe.eu.cc#
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&amp;sni=64.94.95.118#
