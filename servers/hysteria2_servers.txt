@@ -1,1 +1,1 @@
-hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52062?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=fuw2k1ddrouwxr3u&amp;insecure=0&amp;sni=giftcard.gateway-stream.com#%40vpnbaz%20%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%E2%8F%B1445ms%20%7C%20%E2%9A%A12.1MB%2Fs%20%7C%20%40NamazVPN
