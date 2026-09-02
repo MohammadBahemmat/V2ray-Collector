@@ -1,5 +1,1 @@
-socks://Og@185.252.31.104:1080#@meliproxyy
-socks://Og@185.63.113.164:1085#@meliproxyy
-socks://Og@185.8.173.203:1234#@meliproxyy
-socks://Og@217.114.40.114:10808#@meliproxyy
-socks://Og@78.109.200.168:9910#
+socks://Og@80.191.243.212:1080#
