@@ -1,3 +1,1 @@
 socks5://45.144.54.40:1080
-socks5://aed1cc24-351d-11ef-ba52-f23c9164ca5d:aed1cc24-351d-11ef-ba52-f23c9164ca5d@56e6e1f9-tk7400-tlbcwm-1rfon.los.gotochinatown.net:443
-socks5://f93486ce-cc84-11ed-9e98-f23c913c8d2b:f93486ce-cc84-11ed-9e98-f23c913c8d2b@50cc947d-tk7400-tlvq5w-1jcwu.sj.oshuawei.com:443
