@@ -1,5 +1,1 @@
-socks://37.9.4.101:1088#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Amsterdam%20%7C%20%E2%8F%B11294ms%20%7C%20%E2%9A%A172KB%2Fs%20%7C%20%40NamazVPN
-socks://Og==@
-socks://Og@144.91.121.61:1088#@meliproxyy
-socks://Og@185.179.171.19:2080#@meliproxyy
-socks://dGVzdDEyMzp0ZXN0MTIz@185.145.99.41:1080#%20
+socks://Og@185.179.171.19:2080#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
