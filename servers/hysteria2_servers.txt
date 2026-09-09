@@ -1,5 +1,3 @@
-hysteria2://975e9f98b4a1b01285ffdb8158ced798@107.172.76.105:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=c8d95078e61be690c18e2fbbefe5e2ef&amp;sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Buffalo%20%7C%20%E2%8F%B1839ms%20%7C%20%E2%9A%A1600KB%2Fs%20%7C%20%40NamazVPN
-hysteria2://C0DD7bgChaltqnh%2FT2az6ijM@140.238.31.111:20000?security=tls&amp;obfs=salamander&amp;obfs-password=C0DD7bgChaltqnh%2FT2az6ijM&amp;insecure=0&amp;sni=rmgyvpn.rest#%F0%9F%87%B0%F0%9F%87%B7ConfigV2RayNG%20
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&amp;obfs=salamander&amp;obfs-password=c1b4086fea89914496c7e10967a419216566&amp;insecure=0&amp;sni=hy2-new.aspidnet.xyz#%40filembad
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#%40filembad
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=nl1.sferavpn.pro#%40filembad
