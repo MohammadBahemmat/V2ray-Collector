@@ -1,9 +1,8 @@
-trojan://MiTiVP#[|||14050619|configshub|V2rayCh
-trojan://MiTiVPN#[|||14050619|configshub|V2rayCh
-trojan://opentunnel.net-andonezi30day@38.9.140.91:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=uplod.ir#%40v2rayconfigamir%206877
-trojan://opentunnel.net-engliah30day1@38.48.123.89:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=uplod.ir#%40v2rayconfigamir%205573
-trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=uplod.ir#%40v2rayconfigamir%208742
-trojan://opentunnel.net-hongkong30day3@185.48.251.29:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=uplod.ir#%40v2rayconfigamir%205321
-trojan://opentunnel.net-usa30day@15.204.9.172:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=uplod.ir#%40v2rayconfigamir%207244
-trojan://p%3DXuu4jK_lJ9rOKw5%2B7BsW798DZ-01cv4S@37.235.49.118:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#%40v2rayconfigamir%204609
-trojan://p%3DXuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443/?type=tcp&amp;security=tls&amp;sni=37.235.49.118#%40v2rayconfigamir%203231
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&amp;sni=space.byu.id.yxls.eu.cc&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=space.byu.id.yxls.eu.cc&amp;path=%2Fus-gllc@ThePackageCom#%F0%9F%87%A8%F0%9F%87%A6166832%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+trojan://MiTiVP#%F0%9F%8C%8D166896%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+trojan://MiTiVPN#%F0%9F%8C%8D166895%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6166933%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+trojan://humanity@165.215.250.14:443?path=%2F%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%B7%F0%9F%87%B4%40AZARBAYJAB1
+trojan://humanity@185.114.72.31:2053?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8166862%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+trojan://humanity@185.220.100.168:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%B7%F0%9F%87%B4%40AZARBAYJAB1
+trojan://humanity@212.183.88.136:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9166863%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
