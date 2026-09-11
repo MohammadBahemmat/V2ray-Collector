@@ -1,2 +1,1 @@
-socks://Og==@
-socks://dGVzdDEyMzp0ZXN0MTIz@185.145.99.41:1080#%20
+socks://Og@185.79.96.93:1070#%F0%9F%A7%B8%40Vpn_Click
