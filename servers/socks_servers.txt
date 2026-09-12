@@ -1,2 +1,1 @@
-socks://MTIzOjEyMw@8.217.182.75:3060#%40FarazV2ray%20
-socks://Og@185.63.113.164:1085#%40FarazV2ray
+socks://Og@185.179.171.19:2080#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
