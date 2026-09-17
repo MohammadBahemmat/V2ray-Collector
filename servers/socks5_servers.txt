@@ -1,6 +1,1 @@
-socks5://111:111@47.243.173.50:11211#HK%20-%20zhuhai.uk
-socks5://144.91.121.61:1088#FR%20-%20zhuhai.uk
-socks5://161.35.90.93:1083#ES%20-%20zhuhai.uk
-socks5://83.147.216.208:1080#FI%20-%20zhuhai.uk
-socks5://Og%253D%253D:@121.169.46.116:1090#KR%20-%20zhuhai.uk
-socks5://VmtSS2FrOVdRbFZpZWpBMk9nPT06:@121.169.46.116:1090#KR%20-%20zhuhai.uk
+socks5://45.144.54.40:1080
