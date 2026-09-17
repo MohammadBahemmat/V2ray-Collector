@@ -1,1 +1,2 @@
-socks://MTExOjExMQ@47.76.229.132:11310#%40proxy_kafee
+socks://MTExOjExMQ@47.76.229.132:11310#%40Daily_Configs
+socks://dTc1OTY1NTAwNTU6clBKdWFGZDZLU09ESm9Yeg@45.192.242.201:8888#Channel%20%3A%20%40Daily_Configs%20
