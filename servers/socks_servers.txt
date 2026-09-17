@@ -1,2 +1,1 @@
-socks://MTIzOjEyMw@8.217.182.75:3060#
-socks://Og@89.35.156.203:1080#%40TechByAmmar
+socks://MTIzOjEyMw@8.217.182.75:3060#%40FarazV2ray%20
