@@ -1,2 +1,1 @@
-socks://MTExOjExMQ@47.76.229.132:11310#%40proxy_kafee
-socks://MTIzOjEyMw@8.217.182.75:3060#%40V2RFA%20
+socks://MTIzOjEyMw@8.217.182.75:3060#%40V2rayng_Fast%20
