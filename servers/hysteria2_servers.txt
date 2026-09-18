@@ -1,2 +1,1 @@
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&amp;obfs=salamander&amp;obfs-password=c1b4086fea89914496c7e10967a419216566&amp;insecure=0&amp;sni=hy2-new.aspidnet.xyz#%40filembad
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&amp;obfs=salamander&amp;obfs-password=c1b4086fea89914496c7e10967a419216566#%40filembad
