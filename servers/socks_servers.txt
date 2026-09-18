@@ -1,2 +1,1 @@
-socks://127.0.0.1:18892
-socks://MTIzOjEyMw@8.217.182.75:3060#%40V2RFA%20
+socks://MTIzOjEyMw@8.217.182.75:3060#%40FarazV2ray%20
