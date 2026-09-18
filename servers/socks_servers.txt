@@ -1,1 +1,1 @@
-socks://MTExOjExMQ@47.76.229.132:11310#%40proxy_kafee
+socks://MTExOjExMQ@47.76.229.132:11310#%40ConfigV2RayNG
