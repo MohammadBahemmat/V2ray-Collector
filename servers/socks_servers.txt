@@ -1,3 +1,1 @@
-socks://38.60.134.192:1080#%F0%9F%87%AB%F0%9F%87%B7%20France%20Marseille%20%7C%20%E2%8F%B1537ms%20%7C%20%E2%9A%A1903KB%2Fs%20%7C%20%40NamazVPN
-socks://Og==@
-socks://Og@185.79.96.92:1070#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+socks://MTIzOjEyMw@8.217.182.75:3060#%40
