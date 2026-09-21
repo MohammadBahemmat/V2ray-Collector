@@ -1,4 +1,4 @@
-socks://MTExOjExMQ@47.76.229.132:11310#%40
-socks://MTIzOjEyMw@8.217.182.75:3060#
-socks://Og@144.91.121.61:1088#%40v2rayargon%20%F0%9F%87%A9%F0%9F%87%AA
-socks://Og@185.63.113.164:1085#%40V2rayng_Fast%20
+socks://MTExOjExMQ@47.76.229.132:11310#%40Daily_Configs
+socks://MTIzOjEyMw@8.217.182.75:3060#%40FarazV2ray%20
+socks://Og@185.63.113.164:1085#%40V2RFA%20
+socks://dTc1OTY1NTAwNTU6clBKdWFGZDZLU09ESm9Yeg@45.192.242.201:8888#Channel%20%3A%20%40Daily_Configs%20
