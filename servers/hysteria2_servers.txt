@@ -1,7 +1,2 @@
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallproxy.quattro-tech.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443/?insecure=1&amp;sni=#%E5%8D%B0%E5%BA%A6_Mumbai_Amazon%20Technologies%20Inc._Gemini_Claude2
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&amp;obfs=salamander&amp;obfs-password=c1b4086fea89914496c7e10967a419216566&amp;insecure=0&amp;sni=hy2-new.aspidnet.xyz#%40FarazV2ray%20
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#%40filembad
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=de1.sferavpn.pro#%40FarazV2ray
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#@meliproxyy
-hysteria2://sxc15led4b0vp5fy@2.26.97.21:8443/?obfs=salamander&amp;obfs-password=8zzng75tz4tf82pj&amp;sni=musicclips.videolinks.ru#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20Helsinki%20%7C%20%E2%8F%B1997ms%20%7C%20%E2%9A%A1240KB%2Fs%20%7C%20%40NamazVPN
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#@meliproxyy
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=de1.sferavpn.pro#%40filembad
