@@ -1,9 +1,4 @@
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:4433/?insecure=1&amp;sni=se.xiaoliyu.cyou#%F0%9F%9B%9693@oneclickvpnkeys
-hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443/?insecure=1&amp;sni=hys28.wba-pn.ru#%F0%9F%9B%9691@oneclickvpnkeys
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&amp;obfs=salamander&amp;obfs-password=c1b4086fea89914496c7e10967a419216566&amp;insecure=0&amp;sni=hy2-new.aspidnet.xyz#%40v2ray_configs_pools%20
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#2|@ConfingV2RaayNG
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%40proxy_kafee
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443/?insecure=1&amp;sni=www.docker.com#%F0%9F%9B%9660@oneclickvpnkeys
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@217.60.182.79:443/?insecure=1&amp;sni=cabinet.wwwinternetvideo.click#%F0%9F%9B%9694@oneclickvpnkeys
-hysteria2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443/?insecure=1&amp;obfs=salamander&amp;obfs-password=8zzng75tz4tf82pj&amp;sni=musicclips.videolinks.ru#%F0%9F%9B%9697@oneclickvpnkeys
-hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.229:8443/?insecure=1&amp;sni=hopp-swizland-new.mysynology.net#%F0%9F%9B%9670@oneclickvpnkeys
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallproxy.quattro-tech.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&amp;obfs=salamander&amp;obfs-password=c1b4086fea89914496c7e10967a419216566#%40proxy_kafee
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=de1.sferavpn.pro#%40
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#Channel%20%3A%20%40proxy_kafee
