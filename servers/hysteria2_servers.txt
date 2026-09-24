@@ -1,1 +1,2 @@
-hysteria2://sxc15led4b0vp5fy@2.26.97.21:8443/?obfs=salamander&amp;obfs-password=8zzng75tz4tf82pj&amp;sni=musicclips.videolinks.ru#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20Helsinki%20%7C%20%E2%8F%B1780ms%20%7C%20%E2%9A%A1970KB%2Fs%20%7C%20%40NamazVPN
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=de1.sferavpn.pro#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
