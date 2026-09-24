@@ -1,4 +1,4 @@
-Invalid Telegram Channels — 2026-09-24T11:01:48.946943+00:00
+Invalid Telegram Channels — 2026-09-24T11:19:23.242885+00:00
 
 shaxhabb
 v2ray_443
@@ -20,4 +20,5 @@ vaslshiiimm
 drovone
 generalconfing
 rezzonez
+v2rfa
 config_free2
