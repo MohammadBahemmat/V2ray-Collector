@@ -1,13 +1,3 @@
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=1&amp;sni=off#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443/?insecure=1&amp;sni=off#%E5%8A%A0%E6%8B%BF%E5%A4%A7_Montreal_Amazon%20Technologies%20Inc._Gemini_Claude2
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?security=tls&amp;insecure=0&amp;sni=hopp-romania-new.roxa.org#@v2ray_confing33
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443?security=tls&amp;insecure=0&amp;sni=hopp-romania-new.roxa.org#@v2ray_confing33
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?security=tls&amp;insecure=0&amp;sni=hopp-romania-new.roxa.org#@v2ray_confing33
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;security=tls&amp;obfs=salamander&amp;obfs-password=c1b4086fea89914496c7e10967a419216566&amp;insecure=0&amp;sni=hy2-new.aspidnet.xyz#@GozargahAzad|
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&amp;obfs=salamander&amp;obfs-password=c1b4086fea89914496c7e10967a419216566&amp;insecure=0&amp;sni=hy2-new.aspidnet.xyz#
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#%40V2RFA%20
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=de1.sferavpn.pro#
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&amp;sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.1MB/s
-hysteria2://my_super_password_123@open.w2m.ink:443?sni=open.w2m.ink&amp;insecure=1#%5B328.7ms%20%2B%2F-533ms%5D%20hysteria2-1470835089
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443/?insecure=1&amp;sni=off#%F0%9F%87%A8%F0%9F%87%A6181143%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&amp;obfs=salamander&amp;obfs-password=c1b4086fea89914496c7e10967a419216566&amp;insecure=0&amp;sni=hy2-new.aspidnet.xyz#%40FarazV2ray%20
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=de1.sferavpn.pro#%40V2RFA%20
