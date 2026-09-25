@@ -1,11 +1,2 @@
-hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@217.60.33.215:443/?insecure=1&amp;sni=streambox.wwwinternetvideo.click#%F0%9F%AA%9072@oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&amp;sni=vpn-fr-002.fastervpn.world#%F0%9F%AA%9033@oneclickvpnkeys
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443/?insecure=1&amp;obfs=salamander&amp;obfs-password=HysteriaHowdy&amp;sni=sni-here.com#%F0%9F%AA%9091@oneclickvpnkeys
-hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443/?insecure=1&amp;obfs=salamander&amp;obfs-password=HysteriaHowdy&amp;sni=sni-here.com#%F0%9F%AA%9089@oneclickvpnkeys
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.171:8080/?insecure=1&amp;sni=hopp-romania-new.roxa.org#%F0%9F%AA%9078@oneclickvpnkeys
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080/?sni=hopp-romania-new.roxa.org#%F0%9F%AA%9079@oneclickvpnkeys
-hysteria2://Krab9Hyst2_Rk7pQ2xL@151.247.197.253:36723/?insecure=1&amp;sni=151.247.197.253#%F0%9F%AA%9040@oneclickvpnkeys
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&amp;obfs=salamander&amp;obfs-password=c1b4086fea89914496c7e10967a419216566#%40proxy_kafee
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.47:9443/?insecure=1&amp;sni=onecloudstream.com#%F0%9F%AA%9032@oneclickvpnkeys
-hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1#%F0%9F%AA%9088@oneclickvpnkeys
-hysteria2://sxc15led4b0vp5fy@2.26.97.21:8443/?obfs=salamander&amp;obfs-password=8zzng75tz4tf82pj&amp;sni=musicclips.videolinks.ru#%F0%9F%AA%9087@oneclickvpnkeys
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#%40filembad
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=de1.sferavpn.pro#%40filembad
