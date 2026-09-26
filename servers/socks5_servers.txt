@@ -1,4 +1,2 @@
-socks5://171.25.158.95:1080#%F0%9F%95%8A%EF%B8%8F89@oneclickvpnkeys
-socks5://38KRoY:udvrsT@85.195.81.156:10539#%F0%9F%95%8A%EF%B8%8F95@oneclickvpnkeys
-socks5://baFwqZ:Sq51aK@104.238.190.248:11024#%F0%9F%95%8A%EF%B8%8F96@oneclickvpnkeys
-socks5://gXBPPa:bR5bpP@45.91.209.134:11522#%F0%9F%95%8A%EF%B8%8F98@oneclickvpnkeys
+socks5://45.144.54.40:1080
+socks5://T2c9PTpPZz09:T2c9PTpPZz09@103.210.161.8:1080
