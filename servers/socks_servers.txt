@@ -1,2 +1,2 @@
-socks://Og@144.91.121.61:1088#%40v2rayargon%20%F0%9F%87%A9%F0%9F%87%AA
-socks://Og@185.79.96.94:1070#Channel%20%3A%20%40Vpn_Click
+socks://Og@185.79.96.94:1070#Channel%20%3A%20%40proxy_kafee
+socks://YmFGd3FaOlNxNTFhSw@104.238.190.248:11024#%40V2ray_Alpha%F0%9F%92%8D%202
