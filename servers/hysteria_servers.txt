@@ -1,1 +1,1 @@
-hysteria://5.83.129.153:20088?alpn=h3&amp;auth_str=dongtaiwang.com&amp;downmbps=1000&amp;insecure=1&amp;peer=apple.com&amp;udp=true&amp;upmbps=500#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.1MB%2Fs%7CGPT%E2%81%BA%7CYT-NL%7CD%2B%7C50%25
+hysteria://62.210.196.68:26691?auth_str=dongtaiwang.com&auth=dongtaiwang.com&upmbps=11
