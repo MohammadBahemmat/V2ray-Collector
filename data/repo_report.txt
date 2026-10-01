@@ -1,40 +1,69 @@
-GitHub Repo Report — last update: 2026-10-01T19:24:06.666314+00:00
+GitHub Repo Report — last update: 2026-10-01T21:09:18.912280+00:00
 
-(A-K-6, v2ray_scrapper_repo): 0, 515
-(Argh73, VpnConfigCollector): 0, 702258
-(Au1rxx, free-vpn-subscriptions): 0, 9522
-(HankNovic, ProxyClean): 0, 93
-(Maskkost93, kizyak-vpn-4.0): 0, 364
-(MrAbolfazlNorouzi, iran-configs): 0, 5
-(MustafaBaqer, VestraNet-Nodes): 0, 19046
-(Pawdroid, Free-servers): 0, 308
-(Rusl2023, vpn-alive-check): 0, 1617
-(Shayanthn, V2ray-Tester-Pro): 0, 731
-(SoliSpirit, SolVPN): 0, 3475
-(SoliSpirit, v2ray-configs): 40102
-(V2RAYCONFIGSPOOL, V2RAY_SUB): 0, 100
-(VP01596, vless-top15): 0, 523
-(acymz, AutoVPN): 0, 3057977
-(ali13788731, vpn): 0, 134
-(amirkma, proxykma): 0, 300
-(databay-labs, free-proxy-list): 0, 1
-(dpangestuw, Free-Proxy): 0, 16117
-(ebrasha, free-v2ray-public-list): 0, 218242
-(googledslz, multi-proxy-config_dslz): 0, 469
-(gslege, CloudflareIP): 0, 20
-(iboxz, free-v2ray-collector): 0, 688
-(igareck, vpn-configs-for-russia): 0, 1429
-(iplocate, free-proxy-list): 0, 1613
-(junjun266, FreeProxyGo): 0, 7
-(khbmgh, clasher): 0, 912
-(lexariley, v2ray-test): 0, 300
-(libnyanpasu, clash-nyanpasu): 0, 3
-(malfy-driller, vpn-builderV2): 0, 215
-(mauricegift, free-proxies): 0, 1394
-(monosans, proxy-list): 0, 653
-(plsn1337, white-vless): 0, 23
-(roosterkid, openproxylist): 0, 290
-(stormsia, proxy-list): 0, 358
-(vmheaven, VMHeaven.io-Free-Proxy-List): 0, 2473
-(watchttvv, free-proxy-list): 0, 12
-(wxglenovo, 1AdGuardHome-Rules-AutoMerge-): 0, 11
+(217heidai, adblockfilters): 29
+(A-K-6, v2ray_scrapper_repo): 0, 515, 0
+(Argh73, VpnConfigCollector): 0, 702258, 0
+(Au1rxx, free-vpn-subscriptions): 0, 9522, 0
+(Danialsamadi, v2go): 3551
+(Denchic-2009, xray-checked-configs): 1222
+(HankNovic, ProxyClean): 0, 93, 0
+(JHC000abc, ProxyParseForSing-box): 1
+(Maskkost93, kizyak-vpn-4.0): 0, 364, 0
+(Mr-Meshky, vify): 5482
+(MrAbolfazlNorouzi, iran-configs): 0, 5, 0
+(MustafaBaqer, VestraNet-Nodes): 0, 19046, 0
+(Pawdroid, Free-servers): 0, 308, 0
+(Rusl2023, vpn-alive-check): 0, 1617, 0
+(Shayanthn, V2ray-Tester-Pro): 0, 731, 0
+(SoliSpirit, SolVPN): 0, 3475, 0
+(SoliSpirit, v2ray-configs): 40102, 0
+(Surfboardv2ray, Proxy-sorter): 51131
+(Surfboardv2ray, TGParse): 6908
+(V2RAYCONFIGSPOOL, V2RAY_SUB): 0, 100, 0
+(VP01596, vless-top15): 0, 523, 0
+(WLget, V2ray_free): 3
+(XIXV2RAY, XIX-v2ray): 172
+(acymz, AutoVPN): 0, 3057977, 0
+(aiboboxx, v2rayfree): 20
+(ali13788731, vpn): 0, 134, 0
+(amirkma, proxykma): 0, 300, 0
+(apify, crawlee): 1
+(databay-labs, free-proxy-list): 0, 1, 0
+(dpangestuw, Free-Proxy): 0, 16117, 0
+(ebrasha, free-v2ray-public-list): 0, 218242, 416230
+(free-nodes, v2rayfree): 20
+(googledslz, multi-proxy-config_dslz): 0, 469, 0
+(gslege, CloudflareIP): 0, 20, 0
+(horoshiyvpn-rus, smart-vpn-sub): 1
+(iboxz, free-v2ray-collector): 0, 688, 0
+(igareck, vpn-configs-for-russia): 0, 1429, 0
+(iplocate, free-proxy-list): 0, 1613, 6
+(junjun266, FreeProxyGo): 0, 7, 0
+(kasesm, Free-Config): 2864
+(khbmgh, clasher): 0, 912, 0
+(kort0881, vpn-vless-configs-russia): 67895
+(lexariley, v2ray-test): 0, 300, 0
+(libnyanpasu, clash-nyanpasu): 0, 3, 0
+(longlon, v2ray-config): 73516
+(mahdisandughdaran-sys, V2ray-sub): 3662
+(malfy-driller, vpn-builderV2): 0, 215, 0
+(mauricegift, free-proxies): 0, 1394, 0
+(mhghco, v2ray-hub): 963
+(miladtahanian, Config-Collector): 430
+(monosans, proxy-list): 0, 653, 0
+(muks999, Clash-Vless-convert): 883
+(ninjastrikers, nexus-nodes): 4010
+(niq0n0pin, v2rayfree-nice-tracker): 21
+(nyeinkokoaung404, V2ray-Configs): 7759
+(plsn1337, white-vless): 0, 23, 0
+(roosterkid, openproxylist): 0, 290, 0
+(skycoin, skywire): 30
+(ssbaxys, v2ray-configs): 131
+(stormsia, proxy-list): 0, 358, 0
+(svpjohji, NECHAEV_VPN_AGGREGATOR): 437
+(tehrzky, my-tv-v2ray): 20
+(vmheaven, VMHeaven.io-Free-Proxy-List): 0, 2473, 0
+(watchttvv, free-proxy-list): 0, 12, 0
+(wenxig, free-nodes-sub): 20
+(wxglenovo, 1AdGuardHome-Rules-AutoMerge-): 0, 11, 0
+GitHub Repo Report — last update: 0
