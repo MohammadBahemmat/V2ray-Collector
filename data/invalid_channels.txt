@@ -1,4 +1,4 @@
-Invalid Telegram Channels — 2026-10-02T00:17:01.092865+00:00
+Invalid Telegram Channels — 2026-10-02T01:49:36.134014+00:00
 
 +jtinm8-guq41otji
 104
@@ -693,6 +693,7 @@ mrziechanel
 msadegh_2010
 mtpro_xyz_bot
 mtproto
+mtproxy__blue
 mtproxybot
 music_torkish_newz
 musicbls
