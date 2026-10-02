@@ -1,2 +1,5 @@
-socks://MTIzOjEyMw@8.217.182.75:3060#%F0%9F%87%AD%F0%9F%87%B0%40FreakConfig
+socks://MTIzOjEyMw@8.217.182.75:3060#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
+socks://Og%3D%3D@89.44.112.13:1100#@v2rayng3
+socks://Og@185.79.96.94:1070#.
+socks://bnVsbDpudWxs@185.79.96.92:1070#%40v2raying
 socks://dXhzdm5hb2c6Z3dtYmVnY3B0MnY1@3.36.26.231:29631#%F0%9F%87%B0%F0%9F%87%B7%40FreakConfig
