@@ -1,4 +1,4 @@
-Invalid Telegram Channels — 2026-10-02T01:49:36.134014+00:00
+Invalid Telegram Channels — 2026-10-02T03:26:43.044625+00:00
 
 +jtinm8-guq41otji
 104
@@ -327,7 +327,6 @@ farasellbot
 farhan_po
 farman_vpn
 faryar_vpn
-fast78_chat
 fast78_support
 fastconfigs
 fffreeeeev
@@ -364,9 +363,7 @@ freeiran_vp
 freenet
 freenet1500
 freenetbazari2
-freenett00
 freepremium_tbot
-freestarbobot
 freestarlinkrobot
 freev2rayconfig1
 freev2rayssr
@@ -600,7 +597,6 @@ mafia_vpn_im_not
 mahan914
 mahan_vpn
 mahdi05h
-mahdi_raso
 mahdi_vpn
 mahdisr82
 mahi_258
