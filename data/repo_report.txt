@@ -1,21 +1,27 @@
-GitHub Repo Report — last update: 2026-10-02T13:08:50.340021+00:00
+GitHub Repo Report — last update: 2026-10-02T13:55:37.322208+00:00
 
-(Au1rxx, free-vpn-subscriptions): 0, 1, 0
-(CB-X2-Jun, proxy-lists): 0, 814, 0
-(Love-AronaPlana, Automatic-VPN-Aggregation): 0, 2, 0
-(Micky203, zenproxy): 0, 6, 0
-(Mrnobodysmkn, Auto-proxy): 0, 2, 0
-(NiREvil, vless): 523, 0, 0
-(R3ZARAHIMI, tg-v2ray-configs-every2h): 0, 6538, 0, 0, 0
-(SoliSpirit, SolVPN): 1, 0, 0
-(V2RayRoot, V2RayConfig): 0, 617, 0, 0, 0
-(acymz, AutoVPN): 0, 1387, 0
-(amuck-tie267, SNI-XHTTP): 0, 1, 0
-(chiy4728, Vless_crawl): 0, 2, 0
-(hamedcode, port-based-v2ray-configs): 217, 0, 0, 0
-(iplocate, free-proxy-list): 0, 1, 0, 0, 3
-(kort0881, vpn-checker-backend): 0, 40768, 0
-(lanzm, MetaFetch): 0, 0, 674
-(r2d4m0, vless-parser): 4004, 0, 0
-(theMavionx, Clash): 0, 3, 0, 0, 0
-GitHub Repo Report — last update: 0, 0, 0
+(Au1rxx, free-vpn-subscriptions): 0, 1, 0, 0
+(CB-X2-Jun, proxy-lists): 0, 814, 0, 0
+(Danialsamadi, v2go): 0, 0, 0, 1
+(Love-AronaPlana, Automatic-VPN-Aggregation): 0, 2, 0, 0
+(MhdiTaheri, V2rayCollector_Py): 0, 0, 0, 293
+(Micky203, zenproxy): 0, 6, 0, 0
+(Mrnobodysmkn, Auto-proxy): 0, 2, 0, 0
+(NiREvil, vless): 523, 0, 0, 0
+(R3ZARAHIMI, tg-v2ray-configs-every2h): 0, 6538, 0, 0, 0, 0
+(Sabariranil, nashvpn): 0, 0, 0, 44748
+(SoliSpirit, SolVPN): 1, 0, 0, 0
+(V2RayRoot, V2RayConfig): 0, 617, 0, 0, 0, 0
+(acymz, AutoVPN): 0, 1387, 0, 0
+(amuck-tie267, SNI-XHTTP): 0, 1, 0, 0
+(chiy4728, Vless_crawl): 0, 2, 0, 0
+(hamedcode, port-based-v2ray-configs): 217, 0, 0, 0, 0
+(iplocate, free-proxy-list): 0, 1, 0, 0, 3, 0
+(kort0881, vpn-checker-backend): 0, 40768, 0, 0
+(kringemega, VlessParser): 0, 0, 0, 172
+(lanzm, MetaFetch): 0, 0, 674, 0
+(qopq1366, VlessConfig): 0, 0, 0, 924
+(r2d4m0, vless-parser): 4004, 0, 0, 0
+(sakha1370, OpenRay): 0, 0, 0, 38513
+(theMavionx, Clash): 0, 3, 0, 0, 0, 0
+GitHub Repo Report — last update: 0, 0, 0, 0
