@@ -1,6 +1,2 @@
-tuic://0a265f82-850b-436d-8c3a-df6090665078:0a265f82-850b-436d-8c3a-df6090665078@78.135.82.244:36531?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#TR
-tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&congestion_control=bbr&udp_relay_mode=quic&alpn=h3#SG
-tuic://4056f64d-d96b-40ae-8731-d9d96e309b6f:3df47043@185.250.240.77:24635?congestion_control=bbr&udp_relay_mode=native&alpn=h3#TR
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us02.uzifan.monster:8443?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US
-tuic://91bf574a-4a2f-42eb-bfa9-5824317f541c:91bf574a-4a2f-42eb-bfa9-5824317f541c@node.waifly.com:28132?sni=example.com&congestion_control=cubic&udp_relay_mode=native#FR
-tuic://a34fb195-8644-4e71-9f81-4542eeb7fda3:a34fb195-8644-4e71-9f81-4542eeb7fda3@185.34.144.18:39004?sni=www.python.org&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us02.uzifan.monster:8443?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.bing.com&udp_relay_mode=native#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%2014
+tuic://D7286728-678E-443B-B76B-B699654C66DD:D7286728-678E-443B-B76B-B699654C66DD@tw6.dexlos.com:8080?allow_insecure=1&alpn=h3&sni=tw6.dexlos.com#%F0%9F%87%B9%F0%9F%87%BC%20%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%20%7C%20TWN%202
