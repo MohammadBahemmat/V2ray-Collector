@@ -1,5 +1,4 @@
-hysteria2://033dc6b532@77.232.139.128:11592?security=tls&amp;obfs=salamander&amp;obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4&amp;insecure=0&amp;sni=srv-8718e6.frd21.ru#
-hysteria2://8b60d570-cbce-4791-b3e8-bcb80dd12ac0@uk-002.xiaoxiaobujidao.xyz:19443?sni=uk-002.xiaoxiaobujidao.xyz&amp;up=100&amp;down=200#%F0%9F%98%88%E8%8B%B1%E6%A0%BC%E5%85%B0002%EF%BD%9C0.09%E5%85%83%2FG%EF%BD%9Chy2%EF%BD%9C
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443?sni=vpn-fr-002.fastervpn.world%23%F0%9F%AA%9033%40oneclickvpnkeys&amp;insecure=1#hysteria2-1552246614
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?sni=vpn-de-002.fastervpn.world&amp;insecure=1#hysteria2-1561765054
-hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?sni=api-test-udp-traffic.kaneki.cfd#
+hysteria2://033dc6b532@77.232.139.128:11592?security=tls&amp;obfs=salamander&amp;obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4&amp;insecure=0&amp;sni=srv-8718e6.frd21.ru#%40FreeLand8%E2%9A%A16
+hysteria2://17537e14543a478b9c7a558870d814f3@mhzedir.qzz.io:51791?security=tls&amp;obfs=salamander&amp;obfs-password=7y0p9k93w7ryw8tz&amp;insecure=0&amp;sni=mhzedir.qzz.io#%F0%9F%87%B3%F0%9F%87%B1186400%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
