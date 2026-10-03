@@ -1,7 +1,1 @@
-socks://MTIzOjEyMw@8.217.182.75:3060#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
-socks://MTIzOjEyMw@8.218.189.99:3060#%5B%20%F0%9F%87%AD%F0%9F%87%B0%20%5D%20%7C%20%40Cfox_SerVer
-socks://Og%3D%3D@89.44.112.13:1100#@v2rayng3
-socks://Og@185.79.96.94:1070#.
-socks://Og@92.42.207.16:7890#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
-socks://bnVsbDpudWxs@185.79.96.92:1070#%40v2raying
-socks://dXhzdm5hb2c6Z3dtYmVnY3B0MnY1@3.36.26.231:29631#kurdconfig
+socks://telegram-confixio@193.151.149.247:8220#%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%43%6F%6E%66%69%78%69%6F%40
