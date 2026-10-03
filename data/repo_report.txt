@@ -1,73 +1,92 @@
-GitHub Repo Report — last update: 2026-10-03T12:08:46.073617+00:00
+GitHub Repo Report — last update: 2026-10-03T12:35:30.696301+00:00
 
-(A-K-6, v2ray_scrapper_repo): 0, 512, 0
-(Arefgh72, v2ray-proxy-pars-tester-02): 0, 1455, 0
-(Argh94, Proxy-List): 6389
-(BlacKSnowDot0, Proxy-Pulse): 0, 3482, 0
-(CB-X2-Jun, Free-v2ray-node): 63
-(CharlesPikachu, freeproxy): 0, 2, 0
-(FLAT447, v2ray-lists): 0, 9865, 0
-(HankNovic, ProxyClean): 0, 12, 0
-(HikerX, yunfan_subscribe): 15
-(KRYYYYYYYYYYYYYYYYYYY, xray-uuid-checker): 27647
-(Kotlas23412, proxy-checker): 0, 2982, 0
-(MahanKenway, Freedom-V2Ray): 0, 3487, 0
-(MaskaBOG, clash-vless-auto): 0, 185, 0
-(Maskkost93, kizyak-vpn-4.0): 385
-(MrAbolfazlNorouzi, iran-configs): 0, 5, 0
-(MustafaBaqer, VestraNet-Nodes): 0, 19222, 0
-(Pawdroid, Free-servers): 309
-(Pxys-io, DailyProxyList): 0, 2441, 0
-(Pxys-io, proxylistdaily): 0, 2441, 0
-(SHAHBBBB, V2ray-collector): 0, 292, 0
-(Shayanthn, V2ray-Tester-Pro): 941
-(SoliSpirit, SolVPN): 0, 3219, 0
-(T3stAcc, V2Ray): 1619
-(TheFlipper-spec, VPNMY): 8
-(UplandJacob, Upland-HA-Addons): 0, 1, 0
-(V2RAYCONFIGSPOOL, V2RAY_SUB): 0, 100, 0
-(V2RayRoot, V2RayConfig): 617
-(VP01596, vless-top15): 0, 577, 0
-(WLget, V2Ray_configs_64): 0, 9, 0
-(adop1344-bot, LetoVPN_free): 0, 2081, 0
-(ali13788731, vpn): 0, 22, 0
-(amirkma, proxykma): 0, 300, 0
-(asakura42, vss): 0, 72, 0
-(chengaopan, AutoMergePublicNodes): 922
-(cook369, proxy-collect): 0, 1891, 0
-(databay-labs, free-proxy-list): 0, 1, 0
-(dpangestuw, Free-Proxy): 0, 16310, 0
-(ebrasha, free-v2ray-public-list): 0, 220989, 70004
-(gooseteam-hackers, GooseVPN): 0, 25, 0
-(gslege, CloudflareIP): 20
-(hamedp-71, N_sub_cheker): 844, 0
-(hiztin, VLESS-PO-GRIBI): 0, 7470, 0
-(iboxz, free-v2ray-collector): 0, 696, 0
-(idtheo, V2Ray-CleanIPs-Servers): 0, 2190, 0
-(igareck, vpn-configs-for-russia): 0, 1395, 0
-(iplocate, free-proxy-list): 0, 1691, 0
-(kooker, FreeSubsCheck): 714
-(kort0881, vpn-aggregator): 0, 28146, 0
-(kringemega, VlessParser): 152
-(lanzm, MetaFetch): 688
-(libnyanpasu, clash-nyanpasu): 3
-(malfy-driller, vpn-builder-): 0, 164, 0
-(miraali1372, mirsub): 0, 486, 0
-(mmaksim9191, my-vpn-configs): 0, 140, 0
-(mmpx12, proxy-list): 0, 942, 0
-(monosans, proxy-list): 0, 692, 0
-(nyeinkokoaung404, V2ray-Configs): 0, 7782, 0
-(nyeinkokoaung404, multi-proxy-config-fetcher): 0, 728, 0
-(onlymeoneme, v2ray_subs): 0, 14787, 0
-(proxifly, free-proxy-list): 198965
-(rakibkumar151, auto-proxy-updater): 0, 1, 0
-(roosterkid, openproxylist): 282
-(stormsia, proxy-list): 0, 239, 0
-(svpjohji, NECHAEV_VPN_AGGREGATOR): 404
-(trio666, proxy-checker): 7454
-(vmheaven, VMHeaven.io-Free-Proxy-List): 0, 2544, 0
-(vovan046kursk-stack, vless-list1): 49
-(watchttvv, free-proxy-list): 12
-(xxx3-lab, ahiteo-vpn): 0, 7857, 0
-(zaiyin, metaclsh-scraper): 0, 2048, 0
-GitHub Repo Report — last update: 0
+(A-K-6, v2ray_scrapper_repo): 0, 512, 0, 0
+(Arefgh72, v2ray-proxy-pars-tester): 0, 544
+(Arefgh72, v2ray-proxy-pars-tester-02): 0, 1455, 0, 0
+(Argh94, Proxy-List): 6389, 0
+(Au1rxx, free-vpn-subscriptions): 0, 10639
+(BlacKSnowDot0, Proxy-Pulse): 0, 3482, 0, 0
+(CB-X2-Jun, Free-v2ray-node): 63, 0
+(CharlesPikachu, freeproxy): 0, 2, 0, 0
+(FLAT447, v2ray-lists): 0, 9865, 0, 0
+(Firmfox, Proxify): 0, 32999
+(HankNovic, ProxyClean): 0, 12, 0, 0
+(HikerX, yunfan_subscribe): 15, 0
+(Ilyacom4ik, free-v2ray-2026): 0, 25122
+(JeBance, CheburNet): 0, 21
+(KRYYYYYYYYYYYYYYYYYYY, xray-uuid-checker): 27647, 0
+(Kotlas23412, proxy-checker): 0, 2982, 0, 0
+(MahanKenway, Freedom-V2Ray): 0, 3487, 0, 0
+(MaskaBOG, clash-vless-auto): 0, 185, 0, 0
+(Maskkost93, kizyak-vpn-4.0): 385, 0
+(MohsenReyhani, vless-subscriptions): 0, 199
+(MrAbolfazlNorouzi, iran-configs): 0, 5, 0, 0
+(MustafaBaqer, VestraNet-Nodes): 0, 19222, 0, 0
+(Pawdroid, Free-servers): 309, 0
+(Pxys-io, DailyProxyList): 0, 2441, 0, 0
+(Pxys-io, proxylistdaily): 0, 2441, 0, 0
+(SHAHBBBB, V2ray-collector): 0, 292, 0, 0
+(Shayanthn, V2ray-Tester-Pro): 941, 0
+(SoliSpirit, SolVPN): 0, 3219, 0, 0
+(SoliSpirit, v2ray-configs): 0, 38328
+(T3stAcc, V2Ray): 1619, 0
+(TheFlipper-spec, VPNMY): 8, 0
+(UplandJacob, Upland-HA-Addons): 0, 1, 0, 0
+(V2RAYCONFIGSPOOL, V2RAY_SUB): 0, 100, 0, 0
+(V2RayRoot, V2RayConfig): 617, 0
+(VP01596, vless-top15): 0, 577, 0, 0
+(WLget, V2Ray_configs_64): 0, 9, 0, 0
+(adop1344-bot, LetoVPN_free): 0, 2081, 0, 0
+(ali13788731, vpn): 0, 22, 0, 0
+(amirkma, proxykma): 0, 300, 0, 0
+(asakura42, vss): 0, 72, 0, 0
+(chengaopan, AutoMergePublicNodes): 922, 0
+(cook369, proxy-collect): 0, 1891, 0, 0
+(databay-labs, free-proxy-list): 0, 1, 0, 0
+(dmeshechkov, vpn-subscriptions): 0, 434
+(dmvait8534, claude2api-deploy): 0, 3
+(dpangestuw, Free-Proxy): 0, 16310, 0, 0
+(ebrasha, free-v2ray-public-list): 0, 220989, 70004, 0
+(gooseteam-hackers, GooseVPN): 0, 25, 0, 0
+(gslege, CloudflareIP): 20, 0
+(hamedp-71, N_sub_cheker): 844, 0, 0
+(hiztin, VLESS-PO-GRIBI): 0, 7470, 0, 0
+(iboxz, free-v2ray-collector): 0, 696, 0, 0
+(idtheo, V2Ray-CleanIPs-Servers): 0, 2190, 0, 0
+(igareck, vpn-configs-for-russia): 0, 1395, 0, 0
+(iplocate, free-proxy-list): 0, 1691, 0, 0
+(jannasweetened9049, SwizGuard): 0, 2
+(kooker, FreeSubsCheck): 714, 0
+(kort0881, vpn-aggregator): 0, 28146, 0, 0
+(kringemega, VlessParser): 152, 0
+(lanzm, MetaFetch): 688, 0
+(libnyanpasu, clash-nyanpasu): 3, 0
+(malfy-driller, vpn-builder-): 0, 164, 0, 0
+(miraali1372, mirsub): 0, 486, 0, 0
+(mmaksim9191, my-vpn-configs): 0, 140, 0, 0
+(mmpx12, proxy-list): 0, 942, 0, 0
+(monosans, proxy-list): 0, 692, 0, 0
+(muks999, Clash-Vless-convert): 0, 751
+(nyeinkokoaung404, V2ray-Configs): 0, 7782, 0, 0
+(nyeinkokoaung404, multi-proxy-config-fetcher): 0, 728, 0, 0
+(onlymeoneme, v2ray_subs): 0, 14787, 0, 0
+(proxifly, free-proxy-list): 198965, 0
+(r2d4m0, vless-parser): 0, 3807
+(rakibkumar151, auto-proxy-updater): 0, 1, 0, 0
+(roosterkid, openproxylist): 282, 0
+(sibur1703-alt, my-auto-vpn): 0, 6074
+(skycoin, skywire): 0, 30
+(stormsia, proxy-list): 0, 239, 0, 0
+(svpjohji, NECHAEV_VPN_AGGREGATOR): 404, 0
+(teknovpnhub, v2ray-subscription): 0, 11477
+(theavel, free-vless-proxy): 0, 160
+(trio666, proxy-checker): 7454, 0
+(vmheaven, VMHeaven.io-Free-Proxy-List): 0, 2544, 0, 0
+(volondsespel-png, vpn-key-collector): 0, 1070
+(vovan046kursk-stack, vless-list1): 49, 0
+(watchttvv, free-proxy-list): 12, 0
+(wenxig, dongtai-sub): 0, 8
+(xq1337, proxy-list1337): 0, 11
+(xxx3-lab, ahiteo-vpn): 0, 7857, 0, 0
+(zaiyin, metaclsh-scraper): 0, 2048, 0, 0
+GitHub Repo Report — last update: 0, 0
