@@ -1,1 +1,3 @@
-hysteria2://oCYFcbOo8s@201.51.24.4:443?sni=hys22.wba-pn.ru#%40V2HUBIR%20%7C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:18333/?insecure=1&amp;sni=ru1.xiaoliyu.cyou#%F0%9F%87%B7%F0%9F%87%BA186741%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:8444?mport=21000-21199,33000-33199&amp;obfs=salamander&amp;obfs-password=mbQXP2ASuHbF6ZPq&amp;sni=vpn.local&amp;insecure=1#%F0%9F%87%A8%F0%9F%87%AD186770%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://d042d150716709bb778cc73889cddb02@138.2.89.249:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=309502c4a8df10b46fb976d4a8c43f42&amp;sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC186743%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
