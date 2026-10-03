@@ -1473,6 +1473,7 @@ nima_vpn
 nime_che
 nimwebbot
 nina_vpn
+nitro_skybot
 nitro_vpn
 nitroshoprobot
 nitrovpncom
@@ -1783,6 +1784,7 @@ pythonteamsupport
 pytonvpn
 q_ueen_4040
 q_vpn
+qara_atayi
 qasem_vpn
 qiwoax
 qmehi
@@ -1822,6 +1824,7 @@ rawwqq
 ray_vpn
 rayan_bastan
 rayan_config
+rayhub_ir
 rayonetrobot
 rayphoriahub
 rayvps
@@ -2341,6 +2344,7 @@ v2ray1000
 v2ray1_ng
 v2ray20261
 v2ray26
+v2ray313
 v2ray443_support
 v2ray45
 v2ray_33
