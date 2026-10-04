@@ -1,2 +1,2 @@
-hysteria2://033dc6b532@77.232.139.128:11592?security=tls&amp;obfs=salamander&amp;obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4&amp;insecure=0&amp;sni=srv-8718e6.frd21.ru#%40FreeLand8%E2%9A%A16
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443/?sni=hopp-legend-se.roxa.org#%40V2HUBIR%20%7C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?sni=api-test-udp-traffic.kaneki.cfd#
+hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.239:8443/?sni=hopp-swizland-new.mysynology.net#%40V2ray_confiig
