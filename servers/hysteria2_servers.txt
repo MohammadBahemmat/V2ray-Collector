@@ -1,5 +1,2 @@
-hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443/?insecure=1&amp;sni=pixelcast.wwwinternetvideo.click#%40V2HUBIR%20%7C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-hysteria2://9ed56ba1c7c44bbab670d83a435591b8@mhzedir.qzz.io:51791?security=tls&amp;obfs=salamander&amp;obfs-password=7y0p9k93w7ryw8tz&amp;insecure=0&amp;sni=mhzedir.qzz.io#
-hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:8444?mport=21000-21199,33000-33199&amp;obfs=salamander&amp;obfs-password=mbQXP2ASuHbF6ZPq&amp;sni=vpn.local&amp;insecure=1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20CH-1%20%E2%80%A2%20TG%20%40RE_s_B
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#
-hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?sni=api-test-udp-traffic.kaneki.cfd#
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#%F0%9F%87%B7%F0%9F%87%BA187163%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://zzVXRYOB3w7GuxrVdLhZNjmPFVmi5U9K@217.177.40.99:995?security=tls&amp;fm=%7B%7D&amp;sni=www.google.com&amp;pinSHA256=16DFB75641DBD1075D08B839E831F6FD6A9335517BD1C0597DED364CE87A2DB7#%F0%9F%87%B8%F0%9F%87%AA%20Sw%2C%20Stockholm
