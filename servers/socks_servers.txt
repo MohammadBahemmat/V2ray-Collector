@@ -1,2 +1,1 @@
-socks://MTIzOjEyMw@8.217.182.75:3060#
-socks://Og@178.252.165.226:1080#
+socks://dXhzdm5hb2c6Z3dtYmVnY3B0MnY1@3.36.26.231:29631#kurdconfig
