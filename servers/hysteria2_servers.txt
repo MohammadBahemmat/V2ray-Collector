@@ -1,3 +1,6 @@
-hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=87d72c2949c0ca85bbda09459244e374&amp;insecure=0&amp;sni=srv-0e5387.frd21.ru#%F0%9F%87%B3%F0%9F%87%B1187353%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=ec66908dbc46e6920143d9b684adf277&amp;insecure=0&amp;sni=srv-3fc7c9.21freedom.net#%F0%9F%87%AB%F0%9F%87%B7187350%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
+hysteria2://9OSpMEFgkgGMTv8DliwAEEIfUjZ_G18t@135.106.175.94:14?security=tls&amp;fm=%7B%7D&amp;sni=xorxs.tozanjyk.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=ec66908dbc46e6920143d9b684adf277&amp;insecure=0&amp;sni=srv-3fc7c9.21freedom.net#@ICV2RAY
+hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?security=tls&amp;insecure=0&amp;sni=api-test-udp-traffic.kaneki.cfd#@ICV2RAY
+hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@64.188.119.177:28015?security=tls&amp;insecure=0&amp;sni=api-test-udp-trf.kaneki.cfd#@ICV2RAY
+hysteria2://zzVXRYOB3w7GuxrVdLhZNjmPFVmi5U9K@217.177.40.99:995?security=tls&amp;fm=%7B%7D&amp;sni=www.google.com&amp;pinSHA256=16DFB75641DBD1075D08B839E831F6FD6A9335517BD1C0597DED364CE87A2DB7#%F0%9F%87%B8%F0%9F%87%AA%20Sw%2C%20Stockholm
