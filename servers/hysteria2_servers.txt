@@ -1,3 +1,4 @@
-hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&amp;obfs=salamander&amp;obfs-password=87d72c2949c0ca85bbda09459244e374&amp;insecure=0&amp;sni=srv-0e5387.frd21.ru#09%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40%F0%9D%99%8F%F0%9D%99%96%F0%9D%99%AF%F0%9D%99%9E%F0%9D%99%AE%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%9A%F0%9D%99%96%F0%9D%99%A2
-hysteria2://9ed56ba1c7c44bbab670d83a435591b8@mhzedir.qzz.io:51791?security=tls&amp;obfs=salamander&amp;obfs-password=7y0p9k93w7ryw8tz&amp;insecure=0&amp;sni=mhzedir.qzz.io#
-hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&amp;obfs=salamander&amp;obfs-password=ec66908dbc46e6920143d9b684adf277&amp;insecure=0&amp;sni=srv-3fc7c9.21freedom.net#
+hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&amp;obfs=salamander&amp;obfs-password=ec66908dbc46e6920143d9b684adf277&amp;insecure=0&amp;sni=srv-3fc7c9.21freedom.net#%40iranping24
+hysteria2://migrated-d730e46f5c1b@fastly.vexogf.ir:5443?security=tls&amp;obfs=salamander&amp;obfs-password=6ccfcef2e116b03ce9047333&amp;insecure=0&amp;sni=tun-a-1.bexait.ir#%40iranping24
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.104:8443/?insecure=1&amp;sni=grape-test-italy.dynuddns.net#%F0%9F%87%A9%F0%9F%87%AA187662%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.105:8443/?sni=grape-test-italy.dynuddns.net#%F0%9F%87%A9%F0%9F%87%AA187661%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
