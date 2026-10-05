@@ -1,2 +1,3 @@
-hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&amp;obfs=salamander&amp;obfs-password=ec66908dbc46e6920143d9b684adf277&amp;insecure=0&amp;sni=srv-3fc7c9.21freedom.net#%40iranping24
-hysteria2://migrated-d730e46f5c1b@fastly.vexogf.ir:5443?security=tls&amp;obfs=salamander&amp;obfs-password=6ccfcef2e116b03ce9047333&amp;insecure=0&amp;sni=tun-a-1.bexait.ir#%40iranping24
+hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&amp;obfs=salamander&amp;obfs-password=ec66908dbc46e6920143d9b684adf277&amp;insecure=0&amp;sni=srv-3fc7c9.21freedom.net#
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#
+hysteria2://zzVXRYOB3w7GuxrVdLhZNjmPFVmi5U9K@217.177.40.99:995?security=tls&amp;fm=%7B%7D&amp;sni=www.google.com&amp;pinSHA256=16DFB75641DBD1075D08B839E831F6FD6A9335517BD1C0597DED364CE87A2DB7#%F0%9F%87%B8%F0%9F%87%AA%20Sw%2C%20Stockholm
