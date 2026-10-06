@@ -1,1 +1,4 @@
+socks5://213.79.5.192:1080#%F0%9F%90%9E97@oneclickvpnkeys
+socks5://82.114.86.173:1090#%F0%9F%90%9E95@oneclickvpnkeys
 socks5://ID_vpnclientpro3:ID_vpnclientpro3@87.117.198.61:1081#%F0%9F%87%AC%F0%9F%87%A7188580%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks5://ID_vpnclientpro3:ID_vpnclientpro3@94.102.49.189:1081#%F0%9F%90%9E32@oneclickvpnkeys
