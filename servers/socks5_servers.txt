@@ -1,4 +1,1 @@
-socks5://154.51.41.113:2020
-socks5://157.180.24.140:11111
-socks5://45.144.54.40:1080
 socks5://ID_vpnclientpro3:ID_vpnclientpro3@94.102.49.189:1081#%F0%9F%87%B3%F0%9F%87%B1188355%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
