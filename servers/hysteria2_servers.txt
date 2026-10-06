@@ -1,5 +1,2 @@
-hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&amp;obfs=salamander&amp;obfs-password=87d72c2949c0ca85bbda09459244e374&amp;insecure=0&amp;sni=srv-0e5387.frd21.ru#%40FarazV2ray%20
-hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@de1.xiaoliyu.cyou:4433/?insecure=1&amp;sni=127.0.0.1#%F0%9F%87%A9%F0%9F%87%AA188747%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=ec66908dbc46e6920143d9b684adf277&amp;insecure=0&amp;sni=srv-3fc7c9.21freedom.net#%40FarazV2ray%20
-hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&amp;obfs=salamander&amp;obfs-password=ec66908dbc46e6920143d9b684adf277&amp;insecure=0&amp;sni=srv-3fc7c9.21freedom.net#%40FarazV2ray%20
-hysteria2://ca78f919e6@155.94.134.183:11592?sni=srv-3fc7c9.21freedom.net&amp;obfs=salamander&amp;obfs-password=ec66908dbc46e6920143d9b684adf277#%F0%9F%87%AB%F0%9F%87%B7188843%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@de1.xiaoliyu.cyou:4433/?insecure=1&amp;sni=127.0.0.1#%F0%9F%87%A9%F0%9F%87%AA188796%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://ca78f919e6@155.94.134.183:11592?sni=srv-3fc7c9.21freedom.net&amp;obfs=salamander&amp;obfs-password=ec66908dbc46e6920143d9b684adf277#%F0%9F%87%AB%F0%9F%87%B7188892%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
