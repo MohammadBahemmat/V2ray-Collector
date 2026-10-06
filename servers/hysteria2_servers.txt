@@ -1,3 +1,2 @@
-hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=87d72c2949c0ca85bbda09459244e374&amp;insecure=0&amp;sni=srv-0e5387.frd21.ru#%F0%9F%87%AC%F0%9F%87%A7telegram%E2%9E%A0%40v2rayNG_Matsuri
-hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&amp;obfs=salamander&amp;obfs-password=87d72c2949c0ca85bbda09459244e374&amp;insecure=0&amp;sni=srv-0e5387.frd21.ru#%40
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&amp;obfs=salamander&amp;obfs-password=c1b4086fea89914496c7e10967a419216566&amp;insecure=0&amp;sni=hy2-new.aspidnet.xyz#.
+hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&amp;obfs=salamander&amp;obfs-password=87d72c2949c0ca85bbda09459244e374&amp;insecure=0&amp;sni=srv-0e5387.frd21.ru#%F0%9F%87%A8%F0%9F%87%B4telegram%E2%9E%A0%40v2rayNG_Matsuri
+hysteria2://9ed56ba1c7c44bbab670d83a435591b8@mhzedir.qzz.io:51791?security=tls&amp;obfs=salamander&amp;obfs-password=7y0p9k93w7ryw8tz&amp;insecure=0&amp;sni=mhzedir.qzz.io#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
