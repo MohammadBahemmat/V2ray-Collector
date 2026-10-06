@@ -1,1 +1,1 @@
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=de1.sferavpn.pro#%40FarazV2ray%20
+hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?sni=api-test-udp-traffic.kaneki.cfd#
