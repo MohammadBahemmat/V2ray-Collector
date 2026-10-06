@@ -1,1 +1,8 @@
-socks://Og@92.42.207.16:7890#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@140.99.255.7:1081#us%F0%9F%87%BA%F0%9F%87%B8%C2%B2%40proxy_kafee
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@188.127.251.1:1081#ru%F0%9F%87%B7%F0%9F%87%BA%C2%B9%40proxy_kafee
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@193.106.251.68:1081#us%F0%9F%87%BA%F0%9F%87%B8%C2%B3%40proxy_kafee
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@206.206.127.150:1081#us%F0%9F%87%BA%F0%9F%87%B8%C2%B9%40proxy_kafee
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@5.77.55.146:1081#uk%F0%9F%87%AC%F0%9F%87%A7%C2%B2%40proxy_kafee
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@87.117.198.61:1081#uk%F0%9F%87%AC%F0%9F%87%A7%C2%B9%40proxy_kafee
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@89.47.164.182:1081#lt%F0%9F%87%B1%F0%9F%87%B9%C2%B9%40proxy_kafee
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@94.102.49.189:1081#nl%F0%9F%87%B3%F0%9F%87%B1%C2%B9%40proxy_kafee
