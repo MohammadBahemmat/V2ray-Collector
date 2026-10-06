@@ -1,12 +1,2 @@
-socks5://111:111@47.243.173.50:11211#
-socks5://111:111@47.76.186.28:11408#
-socks5://111:111@47.76.229.132:11310#
-socks5://123:123@47.239.194.38:5555#
-socks5://123:123@47.239.71.70:11601#
-socks5://123:123@47.243.225.10:8888#
-socks5://123:123@47.83.127.139:5555#
-socks5://123:123@8.218.153.191:3060#
-socks5://45.144.54.40:1080
-socks5://49.13.22.249:10814
-socks5://ID_vpnclientpro3:ID_vpnclientpro3@87.117.198.61:1081#
-socks5://admin:admin@47.242.19.215:8899#
+socks5://ID_vpnclientpro3:ID_vpnclientpro3@87.117.198.61:1081#%F0%9F%87%AC%F0%9F%87%A7188580%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks5://ID_vpnclientpro3:ID_vpnclientpro3@94.102.49.189:1081#%F0%9F%90%9E32@oneclickvpnkeys
