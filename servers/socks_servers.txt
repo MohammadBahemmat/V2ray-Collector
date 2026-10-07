@@ -1,3 +1,9 @@
-socks://Og@185.63.113.164:1085#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
-socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@140.99.255.7:1081#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
-socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@193.106.251.68:1081#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
+socks://107.167.18.122:443#
+socks://129.153.11.56:1080#
+socks://141.148.206.170:1088#
+socks://144.24.111.128:1088#
+socks://157.90.113.23:9052#
+socks://45.74.31.30:10034#
+socks://47.254.36.25:11080#
+socks://5.75.133.113:10802#
+socks://57.128.249.250:9052#
