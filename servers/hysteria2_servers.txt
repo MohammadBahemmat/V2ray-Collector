@@ -1,1 +1,1 @@
-hysteria2://ca78f919e6@155.94.134.183:11592?sni=srv-3fc7c9.21freedom.net&amp;obfs=salamander&amp;obfs-password=ec66908dbc46e6920143d9b684adf277#%F0%9F%87%AB%F0%9F%87%B7188843%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://ca78f919e6@155.94.134.183:11592?sni=srv-3fc7c9.21freedom.net&amp;obfs=salamander&amp;obfs-password=ec66908dbc46e6920143d9b684adf277#%F0%9F%87%AB%F0%9F%87%B7188892%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
