@@ -1,6 +1,2 @@
-socks://MTExOjExMQ@47.243.173.50:11211#%40Hddify%20-%20%F0%9F%8D%B7%20%C2%B9%C2%B2
-socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw%3D@5.77.55.146:1081#t.me%2FV2rayNGX
-socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw%3D@89.47.164.182:1081#t.me%2FV2rayNGX
-socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@193.106.251.68:1081#%40FarazV2ray%20
-socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@87.117.198.61:1081#%40FarazV2ray%20
-socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@89.47.164.182:1081#%40FarazV2ray%20
+socks://Og==@
+socks://Og@185.63.113.164:1085#Channel%20%3A%20%40Daily_Configs
