@@ -1,1 +1,4 @@
-socks5://45.144.54.40:1080
+socks5://213.79.5.192:1080#%F0%9F%90%9E97@oneclickvpnkeys
+socks5://82.114.86.173:1090#%F0%9F%90%9E95@oneclickvpnkeys
+socks5://ID_vpnclientpro3:ID_vpnclientpro3@87.117.198.61:1081#%F0%9F%90%9E70@oneclickvpnkeys
+socks5://ID_vpnclientpro3:ID_vpnclientpro3@94.102.49.189:1081#%F0%9F%90%9E32@oneclickvpnkeys
