@@ -1,1 +1,6 @@
-socks://SURfdnBuY2xpZW50cHJvMzpJRF92cG5jbGllbnRwcm8z@94.102.49.189:1081#%40V2RAYROZ%20%F0%9F%8D%81%F0%9F%8D%82
+socks://2YXYp9iv2LFf2KzZhtiv2Ydf2KjbjF/Yudix2LbZhzprb3NrZXNo@vasat.kose.madaret_madar_jende:8080?type=tcp#@techbod
+socks://MTExOjExMQ@47.243.173.50:11211#%40FarazV2ray%20
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@193.106.251.68:1081#%40FarazV2ray%20
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@87.117.198.61:1081#%40FarazV2ray%20
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@89.47.164.182:1081#%40FarazV2ray%20
+socks://a29zX2tlc2hfcGF5ZGF0X21pa29uYW1fYmVsYWtoYXJlOmJpcGVkYXI@madart_jendast_dozd.badbakht.com:10780?type=tcp#@techbod
