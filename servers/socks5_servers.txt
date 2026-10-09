@@ -1,1 +1,5 @@
-socks5://79.104.196.6:11080#%F0%9F%98%8A92@oneclickvpnkeys
+socks5://103.75.118.84:1080#JP%20-%20zhuhai.uk
+socks5://110.38.233.122:1080#PK%20-%20zhuhai.uk
+socks5://202.4.116.146:9090#NL%20-%20zhuhai.uk
+socks5://83.147.217.103:1080#US%20-%20zhuhai.uk%2005
+socks5://87.117.2.201:1080#RU%20-%20zhuhai.uk%2002
