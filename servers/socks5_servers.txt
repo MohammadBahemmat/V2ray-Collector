@@ -1,3 +1,4 @@
-socks5://172.86.84.97:1083
-socks5://45.74.31.42:13447
-socks5://45.74.31.42:9998
+socks5://130.193.165.54:1080#IQ%20-%20zhuhai.uk
+socks5://90.150.21.88:1080#RU%20-%20zhuhai.uk
+socks5://u8999817684:sMzbslNCdpH8GpahnLhv@143.246.59.194:41770#
+socks5://u8999817684:sMzbslNCdpH8GpahnLhv@91.229.133.236:41770#
