@@ -1,3 +1,2 @@
-socks://MTExOjExMQ@47.243.173.50:11211#%40FarazV2ray%20
-socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@5.77.55.146:1081#kurdconfig
-socks://SURfdnBuY2xpZW50cHJvMzpJRF92cG5jbGllbnRwcm8z@94.102.49.189:1081#@meliproxyy
+socks://Og@178.252.165.226:1080#
+socks://SURfdnBuY2xpZW50cHJvMzpJRF92cG5jbGllbnRwcm8z@94.102.49.189:1081#@vasl_bashim
