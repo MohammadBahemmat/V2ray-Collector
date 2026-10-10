@@ -1,1 +1,1 @@
-socks://MTExOjExMQ@47.243.173.50:11211#%40ProxyMTProtoIR%20
+socks://MTExOjExMQ@47.243.173.50:11211#%40FarazV2ray%20
