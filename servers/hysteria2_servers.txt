@@ -1,5 +1,2 @@
-hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&amp;obfs=salamander&amp;obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&amp;insecure=0&amp;mport=21000-21999&amp;sni=hy.kirian.su#%40FarazV2ray%20
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33130?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=mbQXP2ASuHbF6ZPq&amp;insecure=1#%F0%9F%87%A8%F0%9F%87%AD191388%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#kurdconfig
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.21:9443/?sni=onecloudstream.com#%F0%9F%87%B1%F0%9F%87%BB191314%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010/?obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0191263%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&amp;obfs=salamander&amp;obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&amp;insecure=0&amp;mport=21000-21999&amp;sni=hy.kirian.su#
+hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&amp;obfs=salamander&amp;obfs-password=ec66908dbc46e6920143d9b684adf277&amp;insecure=0&amp;sni=srv-3fc7c9.21freedom.net#%40v2rayargon
