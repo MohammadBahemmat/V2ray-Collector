@@ -1,1 +1,2 @@
-hysteria2://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:8443/?insecure=1&amp;sni=tx-hy2#%F0%9F%87%B8%F0%9F%87%AC191042%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&amp;obfs=salamander&amp;obfs-password=87d72c2949c0ca85bbda09459244e374&amp;insecure=0&amp;sni=srv-0e5387.frd21.ru#%40VConfing%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
+hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&amp;obfs=salamander&amp;obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&amp;insecure=0&amp;mport=21000-21999&amp;sni=hy.kirian.su#
