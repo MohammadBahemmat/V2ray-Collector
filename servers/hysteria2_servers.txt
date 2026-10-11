@@ -1,2 +1,5 @@
-hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&amp;obfs=salamander&amp;obfs-password=87d72c2949c0ca85bbda09459244e374&amp;insecure=0&amp;sni=srv-0e5387.frd21.ru#%40VConfing%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
-hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&amp;obfs=salamander&amp;obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&amp;insecure=0&amp;mport=21000-21999&amp;sni=hy.kirian.su#%40v2ray26%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&amp;obfs=salamander&amp;obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=api.kermanshahi.org#@KAFING_2
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&amp;obfs=salamander&amp;obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=0&amp;sni=api.kermanshahi.org#@KAFING_2
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&amp;obfs=salamander&amp;obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=api.kermanshahi.org#@KAFING_2
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443/?insecure=1&amp;sni=cabinet.wwwinternetvideo.click#
