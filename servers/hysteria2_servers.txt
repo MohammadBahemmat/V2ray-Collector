@@ -1,2 +1,1 @@
-hysteria2://033dc6b532@77.232.139.128:11592?security=tls&amp;obfs=salamander&amp;obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4&amp;insecure=0&amp;sni=srv-8718e6.frd21.ru#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.33:443/?insecure=1&amp;sni=dehy.bbobr.win#%40filembad
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&amp;sni=hy2.aspidnet.xyz&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#
