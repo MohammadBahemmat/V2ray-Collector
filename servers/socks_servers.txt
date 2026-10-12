@@ -1,3 +1,1 @@
-socks://MTExOjExMQ@47.243.173.50:11211#kurdconfig
-socks://Og@178.252.165.226:1080#kurdconfig
-socks://Og@212.77.75.25:1088#%40NormanV2rayX%F0%9F%87%AE%F0%9F%87%B9
+socks://138.2.216.186:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Ashburn%20%7C%20%E2%8F%B1966ms%20%7C%20%E2%9A%A196KB%2Fs%20%7C%20%40NamazVPN
