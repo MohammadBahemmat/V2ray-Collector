@@ -1,3 +1,1 @@
-socks://103.136.106.5:1081#
-socks://Og==@
-socks://dGVzdDEyMzp0ZXN0MTIz@185.145.99.41:1080#%20
+socks://dGVzdDEyMzp0ZXN0MTIz@169.255.56.148:1080#%40horizonvpnn
