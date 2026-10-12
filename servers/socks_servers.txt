@@ -1,2 +1,1 @@
-socks://MTExOjExMQ@47.243.173.50:11211#kurdconfig
-socks://Og@178.252.165.226:1080#kurdconfig
+socks://SURfdnBuY2xpZW50cHJvMzpJRF92cG5jbGllbnRwcm8z@94.102.49.189:1081#%F0%9F%87%B3%F0%9F%87%B1Telegram%F0%9F%91%89%40FastNetTools
