@@ -1,2 +1,2 @@
-socks://MTExOjExMQ@47.243.173.50:11211#kurdconfig
-socks://Og@178.252.165.226:1080#kurdconfig
+socks://MTExOjExMQ@47.243.173.50:11211#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
+socks://Og@178.252.165.226:1080#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
