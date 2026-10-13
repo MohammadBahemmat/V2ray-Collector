@@ -1,1 +1,1 @@
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053/?sni=match-stream.lovkisport.blog#%F0%9F%AB%A79@oneclickvpnkeys
+hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&amp;obfs=salamander&amp;obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&amp;insecure=0&amp;mport=21000-21999&amp;sni=hy.kirian.su#Channel%20%3A%20%40Daily_Configs%20
