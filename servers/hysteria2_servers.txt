@@ -1,3 +1,1 @@
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#
-hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&amp;obfs=salamander&amp;obfs-password=KevinZakarian&amp;insecure=1&amp;sni=179.61.132.96#
-hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33025?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=mbQXP2ASuHbF6ZPq&amp;insecure=1#
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#
