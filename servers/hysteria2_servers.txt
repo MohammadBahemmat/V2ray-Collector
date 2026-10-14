@@ -1,2 +1,2 @@
-hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&amp;obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;insecure=0&amp;sni=ru03.arpanet-cdn.com#%F0%9F%90%A666%40ConfigV2RayNG
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#
+hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701/?obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;sni=ru03.arpanet-cdn.com#%F0%9F%90%A666@oneclickvpnkeys
+hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053/?sni=match-stream.lovkisport.blog#%F0%9F%AB%A79@oneclickvpnkeys
