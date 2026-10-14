@@ -1,2 +1,3 @@
-hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&amp;obfs=salamander&amp;obfs-password=87d72c2949c0ca85bbda09459244e374&amp;insecure=0&amp;sni=srv-0e5387.frd21.ru#%40Shh_Proxy-New%C2%B9
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#kurdconfig
+hysteria2://033dc6b532@77.232.139.128:11592/?sni=srv-8718e6.frd21.ru#vpnsal
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21154?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=mbQXP2ASuHbF6ZPq&amp;insecure=1#%F0%9F%87%A8%F0%9F%87%AD194364%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://wuiilter2vjzk5ov@mng.sevm.ir:10458?security=tls&amp;obfs=salamander&amp;obfs-password=8uopc7mikozmbacw&amp;insecure=0&amp;sni=mng.sevm.ir#%D8%AA%D8%B3%D8%AA%40%F0%9D%99%8F%F0%9D%99%96%F0%9D%99%AF%F0%9D%99%9E%F0%9D%99%AE%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%9A%F0%9D%99%96%F0%9D%99%A2
