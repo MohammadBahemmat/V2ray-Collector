@@ -1,2 +1,6 @@
-hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701/?obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;sni=ru03.arpanet-cdn.com#%F0%9F%90%A666@oneclickvpnkeys
-hysteria2://c635b5f6-b5ea-4e57-927f-75860b0cb984@hy10.shamanfun.ru:1443?security=tls&amp;insecure=0&amp;sni=hy10.shamanfun.ru#%F0%9F%87%B3%F0%9F%87%B1193803%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://033dc6b532@77.232.139.128:11592/?sni=srv-8718e6.frd21.ru#%F0%9F%87%B7%F0%9F%87%BA193861%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&amp;obfs=salamander&amp;obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&amp;insecure=0&amp;mport=21000-21999&amp;sni=hy.kirian.su#%40v2ray26%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://c635b5f6-b5ea-4e57-927f-75860b0cb984@hy10.shamanfun.ru:1443?security=tls&amp;insecure=0&amp;sni=hy10.shamanfun.ru#%F0%9F%87%B3%F0%9F%87%B1193852%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0%40FreakConfig
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.139:8443?insecure=1&amp;sni=grape-turbo-fr.roxa.org#%F0%9F%87%B3%F0%9F%87%B1193870%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://wrSuBorIlf@72.56.116.57:443?insecure=1&amp;sni=hys9.wba-pn.ru#%F0%9F%87%B3%F0%9F%87%B1193872%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
