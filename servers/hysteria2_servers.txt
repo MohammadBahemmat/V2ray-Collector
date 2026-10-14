@@ -1,2 +1,3 @@
-hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701/?obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;sni=ru03.arpanet-cdn.com#%F0%9F%90%A666@oneclickvpnkeys
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053/?sni=match-stream.lovkisport.blog#%F0%9F%AB%A79@oneclickvpnkeys
+hysteria2://17537e14543a478b9c7a558870d814f3@mhzedir.qzz.io:51791?security=tls&amp;obfs=salamander&amp;obfs-password=7y0p9k93w7ryw8tz&amp;insecure=0&amp;sni=mhzedir.qzz.io#%40ange1Vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
+hysteria2://9ed56ba1c7c44bbab670d83a435591b8@mhzedir.qzz.io:51791?security=tls&amp;obfs=salamander&amp;obfs-password=7y0p9k93w7ryw8tz&amp;insecure=0&amp;sni=mhzedir.qzz.io#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20ange1Vpn%40
+hysteria2://c635b5f6-b5ea-4e57-927f-75860b0cb984@hy10.shamanfun.ru:1443?security=tls&amp;insecure=0&amp;sni=hy10.shamanfun.ru#%F0%9F%87%B3%F0%9F%87%B1193803%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
