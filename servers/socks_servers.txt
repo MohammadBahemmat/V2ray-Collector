@@ -1,6 +1,3 @@
-socks://27.73.208.144:1080#
-socks://45.74.31.42:4954#
-socks://45.74.31.46:9002#
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#@KAFING_2
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@pl-tor.pvdata.host:1080#@KAFING_2
-socks://Og@178.252.165.226:1080#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
+socks://45.74.31.47:8946#%F0%9F%87%AB%F0%9F%87%B7%20France%20Gravelines%20%7C%20%E2%8F%B11672ms%20%7C%20%E2%9A%A173KB%2Fs%20%7C%20%40NamazVPN
+socks://MTExOjExMQ@47.243.173.50:11211#kurdconfig
+socks://Og@178.252.165.226:1080#kurdconfig
