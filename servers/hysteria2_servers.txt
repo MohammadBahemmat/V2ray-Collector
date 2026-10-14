@@ -1,2 +1,5 @@
-hysteria2://033dc6b532@77.232.139.128:11592/?sni=srv-8718e6.frd21.ru#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-hysteria2://033dc6b532@77.232.139.128:11592?security=tls&amp;obfs=salamander&amp;obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4&amp;insecure=0&amp;sni=srv-8718e6.frd21.ru#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+hysteria2://033dc6b532@77.232.139.128:11592/?sni=srv-8718e6.frd21.ru#%F0%9F%87%B7%F0%9F%87%BA193861%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&amp;obfs=salamander&amp;obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&amp;insecure=0&amp;mport=21000-21999&amp;sni=hy.kirian.su#Telegram%20%40mtmvpn%20
+hysteria2://C0DD7bgChaltqnh%2FT2az6ijM@130.162.134.218:20000?security=tls&amp;obfs=salamander&amp;obfs-password=C0DD7bgChaltqnh%2FT2az6ijM&amp;insecure=0&amp;mport=20000-30000&amp;sni=rmgyvpn.rest#%F0%9F%87%B0%F0%9F%87%B7193918%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.139:8443?insecure=1&amp;sni=grape-turbo-fr.roxa.org#%F0%9F%87%B3%F0%9F%87%B1193870%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://wrSuBorIlf@72.56.116.57:443?insecure=1&amp;sni=hys9.wba-pn.ru#%F0%9F%87%B3%F0%9F%87%B1193872%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
