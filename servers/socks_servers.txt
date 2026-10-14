@@ -1,3 +1,2 @@
-socks://49.13.22.249:10803#
-socks://49.13.22.249:10805#
-socks://dGVzdDEyMzp0ZXN0MTIz@169.255.56.148:1080#%40horizonvpnn
+socks://MTExOjExMQ@47.243.173.50:11211#kurdconfig
+socks://Og@178.252.165.226:1080#kurdconfig
