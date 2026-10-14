@@ -1,2 +1,1 @@
-socks5://36.155.23.163:10808
-socks5://45.144.54.40:1080
+socks5://VDJjbE0wUWxNMFE2Og%3D%3D:@121.169.46.116:1090#KR%20-%20zhuhai.uk
