@@ -1,3 +1,1 @@
-hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&amp;obfs=salamander&amp;obfs-password=87d72c2949c0ca85bbda09459244e374&amp;insecure=0&amp;sni=srv-0e5387.frd21.ru#%40Shh_-New%C2%B9
-hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&amp;obfs=salamander&amp;obfs-password=ec66908dbc46e6920143d9b684adf277&amp;insecure=0&amp;sni=srv-3fc7c9.21freedom.net#
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1#
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#
