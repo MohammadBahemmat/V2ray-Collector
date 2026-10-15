@@ -1,1 +1,2 @@
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%40VConfing%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%201
+hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&amp;obfs=salamander&amp;obfs-password=KevinZakarian&amp;insecure=1&amp;sni=179.61.132.96#
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#
