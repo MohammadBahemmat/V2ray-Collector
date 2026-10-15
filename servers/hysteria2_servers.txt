@@ -1,9 +1,3 @@
-hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&amp;obfs=salamander&amp;obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&amp;insecure=0&amp;mport=21000-21999&amp;sni=hy.kirian.su#Telegram%20%40mtmvpn%20
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443/?sni=vk.com&amp;obfs=salamander&amp;obfs-password=HysteriaHowdy&amp;insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
-hysteria2://b42d90fa667942aebc734d60@137.23.2.56:20000?security=tls&amp;obfs=salamander&amp;obfs-password=b42d90fa667942aebc734d60&amp;insecure=0&amp;mport=20000-30000&amp;sni=rmgyvpn.rest#%F0%9F%87%A6%F0%9F%87%BA194640%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:8447?mport=24000-24199,37000-37199&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;sni=vpn.local&amp;insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20NL-1%20%E2%80%A2%20TG%20%40RE_s_B
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21154?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=mbQXP2ASuHbF6ZPq&amp;insecure=1#0011510
-hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21169?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ChY5QQQT3ZtUdNT8&amp;insecure=1#0013731
-hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21182?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ChY5QQQT3ZtUdNT8&amp;insecure=1#0013733
-hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:33128?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ChY5QQQT3ZtUdNT8&amp;insecure=1#0020435
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1#
+hysteria2://b42d90fa667942aebc734d60@137.23.2.56:20000?security=tls&amp;obfs=salamander&amp;obfs-password=b42d90fa667942aebc734d60&amp;insecure=0&amp;mport=20000-30000&amp;sni=rmgyvpn.rest#%F0%9F%87%A6%F0%9F%87%BA194591%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0%40FreakConfig
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1#%F0%9F%87%A9%F0%9F%87%AA194542%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
