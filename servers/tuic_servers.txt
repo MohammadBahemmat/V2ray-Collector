@@ -1,2 +1,1 @@
-tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738?alpn=h3&amp;congestion_control=bbr&amp;congestion_controller=bbr&amp;sni=sg2-8sb.6121999.dpdns.org&amp;udp_relay_mode=quic&amp;version=5%23%F0%9F%8D%8195@oneclickvpnkeys#@V2ray_Collector
 tuic://8a9905b7-801b-41af-bfc9-2034212770f6:8A9905B7-801B-41AF-BFC9-2034212770F6@tw3.dexlos.com:8080?sni=tw3.dexlos.com&amp;alpn=h3&amp;congestion_control=bbr#@V2ray_Collector
