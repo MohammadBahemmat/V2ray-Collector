@@ -1,2 +1,1 @@
-hysteria2://033dc6b532@77.232.139.128:11592/?sni=srv-8718e6.frd21.ru#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&amp;obfs=salamander&amp;obfs-password=ec66908dbc46e6920143d9b684adf277&amp;insecure=0&amp;sni=srv-3fc7c9.21freedom.net#
+hysteria2://033dc6b532@77.232.139.128:11592/?sni=srv-8718e6.frd21.ru#@meliproxyy
