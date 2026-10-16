@@ -1,6 +1,1 @@
-hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&amp;obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;insecure=0&amp;sni=ru03.arpanet-cdn.com#@vasl_bashim
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443/?sni=t.me&amp;obfs=salamander&amp;obfs-password=HysteriaHowdy&amp;insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443/?sni=vk.com&amp;obfs=salamander&amp;obfs-password=HysteriaHowdy&amp;insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
-hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:8447?mport=24000-24199,37000-37199&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;sni=vpn.local&amp;insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20NL-1%20%E2%80%A2%20TG%20%40RE_s_B
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21154?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=mbQXP2ASuHbF6ZPq&amp;insecure=1#0011510
-hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?security=tls&amp;insecure=0&amp;sni=hy2.561891.xyz#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%AD%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0%40FreakConfig
