@@ -1,1 +1,2 @@
-socks://Og@178.252.165.226:1080#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
+socks://Og@178.252.165.226:1080#
+socks://SURfdnBuY2xpZW50cHJvMzpJRF92cG5jbGllbnRwcm8z@94.102.49.189:1081#%F0%9F%87%B3%F0%9F%87%B1Telegram%F0%9F%91%89%40FastNetTools
