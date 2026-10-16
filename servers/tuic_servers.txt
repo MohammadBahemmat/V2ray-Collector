@@ -1,1 +1,2 @@
 tuic://8a9905b7-801b-41af-bfc9-2034212770f6:8A9905B7-801B-41AF-BFC9-2034212770F6@tw3.dexlos.com:8080?sni=tw3.dexlos.com&amp;alpn=h3&amp;congestion_control=bbr#@V2ray_Collector
+tuic://8a9905b7-801b-41af-bfc9-2034212770f6:8A9905B7-801B-41AF-BFC9-2034212770F6@tw5.dexlos.com:8080?sni=tw5.dexlos.com&amp;alpn=h3#@V2ray_Collector
