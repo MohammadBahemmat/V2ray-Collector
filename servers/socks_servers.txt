@@ -1,4 +1,2 @@
-socks://45.74.31.46:7944#%F0%9F%87%AB%F0%9F%87%B7%20France%20Gravelines%20%7C%20%E2%8F%B12450ms%20%7C%20%E2%9A%A1235KB%2Fs%20%7C%20%40NamazVPN
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#@KAFING_2
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@pl-tor.pvdata.host:1080#@KAFING_2
-socks://Og@178.252.165.226:1080#%40vmesskhodam
+socks://45.74.31.46:11047#
+socks://45.74.31.46:7944#
