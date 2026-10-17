@@ -1,2 +1,2 @@
-socks://45.74.31.46:11047#
-socks://45.74.31.46:7944#
+socks://45.74.31.46:14379#%F0%9F%87%AB%F0%9F%87%B7%20France%20Lauterbourg%20%7C%20%E2%8F%B13665ms%20%7C%20%E2%9A%A184KB%2Fs%20%7C%20%40NamazVPN
+socks://dGVzdDEyMzp0ZXN0MTIz@169.255.56.148:1080#%40horizonvpnn
