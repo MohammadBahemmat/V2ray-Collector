@@ -1,3 +1,2 @@
-socks5://62.83.33.70:1080#%F0%9F%87%A6%F0%9F%87%B9196308%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-socks5://62.83.34.101:1080#%F0%9F%87%A6%F0%9F%87%B9196311%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-socks5://@Enkelte_notif:@Notif_Chat@205.198.66.189:2470
+socks5://62.83.33.70:1080#%F0%9F%9B%A9%EF%B8%8F95@oneclickvpnkeys
+socks5://62.83.34.101:1080#%F0%9F%9B%A9%EF%B8%8F98@oneclickvpnkeys
