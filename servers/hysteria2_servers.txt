@@ -1,1 +1,3 @@
-hysteria2://033dc6b532@77.232.139.128:11592/?sni=srv-8718e6.frd21.ru#vpnsal
+hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&amp;obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;insecure=0&amp;sni=ru03.arpanet-cdn.com#%40v2ray_phoenix
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#%40Blue_Star_vip
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%40v2ray_phoenix
