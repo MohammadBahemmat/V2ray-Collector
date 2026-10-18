@@ -1,3 +1,10 @@
-hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&amp;obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;insecure=0&amp;sni=ru03.arpanet-cdn.com#%40v2ray_phoenix
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=ru1.sferavpn.pro#%40Blue_Star_vip
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%40v2ray_phoenix
+hysteria2://033dc6b532@77.232.139.128:11592?security=tls&amp;obfs=salamander&amp;obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4&amp;insecure=0&amp;sni=srv-8718e6.frd21.ru#@meliproxyy
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.106.162:54183/?sni=outh.yandex-cloud.org#%F0%9F%9B%A9%EF%B8%8F40@oneclickvpnkeys
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.2:54183/?sni=outh.yandex-cloud.org#%F0%9F%9B%A9%EF%B8%8F15@oneclickvpnkeys
+hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=c13f29db6a638ad2b211b9ce2669ef27&amp;sni=www.bing.com#%F0%9F%9B%A9%EF%B8%8F61@oneclickvpnkeys
+hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443/?sni=tcp-reset-club.net#%40tootffarangi%F0%9F%8D%93
+hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&amp;obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;insecure=0&amp;sni=ru03.arpanet-cdn.com#@meliproxyy
+hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@nl1server.rabstvo.shop:443/?insecure=1#%F0%9F%AB%9192@oneclickvpnkeys
+hysteria2://e625f8ef-f935-4c7d-a259-0f154b6842fd@177.3.209.226:443/?sni=hy-se.bypassme.online#%F0%9F%9B%A9%EF%B8%8F31@oneclickvpnkeys
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443/?insecure=1&amp;sni=www.docker.com#%F0%9F%9B%A9%EF%B8%8F39@oneclickvpnkeys
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111/?insecure=1&amp;sni=bing.com#%F0%9F%9B%A9%EF%B8%8F66@oneclickvpnkeys
