@@ -1,4 +1,1 @@
-socks5://173.212.252.150:1080#%F0%9F%8D%8E38@oneclickvpnkeys
-socks5://67.207.92.87:1088#
-socks5://89.58.42.118:3129#%F0%9F%8C%8D45@oneclickvpnkeys
-socks5://91.107.247.193:7001#%F0%9F%8D%8E15@oneclickvpnkeys
+socks5://67.207.92.87:1088#%F0%9F%87%BA%F0%9F%87%B8197199%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
