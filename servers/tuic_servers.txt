@@ -1,3 +1,2 @@
-tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?alpn=h3&udp=true&sni=sg2-8sb.6121999.dpdns.org&congestion_control=cubic&udp_relay_mode=native#%F0%9F%87%B8%F0%9F%87%AC%20Loyang%2C%20SG%20%C2%B7%20Oracle%20Corporation%20%7C%20sg2-8sb.6121999.dpdns.org%20%3A33738
 tuic://8a9905b7-801b-41af-bfc9-2034212770f6:8A9905B7-801B-41AF-BFC9-2034212770F6@tw3.dexlos.com:8080?sni=tw3.dexlos.com&amp;alpn=h3&amp;congestion_control=bbr#@V2ray_Collector
 tuic://8a9905b7-801b-41af-bfc9-2034212770f6:8A9905B7-801B-41AF-BFC9-2034212770F6@tw5.dexlos.com:8080?sni=tw5.dexlos.com&amp;alpn=h3#@V2ray_Collector
