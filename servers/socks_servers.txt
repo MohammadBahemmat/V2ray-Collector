@@ -1,9 +1,2 @@
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%28FI%29%20-%20Helsinki%20%7C%20fi-esp.pvdata.host%3A1080
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080?note=@FreeOnlineVPN#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%20%28LU%29%20-%20Unknown%20%7C%20lu-lux.pvdata.host%3A1080
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@pl-tor.pvdata.host:1080#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%28PL%29%20-%20Unknown%20%7C%20pl-tor.pvdata.host%3A1080
-socks://Og%3D%3D@91.107.247.193:7001#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%28DE%29%20-%20Nuremberg%20%7C%2091.107.247.193%3A7001
-socks://Og@89.58.42.118:3129#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%28DE%29%20-%20Nuremberg%20%7C%2089.58.42.118%3A3129
-socks://Og@91.107.247.193:7001#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%28DE%29%20-%20Nuremberg%20%7C%2091.107.247.193%3A7001%202
-socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@89.47.164.182:1081#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%28LT%29%20-%20Vilnius%20%7C%2089.47.164.182%3A1081
-socks://TV9ZT1VfRDpQcml2YXRl@85.17.179.81:1080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%28NL%29%20-%20Haarlem%20%7C%2085.17.179.81%3A1080
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@hu-bud.pvdata.host:1080#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%28HU%29%20-%20Budapest%20%7C%20hu-bud.pvdata.host%3A1080
+socks://Og@173.212.252.150:1080#Channel%20%3A%20%40Daily_Configs
+socks://Og@62.83.34.101:1080#Channel%20%3A%20%40Daily_Configs
