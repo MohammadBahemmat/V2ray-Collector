@@ -1,3 +1,2 @@
-hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&amp;obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;insecure=0&amp;sni=ru03.arpanet-cdn.com#@ICV2RAY
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey#%F0%9F%87%A9%F0%9F%87%AA197534%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%40VConfing%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%201
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey#%F0%9F%87%A9%F0%9F%87%AA197583%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://lh92eQnxIpeg2odHHDg0SrcczqwS4e8Y@179.255.104.98:443/?insecure=1&amp;sni=dl1.yuanshicheng.com#%F0%9F%8C%8D100@oneclickvpnkeys
