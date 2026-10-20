@@ -1,2 +1,1 @@
-socks://Og@89.58.42.118:3129#%40tootffarangi%F0%9F%8D%93
 socks://Og@91.107.247.193:7001#%40tootffarangi%F0%9F%8D%93
