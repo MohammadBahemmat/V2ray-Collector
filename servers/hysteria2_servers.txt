@@ -1,11 +1,1 @@
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@rb.mangshe.xyz:2060?insecure=1&amp;security=tls&amp;sni=127.0.0.1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%28JP%29%20-%20Tokyo%20%7C%20rb.mangshe.xyz%3A2060
-hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%28JP%29%20-%20Minamishinagawa%20%7C%20vp3.yysyy.online%3A443%203
-hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%28JP%29%20-%20Minamishinagawa%20%7C%20vp3.yysyy.online%3A443%204
-hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?security=tls&amp;sni=vp3.yysyy.online#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%28JP%29%20-%20Minamishinagawa%20%7C%20vp3.yysyy.online%3A443%205
-hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?sni=vp3.yysyy.online&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%28JP%29%20-%20Minamishinagawa%20%7C%20vp3.yysyy.online%3A443
-hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-us.legeth.xyz:11683?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28US%29%20-%20Unknown%20%7C%20yume-us.legeth.xyz%3A11683
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?allow_insecure=1&allowInsecure=1&insecure=1&sni=vpn-jp-001.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%28JP%29%20-%20Tokyo%20%7C%20vpn-jp-001.fastervpn.world%3A443
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-002.fastervpn.world:443?allow_insecure=1&allowInsecure=1&insecure=1&sni=vpn-jp-002.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%28JP%29%20-%20Tokyo%20%7C%20vpn-jp-002.fastervpn.world%3A443
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-006.fastervpn.world:443?insecure=1&sni=vpn-jp-006.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%28JP%29%20-%20Tokyo%20%7C%20vpn-jp-006.fastervpn.world%3A443
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?insecure=1&sni=vpn-jp-016.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%28JP%29%20-%20Tokyo%20%7C%20vpn-jp-016.fastervpn.world%3A443
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8443?insecure=1&amp;sni=grape-turbo-fr.roxa.org#@meliproxyy
+hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&amp;obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;insecure=0&amp;sni=ru03.arpanet-cdn.com#@ICV2RAY
