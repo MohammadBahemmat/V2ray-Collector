@@ -1,1 +1,2 @@
-socks://Og@91.107.247.193:7001#%40tootffarangi%F0%9F%8D%93
+socks://Og@173.212.252.150:1080#Channel%20%3A%20%40Daily_Configs
+socks://Og@62.83.34.101:1080#Channel%20%3A%20%40Daily_Configs
