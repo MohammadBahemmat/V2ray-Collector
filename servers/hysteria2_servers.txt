@@ -1,2 +1,5 @@
-hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&amp;obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;insecure=0&amp;sni=ru03.arpanet-cdn.com#@v2ray_confing33
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8443?insecure=1&amp;sni=grape-turbo-fr.roxa.org#@meliproxyy
+hysteria2://36cd82d2-50b1-0029-b520-2acc9a8a6b40@194.55.235.77:443/?sni=api-l1-2.northvale.cloud#%F0%9F%8C%8D71@oneclickvpnkeys
+hysteria2://36cd82d2-50b1-400d-b520-2acc9a8a6b40@fi.northvale.cloud:443/?sni=fi.northvale.cloud#%F0%9F%8C%8D68@oneclickvpnkeys
+hysteria2://36cd82d2-50b1-400d-b520-2acc9a8a6b40@lv1.northvale.cloud:443/?sni=lv.northvale.cloud#%F0%9F%8C%8D69@oneclickvpnkeys
+hysteria2://36cd82d2-50b1-400d-b520-2acc9a8a6b40@sw.northvale.cloud:443/?sni=sw.northvale.cloud#%F0%9F%8C%8D66@oneclickvpnkeys
+hysteria2://lh92eQnxIpeg2odHHDg0SrcczqwS4e8Y@179.255.104.98:443/?insecure=1&amp;sni=dl1.yuanshicheng.com#%F0%9F%8C%8D100@oneclickvpnkeys
