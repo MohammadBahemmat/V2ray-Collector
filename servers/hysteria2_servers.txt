@@ -1,5 +1,4 @@
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160/?insecure=1&amp;sni=vk.com#%F0%9F%9B%9597@oneclickvpnkeys
-hysteria2://Telegram%253Avpnjey@179.61.138.145:36264?insecure=0&amp;sni=de2.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;security=tls#%40Zero_tunnel%20%F0%9F%92%9E%20-%20%D9%88%D8%B5%D9%84%20%D8%B4%D9%88
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40V2raySaman%20
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey#@Vpn_Click
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=de1.sferavpn.pro#%40FarazV2ray%20
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160/?insecure=1&amp;sni=vk.com#%40tootffarangi%F0%9F%8D%93
+hysteria2://Telegram%253Avpnjey@179.61.138.145:36264?insecure=0&amp;sni=de2.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;security=tls#%40tootffarangi%F0%9F%8D%93
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40FarazV2ray%20
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8443?insecure=1&amp;sni=grape-turbo-fr.roxa.org#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
