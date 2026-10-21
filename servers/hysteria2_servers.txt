@@ -1,2 +1,1 @@
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey#%40FarsiProxi
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8443?insecure=1&amp;sni=grape-turbo-fr.roxa.org#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40tootffarangi%F0%9F%8D%93
