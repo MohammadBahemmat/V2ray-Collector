@@ -1,3 +1,2 @@
-hysteria2://Telegram%253Avpnjey@179.61.138.145:36264?insecure=0&amp;sni=de2.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;security=tls#%40Zero_tunnel%20%F0%9F%92%9E%20-%20%D9%88%D8%B5%D9%84%20%D8%B4%D9%88
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40V2RFA%20
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey#@Vpn_Click
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160/?insecure=1&amp;sni=vk.com#%40tootffarangi%F0%9F%8D%93
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20MTMVPN
