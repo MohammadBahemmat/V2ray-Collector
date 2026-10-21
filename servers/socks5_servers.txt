@@ -1,2 +1,1 @@
 socks5://5.255.103.55:1080#%E2%9B%B296@oneclickvpnkeys
-socks5://89.58.42.118:3129#%F0%9F%8C%8D45@oneclickvpnkeys
