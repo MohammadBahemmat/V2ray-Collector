@@ -1,4 +1,1 @@
-socks://#Anonymous
-socks://Og%3D%3D@89.44.112.13:1100#@v2rayng3
-socks://Og@89.58.42.118:3129#%F0%9F%8C%8D45%40ConfigV2RayNG
-socks://Og@91.107.247.193:7001#برای
+socks://Og@91.107.247.193:7001#YFZ%2082%20%40Outline_Vpn
