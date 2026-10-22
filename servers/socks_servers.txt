@@ -1,7 +1,4 @@
-socks://MTExOjExMQ@47.243.173.50:11211#@meliproxyy
-socks://ODg4ODo4ODg4@8.210.31.250:1080#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20128712
-socks://Og%3D%3D@121.169.46.116:1090#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20391527
+socks://#Anonymous
 socks://Og%3D%3D@89.44.112.13:1100#@v2rayng3
 socks://Og@89.58.42.118:3129#%F0%9F%8C%8D45%40ConfigV2RayNG
 socks://Og@91.107.247.193:7001#برای
-socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@89.47.164.182:1081#[11370][LT][0][SS][None][free1_vpn][2026-10-06][2026-10-22
