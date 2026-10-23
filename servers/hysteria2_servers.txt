@@ -1,6 +1,4 @@
-hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&amp;obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;insecure=0&amp;sni=ru03.arpanet-cdn.com#%40v2ray_phoenix
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&amp;sni=https%3A#%F0%9F%87%B9%F0%9F%87%BC199024%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&amp;sni=127.0.0.1#%F0%9F%87%B9%F0%9F%87%BC199026%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obf
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40FarazV2ray%20
-hysteria2://c8atyykwxqwv7fh1@sub.dpiccolo.ir:1134?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=lwb9m11ni1h8qjcq&amp;insecure=0&amp;sni=sub.dpiccolo.ir#%F0%9F%9A%80%20%20%F0%9F%87%B3%F0%9F%87%B1%C2%B2%20Dnet
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&amp;sni=https%3A#%F0%9F%87%B9%F0%9F%87%BC199073%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&amp;sni=127.0.0.1#%F0%9F%87%B9%F0%9F%87%BC199075%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40V2RFA%20
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey#Channel%20%3A%20%40Daily_Configs
