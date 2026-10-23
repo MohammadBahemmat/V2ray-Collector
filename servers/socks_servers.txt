@@ -1,2 +1,1 @@
-socks://Og@89.58.42.118:3129#%F0%9F%8C%8D45%40ConfigV2RayNG
-socks://ch-zur.pvdata.host:1080#%F0%9F%87%A8%F0%9F%87%AD198611%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://ch-zur.pvdata.host:1080#
