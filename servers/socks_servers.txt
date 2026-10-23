@@ -1,1 +1,4 @@
-socks://ch-zur.pvdata.host:1080#%F0%9F%87%A8%F0%9F%87%AD198611%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw@89.47.164.182:1081#[11370][LT][0][SS][None][free1_vpn][2026-10-06][2026-10-22
+socks://U0RQb3J3Rkp4YW9OckxpOjFAU29vblRlYW0%3D@104.254.90.218:1080#telegram%20%40mtmvpn
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@de-fra.pvdata.host:1080#telegram%20%40mtmvpn
+socks://ch-zur.pvdata.host:1080#%F0%9F%87%A8%F0%9F%87%AD198660%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
