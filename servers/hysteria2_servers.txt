@@ -1,5 +1,1 @@
-hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@me17.msjia8844.site:7443/?sni=me17.msjia8844.site#@meliproxyy
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obf
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40FarazV2ray%20
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey#@meliproxyy
-hysteria2://c8atyykwxqwv7fh1@sub.dpiccolo.ir:1134?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=lwb9m11ni1h8qjcq&amp;insecure=0&amp;sni=sub.dpiccolo.ir#%F0%9F%9A%80%20%20%F0%9F%87%B3%F0%9F%87%B1%C2%B2%20Dnet
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40V2RFA%20
