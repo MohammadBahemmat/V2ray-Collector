@@ -1,4 +1,12 @@
-hysteria2://6c08282be942c620199e6844c6179a4b@ai.irdmc.com:30000?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=Join-JavidnamanIran-on-Telegram&amp;insecure=0&amp;sni=ai.irdmc.com#%40tootffarangi%F0%9F%8D%93
-hysteria2://Telegram-vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&amp;alpn=h3&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey&amp;insecure=1#
-hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey#
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#%F0%9F%87%B8%F0%9F%87%AA199255%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://4c858cccff331e64c711a199a6cb256a@clash2.deep-links.com:443/?sni=clash2.deep-links.com#@V2ray_Collector
+hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443#@V2ray_Collector
+hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?insecure=1#@V2ray_Collector
+hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#@V2ray_Collector
+hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?sni=vp3.yysyy.online#@V2ray_Collector
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40FarazV2ray%20
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey#Channel%20%3A%20%40Daily_Configs
+hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?insecure=1#@V2ray_Collector
+hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?sni=uk.shamanapp.online&amp;insecure=0#@V2ray_Collector
+hysteria2://d5530551-5e9a-4ac5-8539-cee87e38d9e2@2.26.3.75:443?sni=fi.67chat.ru#@V2ray_Collector
+hysteria2://d5530551-5e9a-4ac5-8539-cee87e38d9e2@2.26.3.75:443?sni=fi.67chat.ru&amp;fp=firefox#@V2ray_Collector
+hysteria2://d5530551-5e9a-4ac5-8539-cee87e38d9e2@2.26.3.75:443?sni=fi.67chat.ru&amp;insecure=1#@V2ray_Collector
