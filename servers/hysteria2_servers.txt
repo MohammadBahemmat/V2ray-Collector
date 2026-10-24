@@ -1,8 +1,2 @@
-hysteria2://4c858cccff331e64c711a199a6cb256a@clash2.deep-links.com:443/?sni=clash2.deep-links.com#%F0%9F%9B%B862@oneclickvpnkeys
-hysteria2://5fa748137b6d822308eea4611f474ad5@155.117.19.17:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=a39ca173b57ac7021b08bf3e3de9f1f6&amp;sni=www.bing.com#%F0%9F%9B%B896@oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&amp;sni=https%3A#%F0%9F%87%B9%F0%9F%87%BC199024%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&amp;sni=vpn-tw-002.fastervpn.world#%F0%9F%9B%B8100@oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&amp;sni=127.0.0.1#%F0%9F%87%B9%F0%9F%87%BC199026%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@me17.msjia8844.site:7443/?sni=me17.msjia8844.site#@
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40V2ray_confiig
-hysteria2://Telegram-vpnjey@77.110.96.201:36264/?insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;sni=se.vpnjey2.dpdns.org#%F0%9F%9B%B864@oneclickvpnkeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&amp;sni=https%3A#%F0%9F%87%B9%F0%9F%87%BC199073%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&amp;sni=127.0.0.1#%F0%9F%87%B9%F0%9F%87%BC199075%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
