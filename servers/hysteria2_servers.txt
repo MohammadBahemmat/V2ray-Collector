@@ -1,3 +1,1 @@
-hysteria2://78559873-84ef-4cab-a0b2-46d4cd20de4a@144.31.230.51:2053/?sni=sweden.luxes.network#%F0%9F%87%B8%F0%9F%87%AA199336%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://78559873-84ef-4cab-a0b2-46d4cd20de4a@2.26.48.112:2053/?sni=noway.luxes.network#%F0%9F%87%A9%F0%9F%87%AA199327%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#%F0%9F%87%B8%F0%9F%87%AA199255%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&amp;obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;insecure=0&amp;sni=ru03.arpanet-cdn.com#%40v2ray_phoenix
