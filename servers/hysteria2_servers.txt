@@ -1,11 +1,2 @@
-hysteria2://4c858cccff331e64c711a199a6cb256a@clash2.deep-links.com:443/?sni=clash2.deep-links.com#%F0%9F%9B%B862@oneclickvpnkeys
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com
-hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&amp;obfs=salamander&amp;obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&amp;insecure=0&amp;mport=21000-21999&amp;sni=hy.kirian.su
-hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?security=tls&amp;obfs=salamander&amp;obfs-password=6cmj1dymhm79hopl&amp;insecure=0&amp;sni=gift-catalog.aroonia.ir
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&amp;sni=https%3A#%F0%9F%A4%A996@oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&amp;sni=127.0.0.1#%F0%9F%A4%A998@oneclickvpnkeys
-hysteria2://Hc9_NX924RE_Mn948rgrwiub_m93V84nll@5.254.51.108:9443?security=tls&amp;insecure=0&amp;sni=keyhop-voxility-at.dynuddns.com#%40v2ray_configs_pools%20%F0%9F%8C%8D%20%E2%9A%A1%EF%B8%8F
-hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@me17.msjia8844.site:7443/?sni=me17.msjia8844.site#@meliproxyy
-hysteria2://Telegram-vpnjey@77.110.96.201:36264/?insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;sni=se.vpnjey2.dpdns.org#%F0%9F%9B%B864@oneclickvpnkeys
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;sni=promo.betust.net#@GozargahAzad|
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#%F0%9F%87%B8%F0%9F%87%AA199255%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obf
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40FarazV2ray%20
