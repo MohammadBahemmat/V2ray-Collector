@@ -1,1 +1,2 @@
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#%F0%9F%87%B8%F0%9F%87%AA199304%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://6c08282be942c620199e6844c6179a4b@ai.irdmc.com:30000?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=Join-JavidnamanIran-on-Telegram&amp;insecure=0&amp;sni=ai.irdmc.com#%40tootffarangi%F0%9F%8D%93
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
