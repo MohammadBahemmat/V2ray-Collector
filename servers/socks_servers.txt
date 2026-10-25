@@ -1,1 +1,2 @@
-socks://Og@91.222.196.8:7071#%F0%9F%87%AE%F0%9F%87%B7199701%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks://Og==@
+socks://Og@91.222.196.8:7071#%40tootffarangi%F0%9F%8D%93
