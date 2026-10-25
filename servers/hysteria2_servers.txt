@@ -1,6 +1,7 @@
-hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&amp;sni=140.238.213.114#%F0%9F%87%A8%F0%9F%87%AD200002%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443/#%F0%9F%87%B3%F0%9F%87%B1200001%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0200082%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111/?insecure=1#%F0%9F%87%AB%F0%9F%87%B7199997%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://krdyzYNnXFQqyPtjiXw9lQ@68.210.96.82:8443?sni=www.bing.com&amp;insecure=1#%F0%9F%87%A6%F0%9F%87%B9199990%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443/?insecure=1&amp;sni=germany3.h2corp.local#
+hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52034?security=tls&amp;obfs=salamander&amp;obfs-password=fuw2k1ddrouwxr3u&amp;insecure=0&amp;sni=giftcard.gateway-stream.com#%40Kamkarstore
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&amp;sni=140.238.213.114#%F0%9F%87%A8%F0%9F%87%AD199953%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443/#%F0%9F%87%B3%F0%9F%87%B1199952%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%40tootffarangi%F0%9F%8D%93
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111/?insecure=1#%F0%9F%87%AB%F0%9F%87%B7199948%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://krdyzYNnXFQqyPtjiXw9lQ@68.210.96.82:8443?sni=www.bing.com&amp;insecure=1#%F0%9F%87%A6%F0%9F%87%B9199941%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443/?insecure=1&amp;sni=germany3.h2corp.local#%F0%9F%87%A9%F0%9F%87%AA200039%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
