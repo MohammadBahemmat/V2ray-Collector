@@ -1,3 +1,4 @@
-hysteria2://Telegram-vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&amp;alpn=h3&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey&amp;insecure=1#
-hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey#
-hysteria2://Telegram@vpnjey@179.61.138.145:54759?security=tls&amp;insecure=1&amp;pinSHA256=2dc4ced5b2f11471396071e90a76ae60273b2808ece4f07ef46a7a306350ee24&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey&amp;fastopen=0#
+hysteria2://41edb44c8e@103.88.243.142:11592/?sni=srv-17e124.21freedom.net#%F0%9F%87%B7%F0%9F%87%BA199434%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592/#%F0%9F%87%B7%F0%9F%87%BA199436%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443/#%F0%9F%87%B8%F0%9F%87%AA199432%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%AD%F0%9F%87%B0
