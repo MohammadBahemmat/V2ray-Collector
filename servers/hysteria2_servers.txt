@@ -1,9 +1,2 @@
-hysteria2://41edb44c8e@103.88.243.142:11592/?sni=srv-17e124.21freedom.net#%F0%9F%90%9997@oneclickvpnkeys
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592/#%F0%9F%90%9999@oneclickvpnkeys
-hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443/?sni=tcp-reset-club.net#%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB7@oneclickvpnkeys
-hysteria2://78559873-84ef-4cab-a0b2-46d4cd20de4a@144.31.230.51:2053/?sni=sweden.luxes.network#%F0%9F%90%9971@oneclickvpnkeys
-hysteria2://78559873-84ef-4cab-a0b2-46d4cd20de4a@2.26.48.112:2053/?sni=noway.luxes.network#%F0%9F%90%9962@oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&amp;sni=https%3A#%F0%9F%A4%A996@oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&amp;sni=127.0.0.1#%F0%9F%A4%A998@oneclickvpnkeys
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#%F0%9F%90%9932@oneclickvpnkeys
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443/#%F0%9F%90%9993@oneclickvpnkeys
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obf
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40FarazV2ray%20
