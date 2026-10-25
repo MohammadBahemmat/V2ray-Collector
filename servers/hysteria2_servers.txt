@@ -1,8 +1,4 @@
-hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443/?sni=tcp-reset-club.net#%F0%9F%87%B3%F0%9F%87%B1199653%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443/?insecure=1&amp;sni=vpn-fr-001.fastervpn.world#%F0%9F%87%AB%F0%9F%87%B7199765%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.167.227:443/?insecure=1&amp;sni=vpn-fr-001.fastervpn.world#%F0%9F%87%AB%F0%9F%87%B7199757%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@me17.msjia8844.site:7443/?sni=me17.msjia8844.site#@
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40V2ray_confiig
-hysteria2://mhsl@88.99.213.222:14444?sni=bing.com&amp;insecure=1#%F0%9F%87%A9%F0%9F%87%AA199747%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://miaoge110@5.45.100.100:51511/?insecure=1#%F0%9F%87%A9%F0%9F%87%AA199763%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://wdXYbPlYLa5yLB7LF2Ambo@46.225.10.16:443?sni=www.bing.com&amp;insecure=1&amp;fastopen=1#%F0%9F%87%A9%F0%9F%87%AA199745%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://Telegram-vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&amp;alpn=h3&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey&amp;insecure=1#
+hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey#
+hysteria2://Telegram@vpnjey@179.61.138.145:54759?security=tls&amp;insecure=1&amp;pinSHA256=2dc4ced5b2f11471396071e90a76ae60273b2808ece4f07ef46a7a306350ee24&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey&amp;fastopen=0#
+hysteria2://wdXYbPlYLa5yLB7LF2Ambo@46.225.10.16:443?sni=www.bing.com&amp;insecure=1&amp;fastopen=1#
