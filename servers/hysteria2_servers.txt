@@ -1,4 +1,3 @@
-hysteria2://Telegram-vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&amp;alpn=h3&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey&amp;insecure=1#
-hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey#
-hysteria2://Telegram@vpnjey@179.61.138.145:54759?security=tls&amp;insecure=1&amp;pinSHA256=2dc4ced5b2f11471396071e90a76ae60273b2808ece4f07ef46a7a306350ee24&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey&amp;fastopen=0#
-hysteria2://wdXYbPlYLa5yLB7LF2Ambo@46.225.10.16:443?sni=www.bing.com&amp;insecure=1&amp;fastopen=1#
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40V2RFA%20
+hysteria2://mhsl@88.99.213.222:14444?sni=bing.com&amp;insecure=1#%E8%B5%AB%E5%85%B9731%E6%9C%BA%E5%99%A8hy2
+hysteria2://wdXYbPlYLa5yLB7LF2Ambo@46.225.10.16:443?sni=www.bing.com&amp;insecure=1&amp;fastopen=1#VANTA-TTT
