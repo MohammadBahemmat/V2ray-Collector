@@ -1,11 +1,2 @@
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@13.143.232.62:4443/?sni=nl1.obxodvpn.us#%40tootffarangi%F0%9F%8D%93
-hysteria2://1953e43b-605c-4262-83eb-41a80646b801@87.76.211.161:443?sni=fastlinkdownload.song69.fun#@V2ray_Collector
-hysteria2://4c858cccff331e64c711a199a6cb256a@clash2.deep-links.com:443/?sni=clash2.deep-links.com#@V2ray_Collector
-hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?insecure=1#@V2ray_Collector
-hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#@V2ray_Collector
-hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?sni=vp3.yysyy.online#@V2ray_Collector
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
-hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?insecure=1#@V2ray_Collector
-hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?sni=uk.shamanapp.online&amp;insecure=0#@V2ray_Collector
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24062?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#%F0%9F%87%B3%F0%9F%87%B1200627%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://dd56bf58-4c37-42e1-9e75-4b6c67939ffd@pl.song69.fun:20270?sni=pl1.song69.fun#@V2ray_Collector
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@13.143.232.62:4443/?sni=nl1.obxodvpn.us#%F0%9F%87%B3%F0%9F%87%B1200597%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24062?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#%F0%9F%87%B3%F0%9F%87%B1200578%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
