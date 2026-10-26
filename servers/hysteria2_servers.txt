@@ -1,5 +1,2 @@
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24062?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#0028071
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37043?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#%F0%9F%87%B3%F0%9F%87%B1200393%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://krdyzYNnXFQqyPtjiXw9lQ@68.210.96.82:8443?sni=www.bing.com&amp;insecure=1#Hysteria2
-hysteria2://mhsl@88.99.213.222:14444?sni=bing.com&amp;insecure=1#%E8%B5%AB%E5%85%B9731%E6%9C%BA%E5%99%A8hy2
-hysteria2://wdXYbPlYLa5yLB7LF2Ambo@46.225.10.16:443?sni=www.bing.com&amp;insecure=1&amp;fastopen=1#VANTA-TTT
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
+hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24062?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#%40tootffarangi%F0%9F%8D%93
