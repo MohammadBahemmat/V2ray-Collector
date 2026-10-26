@@ -1,4 +1,2 @@
-hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&amp;obfs=salamander&amp;obfs-password=87d72c2949c0ca85bbda09459244e374&amp;insecure=0&amp;sni=srv-0e5387.frd21.ru#%40Shh_Proxy-New%C2%B9
-hysteria2://70043bfa-d6fb-4980-b27e-773e9e8b2004@193.23.216.156:443/?sni=crt.onecloudstream.com#%40filembad
-hysteria2://XPWLMuixF2szdRrlXA1JOIYO11tGC6KN@51.83.6.5:20250?alpn=h3&amp;fp=chrome&amp;obfs=salamander&amp;obfs-password=3fa0eb5e33fa986b&amp;security=tls&amp;insecure=1&amp;allowInsecure=1#%40tootffarangi%F0%9F%8D%93
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37043?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#%F0%9F%87%B3%F0%9F%87%B1200442%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37043?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#%F0%9F%87%B3%F0%9F%87%B1200393%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://f04i31zq8sy80v9b@r5ycmuko.zibayeman.com:54280?security=tls&amp;obfs=salamander&amp;obfs-password=hfwq51con9efdxx6&amp;insecure=0&amp;sni=r5ycmuko.zibayeman.com#@Capoit
