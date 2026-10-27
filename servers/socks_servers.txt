@@ -1,2 +1,1 @@
-socks://Og@185.63.113.164:1085#%E2%9C%85%40v2r_ayorg
-socks://Og@213.199.47.140:1080#%40tootffarangi%F0%9F%8D%93
+socks://45.40.136.39:45741#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Tempe%20%28South%20Tempe%29%20%7C%20%E2%8F%B11536ms%20%7C%20%E2%9A%A1181KB%2Fs%20%7C%20%40NamazVPN
