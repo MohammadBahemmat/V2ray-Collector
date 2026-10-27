@@ -1,2 +1,1 @@
-hysteria2://3543614c-46db-4424-8437-5acbc5cda9a0@vqccbwqw.edgecanvas.click:443?insecure=0&sni=vqccbwqw.edgecanvas.click&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Eygelshoven%20%7C%20vqccbwqw.edgecanvas.click%3A443
-hysteria2://LixInhAbZAqOczwkgoPsRI0Wba5HXBGh@video-balancer.7.8.advantage-a.cdnnow.xyz:443?sni=video-balancer.7.8.advantage-a.cdnnow.xyz#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%7C%20video-balancer.7.8.advantage-a.cdnnow.xyz%3A443
+hysteria2://9qFAF3s4R7wkGxcI0fonColtap41RUTsWdW@45.131.65.244:30396?security=tls&amp;insecure=0&amp;sni=pisulka.jsbox.top#%F0%9F%87%A9%F0%9F%87%AA200800%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
