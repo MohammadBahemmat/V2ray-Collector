@@ -1,14 +1,2 @@
-hysteria2://2f0fccb6-4a86-4d9f-9e03-a2dfee6ed7f5@95.85.252.217:8443/?sni=speedtestmark.com#%F0%9F%87%A9%F0%9F%87%AA201083%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&amp;obfs=salamander&amp;obfs-password=87d72c2949c0ca85bbda09459244e374&amp;insecure=0&amp;sni=srv-0e5387.frd21.ru
-hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&amp;obfs=salamander&amp;obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&amp;insecure=0&amp;mport=21000-21999&amp;sni=hy.kirian.su#%F0%9F%87%AB%F0%9F%87%AE%40Azaranv2ray
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@31.76.24.11:4443/?sni=de1.shvpn.ru#%F0%9F%87%A9%F0%9F%87%AA201084%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24027?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#0128270
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24044?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#0096380
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24050?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#0118151
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24062?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#0028071
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24111?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#0124622
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37043?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#0040421
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37066?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#0118153
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37132?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#0125702
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37181?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#0036257
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111/?insecure=1&amp;sni=…
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
+hysteria2://dfo5i9p6payp29i0@ll5xoe8j.easyiran.org:22357?security=tls&amp;obfs=salamander&amp;obfs-password=qkdqum5rllpyup7h&amp;insecure=0&amp;sni=ll5xoe8j.easyiran.org#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
