@@ -1,3 +1,1 @@
-socks://111:111@47.243.173.50:11211#
-socks://Og@185.63.113.164:1085#%40FarazV2ray%20
-socks://dGVzdDEyMzp0ZXN0MTIz@169.255.56.148:1080#%40FarazV2ray%20
+socks://Og@185.63.113.164:1085#%40V2raySamanbot%20
