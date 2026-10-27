@@ -1,1 +1,6 @@
+hysteria2://2f0fccb6-4a86-4d9f-9e03-a2dfee6ed7f5@95.85.252.217:8443/?sni=speedtestmark.com#%F0%9F%87%A9%F0%9F%87%AA201034%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
+hysteria2://Xg5RVA7OAqBS6zvK5J4RpOVm4UMRmL-I@bt.wufpel.ir:443?obfs=salamander&amp;obfs-password=5P1G9AdY6Jx8giZJCuS4w_gV&amp;fm=%7B%22udp%22%3A%5B%7B%22type%22%3A%22salamander%22%2C%22settings%22%3A%7B%22password%22%3A%225P1G9AdY6Jx8giZJCuS4w_gV%22%7D%7D%5D%7D&amp;sni=124dfda72fbf73c9.wufpel.ir&amp;fp=chrome#TOOT%20FARANGI%F0%9F%8D%93%F0%9F%8D%93
+hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@31.76.24.11:4443/?sni=de1.shvpn.ru#%F0%9F%87%A9%F0%9F%87%AA201035%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://dfo5i9p6payp29i0@ll5xoe8j.easyiran.org:22357?security=tls&amp;obfs=salamander&amp;obfs-password=qkdqum5rllpyup7h&amp;insecure=0&amp;sni=ll5xoe8j.easyiran.org#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 hysteria2://hltm9jnj6ez4cbhd@vip.trapxan.ir:2098?sni=vip.trapxan.ir&amp;obfs=salamander&amp;obfs-password=7922smqtd5qm70fu#%40tootffarangi%F0%9F%8D%93
