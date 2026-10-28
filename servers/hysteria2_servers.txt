@@ -1,2 +1,1 @@
-hysteria2://1953e43b-605c-4262-83eb-41a80646b801@31.185.105.12:443/?sni=fr.song69.fun#
-hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@217.60.72.225:443/?sni=forshynewh.duckdns.org#
+hysteria2://f04i31zq8sy80v9b@r5ycmuko.zibayeman.com:54280?security=tls&amp;obfs=salamander&amp;obfs-password=hfwq51con9efdxx6&amp;insecure=0&amp;sni=r5ycmuko.zibayeman.com#%E2%99%BE%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%F0%9F%86%94%EF%B8%8F%40ATLAS_V2VPN%F0%9F%86%93%EF%B8%8F%F0%9F%93%B6%E2%80%8E%F0%9F%9B%B0%EF%B8%8F631%F0%9F%8C%90%F0%9F%86%95
