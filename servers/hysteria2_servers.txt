@@ -1,3 +1,2 @@
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.189.71:4444/?sni=pl3.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1201942%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&amp;obfs=salamander&amp;obfs-password=87d72c2949c0ca85bbda09459244e374&amp;insecure=0&amp;sni=srv-0e5387.frd21.ru
-hysteria2://de698ab0-709d-413f-b21f-a914e5e7c603@51.75.118.79:20230?sni=www.google.com&amp;obfs=salamander&amp;obfs-password=a56415ff1be77383&amp;insecure=1#
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.189.71:4444/?sni=pl3.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1201991%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://de698ab0-709d-413f-b21f-a914e5e7c603@51.75.118.79:20230?sni=www.google.com&amp;obfs=salamander&amp;obfs-password=a56415ff1be77383&amp;insecure=1#%40UnlimitConfig%F0%9F%87%AB%F0%9F%87%B7
