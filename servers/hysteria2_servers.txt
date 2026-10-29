@@ -1,7 +1,5 @@
 hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@pl3.nexfile.net:4444/?sni=pl3.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1202164%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://1953e43b-605c-4262-83eb-41a80646b801@31.185.105.12:443/?sni=fr.song69.fun#
 hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@179.254.127.159:443/?sni=steel7.hadsvpn.com#%F0%9F%87%A9%F0%9F%87%AA202167%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@217.60.72.225:443/?sni=forshynewh.duckdns.org#%F0%9F%87%BA%F0%9F%87%B8202161%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&amp;obfs=salamander&amp;obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&amp;insecure=0&amp;mport=21000-21999&amp;sni=hy.kirian.su#
 hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37186?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#%F0%9F%87%B3%F0%9F%87%B1202216%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://de698ab0-709d-41#%F0%9F%8C%8D202330%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
