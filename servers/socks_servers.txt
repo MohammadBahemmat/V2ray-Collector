@@ -1,1 +1,2 @@
-socks://Og@185.63.113.164:1085#%E2%9C%85%40v2r_ayorg
+socks://Og@185.63.113.164:1085#%40Shh_Proxy-New%E2%81%B5
+socks://Og@5.160.103.162:1080#%40Shh_Proxy-New%E2%81%B4
