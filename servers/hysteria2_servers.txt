@@ -1,1 +1,1 @@
-hysteria2://24266838d888d903594cc6e33910aeeb@2.28.226.197:443?sni=vpn.172908710.dpdns.org&amp;obfs=salamander&amp;obfs-password=27b960aa5b199a215c3a84fd4818e5d2#
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
