@@ -1,2 +1,4 @@
-socks://Og@185.63.113.164:1085#%40Shh_Proxy-New%E2%81%B5
-socks://Og@5.160.103.162:1080#%40Shh_Proxy-New%E2%81%B4
+socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@fi-esp.pvdata.host:1080#@KAFING_2
+socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@pl-tor.pvdata.host:1080#@KAFING_2
+socks://Og==@
+socks://dGVzdDEyMzp0ZXN0MTIz@104.168.249.36:1080#%20
