@@ -1,1 +1,2 @@
-socks5://5.255.99.75:1080#%40tootffarangi%F0%9F%8D%93
+socks5://5.255.99.75:1080#
+socks5://@Enkelte_notif:@Notif_Chat@205.198.66.189:2470
