@@ -1,8 +1,4 @@
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@144.31.239.226:4444?security=tls&amp;insecure=0&amp;sni=fl2.nexfile.net#%F0%9F%87%AB%F0%9F%87%AE202709%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://24266838d888d903594cc6e33910aeeb@2.28.226.197:443?sni=vpn.172908710.dpdns.org&amp;obfs=salamander&amp;obfs-password=27b960aa5b199a215c3a84fd4818e5d2#%F0%9F%9A%80%C2%B7%40FreeNodeHub
-hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@144.124.245.52:443/?sni=store.blog-forme.ru#%F0%9F%87%B3%F0%9F%87%B1202768%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@store.blog-forme.ru:443#
-hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@store.blog-forme.ru:443/#%F0%9F%87%B3%F0%9F%87%B1202773%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
-hysteria2://b4c8ee9caa74b7ba0a61@scrap.halyvanedorogo.ru:35076?security=tls&amp;insecure=0&amp;sni=scrap.halyvanedorogo.ru#%F0%9F%87%B5%F0%9F%87%B1202687%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37186?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#0012074
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@144.31.239.226:4444?security=tls&amp;insecure=0&amp;sni=fl2.nexfile.net#%F0%9F%87%AB%F0%9F%87%AE202660%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@144.124.245.52:443/?sni=store.blog-forme.ru#%40tootffarangi%F0%9F%8D%93
+hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@store.blog-forme.ru:443/#%40tootffarangi%F0%9F%8D%93
+hysteria2://b4c8ee9caa74b7ba0a61@scrap.halyvanedorogo.ru:35076?security=tls&amp;insecure=0&amp;sni=scrap.halyvanedorogo.ru#%F0%9F%87%B5%F0%9F%87%B1202638%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
