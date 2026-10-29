@@ -1,4 +1,1 @@
-hysteria2://41edb44c8e@103.88.243.142:11592?sni=103.88.243.142&amp;insecure=1#%F0%9F%87%B7%F0%9F%87%BA202915%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@144.124.245.52:443/?sni=store.blog-forme.ru#%F0%9F%87%B3%F0%9F%87%B1202817%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@store.blog-forme.ru:443/#%F0%9F%87%B3%F0%9F%87%B1202822%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
+hysteria2://41edb44c8e@103.88.243.142:11592?sni=103.88.243.142&amp;insecure=1#%40tootffarangi%F0%9F%8D%93
