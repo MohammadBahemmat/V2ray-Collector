@@ -1,6 +1,5 @@
-hysteria2://24266838d888d903594cc6e33910aeeb@2.28.226.197:443?sni=vpn.172908710.dpdns.org&amp;obfs=salamander&amp;obfs-password=27b960aa5b199a215c3a84fd4818e5d2#%F0%9F%9A%80%C2%B7%40FreeNodeHub
-hysteria2://41edb44c8e@103.88.243.142:11592?sni=103.88.243.142&amp;insecure=1#%F0%9F%87%B7%F0%9F%87%BA198019%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/LonUp_M
-hysteria2://EjPhwMiHdy7zTIeM5kP0ZA@fenrir.cc.cd:25000?security=tls&amp;obfs=salamander&amp;obfs-password=9765192816a553687801bb170ee1c351&amp;insecure=0&amp;mport=20000-50000%2C443&amp;sni=fenrir.cc.cd#%40iranping24
-hysteria2://HyDouble_f1NgaW7sHbMefhNf@fenrir.cc.cd:25000?security=tls&amp;obfs=salamander&amp;obfs-password=9765192816a553687801bb170ee1c351&amp;insecure=0&amp;mport=20000-50000%2C443&amp;sni=fenrir.cc.cd#%40iranping24
-hysteria2://HyWarp_1Duy5hQD__8PVu-k@fenrir.cc.cd:25000?security=tls&amp;obfs=salamander&amp;obfs-password=9765192816a553687801bb170ee1c351&amp;insecure=0&amp;mport=20000-50000%2C443&amp;sni=fenrir.cc.cd#%40iranping24
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0203438%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://NL2026hy@147.45.149.88:8443?security=tls&amp;obfs=salamander&amp;obfs-password=SalamanderNL2026&amp;insecure=0&amp;sni=nl.nobelchat.ru#%40vpnbaz%F0%9F%8D%82
+hysteria2://NL2026hy@147.45.149.88:8443?sni=nl.nobelchat.ru&amp;obfs=salamander&amp;obfs-password=SalamanderNL2026#Channel%20%3A%20%40proxy_kafee
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0203487%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=0&amp;sni=hy2.aspidnet.xyz#%40vpnbaz%F0%9F%8D%82
