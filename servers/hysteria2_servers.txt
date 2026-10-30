@@ -1,9 +1,2 @@
-hysteria2://24266838d888d903594cc6e33910aeeb@2.28.226.197:443?sni=vpn.172908710.dpdns.org&amp;obfs=salamander&amp;obfs-password=27b960aa5b199a215c3a84fd4818e5d2#%F0%9F%9A%80%C2%B7%40FreeNodeHub
-hysteria2://41edb44c8e@103.88.243.142:11592?sni=103.88.243.142&amp;insecure=1#%F0%9F%87%B7%F0%9F%87%BA198019%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/LonUp_M
-hysteria2://EjPhwMiHdy7zTIeM5kP0ZA@fenrir.cc.cd:25000?security=tls&amp;obfs=salamander&amp;obfs-password=9765192816a553687801bb170ee1c351&amp;insecure=0&amp;mport=20000-50000%2C443&amp;sni=fenrir.cc.cd#%40iranping24
-hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?insecure=1&amp;obfs=salamander&amp;obfs-password=HysteriaHowdy&amp;sni=sni-here.com#
-hysteria2://HyDouble_f1NgaW7sHbMefhNf@fenrir.cc.cd:25000?security=tls&amp;obfs=salamander&amp;obfs-password=9765192816a553687801bb170ee1c351&amp;insecure=0&amp;mport=20000-50000%2C443&amp;sni=fenrir.cc.cd#%40iranping24
-hysteria2://HyWarp_1Duy5hQD__8PVu-k@fenrir.cc.cd:25000?security=tls&amp;obfs=salamander&amp;obfs-password=9765192816a553687801bb170ee1c351&amp;insecure=0&amp;mport=20000-50000%2C443&amp;sni=fenrir.cc.cd#%40iranping24
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?obfs=salamander&amp;obfs-password=c1b4086fea89914496c7e10967a419216566&amp;sni=hy2-new.aspidnet.xyz#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20%E2%8F%B1724ms%20%7C%20%E2%9A%A11019KB%2Fs%20%7C%20%40NamazVPN
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24062/?insecure=1&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;sni=vpn.local#%40tootffarangi%F0%9F%8D%93
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37186?sni=vpn.local&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;insecure=1#0012074
+hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?insecure=1&amp;obfs=salamander&amp;obfs-password=HysteriaHowdy&amp;sni=sni-here.com#%40tootffarangi%F0%9F%8D%93
+hysteria2://NL2026hy@147.45.149.88:8443?security=tls&amp;obfs=salamander&amp;obfs-password=SalamanderNL2026&amp;insecure=0&amp;sni=nl.nobelchat.ru#%40tootffarangi%F0%9F%8D%93
