@@ -1,3 +1,1 @@
-hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@179.254.127.159:443?sni=steel7.hadsvpn.com#%F0%9F%87%B8%F0%9F%87%AA%20%40freedom_iran_npv%20%2863%29
-hysteria2://41edb44c8e@103.88.243.142:11592?sni=103.88.243.142&amp;insecure=1#%F0%9F%87%B7%F0%9F%87%BA202915%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://NL2026hy@147.45.149.88:8443?security=tls&amp;obfs=salamander&amp;obfs-password=SalamanderNL2026&amp;insecure=0&amp;sni=nl.nobelchat.ru#%F0%9F%87%B3%F0%9F%87%B1202941%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;sni=127.0.0.1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Hong%20Kong%20%7C%20%E2%8F%B11508ms%20%7C%20%E2%9A%A1384KB%2Fs%20%7C%20%40NamazVPN
