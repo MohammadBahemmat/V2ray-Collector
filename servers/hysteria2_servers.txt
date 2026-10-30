@@ -1,7 +1,3 @@
-hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@179.254.127.159:443?sni=steel7.hadsvpn.com#%F0%9F%87%B8%F0%9F%87%AA%20%40freedom_iran_npv%20%2863%29
-hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?hop_interval=10#%F0%9F%87%AF%F0%9F%87%B5%20%40freedom_iran_npv%20%2888%29
-hysteria2://HyDouble_f1NgaW7sHbMefhNf@fenrir.cc.cd:25000?security=tls&amp;obfs=salamander&amp;obfs-password=9765192816a553687801bb170ee1c351&amp;insecure=0&amp;mport=20000-50000%2C443&amp;sni=fenrir.cc.cd#%40tootffarangi%F0%9F%8D%93
-hysteria2://NL2026hy@147.45.149.88:8443?security=tls&amp;obfs=salamander&amp;obfs-password=SalamanderNL2026&amp;insecure=0&amp;sni=nl.nobelchat.ru#%40tootffarangi%F0%9F%8D%93
-hysteria2://NL2026hy@147.45.149.88:8443?sni=nl.nobelchat.ru&amp;obfs=salamander&amp;obfs-password=SalamanderNL2026#%40tootffarangi%F0%9F%8D%93
-hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscope.com#%F0%9F%87%B8%F0%9F%87%AA%20%40freedom_iran_npv%20%2847%29
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24062/?insecure=1&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;sni=vpn.local#%F0%9F%87%B3%F0%9F%87%B1203103%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://HyDouble_f1NgaW7sHbMefhNf@fenrir.cc.cd:25000?security=tls&amp;obfs=salamander&amp;obfs-password=9765192816a553687801bb170ee1c351&amp;insecure=0&amp;mport=20000-50000%2C443&amp;sni=fenrir.cc.cd#%F0%9F%87%B8%F0%9F%87%AA203174%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
+hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24062/?insecure=1&amp;obfs=salamander&amp;obfs-password=ypvL8T4HFIBLoH8q&amp;sni=vpn.local#%F0%9F%87%B3%F0%9F%87%B1203152%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
