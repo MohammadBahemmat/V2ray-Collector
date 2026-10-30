@@ -1,2 +1,1 @@
-hysteria2://41edb44c8e@103.88.243.142:11592?sni=103.88.243.142&amp;insecure=1#%F0%9F%87%B7%F0%9F%87%BA202915%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://NL2026hy@147.45.149.88:8443?security=tls&amp;obfs=salamander&amp;obfs-password=SalamanderNL2026&amp;insecure=0&amp;sni=nl.nobelchat.ru#%F0%9F%87%B3%F0%9F%87%B1202941%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://5fa748137b6d822308eea4611f474ad5@155.117.19.17:443?insecure=1&amp;obfs=salamander&amp;obfs-password=a39ca173b57ac7021b08bf3e3de9f1f6&amp;sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Los%20Angeles%20%7C%20%E2%8F%B11132ms%20%7C%20%E2%9A%A1222KB%2Fs%20%7C%20%40NamazVPN
