@@ -1,1 +1,1 @@
-hysteria2://NL2026hy@147.45.149.88:8443?sni=nl.nobelchat.ru&amp;obfs=salamander&amp;obfs-password=SalamanderNL2026#Channel%20%3A%20%40proxy_kafee
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
