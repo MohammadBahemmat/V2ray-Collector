@@ -1,3 +1,1 @@
-hysteria2://EjPhwMiHdy7zTIeM5kP0ZA@fenrir.cc.cd:25000?security=tls&amp;obfs=salamander&amp;obfs-password=9765192816a553687801bb170ee1c351&amp;insecure=0&amp;mport=20000-50000%2C443&amp;sni=fenrir.cc.cd#%40iranping24
-hysteria2://HyDouble_f1NgaW7sHbMefhNf@fenrir.cc.cd:25000?security=tls&amp;obfs=salamander&amp;obfs-password=9765192816a553687801bb170ee1c351&amp;insecure=0&amp;mport=20000-50000%2C443&amp;sni=fenrir.cc.cd#%40iranping24
-hysteria2://HyWarp_1Duy5hQD__8PVu-k@fenrir.cc.cd:25000?security=tls&amp;obfs=salamander&amp;obfs-password=9765192816a553687801bb170ee1c351&amp;insecure=0&amp;mport=20000-50000%2C443&amp;sni=fenrir.cc.cd#%40iranping24
+hysteria2://41edb44c8e@103.88.243.142:11592?sni=103.88.243.142&amp;insecure=1#%F0%9F%87%B7%F0%9F%87%BA198019%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/LonUp_M
