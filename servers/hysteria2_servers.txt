@@ -1,3 +1,2 @@
-hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@177.3.220.9:443/?sni=nl1.obxodvpn.us#%F0%9F%87%BA%F0%9F%87%B8204197%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443/?insecure=1&amp;sni=18.193.79.104#%F0%9F%87%A9%F0%9F%87%AA204204%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
+hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@177.3.220.9:443/?sni=nl1.obxodvpn.us#%F0%9F%87%BA%F0%9F%87%B8204148%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443/?insecure=1&amp;sni=18.193.79.104#%F0%9F%87%A9%F0%9F%87%AA204155%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
