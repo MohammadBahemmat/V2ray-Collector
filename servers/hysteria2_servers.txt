@@ -1,5 +1,1 @@
-hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@195.63.146.10:443/?sni=video.blog-forme.ru#%F0%9F%87%B3%F0%9F%87%B1204271%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443/?insecure=1&amp;sni=3.76.221.4#%F0%9F%87%A9%F0%9F%87%AA204318%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?insecure=1&amp;sni=diffoscope.com#%F0%9F%87%A8%F0%9F%87%AD%20%40freedom_iran_npv%20%2879%29
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444/?insecure=1&amp;sni=pl2.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1204315%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444/?sni=pl2.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1204316%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@195.63.146.10:443/?sni=video.blog-forme.ru#
