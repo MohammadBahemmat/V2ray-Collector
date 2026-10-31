@@ -1,1 +1,1 @@
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=0&amp;sni=hy2.aspidnet.xyz#
+hysteria2://NL2026hy@147.45.149.88:8443?sni=nl.nobelchat.ru&amp;obfs=salamander&amp;obfs-password=SalamanderNL2026#Channel%20%3A%20%40Daily_Configs
