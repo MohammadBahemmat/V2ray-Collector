@@ -1,1 +1,2 @@
-hysteria2://NL2026hy@147.45.149.88:8443?sni=nl.nobelchat.ru&amp;obfs=salamander&amp;obfs-password=SalamanderNL2026#Channel%20%3A%20%40Daily_Configs
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obf
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40FarazV2ray%20
