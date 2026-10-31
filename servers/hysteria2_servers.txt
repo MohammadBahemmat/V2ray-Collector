@@ -1,2 +1,1 @@
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obf
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40FarazV2ray%20
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=0&amp;sni=hy2.aspidnet.xyz#
