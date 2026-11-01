@@ -1,1 +1,1 @@
-hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443/?sni=promo3.goonars.com#%40filembad
+hysteria2://0zy7kb86chk9ktbn@dlwww.mymuic.ir:19883?security=tls&amp;obfs=salamander&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;obfs-password=otwmdcyqh98idcxv&amp;insecure=0&amp;sni=dlwww.mymuic.ir#%40tootffarangi%F0%9F%8D%93
