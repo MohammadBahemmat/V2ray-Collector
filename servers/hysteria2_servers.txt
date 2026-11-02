@@ -1,1 +1,1 @@
-hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443/?sni=promo3.goonars.com#
+hysteria2://NL2026hy@147.45.149.88:8443?sni=nl.nobelchat.ru&amp;obfs=salamander&amp;obfs-password=SalamanderNL2026#Channel%20%3A%20%40Daily_Configs
