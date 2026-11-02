@@ -1,2 +1,1 @@
-socks5://5.255.123.162:1080#%E2%8F%B37@oneclickvpnkeys
 socks5://69.55.49.177:38182#%40tootffarangi%F0%9F%8D%93
