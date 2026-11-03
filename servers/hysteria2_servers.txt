@@ -1,1 +1,1 @@
-hysteria2://80cbaaec-caff-4181-8539-ea6e51731007@45.88.12.119:443?alpn=h3&amp;sni=crt.onecloudstream.com#%F0%9F%87%A9%F0%9F%87%AA206168%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://5fa748137b6d822308eea4611f474ad5@155.117.19.17:443?insecure=1&amp;obfs=salamander&amp;obfs-password=a39ca173b57ac7021b08bf3e3de9f1f6&amp;sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Los%20Angeles%20%7C%20%E2%8F%B13936ms%20%7C%20%E2%9A%A1103KB%2Fs%20%7C%20%40NamazVPN
