@@ -1,3 +1,2 @@
-hysteria2://VPNJEY@179.61.138.145:36264/?insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA205711%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://d62s7ghfehm742us@derfderf.ru:12824?sni=derfderf.ru&amp;path=%2f#%F0%9F%87%B9%F0%9F%87%B7%20%40freedom_iran_npv%20%2883%29
-hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@45.91.237.78:443/?sni=node.aweom.su#%F0%9F%87%B3%F0%9F%87%B1205715%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://VPNJEY@179.61.138.145:36264/?insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA205760%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@45.91.237.78:443/?sni=node.aweom.su#%F0%9F%87%B3%F0%9F%87%B1205764%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
