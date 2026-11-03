@@ -1,5 +1,7 @@
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
-hysteria2://VPNJEY@179.61.138.145:36264/?insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA205711%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@45.91.237.78:443/?sni=node.aweom.su#%F0%9F%87%B3%F0%9F%87%B1205715%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://ripa841juk7gwn4t@31.76.241.169:10005/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;obfs=salamander&amp;obfs-password=7kydvvvn3bwt66ff&amp;sni=de.c0d1xdev.xyz#@GozargahAzad|
-hysteria2://ripa841juk7gwn4t@31.76.241.169:10005/?obfs=salamander&amp;obfs-password=7kydvvvn3bwt66ff&amp;sni=de.c0d1xdev.xyz#%40tootffarangi%F0%9F%8D%93
+hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@ir.config7x.site:26503?security=tls&amp;insecure=0&amp;pinSHA256=22760B9798F4726D9B76C2F8FB4D5CEE6FDA9C6A75B391137937674AC5B2505F&amp;sni=hy.config7x.site#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%80
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%40tootffarangi%F0%9F%8D%93
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%40tootffarangi%F0%9F%8D%93
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?security=tls&amp;insecure=0&amp;sni=pl3.nexfile.net#%40tootffarangi%F0%9F%8D%93
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%40tootffarangi%F0%9F%8D%93
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%40tootffarangi%F0%9F%8D%93
+hysteria2://ripa841juk7gwn4t@31.76.241.169:10005/?obfs=salamander&amp;obfs-password=7kydvvvn3bwt66ff&amp;sni=de.c0d1xdev.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Frankfurt%20am%20Main%20%7C%20%E2%8F%B1545ms%20%7C%20%E2%9A%A11.3MB%2Fs%20%7C%20%40NamazVPN
