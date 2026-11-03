@@ -1,1 +1,2 @@
-socks://Og%3D%3D@47.90.162.114:5555
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw%3D@5.77.55.146:1081#t.me%2FV2rayNGX
+socks://QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw6QnVnRnJlZU5ldF9CdWdGcmVlU2hlbGw%3D@89.47.164.182:1081#t.me%2FV2rayNGX
