@@ -1,1 +1,2 @@
-socks5://s_2942f44fd6:S7OgNnX2Me8NCmrLXA6GtcE1@51.75.118.5:20222#%F0%9F%87%AB%F0%9F%87%B7205473%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+socks5://5.255.123.162:1080#%E2%8F%B37@oneclickvpnkeys
+socks5://69.55.49.177:38182#%E2%8F%B3100@oneclickvpnkeys
