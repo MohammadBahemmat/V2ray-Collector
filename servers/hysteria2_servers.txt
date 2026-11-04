@@ -1,4 +1,1 @@
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%40vpnbaz%F0%9F%92%9E
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?security=tls&amp;insecure=0&amp;sni=pl3.nexfile.net#%40vpnbaz%F0%9F%92%95
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%40vpnbaz%F0%9F%8D%93
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%40vpnbaz%F0%9F%90%B0
+hysteria2://80cbaaec-caff-4181-8539-ea6e51731007@45.88.12.119:443?alpn=h3&amp;sni=crt.onecloudstream.com#%F0%9F%87%A9%F0%9F%87%AA206168%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
