@@ -1,10 +1,4 @@
-hysteria2://740f1a75659256a8c0e2a5686d573496b2a2@67.216.207.144:443?sni=www.bing.com&amp;obfs=salamander&amp;obfs-password=5eec7c480dc2af8a7cfdd7beb90ee911da11&amp;alpn=h3&amp;up=100&amp;down=300&amp;insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2004
-hysteria2://769f34f0-1500-488f-b414-03bc90666502@se.mimowhat.online:443?sni=se.mimowhat.online&amp;insecure=0#
-hysteria2://80cbaaec-caff-4181-8539-ea6e51731007@45.88.12.119:443?alpn=h3&amp;sni=crt.onecloudstream.com#%F0%9F%87%A9%F0%9F%87%AA%20DoDoVPN%20%7C%20Hysteria%20%7C%20YouTube%20-%20%D0%91%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B
-hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?insecure=1&amp;sni=diffos…
-hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscope.com#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?sni=pl3.nexfile.net&amp;insecure=0&amp;upmbps=0&amp;downmbps=0#%40V2rayNGVPN%20%3E%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?sni=pl2.nexfile.net&amp;insecure=0&amp;upmbps=0&amp;downmbps=0#%40V2rayNGVPN%20%3E%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;sni=pl3.nexfile.net&amp;insecure=0&amp;upmbps=0&amp;downmbps=0#@GozargahAzad|
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444?sni=pl3.nexfile.net&amp;insecure=0&amp;upmbps=0&amp;downmbps=0#%40V2rayNGVPN%20%3E%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&amp;sni=ΓÇª
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?sni=pl3.nexfile.net&amp;insecure=0&amp;upmbps=0&amp;downmbps=0#%40tootffarangi%F0%9F%8D%93
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?sni=pl2.nexfile.net&amp;insecure=0&amp;upmbps=0&amp;downmbps=0#%40tootffarangi%F0%9F%8D%93
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444?sni=pl3.nexfile.net&amp;insecure=0&amp;upmbps=0&amp;downmbps=0#%40tootffarangi%F0%9F%8D%93
