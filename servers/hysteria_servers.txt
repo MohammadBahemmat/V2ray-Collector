@@ -1,1 +1,1 @@
-hysteria://5.83.129.90:54177?alpn=h3&amp;auth=dongtaiwang.com&amp;auth_str=dongtaiwang.com&amp;downmbps=1000&amp;protocol=udp&amp;insecure=1&amp;peer=apple.com&amp;upmbps=500#
+hysteria://62.210.196.68:26691?auth_str=dongtaiwang.com&auth=dongtaiwang.com&upmbps=11
