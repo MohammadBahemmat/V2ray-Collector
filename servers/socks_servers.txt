@@ -1,12 +1,4 @@
-socks://45.74.31.40:16006#
-socks://45.74.31.40:4720#
-socks://45.74.31.40:5344#
-socks://45.74.31.40:7968#
-socks://45.74.31.42:5909#
-socks://45.74.31.42:7738#
-socks://45.74.31.46:11486#
-socks://45.74.31.46:4854#
-socks://45.74.31.46:8220#
-socks://82.180.146.251:10800#
-socks://U0RQb3J3Rkp4YW9OckxpOjFAU29vblRlYW0%3D@104.254.90.218:1080#telegram%20%40mtmvpn
-socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@de-fra.pvdata.host:1080#telegram%20%40mtmvpn
+socks://172.104.210.252:1080#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-3346
+socks://45.74.31.46:8066#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-3950
+socks://Og@139.59.1.14:1080#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-74
+socks://Og@209.97.150.167:1080#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-410
