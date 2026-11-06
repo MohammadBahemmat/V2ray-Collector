@@ -1,4 +1,2 @@
-socks5://157.90.113.23:9052#%F0%9F%A5%8C75@oneclickvpnkeys
-socks5://5.255.113.177:1080#%F0%9F%A7%BF7@oneclickvpnkeys
-socks5://5.255.99.75:1080#%F0%9F%A5%8C10@oneclickvpnkeys
-socks5://myproxy.com:3128
+socks5://5.75.133.113:10805
+socks5://admin:password@1.2.3.4:1080

@@ -1,1 +1,3 @@
-hysteria://5.83.129.90:54177?alpn=h3&auth_str=dongtaiwang.com&downmbps=1000&obfsParam=&protocol=udp&insecure=1&peer=apple.com&upmbps=500#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20104218
+hysteria://5.83.129.90:54177?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;alpn=h3&amp;auth=dongtaiwang.com&amp;auth_str=dongtaiwang.com&amp;downmbps=1000&amp;protocol=udp&amp;insecure=1&amp;peer=apple.com&amp;upmbps=500#@GozargahAzad|
+hysteria://5.83.129.90:54177?alpn=h3&amp;auth=dongtaiwang.com&amp;auth_str=dongtaiwang.com&amp;downmbps=1000&amp;protocol=udp&amp;insecure=1&amp;peer=apple.com&amp;upmbps=500#%40tootffarangi%F0%9F%8D%93
+hysteria://62.210.70.191:24667?alpn=h3&amp;auth=dongtaiwang.com&amp;downmbps=55
