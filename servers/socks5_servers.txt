@@ -1,1 +1,2 @@
-socks5://@Enkelte_notif:@Notif_Chat@205.198.66.189:2470
+socks5://157.90.113.23:9052#%F0%9F%A5%8C75@oneclickvpnkeys
+socks5://5.255.99.75:1080#%F0%9F%A5%8C10@oneclickvpnkeys
