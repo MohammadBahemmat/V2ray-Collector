@@ -1,1 +1,1 @@
-hysteria://5.83.129.90:54177?alpn=h3&amp;auth=dongtaiwang.com&amp;auth_str=dongtaiwang.com&amp;downmbps=1000&amp;protocol=udp&amp;insecure=1&amp;peer=apple.com&amp;upmbps=500#
+hysteria://5.83.129.90:54177?alpn=h3&amp;auth=dongtaiwang.com&amp;auth_str=dongtaiwang.com&amp;downmbps=1000&amp;protocol=udp&amp;insecure=1&amp;peer=apple.com&amp;upmbps=500#%F0%9F%87%A9%F0%9F%87%AA208022%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
