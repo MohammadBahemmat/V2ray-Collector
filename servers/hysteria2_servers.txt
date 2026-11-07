@@ -1,4 +1,4 @@
-hysteria2://VPNJEY@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40vasl_bashim
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?security=tls&amp;insecure=0&amp;sni=pl3.nexfile.net#%40vasl_bashim
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%40vasl_bashim
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444?security=tls&amp;insecure=0&amp;sni=pl3.nexfile.net#%40vasl_bashim
+hysteria2://fr9p9ji70krwnup6@giftcard.gateway-stream.com:52018?security=tls&amp;obfs=salamander&amp;obfs-password=fuw2k1ddrouwxr3u&amp;insecure=0&amp;sni=giftcard.gateway-stream.com#%40canfingV2rayNG
+hysteria2://h05ff7mbgbj6dhwy@vip.trapxan.ir:2098?sni=vip.trapxan.ir&amp;obfs=salamander&amp;obfs-password=7922smqtd5qm70fu#Channel%20%3A%20%40Daily_Configs
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=0&amp;sni=hy2.aspidnet.xyz#
+hysteria2://xo43w4tc13ou2h3x@mein-1.octavia.dpdns.org:60000?security=tls&amp;obfs=salamander&amp;obfs-password=ckwudzzsfoltmbmi&amp;insecure=0&amp;sni=main-1.octavia.dpdns.org#channel%20%3A%20%40Daily_Configs
