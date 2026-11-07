@@ -1,1 +1,2 @@
-hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@201.8.71.59:443/?sni=steel7.hadsvpn.com#%F0%9F%87%BA%F0%9F%87%B8209057%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@201.8.71.59:443/?sni=steel7.hadsvpn.com#%F0%9F%87%BA%F0%9F%87%B8209008%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://GnVqzYNYGYRXNUq8fBOxGsv9pNBdYvKP@204.152.221.177:443?security=tls&amp;obfs=salamander&amp;obfs-password=0Jy%2FBjMrgPxwRG9bx%2BYIyZz2hqUfE7Cf&amp;insecure=1&amp;sni=www.bing.com
