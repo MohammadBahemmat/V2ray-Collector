@@ -1,4 +1,1 @@
-hysteria2://02df03e3-3029-4c95-bffe-8f211b480672@edge.hankli1214.xyz:443?security=tls&amp;obfs=salamander&amp;obfs-password=MeJA9qgoYMH4UMunHowisrbd&amp;insecure=0&amp;sni=hank.hankli1214.xyz#kurdconfig
-hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?security=tls&amp;obfs=salamander&amp;obfs-password=7922smqtd5qm70fu&amp;insecure=0&amp;sni=109.70.74.213#%40FarazV2ray%20
-hysteria2://5ictxgawam84vgrp@arsalanvpn.trapxan.ir:2098?sni=arsalanvpn.trapxan.ir&amp;obfs=salamander&amp;obfs-password=7922smqtd5qm70fu#%F0%9F%87%A9%F0%9F%87%AA210420%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://MZKlrFbG73bKvCDe8VPul5PR9xQm@35.207.53.51:20999/?insecure=1&amp;sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8210447%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?security=tls&amp;obfs=salamander&amp;obfs-password=7922smqtd5qm70fu&amp;insecure=0&amp;sni=109.70.74.213#Telegram%20%40mtmvpn%20
