@@ -1,8 +1,4 @@
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443?security=tls&amp;insecure=0&amp;sni=fi1.obxodvpn.us#%40tootffarangi%F0%9F%8D%93
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.254.13:20443?security=tls&amp;insecure=0&amp;sni=hy51290d.w-mebel.pro#%40tootffarangi%F0%9F%8D%93
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#@GozargahAzad|
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%40tootffarangi%F0%9F%8D%93
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;security=tls&amp;insecure=0&amp;sni=pl3.nexfile.net#@GozargahAzad|
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?security=tls&amp;insecure=0&amp;sni=pl3.nexfile.net#%40nekopingbot_1691%20%F0%9F%8C%8D%20%E2%9A%A1%EF%B8%8F
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%40nekopingbot_1694%20%F0%9F%8C%8D%20%E2%9A%A1%EF%B8%8F
-hysteria2://p5xt6oLOA3qikIaj@fi-p1.h1cloud.net:25482?security=tls&amp;insecure=1&amp;pinSHA256=4497916255a25d50d37e1b256f8206cdb82fef904921cc519dcceaa4ad0530fa&amp;sni=www.bing.com#%40tootffarangi%F0%9F%8D%93
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.76:20443?security=tls&amp;insecure=0&amp;sni=hy530899.w-mebel.pro#%40tootffarangi%F0%9F%8D%93
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.57.197:20443?security=tls&amp;insecure=0&amp;sni=hy51290d.w-mebel.pro#%40tootffarangi%F0%9F%8D%93
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?security=tls&amp;insecure=0&amp;sni=pl3.nexfile.net#%40tootffarangi%F0%9F%8D%93
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%40tootffarangi%F0%9F%8D%93
