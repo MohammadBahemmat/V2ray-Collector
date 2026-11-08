@@ -1,1 +1,2 @@
-socks://Og@69.55.49.177:38182#%E2%8F%B3100%40ConfigV2RayNG
+socks://Og@185.63.113.164:1085#%40Shh_Proxy-New%E2%81%B5
+socks://Og@5.160.103.162:1080#%40Shh_Proxy-New%E2%81%B4
