@@ -1,4 +1,1 @@
-socks://Og@101.36.104.239:10808#%40vpnbaz%F0%9F%A4%8D
-socks://Og@209.97.150.167:1080#%40vpnbaz%F0%9F%A4%8D
-socks://Og@69.55.49.177:38182#%40vpnbaz%F0%9F%A4%8D
-socks://Og@80.65.211.149:8888#%40vpnbaz%F0%9F%A4%8D
+socks://Og@69.55.49.177:38182#%E2%8F%B3100%40ConfigV2RayNG
