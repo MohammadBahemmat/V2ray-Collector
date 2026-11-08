@@ -1,1 +1,1 @@
-hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?security=tls&amp;obfs=salamander&amp;obfs-password=7922smqtd5qm70fu&amp;insecure=0&amp;sni=109.70.74.213#%40V2raySaman%20
+hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52034?security=tls&amp;obfs=salamander&amp;obfs-password=fuw2k1ddrouwxr3u&amp;insecure=0&amp;sni=giftcard.gateway-stream.com#%40Kamkarstore
