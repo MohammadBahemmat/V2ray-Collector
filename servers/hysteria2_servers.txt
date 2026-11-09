@@ -1,2 +1,1 @@
-hysteria2://5ictxgawam84vgrp@arsalanvpn.trapxan.ir:2098?sni=arsalanvpn.trapxan.ir&amp;obfs=salamander&amp;obfs-password=7922smqtd5qm70fu#%F0%9F%87%A9%F0%9F%87%AA210371%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://MZKlrFbG73bKvCDe8VPul5PR9xQm@35.207.53.51:20999/?insecure=1&amp;sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8210398%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://h05ff7mbgbj6dhwy@vip.trapxan.ir:2098?sni=vip.trapxan.ir&amp;obfs=salamander&amp;obfs-password=7922smqtd5qm70fu#Channel%20%3A%20%40Daily_Configs
