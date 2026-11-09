@@ -1,1 +1,2 @@
-hysteria2://02df03e3-3029-4c95-bffe-8f211b480672@edge.hankli1214.xyz:443?security=tls&amp;obfs=salamander&amp;obfs-password=MeJA9qgoYMH4UMunHowisrbd&amp;insecure=0&amp;sni=hank.hankli1214.xyz#%40vmesskhodam
+hysteria2://02df03e3-3029-4c95-bffe-8f211b480672@edge.hankli1214.xyz:443?security=tls&amp;obfs=salamander&amp;obfs-password=MeJA9qgoYMH4UMunHowisrbd&amp;insecure=0&amp;sni=hank.hankli1214.xyz#kurdconfig
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
