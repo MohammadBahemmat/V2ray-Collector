@@ -1,1 +1,6 @@
-socks://Og%3D%3D@89.44.112.13:1100#@v2rayng3
+socks://Og%3D%3D@47.90.162.114:5555
+socks://Og==@
+socks://Og==@69.55.49.177:38182#
+socks://Og@185.63.113.164:1085#%40Shh_Proxy-New%E2%81%B5
+socks://Og@5.160.103.162:1080#%40Shh_Proxy-New%E2%81%B4
+socks://Ok5vbmU=@
