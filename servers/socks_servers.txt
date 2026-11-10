@@ -1,6 +1,2 @@
-socks://Og%3D%3D@47.90.162.114:5555
-socks://Og==@
-socks://Og==@69.55.49.177:38182#
-socks://Og@185.63.113.164:1085#%40Shh_Proxy-New%E2%81%B5
-socks://Og@5.160.103.162:1080#%40Shh_Proxy-New%E2%81%B4
-socks://Ok5vbmU=@
+socks://143.198.239.45:10000#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Ha%C3%9Ffurt%20%7C%20%E2%8F%B14001ms%20%7C%20%E2%9A%A179KB%2Fs%20%7C%20%40NamazVPN
+socks://143.198.239.45:10003#
