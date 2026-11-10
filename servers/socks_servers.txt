@@ -1,1 +1,4 @@
-socks://176.9.107.170:1081#%F0%9F%87%B2%F0%9F%87%B0%20North%20Macedonia%20Skopje%20%7C%20%E2%8F%B1518ms%20%7C%20%E2%9A%A11.0MB%2Fs%20%7C%20%40NamazVPN
+socks://Og%3D%3D@20.121.252.238:3001#%40tootffarangi%F0%9F%8D%93
+socks://Og==@
+socks://Ok5vbmU=@
+socks://dGVzdDEyMzp0ZXN0MTIz@104.168.249.36:1080#%20
