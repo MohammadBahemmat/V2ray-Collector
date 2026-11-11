@@ -1,4 +1,1 @@
-hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?security=tls&amp;obfs=salamander&amp;obfs-password=7922smqtd5qm70fu&amp;insecure=0&amp;sni=109.70.74.213#Telegram%20%20%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
-hysteria2://VPNJey@179.61.138.145:36264/?insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA212186%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://eik6hcffscbuqdbt@kp09bn7y.easyiran.org:46183?security=tls&amp;obfs=salamander&amp;obfs-password=egnqz8stetfo2ci9&amp;insecure=0&amp;sni=kp09bn7y.easyiran.org#%40tootffarangi%F0%9F%8D%93-1
+hysteria2://65ec84f5-0dd4-4582-8b4f-592e50b22116@usm2.473221.xyz:23452?sni=usm2.473221.xyz
