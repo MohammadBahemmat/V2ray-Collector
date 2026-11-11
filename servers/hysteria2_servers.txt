@@ -1,2 +1,3 @@
-hysteria2://VPNJey@179.61.138.145:36264/?insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA212186%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://a2c74ce7-5daa-4bee-a1eb-52863873b3c3@194.48.250.233:443/?insecure=1&amp;sni=mol.ultimagamest.com#
+hysteria2://65ec84f5-0dd4-4582-8b4f-592e50b22116@usm2.473221.xyz:23452?sni=usm2.473221.xyz
+hysteria2://VPNJey@179.61.138.145:36264/?insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA212235%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://a2c74ce7-5daa-4bee-a1eb-52863873b3c3@194.48.250.233:443/?insecure=1&amp;sni=mol.ultimagamest.com#%F0%9F%87%A9%F0%9F%87%AA212067%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
