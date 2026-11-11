@@ -1,5 +1,2 @@
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?security=tls&amp;insecure=0&amp;sni=bl1.nexfile.net#
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.101:4444?security=tls&amp;insecure=0&amp;sni=pl1.nexfile.net#
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1211697%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?security=tls&amp;insecure=0&amp;sni=pl3.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1211756%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&amp;fm={&quot;udp&quot;:[{&quot;settings&quot;:{&quot;password&quot;:&quot;2gg0tx9d2etug8n9&quot;},&quot;type&quot;:&quot;salamander&quot;}]}&amp;fp=chrome&amp;obfs=salamander&amp;obfs-password=2gg0tx9d2etug8n9&amp;security=tls&amp;sni=pro2.riziro.ir#
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1211746%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?security=tls&amp;insecure=0&amp;sni=pl3.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1211805%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
