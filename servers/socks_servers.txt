@@ -1,3 +1,3 @@
-socks://Og@101.36.104.239:10808#%40vpnbaz%F0%9F%A4%8D
-socks://Og@123.58.219.171:10808#%40vpnbaz%F0%9F%A4%8D
-socks://Og@194.44.255.112:8090#%40vpnbaz
+socks://Og@101.36.104.239:10808#@v2ray_confing33
+socks://Og@123.58.219.171:10808#@v2ray_confing33
+socks://Og@194.44.255.112:8090#@v2ray_confing33
