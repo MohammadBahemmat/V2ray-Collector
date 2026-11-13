@@ -1,2 +1,5 @@
-socks://Og@95.38.170.222:1085#%40FarazV2ray
-socks://Og@95.38.170.222:1087#%40FarazV2ray
+socks://Og==@
+socks://Ok5vbmU=@
+socks://dGVzdDEyMzp0ZXN0MTIz@104.168.249.36:1080#%20
+socks://dGVzdDEyMzp0ZXN0MTIz@185.145.99.41:1080#%20
+socks://dWZDb2JoeWR6NFdkOkpkRmxyWmhxSFA=@
