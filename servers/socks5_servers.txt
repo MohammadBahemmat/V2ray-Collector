@@ -1,1 +1,1 @@
-socks5://157.90.113.23:9052#ZA%20-%20zhuhai.uk
+socks5://@Enkelte_notif:@Notif_Chat@205.198.66.189:2470
