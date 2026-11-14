@@ -1,7 +1,5 @@
-socks://Og@101.36.104.239:10808#%40vpnbaz%F0%9F%A4%8D
-socks://Og@123.58.219.171:10808#%40vpnbaz%F0%9F%A4%8D
-socks://Og@139.162.78.109:1080#vpnbaz
-socks://Og@139.59.1.14:1080#%40vpnbaz%F0%9F%A4%8D
-socks://Og@157.90.113.23:9052#vpnbaz
-socks://Og@194.44.255.112:8090#%40vpnbaz
-socks://Og@198.199.86.11:1080#%40vpnbaz%F0%9F%A4%8D
+socks://Og==@
+socks://Ok5vbmU=@
+socks://dGVzdDEyMzp0ZXN0MTIz@104.168.249.36:1080#%20
+socks://dGVzdDEyMzp0ZXN0MTIz@185.145.99.41:1080#%20
+socks://dWZDb2JoeWR6NFdkOkpkRmxyWmhxSFA=@
