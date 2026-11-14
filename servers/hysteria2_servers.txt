@@ -1,5 +1,10 @@
-hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?sni=speedtestmark.com#@vpnsal
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.101:4444?security=tls&amp;insecure=0&amp;sni=pl1.nexfile.net#%40vasl_bashim
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.146:4444?security=tls&amp;insecure=0&amp;sni=pl3.nexfile.net#%40vasl_bashim
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp;insecure=0&amp;sni=hy2.aspidnet.xyz#
-hysteria2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443?sni=192.255.152.147&amp;insecure=1#%40tootffarangi%F0%9F%8D%93
+hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@177.202.65.158:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=AJyvWNsoDgVkMkboZ3juMJXYNRf6uEQE&amp;pinSHA256=7d00549c6ffd691650d3dd203b223919fc94b0b0600aa74a2f8ad0f4e4ab7bb3&amp;sni=hy2-fi2.snobvpn.online#%F0%9F%AA%8542@oneclickvpnkeys
+hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@201.58.190.235:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=sFQIE4F3SbaXCYoCQTY-4YvYiif8__By&amp;pinSHA256=8951ff7b7cd60fb28b7982f03fbe9c4739bf43e6b2a3a64c8dc45276f92b366b&amp;sni=hy2-pl.snobvpn.online#%F0%9F%AA%8532@oneclickvpnkeys
+hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@206.245.153.57:8443/?insecure=1&amp;obfs=salamander&amp;obfs-password=JGIhnEi-CcIJOfNTqvNxX_5wRAYUZ0J2&amp;pinSHA256=3d4bb251a1dfb0e132f9c5f4dbfef83bb7b3cf29ea1cdb8decea2f68365009c5&amp;sni=hy2-nl.snobvpn.online#%F0%9F%AA%851@oneclickvpnkeys
+hysteria2://4afd4e1b1b0edd429b10d800a1cf64a7@47.89.232.46:8443/?insecure=1&amp;sni=hysteria2.local#%F0%9F%AA%8597@oneclickvpnkeys
+hysteria2://4b13c29ebe735e47@213.21.232.4:443/?sni=mytubeproxy10.duckdns.org#%F0%9F%AB%8634@oneclickvpnkeys
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443/?insecure=1&amp;sni=shorts.blog-forme.ru#%F0%9F%AA%856@oneclickvpnkeys
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@guide.blog-forme.ru:443/?sni=guide.blog-forme.ru#%F0%9F%AB%8643@oneclickvpnkeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443/?insecure=1&amp;sni=vpn-de-002.fastervpn.world#%F0%9F%AB%8692@oneclickvpnkeys
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.167:4444/?sni=fl5.edgeport.cloud#%F0%9F%99%8F15@oneclickvpnkeys
+hysteria2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443?sni=192.255.152.147&amp;insecure=1#
