@@ -1,3 +1,1 @@
-hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?sni=speedtestmark.com#
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.71:4444/?sni=pl3.nexfile.net#%40V2ray_confiig
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444/?sni=lv2.nexfile.net#%40V2ray_confiig
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
