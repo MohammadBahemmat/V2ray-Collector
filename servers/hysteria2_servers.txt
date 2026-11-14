@@ -1,4 +1,2 @@
-hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?sni=speedtestmark.com#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.71:4444/?sni=pl3.nexfile.net#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444/?sni=lv2.nexfile.net#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-hysteria2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443?sni=192.255.152.147&amp;insecure=1#%40tootffarangi%F0%9F%8D%93
+hysteria2://4afd4e1b1b0edd429b10d800a1cf64a7@47.89.232.46:8443/?insecure=1&amp;sni=hysteria2.local#%F0%9F%87%BA%F0%9F%87%B8214088%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443?sni=192.255.152.147&amp;insecure=1#
