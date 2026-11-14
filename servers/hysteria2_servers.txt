@@ -1,2 +1,2 @@
-hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?sni=speedtestmark.com#@vpnsal
-hysteria2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443?sni=192.255.152.147&amp;insecure=1#%F0%9F%87%BA%F0%9F%87%B8214240%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
+hysteria2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443?sni=192.255.152.147&amp;insecure=1#
