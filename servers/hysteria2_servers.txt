@@ -1,11 +1,6 @@
-hysteria2://8b64b840-a48d-4ac0-b10f-8f7d7081a0f1@ru.xiaoliyu.cyou:1888?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;obfs=salamander&amp;obfs-password=2%3D2E%25d4%23PJxu&amp;up=100&amp;down=50&amp;insecure=1#@GozargahAzad|
-hysteria2://8b64b840-a48d-4ac0-b10f-8f7d7081a0f1@ru.xiaoliyu.cyou:1888?obfs=salamander&amp;obfs-password=2%3D2E%25d4%23PJxu&amp;up=100&amp;down=50&amp;insecure=1#%40tootffarangi%F0%9F%8D%93
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.203.180:443?insecure=1&amp;security=tls&amp;sni=127.0.0.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20636855
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.203.180:443?sni=off&amp;insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_135%7C84KB%2Fs%7CM003-260806
-hysteria2://VPNJey@[2a0f:5707:aaf1:11a6::1]:36264?sni=de2.jey.cc.cd&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey#Telegram%40vpnjey
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&amp;sni=ňĽ#210621
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&amp;sni=≥╝#210621
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&amp;sni=┬¼#@FXxNET
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&amp;sni=┬╝#@FXxNET
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?insecure=1&amp;sni=vpn-sg-001.fastervpn.world#
-hysteria2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443?sni=192.255.152.147&amp;insecure=1#%F0%9F%9A%80%C2%B7%40FreeNodeHub
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&amp;sni=fiproxy1.lockdwn.com&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx#
+hysteria2://8b64b840-a48d-4ac0-b10f-8f7d7081a0f1@ru.xiaoliyu.cyou:1888?obfs=salamander&amp;obfs-password=2%3D2E%25d4%23PJxu&amp;up=100&amp;down=50&amp;insecure=1#%F0%9F%87%B7%F0%9F%87%BA214861%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://8b64b840-a48d-4ac0-b10f-8f7d7081a0f1@sg1.xiaoliyu.cyou:2056?insecure=1&amp;sni=sg1.xiaoliyu.cyou#
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
+hysteria2://Telegram@179.61.138.145:443?insecure=1&amp;sni=de2.jey.cc.cd&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey#
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%40tootffarangi%F0%9F%8D%93
