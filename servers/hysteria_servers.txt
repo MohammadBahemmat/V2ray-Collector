@@ -1,2 +1,6 @@
-hysteria://198.200.57.142:22335?alpn=h3&amp;auth=github.com/Alvin9999-newpac/fanqiang&amp;downmbps=55&amp;password=github.com%2FAlvin9999-newpac%2Ffanqiang&amp;servername=bing.com&amp;insecure=1&amp;peer=bing.com&amp;upmbps=11#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.1MB%2Fs%7CGPT%E2%81%BA%7CYT-CN%7CNF%7C1%25
-hysteria://5.83.129.90:54177?alpn=h3&amp;auth=dongtaiwang.com&amp;auth_str=dongtaiwang.com&amp;downmbps=1000&amp;protocol=udp&amp;insecure=1&amp;peer=apple.com&amp;upmbps=500#%F0%9F%87%B3%F0%9F%87%B1NL_10
+hysteria://dongtaiwang.com@137.175.82.43:20022?upmbps=20&amp;downmbps=20&amp;security=tls&amp;sni=bing.com&amp;insecure=1&amp;alpn=h3#%40tootffarangi%F0%9F%8D%93
+hysteria://dongtaiwang.com@137.175.82.44:20022?upmbps=11&amp;downmbps=55&amp;security=tls&amp;sni=bing.com&amp;insecure=1&amp;alpn=h3#%40tootffarangi%F0%9F%8D%93
+hysteria://dongtaiwang.com@163.172.117.163:36699?upmbps=11&amp;downmbps=55&amp;security=tls&amp;sni=bing.com&amp;insecure=1&amp;alpn=h3#%40tootffarangi%F0%9F%8D%93
+hysteria://dongtaiwang.com@5.83.129.90:54177?upmbps=11&amp;downmbps=55&amp;security=tls&amp;sni=apple.com&amp;insecure=1&amp;alpn=h3#%40tootffarangi%F0%9F%8D%93
+hysteria://dongtaiwang.com@62.210.28.175:24667?upmbps=11&amp;downmbps=55&amp;security=tls&amp;sni=bing.com&amp;insecure=1&amp;alpn=h3#%40tootffarangi%F0%9F%8D%93
+hysteria://github.com%2FAlvin9999-newpac%2Ffanqiang@198.200.57.142:22335?upmbps=11&amp;downmbps=55&amp;security=tls&amp;sni=bing.com&amp;insecure=1&amp;alpn=h3#%40tootffarangi%F0%9F%8D%93
