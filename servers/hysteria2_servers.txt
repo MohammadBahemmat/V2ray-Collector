@@ -1,12 +1,2 @@
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.66.212:443/?insecure=1&amp;sni=de1.obxodvpn.us#%E2%9A%95%EF%B8%8F15@oneclickvpnkeys
-hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@177.202.65.158:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=AJyvWNsoDgVkMkboZ3juMJXYNRf6uEQE&amp;pinSHA256=7d00549c6ffd691650d3dd203b223919fc94b0b0600aa74a2f8ad0f4e4ab7bb3&amp;sni=hy2-fi2.snobvpn.online#%F0%9F%AA%8542@oneclickvpnkeys
-hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@201.58.190.235:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=sFQIE4F3SbaXCYoCQTY-4YvYiif8__By&amp;pinSHA256=8951ff7b7cd60fb28b7982f03fbe9c4739bf43e6b2a3a64c8dc45276f92b366b&amp;sni=hy2-pl.snobvpn.online#%F0%9F%AA%8532@oneclickvpnkeys
-hysteria2://307ee0e53ea04dfd86a7f2f9fcd53844@s5.libertyrunet.store:443/?sni=s5.libertyrunet.store#%F0%9F%99%8F69@oneclickvpnkeys
-hysteria2://3OAaD9HeUplLnOOA0StMZG@43.239.249.178:443?sni=www.bing.com&amp;insecure=1&amp;fastopen=1#
-hysteria2://4afd4e1b1b0edd429b10d800a1cf64a7@47.89.232.46:8443/?insecure=1&amp;sni=hysteria2.local#%F0%9F%AA%8597@oneclickvpnkeys
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443/?insecure=1&amp;sni=shorts.blog-forme.ru#%F0%9F%AA%856@oneclickvpnkeys
-hysteria2://MZKlrFbG73bKvCDe8VPul5PR9xQm@35.207.53.51:20999/?insecure=1&amp;sni=www.apple.com#%E2%9A%95%EF%B8%8F74@oneclickvpnkeys
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.167:4444/?sni=fl5.edgeport.cloud#%F0%9F%99%8F15@oneclickvpnkeys
-hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&amp;obfs=salamander&amp;obfs-password=km9oqmefh2km1i5n&amp;insecure=0&amp;sni=panel.autonetshop.ir#%40NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:10444/?sni=germany.cloudhouse1.ru#%E2%9A%95%EF%B8%8F35@oneclickvpnkeys
+hysteria2://3OAaD9HeUplLnOOA0StMZG@43.239.249.178:443?sni=www.bing.com&amp;insecure=1&amp;fastopen=1#%F0%9F%87%AF%F0%9F%87%B5216415%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&amp;obfs=salamander&amp;obfs-password=km9oqmefh2km1i5n&amp;insecure=0&amp;sni=panel.autonetshop.ir#%40tootffarangi%F0%9F%8D%93
