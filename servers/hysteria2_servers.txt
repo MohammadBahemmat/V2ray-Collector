@@ -1,5 +1,3 @@
-hysteria2://3OAaD9HeUplLnOOA0StMZG@43.239.249.178:443?sni=www.bing.com&amp;insecure=1&amp;fastopen=1#
-hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?sni=speedtestmark.com#
-hysteria2://MZKlrFbG73bKvCDe8VPul5PR9xQm@35.207.53.51:20999/?insecure=1&amp;sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8216290%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
-hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&amp;obfs=salamander&amp;obfs-password=km9oqmefh2km1i5n&amp;insecure=0&amp;sni=panel.autonetshop.ir#%40tootffarangi%F0%9F%8D%93
+hysteria2://3OAaD9HeUplLnOOA0StMZG@43.239.249.178:443?sni=www.bing.com&amp;insecure=1&amp;fastopen=1#%F0%9F%87%AF%F0%9F%87%B5216415%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://MZKlrFbG73bKvCDe8VPul5PR9xQm@35.207.53.51:20999/?insecure=1&amp;sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8216339%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&amp;obfs=salamander&amp;obfs-password=km9oqmefh2km1i5n&amp;insecure=0&amp;sni=panel.autonetshop.ir#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20%E2%8F%B16260ms%20%7C%20%E2%9A%A1110KB%2Fs%20%7C%20%40NamazVPN
