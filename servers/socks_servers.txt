@@ -1,4 +1,2 @@
-socks://Og==@
-socks://Ok5vbmU=@
-socks://dGVzdDEyMzp0ZXN0MTIz@185.145.99.41:1080#%20
-socks://dWZDb2JoeWR6NFdkOkpkRmxyWmhxSFA=@
+socks://Og%3D%3D@45.194.33.12:30001#%40tootffarangi%F0%9F%8D%93
+socks://Og%3D%3D@45.194.33.12:30002#%40tootffarangi%F0%9F%8D%93
