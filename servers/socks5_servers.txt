@@ -1,3 +1,1 @@
-socks5://Tek2x6av:DJy1T0dt@144.225.47.161:42000
-socks5://test123:test123@104.168.249.36:1080
-socks5://uqcchplu:rvltqqxy@23.230.200.95:62000
+socks5://5.75.133.113:10811
