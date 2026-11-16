@@ -1,1 +1,2 @@
-hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?sni=panel.autonetshop.ir&amp;obfs=salamander&amp;obfs-password=km9oqmefh2km1i5n#%40tootffarangi%F0%9F%8D%93
+hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?sni=speedtestmark.com#
+hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?sni=panel.autonetshop.ir&amp;obfs=salamander&amp;obfs-password=km9oqmefh2km1i5n#Channel%20%3A%20%40proxy_kafee
