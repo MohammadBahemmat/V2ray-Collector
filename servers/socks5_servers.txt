@@ -1,1 +1,2 @@
-socks5://QyVdo5ks:lcFa8dTH@94.194.165.131:62000#MX%20-%20zhuhai.uk%2002
+socks5://@Enkelte_notif:@Notif_Chat@205.198.66.189:2470
+socks5://u_rb1dba2:l1tlrdx52v@66.253.2.69:62000
