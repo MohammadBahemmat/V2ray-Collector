@@ -1,1 +1,2 @@
 hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@m1.config7x.kz.ci:26206?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=vxvnmus9agdzduvz&amp;insecure=0&amp;sni=config7x.de5.net#%40filembad
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&amp;sni=185.156.44.99#
