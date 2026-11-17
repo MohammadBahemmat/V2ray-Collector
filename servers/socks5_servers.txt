@@ -1,2 +1,1 @@
-socks5://@Enkelte_notif:@Notif_Chat@205.198.66.189:2470
-socks5://u_rb1dba2:l1tlrdx52v@66.253.2.69:62000
+socks5://150.228.196.110:1080
