@@ -1,4 +1,10 @@
-socks://Og==@
-socks://REp5MVQwZHQ6c1puRDhHVHo=@
-socks://dGVzdDEyMzp0ZXN0MTIz@104.168.249.36:1080#%20
-socks://dXRkcjh3dnM6N2kxZGhlZzY=@
+socks://107.174.30.92:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Buffalo%20%7C%20%E2%8F%B1882ms%20%7C%20%E2%9A%A1521KB%2Fs%20%7C%20%40NamazVPN
+socks://95.38.170.222:1084/#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20North%20York%20%7C%20%E2%8F%B12781ms%20%7C%20%E2%9A%A1267KB%2Fs%20%7C%20%40NamazVPN
+socks://Og@101.36.104.239:10808#%40vpnbaz%F0%9F%A4%8D
+socks://Og@109.201.65.165:1080#vpnbaz
+socks://Og@123.58.219.171:10808#%40vpnbaz%F0%9F%A4%8D
+socks://Og@139.162.78.109:1080#vpnbaz
+socks://Og@139.59.1.14:1080#%40vpnbaz%F0%9F%A4%8D
+socks://Og@195.201.246.53:1084#vpnbaz
+socks://Og@45.61.188.134:44499#vpnbaz
+socks://Og@69.55.49.177:38182#%40vpnbaz%F0%9F%A4%8D
