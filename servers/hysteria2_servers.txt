@@ -1,11 +1,4 @@
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1&amp;security=tls&amp;sni=srv-17e124
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?sni=off&amp;insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_127%7C97KB%2Fs%7CA004-260618
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.194.242.173:443?insecure=1&amp;security=tls&amp;sni=127.0.0.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20437627
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.194.242.173:443?insecure=1&amp;security=tls&amp;sni=vpn-de-002.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20538827
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.194.242.173:443?sni=18.194.242.173&amp;insecure=1#ProxyRift%20203
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?insecure=1&amp;security=tls&amp;sni=127.0.0.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20999620
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?insecure=1&amp;security=tls&amp;sni=vpn-de-002.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20808031
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.203.180:443?sni=3.76.203.180&amp;insecure=1#ProxyRift%20115
-hysteria2://VR7zICGZd3cB34G0FxSYQra3@#%F0%9F%8C%8D217665%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://VR7zICGZd3cB34G0FxSYQra3@82.152.161.146:10086?security=tls&amp;insecure=0&amp;pinSHA256=384dfd7165377a28b00c8feefed52b59abd376248b99d06495349c2ab24586bc&amp;sni=pic.bstarstatic.com#%F0%9F%87%AD%F0%9F%87%B0217617%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://e3a5bb40be52de65@35.212.149.246:2328?sni=apps.apple.com&amp;insecure=1#%E7%BE%8E%E5%9B%BD%EF%BC%9A%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9E%20HY2%E7%8B%AC%E7%AB%8B%E7%89%88
+hysteria2://99a271e85dbc4aa8950f9c7beee06b19@ide.vipvirtualnet.eu:30746?alpn=h3&amp;fp=chrome&amp;obfs=salamander&amp;obfs-password=7wjvepshx5g115x4&amp;security=tls&amp;sni=del.vipvirtualnet.eu#%F0%9F%87%A9%F0%9F%87%AA%20%40TABFOXE%20%F0%9F%87%AE%F0%9F%87%B7
+hysteria2://99a271e85dbc4aa8950f9c7beee06b19@tgame.vipvirtualnet.eu:15066?alpn=h3&amp;fp=chrome&amp;obfs=salamander&amp;obfs-password=sg4vykhxd2pzk94n&amp;security=tls&amp;sni=hxo.vipvirtualnet.eu#%F0%9F%87%B9%F0%9F%87%B7%20%40TABFOXE
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
+hysteria2://VR7zICGZd3cB34G0FxSYQra3@82.152.161.146:10086?security=tls&amp;insecure=0&amp;pinSHA256=384dfd7165377a28b00c8feefed52b59abd376248b99d06495349c2ab24586bc&amp;sni=pic.bstarstatic.com#
