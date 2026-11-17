@@ -1,1 +1,1 @@
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%40ConfigV2RayNG
+hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@m1.config7x.kz.ci:26206?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=vxvnmus9agdzduvz&amp;insecure=0&amp;sni=config7x.de5.net#%40filembad
