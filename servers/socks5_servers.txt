@@ -1,4 +1,1 @@
-socks5://8888:8888@47.236.168.243:1080
-socks5://paZFN3JA:EGJDy5Kg@103.248.150.50:42000
-socks5://test123:test123@104.168.249.36:1080
-socks5://u_rb1dba2:l1tlrdx52v@66.253.2.69:62000
+socks5://@Enkelte_notif:@Notif_Chat@205.198.66.189:2470
