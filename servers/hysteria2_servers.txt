@@ -1,3 +1,2 @@
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.66.212:443/?insecure=1&amp;sni=de1.obxodvpn.us#%E2%9A%95%EF%B8%8F15@oneclickvpnkeys
-hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160/?insecure=1&amp;sni=www.bing.com#%E2%99%BB%EF%B8%8F93@oneclickvpnkeys
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:10444/?sni=germany.cloudhouse1.ru#%E2%9A%95%EF%B8%8F35@oneclickvpnkeys
+hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&amp;obfs=salamander&amp;obfs-password=km9oqmefh2km1i5n&amp;insecure=0&amp;sni=panel.autonetshop.ir#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
