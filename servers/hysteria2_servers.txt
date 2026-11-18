@@ -1,3 +1,3 @@
-hysteria2://2d399e38-245c-4f07-abf2-cfce7397ba9c@31.76.106.92:8443/?sni=va.stream-room.com#%F0%9F%87%A9%F0%9F%87%AA218294%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@18.143.176.12:443?insecure=1&amp;sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC214601%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2Fv2ray_configs_pools
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:10444/?sni=cloudehouse24.ru#%F0%9F%87%B3%F0%9F%87%B1218298%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://2d399e38-245c-4f07-abf2-cfce7397ba9c@31.76.106.92:8443/?sni=va.stream-room.com#%F0%9F%87%A9%F0%9F%87%AA218245%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?sni=panel.autonetshop.ir&amp;obfs=salamander&amp;obfs-password=km9oqmefh2km1i5n#Channel%20%3A%20%40Daily_Configs
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:10444/?sni=cloudehouse24.ru#%F0%9F%87%B3%F0%9F%87%B1218249%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
