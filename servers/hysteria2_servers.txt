@@ -1,2 +1,1 @@
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
-hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&amp;obfs=salamander&amp;obfs-password=km9oqmefh2km1i5n&amp;insecure=0&amp;sni=panel.autonetshop.ir#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%A5%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
+hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160/?insecure=1&amp;sni=www.bing.com#%E2%99%BB%EF%B8%8F93@oneclickvpnkeys
