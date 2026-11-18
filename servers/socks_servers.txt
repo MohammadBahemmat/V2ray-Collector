@@ -1,6 +1,1 @@
-socks://Og==@
-socks://Ok5vbmU=@
-socks://REp5MVQwZHQ6c1puRDhHVHo=@
-socks://dGVzdDEyMzp0ZXN0MTIz@104.168.249.36:1080#%20
-socks://dV9yZjZiYTg3OnIxNzAzMDU3YXM=@
-socks://dXRkcjh3dnM6N2kxZGhlZzY=@
+socks://Og@95.38.170.222:1087#Tel-%40ProxyMtAlpha%F0%9F%9A%93%202
