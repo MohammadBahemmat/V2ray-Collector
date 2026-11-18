@@ -1,3 +1,1 @@
-hysteria2://5fa748137b6d822308eea4611f474ad5@155.117.19.17:443?insecure=1&amp;obfs=salamander&amp;obfs-password=a39ca173b57ac7021b08bf3e3de9f1f6&amp;sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Los%20Angeles%20%7C%20%E2%8F%B1991ms%20%7C%20%E2%9A%A1621KB%2Fs%20%7C%20%40NamazVPN
-hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443?insecure=1&amp;obfs=salamander&amp;obfs-password=c8827ab99e316c5bd414e21afa915ddf&amp;sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%E2%8F%B11003ms%20%7C%20%E2%9A%A1603KB%2Fs%20%7C%20%40NamazVPN
 hysteria2://VR7zICGZd3cB34G0FxSYQra3@82.152.161.146:10086?security=tls&amp;insecure=0&amp;pinSHA256=384dfd7165377a28b00c8feefed52b59abd376248b99d06495349c2ab24586bc&amp;sni=pic.bstarstatic.com#
