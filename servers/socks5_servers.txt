@@ -1,1 +1,8 @@
-socks5://L8wP3kQx:Zn5mR7vA@144.56.22.78:42000#
+socks5://L8wP3kQx:Zn5mR7vA@144.56.22.78:42000#%F0%9F%94%B935@oneclickvpnkeys
+socks5://Tek2x6av:DJy1T0dt@144.225.47.82:42000#MX%20-%20zhuhai.uk
+socks5://Tek2x6av:DJy1T0dt@144.225.47.8:42000#MX%20-%20zhuhai.uk%2002
+socks5://qT46DZLv:jHsK2gqs@103.184.113.84:62000#VN%20-%20zhuhai.uk
+socks5://route164JIa2CBPxfy:VAwyJQX0iKMJiyCw5UVK9wGH@103.14.164.202:42000#TH%20-%20zhuhai.uk%2002
+socks5://userLRgK:KsPAxZGn@94.194.166.52:42000#MX%20-%20zhuhai.uk%2003
+socks5://userZIsE:KsLwF8uu@82.47.153.33:42000#TH%20-%20zhuhai.uk%2003
+socks5://y2stTQnf:wj2sNvDu@45.201.39.74:62000#TH%20-%20zhuhai.uk
