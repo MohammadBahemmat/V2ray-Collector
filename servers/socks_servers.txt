@@ -1,3 +1,6 @@
-socks://REp5MVQwZHQ6c1puRDhHVHo@144.225.47.106:42000#%40FarazV2ray%20
-socks://dGVzdDEyMzp0ZXN0MTIz@104.168.249.36:1080#%40FarazV2ray%20
-socks://dXRkcjh3dnM6N2kxZGhlZzY@216.132.114.194:62000#%40FarazV2ray%20
+socks://Og==@
+socks://Ok5vbmU=@
+socks://REp5MVQwZHQ6c1puRDhHVHo=@
+socks://dGVzdDEyMzp0ZXN0MTIz@104.168.249.36:1080#%20
+socks://dV9yZjZiYTg3OnIxNzAzMDU3YXM=@
+socks://dXRkcjh3dnM6N2kxZGhlZzY=@
