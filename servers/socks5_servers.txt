@@ -1,1 +1,4 @@
-socks5://L8wP3kQx:Zn5mR7vA@144.56.22.78:42000#%F0%9F%94%B935@oneclickvpnkeys
+socks5://47.251.166.203:1080
+socks5://@Enkelte_notif:@Notif_Chat@205.198.66.189:2470
+socks5://paZFN3JA:EGJDy5Kg@103.248.150.50:42000
+socks5://u_rb1dba2:l1tlrdx52v@66.253.2.69:62000
