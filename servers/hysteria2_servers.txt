@@ -1,1 +1,2 @@
-hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443?sni=bing.com&amp;insecure=1#%F0%9F%87%AF%F0%9F%87%B5218753%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru&amp;insecure=0#%F0%9F%87%A8%F0%9F%87%A6%20%40freedom_iran_npv%20%282%29
+hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443?sni=bing.com&amp;insecure=1#%F0%9F%87%AF%F0%9F%87%B5218802%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
