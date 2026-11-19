@@ -1,4 +1,2 @@
-hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?security=tls&amp;obfs=salamander&amp;obfs-password=7922smqtd5qm70fu&amp;insecure=0&amp;sni=109.70.74.213#Telegram%20%20%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
-hysteria2://VPNJEy@#%F0%9F%8C%8D219501%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&amp;obfs=salamander&amp;obfs-password=km9oqmefh2km1i5n&amp;insecure=0&amp;sni=panel.autonetshop.ir#%40v2ray_phoenix
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@18.143.176.12:443?insecure=1&amp;sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC214601%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2Fv2ray_configs_pools
+hysteria2://VPNJEy@#%F0%9F%8C%8D219550%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
