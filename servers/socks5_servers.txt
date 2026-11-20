@@ -1,3 +1,1 @@
-socks5://2FYbAx8H:3ahWX7l1@192.204.14.58:42000#
-socks5://X3s3JteD:mpbK00Pl@192.204.15.135:42000#
-socks5://y2stTQnf:wj2sNvDu@45.201.39.74:62000#
+socks5://152.70.237.238:3128#
