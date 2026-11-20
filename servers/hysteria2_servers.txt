@@ -1,4 +1,1 @@
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru&amp;insecure=0#%F0%9F%87%A8%F0%9F%87%A6%20%40freedom_iran_npv%20%282%29
-hysteria2://HPzKAhFXV5XgEmRSTM33DRuTHeFcB5ON@89.117.172.45:443?obfs=salamander&amp;obfs-password=0dRexOATy4t9J1ckKOLpPy9HrNoU5FmN&amp;sni=eth.todsm.com#
-hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&amp;obfs=salamander&amp;obfs-password=km9oqmefh2km1i5n&amp;insecure=0&amp;sni=panel.autonetshop.ir#%40v2ray_phoenix
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443/?insecure=1&amp;sni=www.amazon.com#
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
