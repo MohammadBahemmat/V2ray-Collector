@@ -1,6 +1,1 @@
-socks5://103.248.228.166:5555
-socks5://92.5.68.29:1080
-socks5://@Enkelte_notif:@Notif_Chat@205.198.66.189:2470
-socks5://route164JIa2CBPxfy:VAwyJQX0iKMJiyCw5UVK9wGH@103.14.164.30:42000
-socks5://u_rb1dba2:l1tlrdx52v@66.253.2.69:62000
-socks5://ufCobhydz4Wd:JdFlrZhqHP@69.16.157.244:1080
+socks5://test123:test123@169.255.56.148:1080#%F0%9F%87%AC%F0%9F%87%AD%20Ghana%20-%20Accra%20%7C%20169.255.56.148%3A1080%203
