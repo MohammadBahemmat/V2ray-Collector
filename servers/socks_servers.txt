@@ -1,2 +1,6 @@
-socks://Og@92.5.68.29:1080#%E2%AD%9513%40ConfigV2RayNG
-socks://VUJYaWNoMEs6VnZVQUZpMkU@72.57.228.87:62000#%F0%9F%94%B594%40ConfigV2RayNG
+socks://Og@101.36.104.239:10808#@v2ray_confing33
+socks://Og@103.236.190.197:1080#@v2ray_confing33
+socks://Og@123.58.219.171:10808#@v2ray_confing33
+socks://Og@157.90.113.23:9052#@v2ray_confing33
+socks://Og@45.61.188.134:44499#@v2ray_confing33
+socks://Og@69.55.49.177:38182#@v2ray_confing33
