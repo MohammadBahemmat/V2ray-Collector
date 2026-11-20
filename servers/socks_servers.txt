@@ -1,14 +1,1 @@
-socks://Og@101.36.104.239:10808#5|@ConfingV2RaayNG
-socks://Og@103.236.190.197:1080#1|@ConfingV2RaayNG
-socks://Og@109.201.65.165:1080#Channel@ConfingV2RaayNG
-socks://Og@123.58.219.171:10808#3|@ConfingV2RaayNG
-socks://Og@139.162.78.109:1080#@ConfingV2RaayNG
-socks://Og@139.59.1.14:1080#Biatoo@ConfingV2RaayNG
-socks://Og@157.90.113.23:9052#6|@ConfingV2RaayNG
-socks://Og@195.201.246.53:1084#chanel@ConfingV2RaayNG
-socks://Og@45.61.188.134:44499#2|@ConfingV2RaayNG
-socks://Og@69.55.49.177:38182#4|@ConfingV2RaayNG
-socks://REp5MVQwZHQ6c1puRDhHVHo@144.225.47.106:42000#%40FarazV2ray%20
-socks://dGVzdDEyMzp0ZXN0MTIz@104.168.249.36:1080#%40FarazV2ray%20
-socks://dXRkcjh3dnM6N2kxZGhlZzY@216.132.114.194:62000#%40FarazV2ray%20
-socks://u_rf6ba87:r1703057as@216.132.114.182:62000#%F0%9F%87%BA%F0%9F%87%B8220787%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+socks://u_rf6ba87:r1703057as@216.132.114.182:62000#
