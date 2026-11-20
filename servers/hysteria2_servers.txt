@@ -1,2 +1,4 @@
 hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
+hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&amp;obfs=salamander&amp;obfs-password=km9oqmefh2km1i5n&amp;insecure=0&amp;sni=panel.autonetshop.ir#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&amp;sni=├┤─å├╢─╜#%F0%9F%87%A9%F0%9F%87%AA220268%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
