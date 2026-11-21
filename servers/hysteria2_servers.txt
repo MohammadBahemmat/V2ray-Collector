@@ -1,8 +1,1 @@
-hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=c8827ab99e316c5bd414e21afa915ddf&amp;sni=www.bing.com#%F0%9F%94%B593@oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443/?insecure=1&amp;sni=vpn-hk-004.fastervpn.world#%F0%9F%94%B592@oneclickvpnkeys
-hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443/?insecure=1&amp;obfs=salamander&amp;obfs-password=HysteriaHowdy&amp;sni=sni-here.com#%F0%9F%94%B510@oneclickvpnkeys
-hysteria2://VPNJEy@[2a0f:5707:aaf1:11a6::1]:36264/?insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;sni=de2.jey.cc.cd#%F0%9F%94%B531@oneclickvpnkeys
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443/?insecure=1&amp;sni=www.amazon.com#%E2%AD%9562@oneclickvpnkeys
-hysteria2://linlin-2026@13.55.52.44:36712/?insecure=1&amp;sni=13.55.52.44#%F0%9F%94%B5100@oneclickvpnkeys
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443/?insecure=1&amp;sni=vpn-sg-001.fastervpn.world#%E2%AD%9573@oneclickvpnkeys
-hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443/?insecure=1&amp;sni=8.211.175.236#%E2%AD%9594@oneclickvpnkeys
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru&amp;insecure=0#%F0%9F%87%A8%F0%9F%87%A6%20%40freedom_iran_npv%20%282%29
