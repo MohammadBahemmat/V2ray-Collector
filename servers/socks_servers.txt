@@ -1,2 +1,1 @@
-socks://bEJ1M1MwS0N3dGdMQzlIaVdxTkZyNnV2OjFATW9qaXZwbg%3D%3D@ee-tal.pvdata.host:1080#
-socks://dTdmZWllajA6aXExODg0d3o@91.109.47.96:42000#
+socks://dTdmZWllajA6aXExODg0d3o@91.109.47.96:42000#@ProxyMTProtoIR
