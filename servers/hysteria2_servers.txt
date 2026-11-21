@@ -1,9 +1,1 @@
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru&amp;insecure=0#%F0%9F%87%A8%F0%9F%87%A6%20%40freedom_iran_npv%20%282%29
-hysteria2://AIcYjw5Oc9Rrrr9SGDUBbBIC@38.76.150.108:36712?insecure=1#%F0%9F%87%BA%F0%9F%87%B8221994%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
-hysteria2://ePPsH1bMFD@23.141.172.229:50541?alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=1&amp;sni=is1-ssl.mzstatic.com#%F0%9F%87%AD%F0%9F%87%B0221995%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.140:8443?sni=grape-turbo-fr.roxa.org#%F0%9F%87%B3%F0%9F%87%B1221924%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8443?insecure=1&amp;sni=grape-turbo-fr.roxa.org#%F0%9F%87%B3%F0%9F%87%B1221920%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.147:8443?insecure=1&amp;sni=grape-turbo-fr.roxa.org#%F0%9F%87%B3%F0%9F%87%B1221921%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@217.60.182.79:443?insecure=1&amp;sni=cabinet.wwwinternetvideo.click#
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443?insecure=1&amp;sni=cabinet.wwwinternetvideo.click#%F0%9F%87%AA%F0%9F%87%AA221874%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018?sni=quotes.ali-khamenei.world&amp;obfs=salamander&amp;obfs-password=v0qq015d7c8zgzu7#@meliproxyy
