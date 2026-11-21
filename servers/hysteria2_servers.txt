@@ -1,1 +1,1 @@
-hysteria2://HATATEAYA@77.90.15.183:8964?sni=ganlanc.at&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=HATATEAYA#Channel%20%3A%20%40Daily_Configs
+hysteria2://030e421e-9317-4cb8-8fbe-a07a565ad3db@4f070970.con.metricdraft.tech:443?fm=%7B%7D&amp;security=tls&amp;sni=4f070970.con.metricdraft.tech#
