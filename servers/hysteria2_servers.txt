@@ -1,8 +1,2 @@
-hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=c8827ab99e316c5bd414e21afa915ddf&amp;sni=www.bing.com#%F0%9F%94%B593@oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443/?insecure=1&amp;sni=vpn-hk-004.fastervpn.world#%F0%9F%94%B592@oneclickvpnkeys
-hysteria2://VPNJEy@[2a0f:5707:aaf1:11a6::1]:36264/?insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;sni=de2.jey.cc.cd#%F0%9F%94%B531@oneclickvpnkeys
-hysteria2://capadmae6e0190:moJK4Js1rEdUv1eWIqyjX1QB@51.15.16.68:8444?mport=21000-21199,33000-33199&amp;obfs=salamander&amp;obfs-password=HVD1C0uyo38mMz8B&amp;sni=vpn.local&amp;insecure=1#%F0%9F%87%B3%F0%9F%87%B1221583%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443/?insecure=1&amp;sni=www.amazon.com#%E2%AD%9562@oneclickvpnkeys
-hysteria2://linlin-2026@13.55.52.44:36712/?insecure=1&amp;sni=13.55.52.44#%F0%9F%94%B5100@oneclickvpnkeys
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443/?insecure=1&amp;sni=vpn-sg-001.fastervpn.world#%E2%AD%9573@oneclickvpnkeys
-hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443/?insecure=1&amp;sni=8.211.175.236#%E2%AD%9594@oneclickvpnkeys
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
+hysteria2://capadmae6e0190:moJK4Js1rEdUv1eWIqyjX1QB@51.15.16.68:8444?mport=21000-21199,33000-33199&amp;obfs=salamander&amp;obfs-password=HVD1C0uyo38mMz8B&amp;sni=vpn.local&amp;insecure=1#%F0%9F%87%B3%F0%9F%87%B1221534%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
