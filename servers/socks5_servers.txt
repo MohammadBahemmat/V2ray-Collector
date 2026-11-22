@@ -1,1 +1,5 @@
-socks5://@Enkelte_notif:@Notif_Chat@205.198.66.189:2470
+socks5://195.135.255.98:1080#LV%20-%20zhuhai.uk
+socks5://209.50.255.91:1080#US%20-%20zhuhai.uk%2005
+socks5://69.55.49.177:38182#%F0%9F%93%9774@oneclickvpnkeys
+socks5://8.219.122.8:9999#SG%20-%20zhuhai.uk
+socks5://u7feiej0:iq1884wz@91.109.47.96:42000#%E2%9A%99%EF%B8%8F11@oneclickvpnkeys
