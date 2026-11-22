@@ -1,2 +1,6 @@
 socks5://123:123@8.217.208.190:3060#
-socks5://@Enkelte_notif:@Notif_Chat@205.198.66.189:2470
+socks5://219.78.223.199:5001
+socks5://91.199.137.149:2010
+socks5://gebHTLF6:APJ7RmY9@202.155.99.212:62000
+socks5://rVkkraqT:2j7CCZQb@94.194.164.203:62000
+socks5://u_rb1dba2:l1tlrdx52v@66.253.2.69:62000
