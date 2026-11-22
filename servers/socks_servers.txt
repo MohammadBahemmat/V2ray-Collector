@@ -1,1 +1,1 @@
-socks://VUJYaWNoMEs6VnZVQUZpMkU@72.57.228.87:62000#
+socks://69.55.49.177:38182#
