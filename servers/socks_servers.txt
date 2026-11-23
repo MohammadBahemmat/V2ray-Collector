@@ -1,7 +1,2 @@
-socks://Og==@
-socks://REp5MVQwZHQ6c1puRDhHVHo=@
-socks://Snp1ZmlKNjI6NzViUG9SY0I=@
-socks://UXlWZG81a3M6bGNGYThkVEg=@
-socks://a3M4Nzg0NDkyNjBkOllsUm9XdkUwZExfY1VxUzk0d1BlS25BNA==@
-socks://clZra3JhcVQ6Mmo3Q0NaUWI=@
-socks://dXdyZ2Zrd2c6MG12cnQ1amI=@
+socks://Og%3D%3D@157.90.113.23:9052#
+socks://u_rb1dba2:l1tlrdx52v@66.253.2.69:62000#
