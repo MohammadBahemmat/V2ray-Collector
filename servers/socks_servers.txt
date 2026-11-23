@@ -1,2 +1,3 @@
-socks://UXlWZG81a3M6bGNGYThkVEg@94.194.165.96:62000#%40V2ray_confiig
-socks://dTdmZWllajA6aXExODg0d3o@91.109.47.96:42000#@meliproxyy
+socks://VUJYaWNoMEs6VnZVQUZpMkU@72.57.228.87:62000#
+socks://eTJzdFRRbmY6d2oyc052RHU@45.201.39.74:62000#
+socks://y2stTQnf:wj2sNvDu@45.201.39.74:62000#
