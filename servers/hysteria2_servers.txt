@@ -1,4 +1,1 @@
-hysteria2://2a767d49fd18caeb37aebe7c49fb4d44@rebecca.nikanesalamat.ir:2096?sni=rebecca.nikanesalamat.ir#%F0%9F%87%BA%F0%9F%87%B8226708%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018?sni=quotes.ali-khamenei.world&amp;obfs=salamander&amp;obfs-password=v0qq015d7c8zgzu7#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-hysteria2://HATATEAYA@77.90.15.183:8964?sni=ganlanc.at&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=HATATEAYA#Channel%20%3A%20%40Daily_Configs
-hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443/?insecure=1&amp;sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5226668%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
