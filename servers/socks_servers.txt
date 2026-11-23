@@ -1,1 +1,1 @@
-socks://dTdmZWllajA6aXExODg0d3o@91.109.47.96:42000#%40V2raySaman
+socks://dTdmZWllajA6aXExODg0d3o@91.109.47.96:42000#Channel%20%3A%20%40proxy_kafee%20
