@@ -1,13 +1,1 @@
-socks://Og@101.36.104.239:10808#5|@ConfingV2RaayNG
-socks://Og@103.236.190.197:1080#1|@ConfingV2RaayNG
-socks://Og@123.58.219.171:10808#3|@ConfingV2RaayNG
-socks://Og@157.90.113.23:9052#6|@ConfingV2RaayNG
-socks://Og@45.61.188.134:44499#2|@ConfingV2RaayNG
-socks://Og@69.55.49.177:38182#4|@ConfingV2RaayNG
-socks://REp5MVQwZHQ6c1puRDhHVHo@144.225.47.106:42000#Channel%20%3A%20%40Daily_Configs
-socks://SlBqYXJwVzM6YW8zVzVaTUw@168.222.8.4:42000#Channel%20%3A%20%40Daily_Configs
-socks://VUJYaWNoMEs6VnZVQUZpMkU@72.57.228.87:62000#Channel%20%3A%20%40Daily_Configs
-socks://WDNzM0p0ZUQ6bXBiSzAwUGw@192.204.15.135:42000#Channel%20%3A%20%40Daily_Configs
-socks://dTdmZWllajA6aXExODg0d3o@91.109.47.96:42000#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-socks://dXNlck1HRWo6S3N5U3ZDQVA@82.47.154.48:42000#Channel%20%3A%20%40Daily_Configs
-socks://eTJzdFRRbmY6d2oyc052RHU@45.201.39.74:62000#Channel%20%3A%20%40Daily_Configs
+socks://dTdmZWllajA6aXExODg0d3o@91.109.47.96:42000#Channel%20%3A%20%40Daily_Configs%20
