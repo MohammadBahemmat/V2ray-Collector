@@ -1,8 +1,5 @@
-hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@166.0.28.140:443/?obfs=salamander&amp;obfs-password=S4iBMpc3aIzLC1c-6fE6rU15ZzXyfjr0ciGdh0A3alI&amp;sni=static-de.snobmenu.xyz#
-hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@166.0.28.140:443?security=tls&amp;obfs=salamander&amp;obfs-password=S4iBMpc3aIzLC1c-6fE6rU15ZzXyfjr0ciGdh0A3alI&amp;insecure=0&amp;sni=static-de.snobmenu.xyz#%40tootffarangi%F0%9F%8D%93-2
-hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@1…
-hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.102.139.88:443?security=tls&amp;obfs=salamander&amp;obfs-password=a7rK-GlWiXFjHnfCYQeiNGqPgqj7sfRr&amp;insecure=0&amp;sni=static-se2.snobvpn.online#
-hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.103.144.118:8443?security=tls&amp;obfs=salamander&amp;obfs-password=JGIhnEi-CcIJOfNTqvNxX_5wRAYUZ0J2&amp;insecure=0&amp;sni=static-nl.snobvpn.online#%40tootffarangi%F0%9F%8D%93-4
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@hkzfsg2.mateflora.com:443?security=tls&amp;obfs=salamander&amp;obfs-password=fcfqz5o4znnjqtrp&amp;insecure=0&amp;sni=hkzfsg2.mateflora.com#%40tootffarangi%F0%9F%8D%93-1
-hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram%40vpnjey&amp;insecure=0&amp;sni=de2.jey.cc.cd#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1
-hysteria2://b7941807-1f4d-4bda-a878-92d708b84494@46.8.210.33:8446?security=tls&amp;obfs=salamander&amp;obfs-password=nTm4oBa6QCpWoAFDVtF6mpMpfMfN8CM6&amp;insecure=0&amp;sni=litelitvalitter.rooferz.surf#%F0%9F%87%B1%F0%9F%87%B9%20Join%20us%20%7C%20%40Nexus_nett
+hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@166.0.28.140:443?security=tls&amp;obfs=salamander&amp;obfs-password=S4iBMpc3aIzLC1c-6fE6rU15ZzXyfjr0ciGdh0A3alI&amp;insecure=0&amp;sni=static-de.snobmenu.xyz#%40tootffarangi%F0%9F%8D%93
+hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.102.139.88:443?security=tls&amp;obfs=salamander&amp;obfs-password=a7rK-GlWiXFjHnfCYQeiNGqPgqj7sfRr&amp;insecure=0&amp;sni=static-se2.snobvpn.online#%40tootffarangi%F0%9F%8D%93
+hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.103.144.118:8443?security=tls&amp;obfs=salamander&amp;obfs-password=JGIhnEi-CcIJOfNTqvNxX_5wRAYUZ0J2&amp;insecure=0&amp;sni=static-nl.snobvpn.online#%40tootffarangi%F0%9F%8D%93
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@hkzfsg2.mateflora.com:443?security=tls&amp;obfs=salamander&amp;obfs-password=fcfqz5o4znnjqtrp&amp;insecure=0&amp;sni=hkzfsg2.mateflora.com#%40tootffarangi%F0%9F%8D%93
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
