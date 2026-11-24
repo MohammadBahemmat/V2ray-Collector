@@ -1,7 +1,1 @@
-socks://ODg4ODo4ODg4@47.236.168.243:1080#Channel%20%3A%20%40Daily_Configs
-socks://REp5MVQwZHQ6c1puRDhHVHo@144.225.47.106:42000#Channel%20%3A%20%40Daily_Configs
-socks://VUJYaWNoMEs6VnZVQUZpMkU@72.57.228.87:62000#Channel%20%3A%20%40Daily_Configs
-socks://WDNzM0p0ZUQ6bXBiSzAwUGw@192.204.15.135:42000#Channel%20%3A%20%40Daily_Configs
-socks://a3M4Nzg0NDkyNjBkOllsUm9XdkUwZExfY1VxUzk0d1BlS25BNA@87.84.49.140:62000#
-socks://dTdmZWllajA6aXExODg0d3o@91.109.47.96:42000#Channel%20%3A%20%40Daily_Configs%20
-socks://eTJzdFRRbmY6d2oyc052RHU@45.201.39.74:62000#Channel%20%3A%20%40Daily_Configs
+socks://a3M4Nzg0NDkyNjBkOllsUm9XdkUwZExfY1VxUzk0d1BlS25BNA@87.84.49.140:62000#%40tootffarangi%F0%9F%8D%93
