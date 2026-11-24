@@ -1,1 +1,3 @@
-hysteria2://14c9c083296b4caa9108c429a68ec786@us1.taptapvpn.top:8443?security=tls&amp;obfs=salamander&amp;obfs-password=00d67gvra35ubery&amp;insecure=0&amp;sni=us1.taptapvpn.top#%40tootffarangi%F0%9F%8D%93
+hysteria2://74bec046f0004aa5bc280ecc4ab50465@216.73.157.142:443?security=tls&amp;obfs=salamander&amp;obfs-password=qrl-03E8Q6JaUlAkOPHXQBwN&amp;insecure=0&amp;sni=216.73.157.142#%40filembad
+hysteria2://cdfb74db-f288-4271-960d-6d31c4ef75cc@tomsk.gosgenarchive.com:8443?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=x9KvL2mP4nC72H3w&amp;insecure=0&amp;sni=tomsk.gosgenarchive.com#%40filembad
+hysteria2://cdfb74db-f288-4271-960d-6d31c4ef75cc@tomsk.gosgenarchive.com:8443?security=tls&amp;obfs=salamander&amp;obfs-password=x9KvL2mP4nC72H3w&amp;insecure=0&amp;sni=tomsk.gosgenarchive.com#%40tootffarangi%F0%9F%8D%93
