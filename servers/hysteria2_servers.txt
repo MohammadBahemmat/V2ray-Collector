@@ -1,8 +1,7 @@
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@103.30.76.18:443?security=tls&amp;obfs=salamander&amp;obfs-password=fcfqz5o4znnjqtrp&amp;insecure=0&amp;sni=hkzfsg2.mateflora.com#%40tootffarangi%F0%9F%8D%93-5
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.197:443?security=tls&amp;obfs=salamander&amp;obfs-password=sj1awrdwnn5lbuno&amp;insecure=0&amp;sni=bgsg2.hikigo.com#%40tootffarangi%F0%9F%8D%93-6
-hysteria2://74bec046f0004aa5bc280ecc4ab50465@216.73.157.142:443?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=qrl-03E8Q6JaUlAkOPHXQBwN&amp;insecure=0&amp;sni=216.73.157.142#%40tootffarangi%F0%9F%8D%93
-hysteria2://74bec046f0004aa5bc280ecc4ab50465@216.73.157.142:443?security=tls&amp;obfs=salamander&amp;obfs-password=qrl-03E8Q6JaUlAkOPHXQBwN&amp;insecure=0&amp;sni=216.73.157.142#%40tootffarangi%F0%9F%8D%93
-hysteria2://87bb2ac4-b7a1-0001-b11d-2107709ea6cb@136.148.83.69:443/?insecure=1&amp;sni=szqbx-ru-77dc.my-fade.cloud#%F0%9F%87%AB%F0%9F%87%B7230050%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@m1.config7x.kz.ci:26206?security=tls&amp;obfs=salamander&amp;obfs-password=vxvnmus9agdzduvz&amp;insecure=0&amp;sni=config7x.de5.net#%F0%9F%87%AE%F0%9F%87%B7230192%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://cdfb74db-f288-4271-960d-6d31c4ef75cc@tomsk.gosgenarchive.com:8443?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=x9KvL2mP4nC72H3w&amp;insecure=0&amp;sni=tomsk.gosgenarchive.com#%40tootffarangi%F0%9F%8D%93-3
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&amp;obfs=salamander&amp;obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&amp;insecure=0&amp;sni=nas.aizhzo.com#@meliproxyy
+hysteria2://5dc783605a6829f831a21d86bb913c7a@64.204.49.143:443?insecure=1&amp;sni=www.bing.com#
+hysteria2://74bec046f0004aa5bc280ecc4ab50465@216.73.157.142:443?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=qrl-03E8Q6JaUlAkOPHXQBwN&amp;insecure=0&amp;sni=216.73.157.142#%40filembad
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@43.201.46.216:443?insecure=1&amp;sni=www.bing.com&amp;pinSHA256=89:61:86:FE:B2:0C:B7:40:31:87:A4:5F:F3:BD:5D:DC:8B:FB:DD:41:9D:77:9D:55:D7:86:18:9D:36:73:1A:69#
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@47.129.253.166:443?insecure=1&amp;sni=www.bing.com&amp;pinSHA256=C1:FD:40:94:1F:91:9B:5C:78:96:24:40:97:F2:2D:9D:95:8E:62:5C:D9:58:B7:5F:34:CC:FA:42:18:1F:50:B2#
+hysteria2://87bb2ac4-b7a1-0001-b11d-2107709ea6cb@136.148.83.69:443/?insecure=1&amp;sni=szqbx-ru-77dc.my-fade.cloud#%F0%9F%87%AB%F0%9F%87%B7230001%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://BUXbnqjJsANkol0C-McZxw@79.110.231.7:443?insecure=1&amp;sni=www.bing.com#
+hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@m1.config7x.kz.ci:26206?security=tls&amp;obfs=salamander&amp;obfs-password=vxvnmus9agdzduvz&amp;insecure=0&amp;sni=config7x.de5.net#
