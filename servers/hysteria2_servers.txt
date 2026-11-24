@@ -1,1 +1,2 @@
 hysteria2://5ictxgawam84vgrp@107.181.112.141:2098?sni=107.181.112.141&amp;obfs=salamander&amp;obfs-password=7922smqtd5qm70fu#%40tootffarangi%F0%9F%8D%93
+hysteria2://fup6jqo76blcumls@13.53.131.128:33971?alpn=h3,h2,http/1.1&amp;fp=chrome&amp;obfs=salamander&amp;obfs-password=anhzfr8jwm3m1cb0&amp;security=tls&amp;sni=se.accuratenetworkchecker.ir#
