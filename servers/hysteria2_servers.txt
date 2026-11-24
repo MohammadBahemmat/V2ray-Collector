@@ -1,5 +1,2 @@
-hysteria2://47bd1009-ee95-49a0-9ca1-589a06f3acd4@r-std-23.edge.shifra.vpncfg.net:443/?sni=books.d.vpncfg.net#%F0%9F%8C%8D229340%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://a73b5843-ed5c-4c6b-91e7-4fffa96a2db6@xnode-de-01.sigma-vpn.com:443/?sni=xnode-de-01.sigma-vpn.com&amp;alpn=h3&amp;fp=chrome#%F0%9F%8C%8D229365%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://a86b8bc9-3412-4b4b-bb56-b2cb90be5680@193.41.68.206:443/?sni=patriot.ultimagamest.com&amp;alpn=h3&amp;fp=firefox&amp;obfs=&amp;insecure=0#%40tootffarangi%F0%9F%8D%93
-hysteria2://a86b8bc9-3412-4b4b-bb56-b2cb90be5680@193.41.68.54:443?insecure=0&amp;sni=patriot.ultimagamest.com&amp;alpn=h3&amp;obfs=none#%40tootffarangi%F0%9F%8D%93
-hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?insecure=1&amp;sni=www.bing.com#%40tootffarangi%F0%9F%8D%93
+hysteria2://14c9c083296b4caa9108c429a68ec786@us1.taptapvpn.top:8443?security=tls&amp;obfs=salamander&amp;obfs-password=00d67gvra35ubery&amp;insecure=0&amp;sni=us1.taptapvpn.top#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Washington%20D.C.%20%7C%20%E2%8F%B11157ms%20%7C%20%E2%9A%A1632KB%2Fs%20%7C%20%40NamazVPN
+hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=c8827ab99e316c5bd414e21afa915ddf&amp;sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%E2%8F%B11163ms%20%7C%20%E2%9A%A1519KB%2Fs%20%7C%20%40NamazVPN
