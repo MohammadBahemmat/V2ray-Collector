@@ -1,2 +1,5 @@
 hysteria2://5ictxgawam84vgrp@107.181.112.141:2098?sni=107.181.112.141&amp;obfs=salamander&amp;obfs-password=7922smqtd5qm70fu#%40tootffarangi%F0%9F%8D%93
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@3.39.235.71:443?insecure=1&amp;sni=www.bing.com&amp;pinSHA256=89:61:86:FE:B2:0C:B7:40:31:87:A4:5F:F3:BD:5D:DC:8B:FB:DD:41:9D:77:9D:55:D7:86:18:9D:36:73:1A:69#
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@43.203.228.99:443?insecure=1&amp;sni=www.bing.com&amp;pinSHA256=89:61:86:FE:B2:0C:B7:40:31:87:A4:5F:F3:BD:5D:DC:8B:FB:DD:41:9D:77:9D:55:D7:86:18:9D:36:73:1A:69#
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@54.151.145.5:443?insecure=1&amp;sni=www.bing.com&amp;pinSHA256=C1:FD:40:94:1F:91:9B:5C:78:96:24:40:97:F2:2D:9D:95:8E:62:5C:D9:58:B7:5F:34:CC:FA:42:18:1F:50:B2#
 hysteria2://hjfkbryrrms11obu@185.19.33.28:2098?sni=185.19.33.28&amp;obfs=salamander&amp;obfs-password=7922smqtd5qm70fu#%F0%9F%87%B3%F0%9F%87%B1230560%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
