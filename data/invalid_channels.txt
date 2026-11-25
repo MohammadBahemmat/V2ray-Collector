@@ -7,4 +7,3 @@ v2rayi_net
 myvless
 akhbarforiir24
 ablnet7
-iranconnecting
