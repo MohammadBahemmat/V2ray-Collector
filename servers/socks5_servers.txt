@@ -1,7 +1,2 @@
-socks5://59.11.209.162:1080#socks%207%20-%201484
-socks5://69.55.49.177:38182#socks%203%20-%201480
-socks5://91.107.179.68:10809#socks%206%20-%201483
-socks5://UBXich0K:VvUAFi2E@72.57.228.30:62000#socks%201%20-%201478
-socks5://route164JIa2CBPxfy:VAwyJQX0iKMJiyCw5UVK9wGH@103.14.164.202:42000#socks%204%20-%201481
-socks5://u_rb1dba2:l1tlrdx52v@66.253.2.69:62000#socks%205%20-%201482
-socks5://ufCobhydz4Wd:JdFlrZhqHP@69.16.157.244:1080#socks%202%20-%201479
+socks5://31.56.19.26:1080
+socks5://user:pass@10.0.0.1:1080
