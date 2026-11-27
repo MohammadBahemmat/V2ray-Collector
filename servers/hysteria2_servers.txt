@@ -1,2 +1,1 @@
-hysteria2://AIbXqmbagi8c_pPQF8UkyQRgAlGbk5aT@nemazu.grandserver8.ir:8445?security=tls&amp;obfs=salamander&amp;obfs-password=5wnhum8v8a5f8m9z&amp;insecure=0&amp;sni=donige.grandserver8.ir#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-hysteria2://capadmae6e0190:moJK4Js1rEdUv1eWIqyjX1QB@51.15.16.68:8447?mport=24000-24199,37000-37199&amp;obfs=salamander&amp;obfs-password=HVD1C0uyo38mMz8B&amp;sni=vpn.local&amp;insecure=1#%F0%9F%87%B3%F0%9F%87%B1232469%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://AIbXqmbagi8c_pPQF8UkyQRgAlGbk5aT@nemazu.grandserver8.ir:8445?security=tls&amp;obfs=salamander&amp;obfs-password=5wnhum8v8a5f8m9z&amp;insecure=0&amp;sni=donige.grandserver8.ir#
