@@ -1,3 +1,6 @@
-socks5://69.55.49.177:38182#%F0%9F%94%B770@oneclickvpnkeys
-socks5://QyVdo5ks:lcFa8dTH@94.194.165.131:62000#%F0%9F%94%B793@oneclickvpnkeys
-socks5://gebHTLF6:APJ7RmY9@202.155.99.222:62000#%F0%9F%94%B799@oneclickvpnkeys
+socks5://123456:@localhost:1080
+socks5://127.0.0.1:4443
+socks5://127.0.0.1:4445
+socks5://192.168.1.50:4445
+socks5://localhost:1080
+socks5://vnet:4445
