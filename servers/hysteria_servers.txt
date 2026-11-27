@@ -1,7 +1,1 @@
-hysteria://137.175.82.41:20022?alpn=h3&auth_str=dongtaiwang.com&downmbps=55&obfsParam=&insecure=1&peer=bing.com&sub_tag=noCache&upmbps=11&udp=true&auth=dongtaiwang.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2086
-hysteria://198.200.57.142:22335?alpn=h3&auth_str=github.com%2FAlvin9999-newpac%2Ffanqiang&downmbps=55&obfsParam=&insecure=1&peer=bing.com&upmbps=11&udp=true&auth=github.com/Alvin9999-newpac/fanqiang#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2098
-hysteria://38.6.222.131:11008?alpn=h3&auth_str=dongtaiwang.com&downmbps=55&obfsParam=&insecure=1&peer=bing.com&upmbps=11&udp=true&auth=dongtaiwang.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2082
-hysteria://38.6.222.132:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&insecure=1&peer=bing.com&sub_tag=noCache&upmbps=11&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2087
-hysteria://62.210.124.132:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55
-hysteria://62.210.28.175:24667?alpn=h3&auth_str=dongtaiwang.com&downmbps=55&obfsParam=&insecure=1&peer=bing.com&upmbps=11&udp=true&auth=dongtaiwang.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2015
-hysteria://62.210.70.191:24667?alpn=h3&auth_str=dongtaiwang.com&downmbps=55
+hysteria://198.200.57.142:22335?alpn=h3&auth_str=github.com%2FAlvin9999-newpac%2Ffanqiang&downmbps=55&obfsParam=&insecure=1&peer=198.200.57.142&upmbps=11&udp=true&disable_sni=true#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.2MB%2Fs
