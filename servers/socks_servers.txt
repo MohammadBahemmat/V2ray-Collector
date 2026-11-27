@@ -1,2 +1,5 @@
-socks://ODg4ODo4ODg4@47.236.168.243:1080#Channel%20%3A%20%40Daily_Configs
-socks://eTJzdFRRbmY6d2oyc052RHU@45.201.36.125:62000#%F0%9F%87%B9%F0%9F%87%AD%40Vpn_Click
+socks://REp5MVQwZHQ6c1puRDhHVHo@144.225.47.106:42000#[12915][MX][0][SS][None][free1_vpn][2026-11-23][2026-11-25
+socks://U0RQb3J3Rkp4YW9OckxpOjFAU29vblRlYW0%3D@104.254.90.218:1080#telegram%20%40mtmvpn
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@de-fra.pvdata.host:1080#telegram%20%40mtmvpn
+socks://VUJYaWNoMEs6VnZVQUZpMkU@72.57.228.87:62000#
+socks://WDNzM0p0ZUQ6bXBiSzAwUGw@192.204.15.135:42000#[12861][TH][0][SS][None][free1_vpn][2026-11-24][2026-11-25
