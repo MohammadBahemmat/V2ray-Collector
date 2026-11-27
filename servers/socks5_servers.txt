@@ -1,6 +1,5 @@
-socks5://123456:@localhost:1080
-socks5://127.0.0.1:4443
-socks5://127.0.0.1:4445
-socks5://192.168.1.50:4445
-socks5://localhost:1080
-socks5://vnet:4445
+socks5://121.169.46.116:1090#KR%20-%20zhuhai.uk
+socks5://JPjarpW3:ao3W5ZML@168.222.8.66:42000#TH%20-%20zhuhai.uk%2002
+socks5://KUs4xRXd:480w0Yy4@221.133.22.195:62000#VN%20-%20zhuhai.uk
+socks5://userLjVB:Ks4Iab43@82.47.152.113:42000#TH%20-%20zhuhai.uk
+socks5://uwrgfkwg:0mvrt5jb@191.7.129.133:62000#BR%20-%20zhuhai.uk
