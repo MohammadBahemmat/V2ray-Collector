@@ -1,5 +1,1 @@
-socks5://121.169.46.116:1090#KR%20-%20zhuhai.uk
-socks5://JPjarpW3:ao3W5ZML@168.222.8.66:42000#TH%20-%20zhuhai.uk%2002
-socks5://KUs4xRXd:480w0Yy4@221.133.22.195:62000#VN%20-%20zhuhai.uk
-socks5://userLjVB:Ks4Iab43@82.47.152.113:42000#TH%20-%20zhuhai.uk
-socks5://uwrgfkwg:0mvrt5jb@191.7.129.133:62000#BR%20-%20zhuhai.uk
+socks5://65.21.252.66:10811
