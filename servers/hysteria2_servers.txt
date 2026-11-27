@@ -1,2 +1,4 @@
-hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443/?insecure=1&amp;obfs=salamander&amp;obfs-password=c8827ab99e316c5bd414e21afa915ddf&amp;sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%E2%8F%B11136ms%20%7C%20%E2%9A%A1577KB%2Fs%20%7C%20%40NamazVPN
-hysteria2://capadmae6e0190:moJK4Js1rEdUv1eWIqyjX1QB@51.15.16.68:8447?mport=24000-24199,37000-37199&amp;obfs=salamander&amp;obfs-password=HVD1C0uyo38mMz8B&amp;sni=vpn.local&amp;insecure=1#%F0%9F%87%B3%F0%9F%87%B1232469%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.103.144.118:8443?security=tls&amp;obfs=salamander&amp;obfs-password=JGIhnEi-CcIJOfNTqvNxX_5wRAYUZ0J2&amp;insecure=0&amp;sni=static-nl.snobvpn.online#
+hysteria2://74bec046f0004aa5bc280ecc4ab50465@216.73.157.142:443?security=tls&amp;obfs=salamander&amp;alpn=h3&amp;obfs-password=qrl-03E8Q6JaUlAkOPHXQBwN&amp;insecure=0&amp;sni=216.73.157.142#
+hysteria2://VPNJEY@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey#
+hysteria2://vpNJEy@179.61.138.145:36264?sni=de2.jey.cc.cd&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=Telegram@vpnjey#
