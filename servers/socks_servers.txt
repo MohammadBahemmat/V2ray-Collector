@@ -1,10 +1,2 @@
-socks://Og%3D%3D@89.44.112.13:1100#@v2rayng3
-socks://Og==@
-socks://Ok5vbmU=@
-socks://Snp1ZmlKNjI6NzViUG9SY0I=@
-socks://VGVrMng2YXY6REp5MVQwZHQ=@
-socks://VUJYaWNoMEs6VnZVQUZpMkU=@
-socks://WDNzM0p0ZUQ6bXBiSzAwUGw@192.204.15.135:42000#
-socks://dV9yYjFkYmEyOmwxdGxyZHg1MnY=@
-socks://dWZDb2JoeWR6NFdkOkpkRmxyWmhxSFA=@
-socks://eTJzdFRRbmY6d2oyc052RHU@45.201.36.125:62000#%F0%9F%88%B896%40ConfigV2RayNG
+socks://ODg4ODo4ODg4@47.236.168.243:1080#Channel%20%3A%20%40Daily_Configs
+socks://eTJzdFRRbmY6d2oyc052RHU@45.201.36.125:62000#%F0%9F%87%B9%F0%9F%87%AD%40FreakConfig
