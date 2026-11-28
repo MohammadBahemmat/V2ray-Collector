@@ -1,7 +1,8 @@
-socks5://8888:8888@47.236.168.243:1080#%23%EF%B8%8F%E2%83%A395@oneclickvpnkeys
-socks5://DJy1T0dt:sZnD8GTz@144.225.47.158:42000#%23%EF%B8%8F%E2%83%A396@oneclickvpnkeys
-socks5://QyVdo5ks:lcFa8dTH@94.194.165.131:62000#%F0%9F%94%B793@oneclickvpnkeys
-socks5://gebHTLF6:APJ7RmY9@202.155.99.222:62000#%F0%9F%94%B799@oneclickvpnkeys
-socks5://r3ZzP8WW:zdnivBaI@109.66.136.194:62000#%23%EF%B8%8F%E2%83%A398@oneclickvpnkeys
-socks5://user2523:Ksnervw2@87.81.70.159:42000#%23%EF%B8%8F%E2%83%A3100@oneclickvpnkeys
-socks5://userLjVB:Ks4Iab43@82.47.152.151:42000#%23%EF%B8%8F%E2%83%A399@oneclickvpnkeys
+socks5://111.119.162.248:10921
+socks5://144.168.59.44:1080
+socks5://150.228.196.110:1080
+socks5://164.152.122.199:19100
+socks5://190.225.152.38:1080
+socks5://82.19.0.114:9150
+socks5://90.168.207.33:1080
+socks5://94.183.150.152:1080

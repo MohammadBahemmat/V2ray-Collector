@@ -1,2 +1,1 @@
-socks://REp5MVQwZHQ6c1puRDhHVHo@144.225.47.106:42000#%40B2Hub
-socks://VGVrMng2YXY6REp5MVQwZHQ@144.225.47.8:42000#@meliproxyy
+socks://eTJzdFRRbmY6d2oyc052RHU@45.201.36.125:62000#%40V2ray_confiig
