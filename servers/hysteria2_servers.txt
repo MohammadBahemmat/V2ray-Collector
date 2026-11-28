@@ -1,7 +1,5 @@
-hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@171.22.183.158:42848?sni=171.22.183.158#%F0%9F%87%B3%F0%9F%87%B1232850%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443/?insecure=1&amp;sni=replay.wwwinternetvideo.click#%F0%9F%87%A9%F0%9F%87%AA232849%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443/?insecure=1&amp;sni=replay.wwwinternetvideo.click#%F0%9F%87%A9%F0%9F%87%AA232848%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insecure=1&amp;sni=pixelcast.wwwinternetvideo.click#%F0%9F%87%A9%F0%9F%87%AA232847%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://74bec046f0004aa5bc280ecc4ab50465@216.73.157.142:443?security=tls&amp;obfs=salamander&amp;obfs-password=qrl-03E8Q6JaUlAkOPHXQBwN&amp;insecure=0&amp;sni=216.73.157.142#TEHRANARGO%F0%9F%87%A9%F0%9F%87%AA%40
-hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&amp;sni=crt.ultimagamest.com#%F0%9F%87%B5%F0%9F%87%B1232846%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-hysteria2://AIbXqmbagi8c_pPQF8UkyQRgAlGbk5aT@nemazu.grandserver8.ir:8445?security=tls&amp;obfs=salamander&amp;obfs-password=5wnhum8v8a5f8m9z&amp;insecure=0&amp;sni=donige.grandserver8.ir#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
+hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@171.22.183.158:42848?sni=171.22.183.158#%40tootffarangi%F0%9F%8D%93
+hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443/?insecure=1&amp;sni=replay.wwwinternetvideo.click#%40tootffarangi%F0%9F%8D%93
+hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443/?insecure=1&amp;sni=replay.wwwinternetvideo.click#%40tootffarangi%F0%9F%8D%93
+hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insecure=1&amp;sni=pixelcast.wwwinternetvideo.click#%40tootffarangi%F0%9F%8D%93
+hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&amp;sni=crt.ultimagamest.com#%40tootffarangi%F0%9F%8D%93
