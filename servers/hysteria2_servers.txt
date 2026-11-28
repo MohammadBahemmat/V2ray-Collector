@@ -1,1 +1,1 @@
-hysteria2://AIbXqmbagi8c_pPQF8UkyQRgAlGbk5aT@nemazu.grandserver8.ir:8445?security=tls&amp;obfs=salamander&amp;obfs-password=5wnhum8v8a5f8m9z&amp;insecure=0&amp;sni=donige.grandserver8.ir#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@3.38.208.216:443?insecure=1&amp;sni=www.bing.com&amp;pinSHA256=89:61:86:FE:B2:0C:B7:40:31:87:A4:5F:F3:BD:5D:DC:8B:FB:DD:41:9D:77:9D:55:D7:86:18:9D:36:73:1A:69#
