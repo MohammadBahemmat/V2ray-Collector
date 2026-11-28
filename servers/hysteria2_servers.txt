@@ -1,1 +1,2 @@
-hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@3.38.208.216:443?insecure=1&amp;sni=www.bing.com&amp;pinSHA256=89:61:86:FE:B2:0C:B7:40:31:87:A4:5F:F3:BD:5D:DC:8B:FB:DD:41:9D:77:9D:55:D7:86:18:9D:36:73:1A:69#
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;security=tls&amp;insecure=0&amp;sni=mother-earth.fyi#@GozargahAzad|
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?security=tls&amp;insecure=0&amp;sni=mother-earth.fyi#%40nekopingbot_43440%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%9A%A1%EF%B8%8F
