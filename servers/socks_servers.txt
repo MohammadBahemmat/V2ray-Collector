@@ -1,2 +1,2 @@
-socks://Og@157.90.113.23:9052#
-socks://WDNzM0p0ZUQ6bXBiSzAwUGw@192.204.15.135:42000#
+socks://127.0.0.1:18892
+socks://eTJzdFRRbmY6d2oyc052RHU@45.201.36.125:62000#
