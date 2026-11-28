@@ -1,5 +1,2 @@
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?security=tls&amp;sni=lakes.blog-forme.ru#%F0%9F%87%AC%F0%9F%87%A7%20%40freedom_iran_npv%20%282%29
-hysteria2://6ac6d17d-040c-4fab-940e-8f5d72c3fed6@135.126.21.107:443?insecure=1&amp;sni=de2-balance.rezproffx.ru#
-hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.212.90.94:443?insecure=1&amp;sni=www.bing.com&amp;pinSHA256=C1:FD:40:94:1F:91:9B:5C:78:96:24:40:97:F2:2D:9D:95:8E:62:5C:D9:58:B7:5F:34:CC:FA:42:18:1F:50:B2#
-hysteria2://8JyKbwVKjhMSF8b1WjuIpImoXKUCfn6@23.94.78.254:443?insecure=1&amp;sni=dl2.yuanshicheng.com#
-hysteria2://dongtaiwang.com@#%F0%9F%8C%8D232981%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://74bec046f0004aa5bc280ecc4ab50465@216.73.157.142:443?security=tls&amp;obfs=salamander&amp;obfs-password=qrl-03E8Q6JaUlAkOPHXQBwN&amp;insecure=0&amp;sni=216.73.157.142#TEHRANARGO%F0%9F%87%A9%F0%9F%87%AA%40
+hysteria2://AIbXqmbagi8c_pPQF8UkyQRgAlGbk5aT@nemazu.grandserver8.ir:8445?security=tls&amp;obfs=salamander&amp;obfs-password=5wnhum8v8a5f8m9z&amp;insecure=0&amp;sni=donige.grandserver8.ir#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
