@@ -1,2 +1,1 @@
-hysteria2://AIbXqmbagi8c_pPQF8UkyQRgAlGbk5aT@nemazu.grandserver8.ir:8445?security=tls&amp;obfs=salamander&amp;obfs-password=5wnhum8v8a5f8m9z&amp;insecure=0&amp;sni=donige.grandserver8.ir#
-hysteria2://NL2026hy@147.45.149.88:8443?security=tls&amp;obfs=salamander&amp;obfs-password=SalamanderNL2026&amp;insecure=0&amp;sni=nl.nobelchat.ru#%40tootffarangi%F0%9F%8D%93
+hysteria2://AIbXqmbagi8c_pPQF8UkyQRgAlGbk5aT@nemazu.grandserver8.ir:8445?security=tls&amp;obfs=salamander&amp;obfs-password=5wnhum8v8a5f8m9z&amp;insecure=0&amp;sni=donige.grandserver8.ir#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
