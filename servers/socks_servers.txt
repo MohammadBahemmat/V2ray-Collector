@@ -1,3 +1,8 @@
-socks://WDNzM0p0ZUQ6bXBiSzAwUGw@192.204.15.135:42000#%40FarazV2ray
-socks://cm91dGUxNjRKSWEyQ0JQeGZ5OlZBd3lKUVgwaUtNSml5Q3c1VVZLOXdHSA@103.14.164.30:42000#%40FarazV2ray%20
-socks://eTJzdFRRbmY6d2oyc052RHU@45.201.36.125:62000#%40FarazV2ray%20
+socks://Og==@
+socks://Og@157.90.113.23:9052#%40vpnbaz%20%E2%AD%90
+socks://Snp1ZmlKNjI6NzViUG9SY0I=@
+socks://VGVrMng2YXY6REp5MVQwZHQ@144.225.47.8:42000#Telegram%20%40mtmvpn%20
+socks://VUJYaWNoMEs6VnZVQUZpMkU=@
+socks://dTdmZWllajA6aXExODg0d3o@91.109.47.96:42000#%40@bored_vpn
+socks://dV9yYjFkYmEyOmwxdGxyZHg1MnY=@
+socks://dWZDb2JoeWR6NFdkOkpkRmxyWmhxSFA=@
